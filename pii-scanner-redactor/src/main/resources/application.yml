@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: pii-scanner-redactor
+  threads:
+    virtual:
+      enabled: true
