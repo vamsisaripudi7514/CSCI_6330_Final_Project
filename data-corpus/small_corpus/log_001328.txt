@@ -1,0 +1,26 @@
+REDIS_URL=false
+FEATURE_X_ENABLED=2163
+LOG_LEVEL=3682
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"cache miss","user":"fschmidt","trace":"Wor7qxjKuJc7"}
+113.222.48.53 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 201 353314 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1)"
+sshd[2953]: Session closed for brenda94 from 10.193.247.233 port 34303 ssh2
+DB_HOST=4838
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"luisromero","trace":"3MrKwWb33Vv4"}
+158.195.183.233 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 204 380147 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/41.0.802.0 Mobile/44N423 Safari/535.2"
+165.56.210.63 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 401 270122 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.0)"
+REDIS_URL=INFO
+86.25.174.215 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 404 141040 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.1)"
+sshd[1705]: Accepted password for salinasmisty from 172.24.239.185 port 29983 ssh2
+96.96.68.25 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 200 488478 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.45.3 (KHTML, like Gecko) Version/4.0 Safari/531.45.3"
+API_TIMEOUT=email-35.snyder.com
+sshd[9364]: Session closed for herringbrian from 10.108.60.97 port 52813 ssh2
+140.173.175.133 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 204 361035 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/5.0)"
+90.160.114.134 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 401 466659 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"db slow query","user":"courtneyfreeman","trace":"HM0bn0jK5OeB"} password=gZ8~*TC5yoZ
+FEATURE_X_ENABLED=1646
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"cache miss","user":"michaelgonzalez","trace":"B8yIwQyO3EDe"}
+133.170.89.88 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 400 427311 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; kl-GL; rv:1.9.2.20) Gecko/5531-09-29 01:06:57.785843 Firefox/4.0"
+85.39.163.231 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 201 415711 "-" "Opera/9.85.(X11; Linux i686; sa-IN) Presto/2.9.186 Version/12.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"moorejeffrey","trace":"or6TYJz8b3HE"}
+100.7.222.161 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 401 40618 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/31.0.828.0 Mobile/70V622 Safari/536.1"
+FEATURE_X_ENABLED=redis://localhost:6379

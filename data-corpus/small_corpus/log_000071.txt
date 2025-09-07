@@ -1,0 +1,25 @@
+DB_PORT=srv-15.holden.com
+sshd[4157]: Session opened for kimberly65 from 172.20.201.94 port 28813 ssh2
+REDIS_URL=web-59.perry-dunn.com
+205.56.219.146 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 502 227059 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/18.9i0065.0 Mobile/90P223 Safari/535.2"
+DB_HOST=10748
+sshd[3234]: Accepted password for troy08 from 192.168.33.45 port 61038 ssh2
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"nserrano","trace":"OR1E9aJ8BZf7"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"token refreshed","user":"andrea76","trace":"xJtmqSuzyofe"}
+sshd[4353]: Accepted password for jenningsraymond from 10.79.164.218 port 29439 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"johnross","trace":"Vic2pmtDslqA"}
+71.84.60.38 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 302 347880 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.41.7 (KHTML, like Gecko) Version/4.0 Safari/531.41.7"
+FEATURE_X_ENABLED=true
+sshd[5597]: Failed password for joshuamccarthy from 192.168.118.65 port 34997 ssh2
+155.242.56.31 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 201 339150 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0)"
+API_TIMEOUT=redis://localhost:6379
+46.107.23.210 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 401 30770 "-" "Mozilla/5.0 (Windows NT 6.1; ca-IT; rv:1.9.2.20) Gecko/5543-08-26 19:02:06.691071 Firefox/3.8"
+sshd[3676]: Accepted password for goodwinsharon from 172.17.165.30 port 20615 ssh2
+sshd[7403]: Session closed for richardmooney from 192.168.25.51 port 32173 ssh2
+sshd[4259]: Failed password for manningbrandi from 10.201.126.151 port 23175 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"cjohns","trace":"bivzKgnn4aob"}
+sshd[8675]: Session closed for jessebeltran from 192.168.27.92 port 38899 ssh2
+164.69.171.220 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 401 489191 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.1)"
+API_TIMEOUT=10329
+166.197.170.162 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 401 110547 "-" "Opera/8.88.(X11; Linux x86_64; apn-IN) Presto/2.9.173 Version/10.00"

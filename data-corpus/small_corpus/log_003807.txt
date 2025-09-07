@@ -1,0 +1,25 @@
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"oortiz","trace":"GVQ1MRS6Jxqt"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"request completed","user":"ssullivan","trace":"cKle8ySTTONz"}
+sshd[6648]: Session opened for william00 from 172.17.128.31 port 16417 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"christopher01","trace":"0y8RfJRkNr8d"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"jillianpreston","trace":"IacrGeaVwP1f"}
+DB_PORT=redis://localhost:6379 password=hJ1)PLhjm.
+FEATURE_X_ENABLED=61197
+201.73.178.117 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 400 384510 "-" "Mozilla/5.0 (Windows NT 5.1; sid-ET; rv:1.9.0.20) Gecko/2666-01-15 18:27:16.544796 Firefox/3.6.2"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"request completed","user":"blankenshipsara","trace":"QaSAOnuN09e2"}
+73.94.182.158 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 403 237427 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8 rv:5.0; ka-GE) AppleWebKit/532.10.3 (KHTML, like Gecko) Version/5.0 Safari/532.10.3"
+sshd[5793]: Failed password for maddendaniel from 10.234.255.132 port 24447 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJPeGxRTENqQ2pVIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.SNyQsFTl6n6kn0eWXqP-fRVjiA-48moYGFz1O8lJOhY'
+FEATURE_X_ENABLED=725
+215.21.61.131 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 201 69030 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/7971-05-12 13:57:22.216583 Firefox/3.8"
+121.8.3.118 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 500 214426 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/16.4t9076.0 Mobile/58A970 Safari/533.0"
+213.245.60.168 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 302 242883 "-" "Opera/9.21.(Windows NT 4.0; gd-GB) Presto/2.9.174 Version/11.00"
+FEATURE_X_ENABLED=132
+210.209.26.196 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 404 422505 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1 rv:6.0; cmn-TW) AppleWebKit/534.50.1 (KHTML, like Gecko) Version/4.1 Safari/534.50.1"
+169.150.5.251 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 400 456575 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.1)"
+sshd[5378]: Failed password for eric40 from 192.168.140.177 port 11397 ssh2
+153.20.66.5 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 200 411080 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; lt-LT) AppleWebKit/533.33.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6533.33.4"
+33.91.23.63 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 403 511837 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/3.0)"
+39.182.4.113 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 401 136534 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/51.0.832.0 Mobile/78K189 Safari/533.2"
+117.175.136.135 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 502 457578 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/5.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJPMU0xd043UXVpIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.sk3QhiTK7pYsA7wSsHA4s3PwL2Zm5vMga0HtZLabn7w'
+DB_PORT=lt-70.castaneda.com

@@ -1,0 +1,48 @@
+sshd[1273]: Accepted password for joan30 from 10.185.54.206 port 21789 ssh2
+API_TIMEOUT=WARN
+101.226.78.21 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 404 440635 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_4 rv:6.0; uk-UA) AppleWebKit/532.27.3 (KHTML, like Gecko) Version/4.1 Safari/532.27.3"
+138.122.70.226 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 403 34616 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/3.0)"
+201.217.160.203 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 400 137274 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3 rv:2.0; nan-TW) AppleWebKit/534.6.2 (KHTML, like Gecko) Version/4.0 Safari/534.6.2"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"user session created","user":"fosterjoshua","trace":"uwWljmW8YTRw"}
+sshd[7958]: Session opened for edwinwest from 192.168.214.66 port 10786 ssh2
+sshd[1855]: Session closed for hgonzales from 172.16.87.90 port 35199 ssh2
+32.154.245.208 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 200 235271 "-" "Mozilla/5.0 (Linux; Android 7.1.2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/52.0.845.0 Safari/536.0"
+203.162.250.212 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 403 247297 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1 rv:2.0; mn-MN) AppleWebKit/532.19.1 (KHTML, like Gecko) Version/4.0.2 Safari/532.19.1"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"user session created","user":"bryce13","trace":"nH9JOQT21wn5"} API_KEY=AIza2X9bZxEyZJ5WO-YF_CWXRiiz9fsb6gtP3YGaJg
+sshd[4977]: Session closed for lschneider from 192.168.185.201 port 26604 ssh2
+35.82.188.182 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 400 277212 "-" "Opera/8.92.(Windows NT 10.0; ml-IN) Presto/2.9.180 Version/10.00"
+sshd[8386]: Session opened for njames from 172.24.61.139 port 22600 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"user session created","user":"wleonard","trace":"OnBaFgiB8Xwl"}
+154.120.123.66 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 404 236185 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5; rv:1.9.6.20) Gecko/5206-03-03 17:16:11.160019 Firefox/3.8"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"cache miss","user":"chelseajacobson","trace":"ZRVhAdMyIdc7"}
+sshd[3351]: Accepted password for rayjacqueline from 10.118.182.161 port 18122 ssh2
+12.117.113.46 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 403 374431 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_1 rv:4.0; ar-KW) AppleWebKit/535.39.2 (KHTML, like Gecko) Version/4.1 Safari/535.39.2"
+203.156.149.97 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 404 210614 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_7 rv:2.0; an-ES) AppleWebKit/535.43.2 (KHTML, like Gecko) Version/4.0.2 Safari/535.43.2"
+sshd[7296]: Accepted password for howardbrandon from 10.176.135.21 port 18222 ssh2
+56.131.138.184 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 201 144357 "-" "Opera/9.95.(Windows NT 5.01; wae-CH) Presto/2.9.167 Version/10.00"
+178.52.161.54 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 401 406746 "-" "Opera/9.74.(X11; Linux i686; he-IL) Presto/2.9.165 Version/11.00"
+153.251.51.3 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 204 435487 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/10.6j3315.0 Mobile/09O866 Safari/532.2"
+sshd[6704]: Failed password for aadams from 10.158.78.77 port 49366 ssh2
+130.96.90.254 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 403 141277 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0)"
+145.195.169.108 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 403 300276 "-" "Opera/8.96.(X11; Linux i686; km-KH) Presto/2.9.177 Version/12.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"db slow query","user":"pgriffin","trace":"IZbyG8brMSb8"}
+64.96.142.230 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 401 60361 "-" "Opera/9.41.(X11; Linux x86_64; pl-PL) Presto/2.9.186 Version/12.00"
+API_TIMEOUT=1618
+42.204.121.127 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 200 199142 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_0 rv:4.0; et-EE) AppleWebKit/533.10.6 (KHTML, like Gecko) Version/5.1 Safari/533.10.6"
+REDIS_URL=redis://localhost:6379
+147.33.28.81 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 201 271419 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_0; rv:1.9.6.20) Gecko/7198-06-12 23:38:13.120422 Firefox/3.6.12"
+sshd[4412]: Session closed for utaylor from 172.19.229.234 port 54672 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"token refreshed","user":"joseph04","trace":"W86oThZwGkft"}
+DB_PORT=3750
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"cache miss","user":"amorgan","trace":"zWAAdCfvyvOP"}
+sshd[5572]: Session opened for susan19 from 192.168.218.108 port 57784 ssh2
+5.186.204.97 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 201 72426 "-" "Opera/9.65.(Windows 95; sk-SK) Presto/2.9.182 Version/10.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"caseyallen","trace":"i1NHlBPvPFJQ"}
+109.160.170.157 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 302 219684 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.8.7 (KHTML, like Gecko) Version/4.0 Safari/534.8.7"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"user session created","user":"patricia07","trace":"OklxYCtVzQ3w"}
+API_TIMEOUT=true
+DB_PORT=true
+FEATURE_X_ENABLED=db-24.mccoy.com
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"request completed","user":"billy83","trace":"UsQUMfC7PrlC"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJPMU0xd043UXVpIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.sk3QhiTK7pYsA7wSsHA4s3PwL2Zm5vMga0HtZLabn7w'
+LOG_LEVEL=laptop-04.taylor-hoffman.com

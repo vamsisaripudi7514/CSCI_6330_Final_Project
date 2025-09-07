@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"token refreshed","user":"uhubbard","trace":"8jlkuQ0DUDyJ"}
+sshd[2193]: Session opened for daniel80 from 10.133.205.111 port 62701 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"token refreshed","user":"mbarnett","trace":"lWdX61ufpf14"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"wmurray","trace":"LWh0HpY03yS8"}
+REDIS_URL=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtdURSVERSWGluIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.8aZI_WR2JKrLuetuAzTfMj-JwPznnmy7xDaX1TuxEJI'
+170.218.122.72 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 502 450062 "-" "Mozilla/5.0 (Android 3.2.1; Mobile; rv:11.0) Gecko/11.0 Firefox/11.0"
+20.234.63.23 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 403 156735 "-" "Opera/9.81.(Windows NT 5.01; bhb-IN) Presto/2.9.190 Version/10.00"
+FEATURE_X_ENABLED=true
+164.96.94.111 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 403 320351 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_1 rv:5.0; ga-IE) AppleWebKit/531.48.6 (KHTML, like Gecko) Version/4.0 Safari/531.48.6"
+LOG_LEVEL=1420 password=jU9)+0IDr=6
+63.28.66.161 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 500 88453 "-" "Opera/9.85.(Windows 98; br-FR) Presto/2.9.172 Version/10.00"
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"grantcharles","trace":"3HoyUksuPLZU"}
+sshd[9478]: Session closed for ryan14 from 10.155.228.171 port 64289 ssh2
+153.237.221.133 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 500 162807 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.0)"
+DB_PORT=false
+sshd[2808]: Session opened for ulong from 192.168.112.103 port 28481 ssh2
+sshd[6213]: Failed password for josephmoon from 172.27.85.152 port 32044 ssh2
+API_TIMEOUT=redis://localhost:6379 API_KEY=AIzacdATWFqFhIj322-Xw_0ctd10TKz7wWeZeQpgGA
+DB_HOST=3622
+DB_PORT=INFO
+sshd[2555]: Accepted password for coreyreed from 10.216.245.8 port 36152 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[4305]: Session opened for romanmichael from 172.28.177.165 port 50488 ssh2
+150.139.99.47 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 302 305902 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; lo-LA) AppleWebKit/533.23.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6533.23.6"
+sshd[4818]: Accepted password for thomas93 from 172.22.215.36 port 13137 ssh2

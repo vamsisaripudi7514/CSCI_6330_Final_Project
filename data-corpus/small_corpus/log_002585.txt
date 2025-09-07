@@ -1,0 +1,44 @@
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"db slow query","user":"grahamnancy","trace":"m2HkcY97aUzZ"}
+28.240.17.60 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 404 265751 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.0)"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"request completed","user":"ericmartinez","trace":"2mfskS0EENYX"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzeERWS3F4bDlVIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.-DNiOsYDUfbJsl06qgxo7xI74HpceeA6zy__GaZ2eFs'
+sshd[5371]: Failed password for robert79 from 192.168.9.255 port 64050 ssh2
+sshd[8364]: Session closed for vfoster from 192.168.71.67 port 36844 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"db slow query","user":"iberry","trace":"wLkKQfaeQvwh"}
+LOG_LEVEL=2148
+REDIS_URL=INFO
+148.195.20.143 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 500 457443 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_7 rv:5.0; tg-TJ) AppleWebKit/535.33.3 (KHTML, like Gecko) Version/5.1 Safari/535.33.3"
+47.142.71.45 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 401 352702 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/17.0g5633.0 Mobile/52F029 Safari/532.0"
+DB_PORT=email-60.hughes.org
+API_TIMEOUT=true API_KEY=AIzaZ2KuP488-zWcBOBPHMyroEYF6AOAOdwIYObPjg
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"falexander","trace":"6cjE9h7QeLVX"}
+API_TIMEOUT=false
+sshd[4280]: Session closed for renee90 from 192.168.3.3 port 43688 ssh2 password=cB1~)W62)=,
+110.253.4.163 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 200 256283 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/22.0.858.0 Mobile/69B214 Safari/534.1"
+sshd[8983]: Failed password for huntergillespie from 10.6.18.157 port 39024 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"kaitlinglover","trace":"siGjQtgzAJtO"}
+175.194.95.11 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 400 140015 "-" "Mozilla/5.0 (iPad; CPU iPad OS 12_4_4 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/10.8b7792.0 Mobile/68Q874 Safari/532.0"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"cache miss","user":"moorejeffrey","trace":"XEQGUyE0uHzX"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"db slow query","user":"tcarter","trace":"TypxC4OBCqul"}
+47.80.172.159 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 201 485989 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; fi-FI) AppleWebKit/535.18.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.18.1"
+LOG_LEVEL=7414
+DB_PORT=WARN
+sshd[1684]: Failed password for tammybarnes from 10.137.76.234 port 20610 ssh2
+sshd[1594]: Session closed for mcdonaldjulie from 172.23.59.74 port 25203 ssh2
+45.48.155.36 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 404 457395 "-" "Mozilla/5.0 (Android 7.0; Mobile; rv:57.0) Gecko/57.0 Firefox/57.0"
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"retrying upstream","user":"eringriffith","trace":"87ZzDVlGoyVO"}
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"richardlevine","trace":"qcuItga95dXN"}
+sshd[5092]: Session closed for caitlinbrooks from 192.168.53.241 port 49874 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"cache miss","user":"brad53","trace":"xlPPkodpLwzB"}
+sshd[8746]: Failed password for perezthomas from 192.168.29.74 port 36192 ssh2
+DB_PORT=1033
+22.38.45.148 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 204 87713 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; tg-TJ) AppleWebKit/534.2.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6534.2.2"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"cache miss","user":"bjones","trace":"K9tK75HznRij"}
+195.198.58.140 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 400 512754 "-" "Opera/9.36.(Windows NT 6.2; ms-MY) Presto/2.9.185 Version/11.00"
+LOG_LEVEL=redis://localhost:6379
+LOG_LEVEL=true
+API_TIMEOUT=56943
+sshd[7973]: Session opened for bnguyen from 192.168.96.100 port 55530 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"request completed","user":"victoriajones","trace":"JiIMnq3iF93j"}

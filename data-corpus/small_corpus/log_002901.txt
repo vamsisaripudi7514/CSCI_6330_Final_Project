@@ -1,0 +1,36 @@
+63.208.142.191 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 502 68087 "-" "Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/60.0.886.0 Safari/534.1"
+80.242.156.13 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 403 391828 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_1) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/49.0.800.0 Safari/532.0"
+126.178.110.14 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 302 162715 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.0)"
+168.8.110.115 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 400 511147 "-" "Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/30.0.821.0 Safari/531.1"
+FEATURE_X_ENABLED=32620
+sshd[1016]: Failed password for baileyjames from 172.21.24.238 port 37813 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"db slow query","user":"sandra32","trace":"3rDJ1WIgcWVH"}
+LOG_LEVEL=DEBUG
+DB_PORT=DEBUG
+REDIS_URL=3904
+LOG_LEVEL=WARN
+sshd[9918]: Session closed for caroldiaz from 192.168.17.130 port 57466 ssh2
+27.97.251.195 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 200 366226 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/38.0.847.0 Safari/535.0"
+117.113.83.219 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 401 106062 "-" "Opera/9.11.(X11; Linux x86_64; or-IN) Presto/2.9.168 Version/12.00"
+222.34.73.40 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 302 295651 "-" "Opera/8.82.(Windows 98; Win 9x 4.90; gu-IN) Presto/2.9.172 Version/12.00"
+API_TIMEOUT=redis://localhost:6379
+DB_HOST=email-29.morris.net
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"williamsnicole","trace":"Fso4Il99j5mV"}
+API_TIMEOUT=false
+53.46.79.173 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 200 192673 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/5626-04-12 01:37:42.617874 Firefox/7.0"
+FEATURE_X_ENABLED=false
+sshd[4011]: Session closed for vyoung from 192.168.158.9 port 52223 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"request completed","user":"wlam","trace":"3KTAoGQKx6HS"}
+sshd[1243]: Accepted password for swong from 10.152.239.106 port 30432 ssh2
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"token refreshed","user":"jonathan88","trace":"ddy4qpbb9VGP"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"db slow query","user":"bestwhitney","trace":"wvyuaQ2gHSEG"}
+FEATURE_X_ENABLED=false
+DB_HOST=web-95.herrera.net
+FEATURE_X_ENABLED=laptop-88.johnson-ferguson.com
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"request completed","user":"amyjohnson","trace":"nG7fYtddh6d4"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"denisecaldwell","trace":"mM2iydtWL2iX"}
+DB_HOST=true
+201.163.93.255 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 400 270154 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)"
+REDIS_URL=email-54.harvey.biz
+API_TIMEOUT=2359

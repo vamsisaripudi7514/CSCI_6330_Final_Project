@@ -1,0 +1,28 @@
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"amykelly","trace":"QLfpQqFg93to"}
+140.18.130.143 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 500 38383 "-" "Mozilla/5.0 (Linux; Android 2.3.3) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/57.0.809.0 Safari/532.0"
+sshd[9362]: Accepted password for ghernandez from 172.21.164.118 port 39643 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"qmoore","trace":"DBnZYLKrTZ9c"}
+44.160.164.111 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 201 47077 "-" "Mozilla/5.0 (Android 3.2; Mobile; rv:37.0) Gecko/37.0 Firefox/37.0"
+83.181.206.28 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 500 165481 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.0)"
+sshd[6142]: Accepted password for mramsey from 10.42.162.149 port 15763 ssh2
+DB_PORT=true API_KEY=AIzaJNbypvwa6NtTBhfgD5iWz8tolWukb6GkMsfWrg
+DB_HOST=true
+sshd[6339]: Failed password for catherinehaas from 172.28.152.158 port 53990 ssh2
+sshd[4275]: Failed password for humphreylisa from 172.30.59.86 port 56415 ssh2
+LOG_LEVEL=redis://localhost:6379
+140.24.46.30 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 500 142478 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2; rv:1.9.4.20) Gecko/9627-02-03 05:29:18.360474 Firefox/4.0"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"user session created","user":"xgarcia","trace":"YOOG8wAGEUtG"}
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"token refreshed","user":"jbrown","trace":"QnT7zl6doHyF"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"user session created","user":"pattersondaniel","trace":"xuHIfmLxZna3"}
+80.89.38.199 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 201 141195 "-" "Opera/9.20.(X11; Linux x86_64; nan-TW) Presto/2.9.168 Version/12.00"
+210.29.14.14 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 204 503787 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.1)"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"cache miss","user":"sheila70","trace":"KkWc9ausdfRA"}
+REDIS_URL=356
+DB_PORT=2990
+LOG_LEVEL=false
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"db slow query","user":"ejohnson","trace":"yDlhURtNkFFd"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"token refreshed","user":"fyoung","trace":"zhdT7fn8oKxf"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"michaelmorton","trace":"kDhTcMdH7lp6"}
+sshd[2757]: Session opened for tbauer from 10.180.2.240 port 14432 ssh2
+DB_PORT=false

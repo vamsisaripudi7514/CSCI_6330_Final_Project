@@ -1,0 +1,26 @@
+112.229.195.72 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 201 286477 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; cy-GB) AppleWebKit/532.21.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6532.21.5"
+FEATURE_X_ENABLED=false
+sshd[9169]: Accepted password for naguilar from 192.168.118.10 port 17902 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"token refreshed","user":"vcollins","trace":"yWawWaGXdaqS"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"user session created","user":"melindarose","trace":"UPBEQa1uN4TQ"}
+API_TIMEOUT=DEBUG
+74.79.236.47 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 502 387316 "-" "Opera/8.40.(X11; Linux x86_64; tn-ZA) Presto/2.9.190 Version/11.00"
+API_TIMEOUT=redis://localhost:6379
+API_TIMEOUT=15857
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"retrying upstream","user":"cmora","trace":"k8Kx8RV471xQ"}
+LOG_LEVEL=WARN
+172.51.23.159 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 404 130517 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ms-MY) AppleWebKit/535.16.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.16.6"
+183.131.111.1 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 400 463040 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+sshd[3574]: Session closed for jamesoconnell from 172.22.36.212 port 18796 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"marissarodriguez","trace":"4D0x3c0V9aI9"}
+sshd[9666]: Session opened for tshort from 172.17.122.174 port 55143 ssh2
+FEATURE_X_ENABLED=DEBUG
+sshd[5289]: Session closed for anthonymendez from 172.16.251.21 port 53374 ssh2
+sshd[5476]: Session closed for ashleynguyen from 192.168.89.62 port 53433 ssh2 API_KEY=AIzaUinNk6PEogGobV8qkE841vNGVMLg21ccLfUciQ
+DB_HOST=30398
+LOG_LEVEL=DEBUG
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"cache miss","user":"zbryant","trace":"C4ZptbMy4chB"}
+161.198.153.172 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 204 510688 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/4.1)"
+sshd[4799]: Failed password for leroyadams from 172.25.5.30 port 34068 ssh2
+72.3.143.136 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 502 251823 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_9 rv:5.0; lo-LA) AppleWebKit/532.49.5 (KHTML, like Gecko) Version/5.0 Safari/532.49.5" password=aC9#FDU9,

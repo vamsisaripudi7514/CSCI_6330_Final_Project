@@ -1,0 +1,25 @@
+160.196.129.15 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 500 370681 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/4.0)"
+API_TIMEOUT=1942
+222.112.101.243 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 302 67497 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ar-LB) AppleWebKit/534.29.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6534.29.7"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"request completed","user":"amberknight","trace":"zV3y7ME0KaVB"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"howarddavid","trace":"u7w4sXuLEjcH"}
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"db slow query","user":"ckane","trace":"1hWW3COW9soz"}
+DB_HOST=redis://localhost:6379
+DB_PORT=lt-50.brown.com
+sshd[8903]: Session opened for gregory89 from 10.205.63.53 port 11228 ssh2
+REDIS_URL=2818
+REDIS_URL=WARN API_KEY=AIzaLFIm6RFCVTVZUuqJVjHFDvtkYP32OBYyeWBcOA
+36.3.160.60 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 302 3970 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/10.4v2118.0 Mobile/83V343 Safari/535.0"
+sshd[4656]: Session opened for tmosley from 10.212.146.53 port 17767 ssh2
+28.72.196.41 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 200 374013 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"patriciasimmons","trace":"qTIpurcjRT2f"}
+68.228.167.184 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 200 96338 "-" "Opera/8.63.(Windows 95; uz-UZ) Presto/2.9.166 Version/11.00"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"request completed","user":"brandontaylor","trace":"0jUg7r2Mz8hU"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"user session created","user":"websterjuan","trace":"xNINR89OjGHb"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"request completed","user":"wstokes","trace":"Q2QcrixOHm6m"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"token refreshed","user":"allisonwarren","trace":"pefLPxDuy4zl"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"db slow query","user":"melissa47","trace":"GEjrhKQtAmgU"}
+34.170.16.179 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 204 113750 "-" "Mozilla/5.0 (Windows NT 5.2; bo-IN; rv:1.9.0.20) Gecko/8493-03-29 06:49:12.541901 Firefox/6.0"
+17.211.250.44 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 403 277473 "-" "Opera/8.54.(X11; Linux x86_64; csb-PL) Presto/2.9.164 Version/12.00"

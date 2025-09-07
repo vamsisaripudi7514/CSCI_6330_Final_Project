@@ -1,0 +1,28 @@
+sshd[8699]: Failed password for timothymacdonald from 10.56.40.9 port 34424 ssh2
+DB_PORT=4264
+55.107.73.184 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 403 78802 "-" "Opera/9.37.(Windows NT 6.1; ja-JP) Presto/2.9.186 Version/12.00"
+sshd[2997]: Session closed for abeck from 172.29.36.210 port 31477 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"db slow query","user":"qsandoval","trace":"66naRhMELHyL"}
+DB_PORT=189 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHZTYzcmNQVDhSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.jiexpvIylqh5fkyOmtAx2uQBIReXb_XQrtyyt55D2UA'
+sshd[5277]: Accepted password for cynthiagraham from 10.126.190.66 port 28686 ssh2
+216.116.141.200 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 200 376155 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"gdiaz","trace":"QfyEN1BP46F3"}
+LOG_LEVEL=redis://localhost:6379
+DB_HOST=35227
+sshd[4703]: Accepted password for jeffersonhaley from 172.30.33.33 port 51700 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"token refreshed","user":"robert47","trace":"FJmWgp5BIZdF"}
+sshd[2859]: Session closed for xvargas from 172.23.113.12 port 61552 ssh2
+sshd[9962]: Session closed for gregorybullock from 172.29.194.89 port 21447 ssh2
+sshd[8356]: Accepted password for jose63 from 10.151.154.205 port 25811 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"request completed","user":"joshuafowler","trace":"xJ0bb6eTH3V6"}
+108.170.240.176 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 201 34081 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/7865-11-24 04:10:11.300903 Firefox/3.6.6"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"db slow query","user":"ggill","trace":"k0DzXnDxCIl3"}
+90.1.55.38 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 401 345551 "-" "Mozilla/5.0 (Android 2.3.2; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"csutton","trace":"1oTHEGeGEAko"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"request completed","user":"igalloway","trace":"TtMeZYlf1n0P"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"request completed","user":"danielledavies","trace":"RW4J5QZKuNEq"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"db slow query","user":"jessica98","trace":"B4mWKzUFOt0J"}
+sshd[3027]: Session closed for jamesdominguez from 10.49.218.51 port 23003 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"db slow query","user":"stephaniereeves","trace":"MwzMzMqa7ZAb"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"jenniferrodriguez","trace":"UNEJ1WlBkfdO"}
+API_TIMEOUT=4148

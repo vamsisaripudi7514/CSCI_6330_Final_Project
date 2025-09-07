@@ -1,0 +1,47 @@
+sshd[8629]: Session opened for victoria37 from 172.24.232.4 port 26448 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlaDRzRnlYOUpNIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.DuaPj6cBdmWDhrX1C9bPKSJBavBimAFIo4-PymyBJQU'
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"request completed","user":"masonjennifer","trace":"FeOUQxsyzPEY"}
+REDIS_URL=redis://localhost:6379
+sshd[2911]: Failed password for tmays from 192.168.144.56 port 21155 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyUVBEWVRtN252IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.WfepRbqdGlTW_2dPOPyvHXRQ_Vua4srBZTjPai3rrxI'
+206.102.157.146 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 401 33621 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/18.1b8406.0 Mobile/37A023 Safari/534.2"
+sshd[7112]: Session opened for logan74 from 10.67.44.230 port 49602 ssh2
+sshd[2992]: Session opened for wellssamuel from 172.27.94.151 port 32213 ssh2
+API_TIMEOUT=51075
+sshd[1946]: Accepted password for angela93 from 10.219.186.114 port 34781 ssh2
+sshd[1102]: Accepted password for elizabethbrown from 192.168.213.5 port 13359 ssh2
+48.79.43.148 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 500 52402 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_7 rv:6.0; he-IL) AppleWebKit/532.17.6 (KHTML, like Gecko) Version/4.0.2 Safari/532.17.6"
+219.228.104.119 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 401 262567 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.0)"
+LOG_LEVEL=false
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"db slow query","user":"edwinperry","trace":"BBVm0z1Wz5En"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"user session created","user":"ssanders","trace":"xeGFFIEygqIW"}
+163.222.83.155 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 201 74316 "-" "Opera/9.10.(Windows 95; gez-ER) Presto/2.9.174 Version/11.00"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"request completed","user":"oliviabentley","trace":"5PvTIdFwtgOC"}
+sshd[4440]: Session opened for donna38 from 10.59.28.189 port 18453 ssh2
+sshd[8560]: Failed password for tanyamartinez from 172.27.154.73 port 30800 ssh2
+REDIS_URL=false
+156.148.36.10 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 502 163991 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_9; rv:1.9.6.20) Gecko/7987-06-06 06:24:30.758759 Firefox/3.8"
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"acohen","trace":"GTdQLWZaPSoy"}
+sshd[4706]: Failed password for tthompson from 192.168.228.62 port 15496 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"steven59","trace":"Bg9EdIqeJwQ5"}
+LOG_LEVEL=16945
+104.175.113.254 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 500 267867 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"request completed","user":"lisavillegas","trace":"ZahSLNwpQVLl"}
+REDIS_URL=41371
+40.23.168.215 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 400 322248 "-" "Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/18.3w9217.0 Mobile/20R045 Safari/535.2"
+API_TIMEOUT=36196
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"cache miss","user":"toddgomez","trace":"BFtNYdFROfXB"}
+sshd[6983]: Accepted password for randalllopez from 10.66.213.0 port 27524 ssh2
+sshd[5715]: Session closed for danasmith from 10.83.206.169 port 57696 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"db slow query","user":"oaguirre","trace":"tJOkxG3BjxZt"}
+DB_PORT=email-73.kennedy-mccormick.com
+LOG_LEVEL=web-56.hendrix.com
+sshd[4064]: Failed password for michael76 from 10.205.152.91 port 14916 ssh2
+sshd[3985]: Session opened for mmills from 172.28.219.122 port 12078 ssh2
+177.195.237.218 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 403 428381 "-" "Opera/8.56.(X11; Linux i686; mt-MT) Presto/2.9.171 Version/11.00"
+DB_HOST=949
+sshd[3593]: Failed password for walterslaurie from 10.48.150.14 port 30686 ssh2
+LOG_LEVEL=true
+81.141.214.226 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 404 57403 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/21.0.853.0 Safari/531.2"
+18.23.172.227 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 401 147216 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.1)"
+215.128.65.158 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 500 170122 "-" "Mozilla/5.0 (Windows NT 10.0; ve-ZA; rv:1.9.1.20) Gecko/7269-10-18 05:47:48.498505 Firefox/3.6.12"

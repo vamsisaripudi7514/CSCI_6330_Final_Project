@@ -1,0 +1,26 @@
+sshd[5600]: Accepted password for austinbarr from 10.188.53.21 port 11348 ssh2
+DB_HOST=db-49.wilson.org
+LOG_LEVEL=56206
+REDIS_URL=56905
+sshd[2868]: Session opened for downsemily from 192.168.197.65 port 20385 ssh2
+sshd[3706]: Session opened for popetodd from 10.126.90.147 port 64907 ssh2
+sshd[4057]: Session opened for john22 from 172.19.204.16 port 34526 ssh2
+209.95.5.243 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 204 220422 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_0 rv:4.0; ug-CN) AppleWebKit/533.19.7 (KHTML, like Gecko) Version/5.0.2 Safari/533.19.7"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"cache miss","user":"shawn70","trace":"MWlpyz6UcyBl"}
+API_TIMEOUT=3776
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"jcaldwell","trace":"ZjspddcRqMOb"}
+sshd[1802]: Failed password for michael44 from 172.28.215.78 port 64675 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"token refreshed","user":"michaeljensen","trace":"ZVKgZs7C55td"}
+sshd[6301]: Session opened for jamie21 from 10.219.137.239 port 60176 ssh2
+sshd[7776]: Accepted password for robin83 from 10.50.0.121 port 33594 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"twatkins","trace":"WPLiFmQXX3dH"}
+DB_PORT=redis://localhost:6379
+10.35.240.209 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 302 178428 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.18.6 (KHTML, like Gecko) Version/5.1 Safari/531.18.6"
+122.84.152.210 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 502 222427 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.28.6 (KHTML, like Gecko) Version/4.0.3 Safari/535.28.6" API_KEY=AIzap2bIz1hJVRHDa8x8uwfITpKfqocgXBOAjDH-XQ
+sshd[8635]: Session closed for wheeleralec from 192.168.189.67 port 10106 ssh2
+76.179.121.190 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 500 181714 "-" "Mozilla/5.0 (Android 1.0; Mobile; rv:62.0) Gecko/62.0 Firefox/62.0"
+146.155.209.14 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 302 264435 "-" "Mozilla/5.0 (Windows NT 5.01; dz-BT; rv:1.9.0.20) Gecko/8160-03-25 12:23:37.805511 Firefox/3.6.17"
+134.96.50.190 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 502 266192 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/30.0.816.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"request completed","user":"richardhernandez","trace":"GXq2uqeQvzjs"}
+REDIS_URL=4060
+DB_PORT=redis://localhost:6379

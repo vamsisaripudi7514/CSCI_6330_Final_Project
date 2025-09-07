@@ -1,0 +1,46 @@
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"alyssa09","trace":"hCaBd1UkwTJo"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"request completed","user":"travis75","trace":"PHpFF5is2NqF"}
+38.194.199.197 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 400 325819 "-" "Opera/9.16.(X11; Linux i686; kw-GB) Presto/2.9.167 Version/12.00"
+sshd[3766]: Accepted password for juliadunn from 10.195.78.124 port 40500 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJTQWtERFY3MzRwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Kx8JPEszSc6yHCOPNUc-pl9TZDIlqQygd5c18xrVcSE'
+sshd[4129]: Failed password for wmedina from 172.16.244.200 port 34932 ssh2
+169.141.228.2 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 403 357089 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_8 rv:6.0; shs-CA) AppleWebKit/531.24.5 (KHTML, like Gecko) Version/5.0.3 Safari/531.24.5"
+186.117.9.191 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 200 487732 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/533.13.7 (KHTML, like Gecko) Version/4.0 Safari/533.13.7"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"request completed","user":"emilythompson","trace":"3VYpposgB9L3"}
+sshd[5528]: Accepted password for baileytamara from 172.26.142.27 port 34373 ssh2
+15.211.145.153 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 200 266576 "-" "Opera/9.96.(X11; Linux x86_64; ru-UA) Presto/2.9.168 Version/12.00"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"carltaylor","trace":"qOYCtnU2SiDF"}
+65.80.57.23 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 403 93911 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0)"
+sshd[3738]: Session opened for kellyowen from 172.20.70.104 port 33260 ssh2
+sshd[8741]: Accepted password for gardnerpamela from 192.168.163.37 port 44969 ssh2 password=fD9<7)rsZ,
+sshd[8267]: Session closed for cjones from 192.168.225.166 port 51387 ssh2
+API_TIMEOUT=INFO
+sshd[1776]: Failed password for htownsend from 192.168.55.248 port 20309 ssh2
+sshd[2347]: Accepted password for transierra from 192.168.202.135 port 35761 ssh2
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"cache miss","user":"gcoleman","trace":"UWDfocjurpOF"}
+API_TIMEOUT=3549
+sshd[7237]: Failed password for donovanalexis from 192.168.44.3 port 43051 ssh2
+sshd[4469]: Session closed for qgonzalez from 10.254.76.94 port 28811 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"nathanwaller","trace":"WSibHsGbcbJT"}
+sshd[4176]: Failed password for robyn86 from 10.233.59.238 port 50972 ssh2
+DB_PORT=desktop-99.conley.info
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"db slow query","user":"lwhitaker","trace":"ac9DnkxW0Rok"}
+sshd[2359]: Session opened for jocelyn08 from 10.248.209.207 port 34327 ssh2
+sshd[4038]: Accepted password for upeterson from 172.18.58.125 port 64904 ssh2
+91.66.196.162 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 200 329520 "-" "Mozilla/5.0 (Windows NT 6.2; ve-ZA; rv:1.9.1.20) Gecko/7707-04-16 12:00:03.866241 Firefox/3.6.20"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"williamsontimothy","trace":"zVLGpuwytuki"}
+API_TIMEOUT=4251
+35.64.224.160 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 401 56829 "-" "Opera/8.56.(X11; Linux i686; bem-ZM) Presto/2.9.168 Version/10.00"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"steven72","trace":"n3njoYCQGH9u"}
+sshd[4185]: Failed password for joneschelsea from 10.146.139.128 port 46901 ssh2
+sshd[4467]: Session closed for keithsteven from 192.168.159.96 port 26860 ssh2
+sshd[5892]: Session opened for uweaver from 172.27.202.113 port 50764 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+50.108.101.188 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 404 327215 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"tkrause","trace":"Ck0swi9Iyllj"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"cache miss","user":"hillcarol","trace":"AgXULaJhXSuO"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"user session created","user":"nathan04","trace":"EZaIyEg8Fkgs"}
+sshd[2074]: Accepted password for ascott from 10.241.218.226 port 15074 ssh2
+DB_HOST=false
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"cache miss","user":"jasongarcia","trace":"1ZSooEubEwmi"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"request completed","user":"steven01","trace":"rKc6dNewQUYF"}

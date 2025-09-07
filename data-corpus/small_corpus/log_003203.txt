@@ -1,0 +1,29 @@
+216.157.12.135 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 201 300554 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_1 rv:4.0; sv-SE) AppleWebKit/534.26.3 (KHTML, like Gecko) Version/5.1 Safari/534.26.3"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"valeriemoore","trace":"TtRVhDqT2q3X"}
+14.47.207.136 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 200 306024 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0)"
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"robertbrown","trace":"GyNgVzIyhJkW"}
+API_TIMEOUT=2625 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJTWFZteGVpZ3MwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.2LzCa6PawR1ib8MvR4MpSiZ_FeGrXRcpAVVFMhVGHTM'
+sshd[4393]: Session opened for nrobertson from 172.31.207.208 port 52780 ssh2
+DB_HOST=4206
+22.86.221.80 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 302 319624 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/4.1)"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"request completed","user":"braunmichelle","trace":"jyC1b6QhyVFg"}
+sshd[3719]: Session opened for schultzapril from 172.22.16.50 port 44606 ssh2
+LOG_LEVEL=58118
+76.67.216.187 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 201 254998 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_8 rv:6.0; ja-JP) AppleWebKit/531.28.7 (KHTML, like Gecko) Version/5.0.1 Safari/531.28.7"
+52.48.122.150 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 204 352456 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/30.0.827.0 Safari/535.0"
+sshd[7053]: Session closed for wsmith from 10.27.186.57 port 60211 ssh2
+126.114.20.245 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 200 164462 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.0)"
+187.237.36.59 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 200 113742 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/35.0.836.0 Safari/536.1"
+194.204.145.227 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 201 310286 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0 rv:4.0; yue-HK) AppleWebKit/531.41.2 (KHTML, like Gecko) Version/5.1 Safari/531.41.2"
+sshd[3354]: Failed password for jeffreysandoval from 10.149.246.90 port 20829 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"request completed","user":"lopezrodney","trace":"BwyY41vF34cQ"}
+221.183.162.108 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 404 256490 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; en-NG) AppleWebKit/532.46.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.46.6"
+DB_PORT=web-04.foley.com
+35.179.50.23 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 401 516165 "-" "Opera/9.29.(Windows NT 6.2; aa-ET) Presto/2.9.181 Version/11.00"
+89.124.144.108 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 401 25599 "-" "Opera/8.15.(Windows CE; unm-US) Presto/2.9.164 Version/12.00"
+DB_HOST=srv-13.miller-long.com password=qJ2|x<m\gW#IP
+sshd[1098]: Accepted password for xhammond from 10.190.135.113 port 41810 ssh2
+sshd[4981]: Session closed for comptonkayla from 192.168.152.209 port 45805 ssh2
+sshd[5406]: Accepted password for lawrence27 from 172.25.109.137 port 17678 ssh2
+81.12.113.221 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 502 268530 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/48.0.856.0 Mobile/81N808 Safari/536.1"

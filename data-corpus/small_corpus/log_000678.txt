@@ -1,0 +1,30 @@
+DB_PORT=web-37.patterson.com
+25.19.218.1 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 502 368290 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/3.1)"
+178.193.38.204 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 400 160587 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/62.0.835.0 Safari/531.1"
+sshd[1776]: Failed password for johnsonjennifer from 10.111.46.232 port 19332 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"christopher10","trace":"ksac1vKhRGAI"}
+56.91.155.199 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 404 204510 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/14.4f3870.0 Mobile/10Q412 Safari/533.1"
+103.233.108.70 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 500 290619 "-" "Opera/9.77.(Windows NT 11.0; ta-LK) Presto/2.9.184 Version/12.00"
+sshd[4009]: Accepted password for delgadolindsay from 10.94.63.80 port 47778 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"cache miss","user":"johnmann","trace":"E5z4u9z3kfOC"}
+185.184.155.92 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 200 65463 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/3.0)"
+sshd[2076]: Accepted password for wendyvillegas from 192.168.132.124 port 42483 ssh2
+sshd[9131]: Accepted password for kevin34 from 192.168.201.72 port 37722 ssh2
+183.210.62.101 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 200 231611 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_9) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/18.0.850.0 Safari/534.2"
+sshd[2778]: Failed password for luke95 from 10.88.198.70 port 18475 ssh2
+sshd[4047]: Session opened for bjones from 192.168.244.84 port 55798 ssh2
+sshd[2809]: Failed password for tsmith from 172.28.82.242 port 14576 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"user session created","user":"mariojacobs","trace":"okmP2ZV0Werw"}
+FEATURE_X_ENABLED=INFO
+4.231.160.174 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 201 523988 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0)"
+sshd[5316]: Session closed for vazquezamy from 10.167.193.8 port 57375 ssh2
+sshd[6262]: Failed password for tyronesmith from 172.22.187.33 port 15894 ssh2
+API_TIMEOUT=redis://localhost:6379
+FEATURE_X_ENABLED=2934
+sshd[5369]: Failed password for meadowsdawn from 172.25.66.136 port 18532 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"request completed","user":"nathanmartinez","trace":"U646Di2XSwF9"}
+sshd[7986]: Session opened for christophertaylor from 192.168.18.144 port 35755 ssh2
+sshd[7971]: Failed password for leegilbert from 10.158.41.39 port 27245 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"brian91","trace":"XT0a4VwXLeay"}
+sshd[7434]: Accepted password for vfisher from 172.25.121.31 port 63747 ssh2
+sshd[1238]: Session closed for seanarnold from 10.221.239.208 port 48018 ssh2

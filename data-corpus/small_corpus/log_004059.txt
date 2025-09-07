@@ -1,0 +1,37 @@
+sshd[5138]: Session opened for belljenny from 10.75.123.185 port 56350 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"token refreshed","user":"jpalmer","trace":"Um3uVDQoAwSb"}
+DB_PORT=redis://localhost:6379
+sshd[5026]: Accepted password for abigail60 from 172.18.116.233 port 63950 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"sarahcollins","trace":"CYgrJJe6pjZQ"}
+sshd[1771]: Accepted password for emily60 from 192.168.219.101 port 39800 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"request completed","user":"sharon82","trace":"RdUrqHeWFWHJ"}
+sshd[4487]: Failed password for marthaberry from 10.179.232.12 port 48268 ssh2
+API_TIMEOUT=INFO
+84.78.229.162 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 204 194224 "-" "Opera/9.74.(X11; Linux x86_64; sv-FI) Presto/2.9.184 Version/11.00"
+DB_PORT=redis://localhost:6379
+DB_PORT=WARN
+132.205.79.215 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 502 371680 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)"
+150.36.139.118 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 201 38188 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; sid-ET) AppleWebKit/531.47.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.47.3" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtZEVRRTc1clJxIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.MYstnxMg1GdfUbnkJB2tCLUOjQ7aPsGTnRtjCK1ug_w'
+13.243.180.30 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 400 84648 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_9 rv:4.0; ne-NP) AppleWebKit/532.45.4 (KHTML, like Gecko) Version/5.1 Safari/532.45.4"
+DB_PORT=db-11.walsh.net
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"request completed","user":"henrytara","trace":"7YyqGL6cV86h"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"db slow query","user":"owarren","trace":"tjE2VzXekI86"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"jarvisalejandra","trace":"WzFW6Lps3NHS"} API_KEY=AIzaUcaYKfNGiJ_8sVENEWBp9-nrtsjl8URBhaxtaQ
+213.226.253.209 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 302 203233 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"tgardner","trace":"HXMvreuhNAVf"}
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"cache miss","user":"brooksamy","trace":"xtb1k9X1aiT0"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"db slow query","user":"danielcarey","trace":"iDc1TkmMwcGD"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"token refreshed","user":"ihess","trace":"ebH0ePrT9jOT"}
+sshd[3587]: Session opened for potterwilliam from 10.70.144.116 port 22079 ssh2
+169.252.191.18 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 200 370432 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/49.0.804.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"user session created","user":"scottvasquez","trace":"zpx855BbrAud"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"token refreshed","user":"pstewart","trace":"YNXisCcpwSas"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"vwilliams","trace":"AOgjqxh7I6XI"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"user session created","user":"williamrichards","trace":"mBiG9U7jU5td"}
+sshd[9094]: Session closed for christopherlarson from 172.27.20.48 port 26213 ssh2
+DB_PORT=54280
+REDIS_URL=lt-17.rodriguez.org
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"normaramsey","trace":"CEsYcbp7z3lW"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"token refreshed","user":"tgonzalez","trace":"mnIdDdSVr9aA"}
+REDIS_URL=46170

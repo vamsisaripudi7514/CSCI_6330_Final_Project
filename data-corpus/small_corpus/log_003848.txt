@@ -1,0 +1,29 @@
+sshd[6942]: Session opened for ylewis from 172.20.61.253 port 42947 ssh2
+109.172.146.169 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 200 496289 "-" "Opera/8.81.(X11; Linux x86_64; zh-SG) Presto/2.9.163 Version/12.00"
+37.51.60.25 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 201 339372 "-" "Mozilla/5.0 (Linux; Android 3.2.4) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/31.0.880.0 Safari/535.2"
+134.164.147.57 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 500 200574 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/20.0.844.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"request completed","user":"djenkins","trace":"bFxYIVBAeEUX"} API_KEY=AIzaE4OhtNz4aVTRTrBXX5v2z3udoFC9lwwYfj2m9g
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"db slow query","user":"danieldennis","trace":"wJUE2AHFgM0A"}
+REDIS_URL=25744
+sshd[6117]: Session opened for hford from 192.168.144.24 port 19959 ssh2
+123.180.131.85 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 500 132813 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2 rv:6.0; ku-TR) AppleWebKit/533.40.5 (KHTML, like Gecko) Version/5.0.1 Safari/533.40.5"
+sshd[6109]: Session opened for amandasweeney from 192.168.162.185 port 37337 ssh2
+147.99.171.239 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 500 28121 "-" "Opera/9.76.(X11; Linux i686; ug-CN) Presto/2.9.171 Version/12.00"
+REDIS_URL=email-16.rodriguez.com
+188.109.98.48 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 502 472804 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.1)"
+103.241.251.87 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 502 78589 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_7; rv:1.9.3.20) Gecko/5959-04-29 13:34:50.591125 Firefox/3.6.7"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"request completed","user":"thomasking","trace":"uUol3hSu1Xla"}
+sshd[8344]: Session opened for grantpamela from 192.168.139.13 port 10598 ssh2
+198.90.185.65 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 502 30857 "-" "Opera/9.68.(X11; Linux i686; iu-CA) Presto/2.9.184 Version/10.00"
+DB_HOST=INFO
+sshd[7761]: Session closed for mherrera from 172.27.67.193 port 35587 ssh2
+DB_PORT=true
+DB_HOST=laptop-95.curtis.com
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"user session created","user":"xwade","trace":"2y7EOkEvarqa"}
+102.81.160.94 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 404 447306 "-" "Opera/8.80.(X11; Linux i686; shs-CA) Presto/2.9.175 Version/10.00"
+sshd[7597]: Accepted password for vwoodard from 10.68.252.253 port 43643 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"stevensonfrank","trace":"Mb0vXhcBMP53"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"user session created","user":"tammy39","trace":"Cit0QpusqOXV"}
+sshd[6089]: Session closed for derekstone from 172.23.144.5 port 18828 ssh2
+17.118.234.234 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 400 389493 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/3.1)"
+FEATURE_X_ENABLED=web-55.hughes-guerrero.com

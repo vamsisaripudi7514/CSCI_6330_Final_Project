@@ -1,0 +1,26 @@
+54.147.206.112 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 200 290203 "-" "Opera/9.50.(Windows NT 4.0; gd-GB) Presto/2.9.175 Version/12.00"
+47.10.205.114 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 500 270124 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"request completed","user":"meghan75","trace":"MgsskkSlljNF"}
+LOG_LEVEL=false
+DB_HOST=1940
+DB_PORT=srv-05.sanchez.net
+122.190.9.160 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 401 152577 "-" "Mozilla/5.0 (Windows CE; the-NP; rv:1.9.1.20) Gecko/6557-03-04 19:33:01.933411 Firefox/3.6.4"
+DB_PORT=4593
+FEATURE_X_ENABLED=false
+129.25.23.181 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 502 241112 "-" "Opera/9.53.(X11; Linux i686; ha-NG) Presto/2.9.168 Version/10.00"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"db slow query","user":"wilsonkathryn","trace":"bDMJucKgDqVF"}
+FEATURE_X_ENABLED=12408
+API_TIMEOUT=redis://localhost:6379
+137.228.27.209 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 403 225878 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/9.0g9368.0 Mobile/39V148 Safari/534.1"
+API_TIMEOUT=email-72.smith-fowler.com
+LOG_LEVEL=redis://localhost:6379
+192.84.249.76 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 401 135808 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; byn-ER; rv:1.9.2.20) Gecko/9024-04-17 02:26:44.569916 Firefox/4.0"
+API_TIMEOUT=23078
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"melissa13","trace":"UsGh2V5D80bN"}
+API_TIMEOUT=39323
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"hestershannon","trace":"Qe63No1gDrOK"}
+sshd[6008]: Failed password for lewisdenise from 10.202.90.236 port 48848 ssh2
+102.31.249.51 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 401 209347 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.1)"
+DB_HOST=db-54.zavala.net
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"request completed","user":"alex88","trace":"pM9AKgiSCfrh"}
+DB_PORT=true

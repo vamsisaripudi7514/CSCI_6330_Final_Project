@@ -1,0 +1,28 @@
+sshd[7522]: Failed password for gardnerdaniel from 172.27.67.225 port 12170 ssh2
+59.18.139.155 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 404 56838 "-" "Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/44.0.846.0 Mobile/49W880 Safari/535.0"
+75.239.128.22 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 401 350366 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/22.0.888.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"slopez","trace":"aHwdoXcrKDqi"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"db slow query","user":"hughesdiana","trace":"UK3qD1kqLeJ8"}
+sshd[4811]: Session closed for megan05 from 192.168.142.121 port 59811 ssh2
+DB_PORT=17182
+77.12.113.86 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 404 493284 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1; rv:1.9.4.20) Gecko/8175-05-11 15:45:32.635773 Firefox/3.6.15"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"user session created","user":"donnacook","trace":"EludR1nLyn5D"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"tracyeverett","trace":"d7sgSM0XXors"}
+sshd[2198]: Session closed for lesliescott from 10.72.210.8 port 21853 ssh2
+DB_PORT=8086
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"request completed","user":"fjohnson","trace":"NFvzdK3mZxno"}
+45.197.185.164 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 403 274211 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5 rv:4.0; st-ZA) AppleWebKit/533.50.2 (KHTML, like Gecko) Version/5.0.1 Safari/533.50.2"
+sshd[4315]: Failed password for hcasey from 192.168.178.154 port 17922 ssh2
+83.175.10.175 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 201 480843 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/3.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"randallbailey","trace":"9w6IKfzjvm7M"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"user session created","user":"amandamitchell","trace":"MbIX1QUDodb3"}
+191.121.39.210 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 400 481956 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.0)"
+148.234.46.81 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 502 90015 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9364-12-23 06:28:14.234680 Firefox/3.8"
+sshd[4936]: Session opened for bguerra from 10.203.30.172 port 46209 ssh2
+sshd[8169]: Failed password for xcarroll from 172.26.47.118 port 35289 ssh2
+110.49.34.170 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 404 276348 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.18.5 (KHTML, like Gecko) Version/5.1 Safari/534.18.5"
+sshd[9025]: Session opened for tammymarsh from 10.168.98.40 port 61758 ssh2
+71.129.231.32 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 404 510482 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_0 rv:2.0; my-MM) AppleWebKit/532.18.7 (KHTML, like Gecko) Version/4.0.1 Safari/532.18.7"
+sshd[6183]: Failed password for gjohnson from 10.3.247.242 port 22984 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"db slow query","user":"gilljesse","trace":"UAxLyS5aMSnt"}
+API_TIMEOUT=2487

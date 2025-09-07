@@ -1,0 +1,29 @@
+174.3.113.213 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 502 181197 "-" "Opera/9.38.(X11; Linux x86_64; my-MM) Presto/2.9.177 Version/11.00"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"fcole","trace":"BBM12OVj2G2w"}
+DB_HOST=redis://localhost:6379
+LOG_LEVEL=INFO
+LOG_LEVEL=2790
+REDIS_URL=4834
+FEATURE_X_ENABLED=WARN
+116.140.102.246 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 200 415577 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/531.27.7 (KHTML, like Gecko) Version/5.0.5 Safari/531.27.7"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"db slow query","user":"theresa41","trace":"uDUUWXmJd08I"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"retrying upstream","user":"nicole07","trace":"U5WXr5rx99Ud"}
+sshd[4921]: Failed password for shermanbryan from 172.19.117.138 port 42774 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"cache miss","user":"swheeler","trace":"WsKilrMnSr0b"}
+11.79.120.73 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 200 393672 "-" "Opera/8.83.(X11; Linux i686; gv-GB) Presto/2.9.168 Version/11.00"
+75.86.152.165 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 204 83861 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1)"
+sshd[9896]: Failed password for melissa85 from 192.168.24.19 port 31645 ssh2
+sshd[1576]: Failed password for procha from 192.168.160.188 port 55424 ssh2
+API_TIMEOUT=1040 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJoREpQZWRJS01xIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.72Vo2m0psXMUqBKat_RhSgiCPBSK5tx0OeBDp88mvzc'
+56.191.141.91 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 500 243352 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/21.0.815.0 Safari/535.2"
+DB_PORT=4842
+188.227.72.154 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 302 27881 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.45.3 (KHTML, like Gecko) Version/4.1 Safari/533.45.3"
+162.66.104.6 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 201 33962 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/14.6r7717.0 Mobile/25H836 Safari/535.2"
+sshd[7377]: Accepted password for anamcintosh from 10.98.101.154 port 13039 ssh2
+API_TIMEOUT=64360 password=rM4|f(3Zd2Md&%
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"token refreshed","user":"kimberly23","trace":"BEEGk08rtckO"}
+76.132.92.98 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 200 371404 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.7.1 (KHTML, like Gecko) Version/4.0 Safari/531.7.1"
+40.93.89.241 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 200 48833 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.0)"
+183.138.252.191 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 401 208948 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/24.0.851.0 Safari/532.2"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"db slow query","user":"cperez","trace":"moeapiNmZHTR"}

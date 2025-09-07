@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"user session created","user":"wagnerkelly","trace":"hdMT93BuvRLv"}
+108.107.252.176 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 401 199568 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_8) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/30.0.866.0 Safari/535.0" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqcWFuR3BLTjhQIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.M9srAt3f1HrfkwdSQIxPe0qJ4UInKRfOUf-As5zz3uo'
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"token refreshed","user":"arthurwade","trace":"sDBN8uucR4Jo"}
+DB_PORT=1410
+sshd[3029]: Accepted password for bradleyarmstrong from 172.18.180.127 port 43609 ssh2
+sshd[2896]: Session closed for tbooker from 192.168.164.169 port 31192 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"request completed","user":"sfloyd","trace":"6mkUTbMqTP0Z"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"christopherlewis","trace":"CPxIFp0TlH0i"}
+159.189.140.122 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 200 169608 "-" "Mozilla/5.0 (Android 4.0; Mobile; rv:20.0) Gecko/20.0 Firefox/20.0"
+134.50.177.169 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 204 196076 "-" "Opera/8.41.(X11; Linux x86_64; ml-IN) Presto/2.9.165 Version/10.00"
+sshd[2908]: Accepted password for stephensashley from 172.16.9.121 port 14034 ssh2
+LOG_LEVEL=63990
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"user session created","user":"kathleen55","trace":"fm7KwonMZv9H"}
+DB_PORT=redis://localhost:6379
+17.52.149.45 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 500 315122 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/21.0.828.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"cache miss","user":"npark","trace":"RexRtRjZKkRW"}
+sshd[8534]: Accepted password for wandrade from 172.20.60.66 port 12674 ssh2
+DB_HOST=redis://localhost:6379
+LOG_LEVEL=3568
+sshd[2889]: Session closed for john45 from 172.18.89.247 port 29642 ssh2
+LOG_LEVEL=desktop-76.hodges.net
+29.11.106.235 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 200 258864 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; cmn-TW) AppleWebKit/533.24.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.24.6"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"db slow query","user":"daniel02","trace":"W8b3Hc46rkkp"}
+API_TIMEOUT=web-96.hudson.com

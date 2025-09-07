@@ -1,0 +1,49 @@
+72.229.200.241 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 302 349355 "-" "Opera/9.38.(Windows NT 6.0; pa-PK) Presto/2.9.169 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"request completed","user":"aaronmorris","trace":"7S0reD4PSv5Q"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"zchapman","trace":"BcA7tJvXwJZO"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"cache miss","user":"sarahbryant","trace":"DHI0oBysxdEk"}
+sshd[6655]: Session opened for ekim from 172.29.100.176 port 12644 ssh2
+DB_PORT=17072
+REDIS_URL=30646
+FEATURE_X_ENABLED=redis://localhost:6379
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"pamela52","trace":"IkIAGBk3jl0P"}
+167.28.221.84 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 500 99559 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.27.5 (KHTML, like Gecko) Version/5.1 Safari/535.27.5"
+sshd[2183]: Accepted password for jessica07 from 172.30.90.9 port 64960 ssh2
+REDIS_URL=INFO
+sshd[9544]: Session closed for melissaward from 192.168.132.119 port 21700 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"stephanie66","trace":"xvwjv1gpFBmS"}
+REDIS_URL=email-09.acevedo-york.biz
+sshd[4023]: Session closed for agomez from 172.24.150.146 port 52168 ssh2
+sshd[2902]: Failed password for parkerdonald from 10.165.208.59 port 40710 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"belliott","trace":"TTPyRbxmHK0r"}
+149.163.223.224 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 400 217943 "-" "Opera/9.10.(X11; Linux i686; he-IL) Presto/2.9.172 Version/11.00"
+15.228.146.149 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 502 233480 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/15.0.811.0 Safari/531.0"
+LOG_LEVEL=INFO
+LOG_LEVEL=DEBUG
+DB_PORT=848
+LOG_LEVEL=redis://localhost:6379
+22.142.73.212 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 201 513916 "-" "Mozilla/5.0 (Linux; Android 2.3.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/44.0.856.0 Safari/534.1"
+8.120.17.214 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 502 449555 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/7010-10-27 09:12:04.459534 Firefox/3.6.19"
+sshd[3738]: Failed password for kennethsanchez from 10.254.123.97 port 36397 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"zbautista","trace":"eXjYc23hNzc8"}
+220.213.204.242 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 201 340600 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2516-05-05 13:06:01.391621 Firefox/3.8"
+DB_PORT=redis://localhost:6379
+65.89.209.137 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 204 131080 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; mai-IN) AppleWebKit/535.20.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6535.20.2"
+24.164.187.154 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 200 274560 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/8152-04-27 20:00:08.490509 Firefox/3.8"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"cache miss","user":"christian95","trace":"TtXPSmc2Hfnn"}
+sshd[3372]: Failed password for rhonda30 from 192.168.27.147 port 42308 ssh2
+21.219.171.40 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 200 19309 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/40.0.873.0 Safari/532.2"
+API_TIMEOUT=3829
+17.18.16.200 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 403 131200 "-" "Opera/8.68.(Windows NT 5.0; fy-DE) Presto/2.9.177 Version/11.00"
+DB_PORT=10667
+sshd[9230]: Accepted password for michaelbenjamin from 10.76.153.218 port 15303 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"lauriesmith","trace":"Bc6dsgzCDWd6"}
+83.131.162.153 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 401 245422 "-" "Opera/9.49.(Windows 98; Win 9x 4.90; vi-VN) Presto/2.9.166 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"michaellopez","trace":"RfB7xic4xVyH"}
+DB_PORT=false
+sshd[6413]: Accepted password for kimberly75 from 10.106.199.138 port 39393 ssh2
+REDIS_URL=3477
+sshd[6949]: Session opened for terrybartlett from 10.231.81.174 port 25644 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"vjohnson","trace":"M74PVD7cbW5c"}
+API_TIMEOUT=39113

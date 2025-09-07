@@ -1,0 +1,30 @@
+LOG_LEVEL=desktop-28.vega.com
+sshd[6078]: Accepted password for john55 from 172.24.16.33 port 38815 ssh2
+sshd[8099]: Failed password for bwilson from 172.24.58.8 port 18261 ssh2
+62.117.133.117 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 401 474478 "-" "Mozilla/5.0 (Android 2.2.3; Mobile; rv:17.0) Gecko/17.0 Firefox/17.0"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"db slow query","user":"tammyleonard","trace":"4rJ5CigZJfhU"}
+sshd[5003]: Failed password for katiemorris from 10.146.153.50 port 58525 ssh2
+75.15.201.133 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 400 148367 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/57.0.845.0 Mobile/68L731 Safari/536.1"
+FEATURE_X_ENABLED=INFO Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJTYmZCQkVGb3VmIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.8R6E_rVHxUTxI-tMpon40zYUtgqwhrJCGKw1V8OlkwI'
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"db slow query","user":"jennifermercado","trace":"PHjkJBYKaW8z"}
+27.253.84.60 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 500 361011 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.1)"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"user session created","user":"michael76","trace":"ObaXnSbwYN5N"}
+67.21.237.121 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 200 431638 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ro-RO) AppleWebKit/535.46.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.46.6"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"amber62","trace":"RMxunoXe7P8n"}
+sshd[2551]: Session closed for ehayes from 192.168.63.62 port 29569 ssh2
+sshd[5534]: Session closed for rfrank from 172.25.153.51 port 61653 ssh2
+sshd[8868]: Session opened for alexandra39 from 172.16.228.81 port 44472 ssh2
+182.3.227.158 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 401 172535 "-" "Opera/8.59.(Windows NT 4.0; apn-IN) Presto/2.9.171 Version/12.00"
+DB_HOST=285
+DB_HOST=DEBUG
+DB_HOST=false
+sshd[7562]: Accepted password for jessica01 from 172.22.142.47 port 14601 ssh2
+API_TIMEOUT=WARN
+sshd[5534]: Session opened for jeffreymaxwell from 172.27.248.252 port 34702 ssh2
+REDIS_URL=db-87.anderson-white.com
+API_TIMEOUT=WARN
+sshd[4150]: Failed password for qjennings from 192.168.73.215 port 37900 ssh2
+DB_PORT=redis://localhost:6379
+sshd[5082]: Session closed for ojones from 192.168.112.137 port 21460 ssh2
+99.13.226.194 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 200 446198 "-" "Opera/8.19.(X11; Linux x86_64; ve-ZA) Presto/2.9.169 Version/11.00"
+5.0.108.13 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 401 47764 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/21.0.826.0 Safari/532.2"

@@ -1,0 +1,25 @@
+53.46.188.165 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 201 142268 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"user session created","user":"tscott","trace":"8VzHo2a01iGt"}
+108.125.25.217 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 401 477846 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"db slow query","user":"ypeterson","trace":"frfvoShCgUpT"}
+sshd[5614]: Session opened for xporter from 192.168.103.199 port 20073 ssh2
+sshd[9850]: Failed password for khubbard from 10.87.199.59 port 29648 ssh2
+20.140.105.230 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 200 309321 "-" "Opera/8.63.(Windows NT 10.0; yue-HK) Presto/2.9.169 Version/11.00" API_KEY=AIzaLme023L840mCOmEJjlXTHHKnsVFxK9Pq5wMXog
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"db slow query","user":"danielmurray","trace":"Wh4rokhIUIAT"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"katherinehughes","trace":"5gq6NILtuWBg"}
+sshd[1230]: Session closed for robertjohns from 192.168.197.106 port 57321 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"margaretarnold","trace":"iPZz9Iyxtg5P"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"user session created","user":"amanda80","trace":"iMnX0vGHlD8p"}
+sshd[5243]: Session closed for alejandra40 from 10.241.7.62 port 56788 ssh2
+sshd[5714]: Failed password for esmith from 172.18.107.113 port 33862 ssh2
+193.216.225.58 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 403 13528 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/42.0.831.0 Safari/532.1"
+sshd[4702]: Session opened for jane18 from 192.168.207.248 port 61190 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"cache miss","user":"curtisfrank","trace":"KfrCWlCwXhvZ"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"request completed","user":"jeffreydavis","trace":"XgalU7fLU1JH"}
+sshd[2658]: Session opened for jonathan69 from 192.168.186.159 port 32285 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"kbrooks","trace":"3o7JDnswgcsZ"}
+sshd[1447]: Session closed for gutierreznicole from 10.19.109.138 port 33017 ssh2
+REDIS_URL=58799
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"mariemaddox","trace":"dNBcA9GAqzqP"}
+sshd[5109]: Session opened for fstewart from 10.107.117.54 port 60140 ssh2

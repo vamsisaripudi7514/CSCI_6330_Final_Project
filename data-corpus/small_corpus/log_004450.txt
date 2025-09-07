@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"chelsey64","trace":"Dgtqjf3B25vE"}
+214.204.176.177 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 302 231187 "-" "Opera/9.66.(X11; Linux x86_64; szl-PL) Presto/2.9.187 Version/12.00"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"token refreshed","user":"lisa09","trace":"tUGDYqlcNmvC"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"request completed","user":"ramosbenjamin","trace":"k168UZuV5KHX"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"lcastillo","trace":"eYnziwPxmAfe"}
+sshd[3244]: Session closed for michaelmoore from 172.26.11.46 port 17000 ssh2 password=iX1'$vW$U=,W(`
+REDIS_URL=redis://localhost:6379
+31.114.143.198 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 401 214146 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4 rv:5.0; apn-IN) AppleWebKit/531.34.3 (KHTML, like Gecko) Version/4.0.4 Safari/531.34.3"
+sshd[3909]: Session closed for haydenwilliams from 172.24.245.6 port 11773 ssh2 password=jO3!<h1o
+40.113.239.31 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 201 118365 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_7 rv:5.0; ko-KR) AppleWebKit/535.32.6 (KHTML, like Gecko) Version/4.0.3 Safari/535.32.6"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"cache miss","user":"glendawalker","trace":"Xvbo1RwliVMN"}
+3.43.129.201 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 404 431814 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/19.0.871.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"johnnywalters","trace":"jPMOgwqPmmgK"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJOeFJ1QkpXaUxTIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.bHa07Y5qQN3PgUk_GqeGRuZoBoEMtDMw0OqO-2TGvMA'
+LOG_LEVEL=redis://localhost:6379
+sshd[4551]: Session closed for xmartin from 192.168.12.117 port 20230 ssh2
+15.109.74.41 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 401 204607 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/62.0.840.0 Mobile/82E310 Safari/534.1"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"jasonbradford","trace":"bapX2qGkiiwE"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"db slow query","user":"morenoterri","trace":"OTXaD9ZJwegt"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"patrickschaefer","trace":"vIRFJZfgm5Pd"}
+DB_HOST=false
+sshd[1322]: Session closed for charles74 from 192.168.209.215 port 24643 ssh2
+sshd[6153]: Accepted password for eanthony from 172.23.162.99 port 21643 ssh2
+sshd[1182]: Session closed for brandon65 from 172.24.103.13 port 46023 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"user session created","user":"eacosta","trace":"0msMqabN3FXO"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"token refreshed","user":"wendy21","trace":"0ijvpuLW7Eok"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"token refreshed","user":"kennethcalhoun","trace":"Ecu87UvbXNME"}
+22.94.116.142 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 204 219685 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/4.1)"

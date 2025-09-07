@@ -1,0 +1,49 @@
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[6304]: Session closed for klee from 172.19.77.184 port 54500 ssh2
+sshd[8011]: Session closed for sherry30 from 10.234.76.187 port 62326 ssh2
+REDIS_URL=false
+sshd[1762]: Session closed for ymiller from 10.220.66.71 port 57246 ssh2
+120.107.31.12 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 401 178751 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)"
+sshd[1339]: Accepted password for charlesberry from 192.168.117.118 port 62743 ssh2
+sshd[3293]: Session closed for darlenewhite from 172.20.246.78 port 24053 ssh2 API_KEY=AIza7OQ285SdbQZ4oyuaoJ9aQO1a2-pr_gimCrnXoA
+sshd[5161]: Session closed for crystalramirez from 172.26.15.75 port 28860 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"user session created","user":"ejohnson","trace":"MOQ9IVL36kIa"}
+23.120.182.51 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 302 129762 "-" "Opera/9.27.(X11; Linux x86_64; lo-LA) Presto/2.9.173 Version/11.00"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"request completed","user":"geoffreysolis","trace":"leUh8lhDtLS3"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"user session created","user":"salexander","trace":"ckRQSxp842Ok"}
+130.95.185.52 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 200 133312 "-" "Mozilla/5.0 (Linux; Android 4.4.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/62.0.863.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"retrying upstream","user":"james87","trace":"JOJOVG2IAQVd"}
+30.38.135.49 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 400 488966 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/5695-03-18 10:00:13.766602 Firefox/7.0"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"token refreshed","user":"bballard","trace":"1B1I5lKBNw72"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"request completed","user":"bruce61","trace":"q6QXxWLJ08ut"}
+FEATURE_X_ENABLED=false
+196.214.74.181 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 400 239484 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/18.0.894.0 Safari/533.0"
+API_TIMEOUT=DEBUG
+LOG_LEVEL=34755
+141.105.117.48 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 502 205543 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_9) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/40.0.853.0 Safari/536.2"
+sshd[7845]: Session closed for jessicamejia from 10.184.225.219 port 21315 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"cache miss","user":"tony89","trace":"UPWTNhaCZA8F"}
+sshd[7859]: Accepted password for calvinelliott from 192.168.74.76 port 41041 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"ipowers","trace":"VA1I2ebvLCUP"}
+LOG_LEVEL=WARN
+71.67.33.18 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 500 219481 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.0)"
+17.121.90.72 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 302 353366 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/16.8v5854.0 Mobile/32Z135 Safari/535.1"
+sshd[2362]: Accepted password for brownjennifer from 172.27.255.200 port 60228 ssh2
+97.1.10.134 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 302 298748 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/27.0.850.0 Safari/535.2"
+84.231.106.216 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 204 63901 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_7; rv:1.9.3.20) Gecko/6017-02-08 11:16:50.793564 Firefox/13.0"
+sshd[2996]: Session closed for maria55 from 172.31.178.248 port 19092 ssh2
+REDIS_URL=1921
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"user session created","user":"craigcastillo","trace":"quaQK2cjO3Hn"}
+26.51.216.233 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 302 393485 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ckb-IQ) AppleWebKit/535.47.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6535.47.7"
+sshd[7983]: Session closed for jonesmallory from 192.168.67.66 port 59502 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"cache miss","user":"nrandall","trace":"CcsmLvGBKICL"}
+sshd[4790]: Failed password for alexandraconrad from 10.167.217.247 port 48924 ssh2
+34.116.194.225 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 400 302053 "-" "Opera/8.44.(X11; Linux i686; quz-PE) Presto/2.9.172 Version/10.00"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"db slow query","user":"alexandersydney","trace":"V3vnok58VaRc"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"request completed","user":"rholden","trace":"L3S34UJk5qAB"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"db slow query","user":"oliverjeffrey","trace":"3HaY1L8Q5tuM"}
+160.174.47.25 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 400 422621 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_6; rv:1.9.3.20) Gecko/4612-10-09 01:12:05.396957 Firefox/3.6.18"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"thomascampbell","trace":"aaBNL0028FYt"}
+26.135.8.190 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 500 47079 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5 rv:6.0; hne-IN) AppleWebKit/531.26.5 (KHTML, like Gecko) Version/5.0.2 Safari/531.26.5"
+16.243.148.115 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 200 34890 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.12.4 (KHTML, like Gecko) Version/5.0 Safari/534.12.4"
+42.122.105.55 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 204 321690 "-" "Mozilla/5.0 (Linux; Android 2.2.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/16.0.801.0 Safari/532.2"

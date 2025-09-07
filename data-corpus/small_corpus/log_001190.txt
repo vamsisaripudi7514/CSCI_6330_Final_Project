@@ -1,0 +1,31 @@
+DB_HOST=2168
+204.161.52.85 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 500 496257 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/25.0.846.0 Safari/534.2"
+FEATURE_X_ENABLED=4150
+178.11.126.169 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 502 255752 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/531.13.1 (KHTML, like Gecko) Version/5.0 Safari/531.13.1"
+55.106.233.66 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 502 137576 "-" "Opera/9.52.(Windows NT 5.0; kok-IN) Presto/2.9.161 Version/12.00"
+38.76.9.77 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 403 110312 "-" "Opera/9.72.(X11; Linux x86_64; os-RU) Presto/2.9.161 Version/10.00"
+DB_HOST=email-73.allen-smith.com
+LOG_LEVEL=true
+sshd[1769]: Failed password for umichael from 192.168.137.205 port 27118 ssh2
+DB_HOST=desktop-79.haynes.com
+FEATURE_X_ENABLED=25940
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"request completed","user":"dnichols","trace":"Sw0LzmRUzyB7"}
+198.198.19.21 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 200 146996 "-" "Opera/9.45.(X11; Linux i686; fil-PH) Presto/2.9.187 Version/10.00"
+LOG_LEVEL=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJxWUJCRXh2NVdtIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.tcFRoJw6PDqAtjWftYw0a1G5h-vyBWilUPDCSAk8r90'
+FEATURE_X_ENABLED=WARN
+99.24.107.1 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 204 101380 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/6714-11-14 02:22:24.643982 Firefox/3.6.19"
+221.120.13.54 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 401 348979 "-" "Opera/9.22.(Windows 98; Win 9x 4.90; bo-IN) Presto/2.9.187 Version/10.00"
+sshd[5651]: Failed password for ipena from 172.24.55.61 port 50875 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"request completed","user":"rodriguezchristopher","trace":"0gJE0e4bnfUX"}
+sshd[8235]: Session opened for amanda56 from 10.136.79.223 port 25237 ssh2
+181.147.106.253 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 502 71826 "-" "Opera/9.74.(X11; Linux x86_64; ta-IN) Presto/2.9.162 Version/11.00"
+sshd[3250]: Session opened for vkeller from 10.173.38.191 port 15950 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"request completed","user":"rhoward","trace":"iqBBCwDZlXVb"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"dorothy25","trace":"UZzAcKlZz4Hb"}
+sshd[5300]: Accepted password for williecline from 10.202.56.131 port 18639 ssh2
+sshd[4825]: Accepted password for ymatthews from 192.168.62.68 port 39916 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"connie85","trace":"we3MnkqqCg1L"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"user session created","user":"rperez","trace":"CIZDmKt5i8nJ"}
+10.34.177.153 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 204 457179 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"request completed","user":"anthonymarshall","trace":"QUADcE1xeyD5"}
+169.116.195.172 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 201 464009 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)"

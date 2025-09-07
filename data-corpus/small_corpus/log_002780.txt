@@ -1,0 +1,34 @@
+API_TIMEOUT=WARN
+sshd[3267]: Failed password for andrewsingh from 10.162.31.168 port 31353 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"request completed","user":"pware","trace":"5y5UO28Ha45W"}
+125.84.193.228 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 502 237783 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; bem-ZM) AppleWebKit/531.11.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.11.2"
+API_TIMEOUT=false
+REDIS_URL=true
+214.103.126.205 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 201 245268 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_3 rv:5.0; ayc-PE) AppleWebKit/534.8.2 (KHTML, like Gecko) Version/5.0.5 Safari/534.8.2"
+sshd[1415]: Accepted password for thomasmccarthy from 192.168.50.213 port 22486 ssh2
+sshd[9430]: Failed password for zgonzalez from 192.168.98.178 port 59393 ssh2
+sshd[5552]: Session opened for twhite from 10.7.217.213 port 53419 ssh2
+103.55.204.14 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 401 1860 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/45.0.899.0 Safari/531.2"
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"user session created","user":"ehoward","trace":"U0cjTCehNxZ4"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"token refreshed","user":"robert11","trace":"nGBaFZtQC7dl"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"cache miss","user":"terriwood","trace":"sS5WkhxmQhkK"} API_KEY=AIza7tVw0zNtJwlQBVqzKDD0MWMVbZy04pDZLfpn8w
+DB_PORT=3480 API_KEY=AIza2U-fV5Ikw8VtVfRz3wCGWD_lWM0fUIK0vzvdmQ
+sshd[2106]: Session opened for jessica27 from 172.24.14.212 port 57152 ssh2
+61.225.84.211 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 204 20339 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.0)"
+sshd[7882]: Session opened for brandon27 from 192.168.194.19 port 63153 ssh2
+sshd[9270]: Session opened for ufrost from 192.168.220.250 port 16471 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"request completed","user":"uking","trace":"VzP98XmZtnJ6"}
+145.26.104.108 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 502 203955 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.1)"
+DB_PORT=490 API_KEY=AIzahtdTnqvTP268rIyihAHqWDYI5cDXx7oZdkpHZQ
+FEATURE_X_ENABLED=DEBUG
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"user session created","user":"ericroberson","trace":"9fwzdvG7pkEZ"} password=xU5*llc3\YY@
+91.235.123.106 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 204 402027 "-" "Opera/8.58.(X11; Linux i686; csb-PL) Presto/2.9.176 Version/10.00"
+FEATURE_X_ENABLED=db-00.flowers.net
+50.34.86.247 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 401 149417 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/25.0.885.0 Safari/535.0"
+LOG_LEVEL=redis://localhost:6379 password=bG3|k`R/h
+sshd[5339]: Failed password for scooper from 10.128.204.162 port 45492 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"cache miss","user":"taylorgriffith","trace":"RgAtNMSWhgJh"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"cache miss","user":"rachel26","trace":"jtljubtJnUKs"}
+119.182.198.216 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 200 99745 "-" "Opera/9.35.(X11; Linux x86_64; mg-MG) Presto/2.9.160 Version/12.00"

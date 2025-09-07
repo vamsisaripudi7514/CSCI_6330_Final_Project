@@ -1,0 +1,26 @@
+sshd[7616]: Session closed for robin66 from 192.168.111.196 port 25778 ssh2
+73.92.188.52 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 200 129352 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/18.6g9202.0 Mobile/88W011 Safari/533.2"
+DB_HOST=false
+API_TIMEOUT=laptop-71.lawson.com
+193.41.16.221 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 404 299337 "-" "Mozilla/5.0 (Windows CE; lzh-TW; rv:1.9.1.20) Gecko/7017-03-19 05:04:31.262909 Firefox/3.8"
+77.46.98.109 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 400 238234 "-" "Opera/9.26.(X11; Linux i686; mt-MT) Presto/2.9.188 Version/11.00"
+sshd[5153]: Failed password for ccohen from 10.46.145.7 port 34639 ssh2
+sshd[5577]: Failed password for cmason from 10.75.144.208 port 59372 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"xrosales","trace":"s7VXDRkPRGmu"}
+REDIS_URL=DEBUG
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"steven51","trace":"cfsFc4dCCY8c"}
+LOG_LEVEL=false
+55.12.32.73 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 404 41940 "-" "Opera/8.78.(Windows NT 6.2; fi-FI) Presto/2.9.166 Version/10.00"
+sshd[2918]: Session closed for davismelissa from 192.168.18.218 port 30747 ssh2
+52.121.0.166 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 401 66923 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/30.0.885.0 Safari/532.1"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"andrewbrooks","trace":"tsdMaALRm3Vp"}
+sshd[6666]: Session opened for albertsantos from 192.168.44.110 port 55404 ssh2
+sshd[2897]: Session opened for hmoore from 10.70.210.73 port 32493 ssh2
+API_TIMEOUT=laptop-02.brown-johnson.biz
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"wilcoxdennis","trace":"fQGb7frqaPHG"}
+sshd[9905]: Accepted password for donna89 from 192.168.139.1 port 48650 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"haneycheryl","trace":"Pl7vEeudE6Au"}
+REDIS_URL=658 API_KEY=AIzaULkK5KmXyXUH58z4ZlRndHfml7Bc9_l_ehMF-w
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"sara24","trace":"wuQdb50TUzfz"}
+133.54.125.209 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 400 142711 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/6266-09-23 09:55:15.318100 Firefox/3.8"
+sshd[1682]: Accepted password for kingandrew from 10.73.179.17 port 11049 ssh2

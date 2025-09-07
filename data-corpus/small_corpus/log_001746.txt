@@ -1,0 +1,40 @@
+179.163.158.219 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 302 399284 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_9) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/13.0.870.0 Safari/533.0"
+LOG_LEVEL=false
+LOG_LEVEL=6908
+REDIS_URL=desktop-95.kelley.com
+211.169.125.218 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 204 511137 "-" "Opera/8.74.(X11; Linux i686; fi-FI) Presto/2.9.163 Version/12.00"
+REDIS_URL=redis://localhost:6379
+API_TIMEOUT=true
+102.141.41.96 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 400 119801 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_9 rv:4.0; mhr-RU) AppleWebKit/534.41.7 (KHTML, like Gecko) Version/4.0 Safari/534.41.7"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"request completed","user":"grantmarvin","trace":"SJ7UwwwiJATJ"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"request completed","user":"georgestevens","trace":"l6xDC9q2IKcm"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"user session created","user":"melanie56","trace":"3DlxgT3wrzBK"}
+115.35.164.122 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 502 41110 "-" "Opera/8.60.(Windows NT 6.0; quz-PE) Presto/2.9.162 Version/11.00"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"westjane","trace":"unR3sk8LlIzE"}
+DB_HOST=WARN
+FEATURE_X_ENABLED=false
+203.232.162.130 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 201 20001 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_2 rv:6.0; lv-LV) AppleWebKit/535.50.1 (KHTML, like Gecko) Version/5.0 Safari/535.50.1"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"stewartbarbara","trace":"QD23mOsIKyoS"}
+44.254.186.109 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 302 144820 "-" "Mozilla/5.0 (Windows NT 5.01) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/14.0.810.0 Safari/536.1"
+sshd[7776]: Accepted password for ejackson from 10.207.245.240 port 64567 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[4253]: Failed password for nortonjack from 172.24.80.139 port 64732 ssh2
+sshd[6206]: Session opened for irodriguez from 172.24.167.56 port 16477 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"user session created","user":"garnerjesse","trace":"hSFHmelQbDZN"}
+DB_PORT=true
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"db slow query","user":"weaverbonnie","trace":"FE2cWYX7kXhL"}
+sshd[1144]: Failed password for tammywilliamson from 192.168.137.88 port 32538 ssh2
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"request completed","user":"dennisjohnson","trace":"fcUfS19CjiIB"}
+sshd[6780]: Session closed for penatammy from 172.26.231.15 port 36678 ssh2
+sshd[2985]: Failed password for ihughes from 10.204.214.218 port 31004 ssh2
+LOG_LEVEL=3936
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"cache miss","user":"earlwashington","trace":"gFdts4BCOg5H"}
+sshd[7533]: Accepted password for robinsontracy from 10.247.131.111 port 30365 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"db slow query","user":"heathercameron","trace":"AHxQ7UsoG6CQ"}
+sshd[2033]: Failed password for joe91 from 172.24.239.14 port 24688 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"morankelly","trace":"3HRZopr6hFT7"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"cache miss","user":"rileylowe","trace":"QrX5HE856zLi"}
+sshd[5726]: Session opened for whitneydecker from 10.150.229.74 port 31785 ssh2
+FEATURE_X_ENABLED=3800
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"db slow query","user":"tlong","trace":"6zF8Jlt2313o"}

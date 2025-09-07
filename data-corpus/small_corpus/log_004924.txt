@@ -1,0 +1,25 @@
+sshd[5743]: Session closed for anna36 from 10.209.43.239 port 23657 ssh2
+DB_PORT=redis://localhost:6379
+200.217.227.76 - - [07/Sep/2025:18:24:57 +0000] "DELETE /index.html HTTP/1.1" 404 351877 "-" "Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/31.0.886.0 Safari/535.2"
+155.143.129.39 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 404 46224 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4; rv:1.9.6.20) Gecko/5009-10-21 13:14:54.733566 Firefox/3.8"
+sshd[2754]: Accepted password for heathercrawford from 192.168.149.64 port 46872 ssh2
+sshd[2916]: Session closed for nicholeyoung from 172.22.103.50 port 13286 ssh2
+107.110.156.191 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 500 196974 "-" "Opera/9.37.(X11; Linux x86_64; tk-TM) Presto/2.9.189 Version/11.00"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"request completed","user":"rjenkins","trace":"3dCdlzSJX6L7"}
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"orders","msg":"token refreshed","user":"ijones","trace":"TQtuTezj1qZi"}
+sshd[9304]: Accepted password for sharpwilliam from 172.17.96.172 port 57682 ssh2
+25.41.222.36 - - [07/Sep/2025:18:24:57 +0000] "GET /download/report.csv HTTP/1.1" 403 27082 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_2 rv:3.0; lzh-TW) AppleWebKit/531.16.4 (KHTML, like Gecko) Version/4.0.4 Safari/531.16.4"
+220.195.141.113 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 404 119974 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_8 rv:3.0; gd-GB) AppleWebKit/534.30.7 (KHTML, like Gecko) Version/4.0.3 Safari/534.30.7"
+sshd[6471]: Session closed for fharrison from 172.23.95.10 port 49728 ssh2
+134.68.82.83 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 201 231215 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/9.6i6183.0 Mobile/04E482 Safari/535.2"
+FEATURE_X_ENABLED=INFO
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=lt-85.martinez-ferguson.com
+sshd[8809]: Accepted password for cynthia10 from 172.22.72.124 port 48172 ssh2
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"billing","msg":"db slow query","user":"wbutler","trace":"rprw200NGLgS"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"riveramatthew","trace":"747i0EAGDtQv"}
+sshd[8223]: Accepted password for smithsean from 10.78.220.253 port 58348 ssh2
+60.227.111.59 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/v1/users HTTP/1.1" 200 143401 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/36.0.853.0 Safari/531.1" API_KEY=AIzaqTAlW4LTD55Ozz3xlqwqlaadmnzoK3qArQjzlw
+sshd[4852]: Failed password for tpeterson from 172.24.123.153 port 45863 ssh2
+sshd[5085]: Failed password for hughesvicki from 10.132.115.112 port 53382 ssh2

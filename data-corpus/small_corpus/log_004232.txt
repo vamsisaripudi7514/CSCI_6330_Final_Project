@@ -1,0 +1,36 @@
+DB_PORT=true
+sshd[4678]: Accepted password for aowens from 10.146.1.106 port 63985 ssh2
+222.36.26.84 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 502 55163 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; so-KE) AppleWebKit/532.27.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.27.1"
+82.243.88.45 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 201 397036 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/8928-06-10 03:04:24.470520 Firefox/4.0"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"laurie25","trace":"XD9oFt373zrW"}
+REDIS_URL=INFO
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"request completed","user":"angelagentry","trace":"bDFKJBWxZcyj"}
+LOG_LEVEL=laptop-30.rivera.com
+sshd[3715]: Session closed for austintiffany from 10.135.173.41 port 43156 ssh2
+sshd[3371]: Failed password for emily83 from 192.168.100.86 port 16523 ssh2
+sshd[8379]: Accepted password for desireerobinson from 10.75.202.133 port 38999 ssh2
+sshd[8411]: Accepted password for tashaelliott from 192.168.179.102 port 10494 ssh2
+LOG_LEVEL=srv-40.kelly.com
+sshd[8483]: Failed password for llee from 10.133.64.7 port 31352 ssh2
+sshd[5714]: Session opened for petersonrobert from 172.30.133.170 port 22439 ssh2
+sshd[4721]: Accepted password for pbennett from 192.168.145.178 port 25061 ssh2
+sshd[2125]: Session opened for tcarroll from 10.145.10.91 port 63836 ssh2
+sshd[4400]: Session closed for henryjacob from 10.78.23.132 port 15194 ssh2
+sshd[1244]: Session opened for jamesferguson from 192.168.100.61 port 32256 ssh2
+193.72.113.174 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 403 361229 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.41.7 (KHTML, like Gecko) Version/5.0 Safari/531.41.7"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"cache miss","user":"ramoskenneth","trace":"7xAABFitWWoy"}
+DB_HOST=INFO
+26.135.84.60 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 201 232966 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.18.3 (KHTML, like Gecko) Version/5.1 Safari/535.18.3"
+LOG_LEVEL=redis://localhost:6379
+sshd[4602]: Accepted password for grantmartin from 10.44.119.195 port 50940 ssh2
+sshd[1475]: Failed password for robert73 from 10.164.21.152 port 26719 ssh2
+132.140.160.99 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 502 347177 "-" "Opera/8.91.(X11; Linux i686; the-NP) Presto/2.9.160 Version/11.00"
+sshd[2761]: Accepted password for ucalderon from 10.38.24.7 port 43812 ssh2
+FEATURE_X_ENABLED=1835
+sshd[2087]: Accepted password for deborah98 from 192.168.173.73 port 18230 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+REDIS_URL=2393
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"gcaldwell","trace":"6vTxzw23yHuU"}
+sshd[4998]: Session closed for williamodom from 172.22.62.34 port 24153 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"user session created","user":"shannon02","trace":"LaoxzLBh1MYV"} password=wU2@G?SVYnSvD
+31.218.149.114 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 400 519326 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0)"

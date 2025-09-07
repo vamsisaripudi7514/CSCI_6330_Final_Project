@@ -1,0 +1,27 @@
+sshd[6814]: Accepted password for isolomon from 10.206.49.143 port 30655 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"dcooper","trace":"LUlpzqREbbwo"}
+sshd[3772]: Failed password for amanda03 from 192.168.86.104 port 20812 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"dallison","trace":"TXyddZDYw82B"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"cache miss","user":"hlucas","trace":"5BS1bnLA1Aua"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"user session created","user":"bwatson","trace":"IZFEDmXJceRE"}
+172.192.107.174 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 404 15856 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.6.5 (KHTML, like Gecko) Version/4.0.1 Safari/533.6.5"
+DB_PORT=3775
+REDIS_URL=WARN Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJpRFhCU25pSWE4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.2Deqxsk4PzswTzUyWdukVDpqxekUp0JdsNw4Ws49BUk'
+FEATURE_X_ENABLED=redis://localhost:6379
+REDIS_URL=redis://localhost:6379
+API_TIMEOUT=1592
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"db slow query","user":"teresachen","trace":"cUkF4EnvJv6O"}
+DB_HOST=db-75.long.com
+sshd[7196]: Session closed for tracythomas from 192.168.246.3 port 47245 ssh2
+sshd[1403]: Session closed for moodymichael from 192.168.207.56 port 19961 ssh2
+sshd[9157]: Failed password for johnsonbrittany from 10.241.214.4 port 54376 ssh2
+FEATURE_X_ENABLED=22328
+122.120.232.158 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 200 111826 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.22.3 (KHTML, like Gecko) Version/4.1 Safari/535.22.3"
+156.212.133.39 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 201 427097 "-" "Opera/9.48.(X11; Linux x86_64; km-KH) Presto/2.9.173 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"request completed","user":"littleaudrey","trace":"ozVApuuqi0QK"}
+12.53.118.217 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 201 478106 "-" "Mozilla/5.0 (Android 1.1; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"vegaholly","trace":"xiJcUUzb0qbu"}
+DB_PORT=lt-51.bush.biz
+DB_PORT=1309
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"request completed","user":"brownchristina","trace":"5uQegWS57IxS"}
+34.122.108.17 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 201 278264 "-" "Mozilla/5.0 (Windows 98; sv-SE; rv:1.9.2.20) Gecko/3150-12-07 20:39:17.638153 Firefox/3.6.1"

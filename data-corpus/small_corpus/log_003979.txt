@@ -1,0 +1,39 @@
+API_TIMEOUT=DEBUG
+DB_PORT=lt-57.osborn.com
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"token refreshed","user":"david12","trace":"zWYZ8v5GUBYr"}
+sshd[9421]: Session opened for aaron66 from 10.156.82.70 port 50306 ssh2
+28.113.77.41 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 500 422506 "-" "Opera/8.21.(Windows NT 6.1; ckb-IQ) Presto/2.9.165 Version/11.00"
+23.120.231.253 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 404 521116 "-" "Mozilla/5.0 (Android 4.3; Mobile; rv:17.0) Gecko/17.0 Firefox/17.0"
+sshd[5444]: Session opened for lisa71 from 10.38.122.87 port 38654 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"request completed","user":"bbray","trace":"Bbq0SxPt3P1r"}
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"kristennielsen","trace":"InNCrZvEGaEb"}
+94.99.162.116 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 400 313588 "-" "Opera/8.29.(X11; Linux i686; ko-KR) Presto/2.9.181 Version/10.00"
+sshd[6394]: Session closed for floydkelly from 10.5.211.49 port 19420 ssh2
+DB_PORT=true
+sshd[5188]: Session closed for julie53 from 10.5.53.88 port 25446 ssh2
+sshd[9236]: Session opened for gwendolyn54 from 10.170.165.118 port 39343 ssh2
+sshd[8320]: Session opened for martha07 from 172.20.241.193 port 56917 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"user session created","user":"farrellkathleen","trace":"TmRfHDobw50A"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"db slow query","user":"lhall","trace":"l5184Ed7qizJ"}
+76.213.237.212 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 403 432163 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_3 rv:3.0; sid-ET) AppleWebKit/532.45.4 (KHTML, like Gecko) Version/4.0.1 Safari/532.45.4"
+sshd[6683]: Session closed for dunncharlene from 192.168.255.184 port 50725 ssh2
+sshd[9468]: Failed password for osmith from 192.168.217.79 port 46665 ssh2
+222.144.191.106 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 403 96462 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/13.4k4950.0 Mobile/39Q910 Safari/536.1"
+DB_HOST=redis://localhost:6379
+REDIS_URL=4558 password=lQ2.agl+`=$
+165.131.216.20 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 500 337805 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; tig-ER; rv:1.9.0.20) Gecko/2439-03-05 16:47:54.416025 Firefox/3.6.6"
+FEATURE_X_ENABLED=55371
+80.248.207.55 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 502 508513 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5901-03-19 15:53:37.450272 Firefox/15.0"
+121.122.84.239 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 500 192204 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/4.0)"
+REDIS_URL=INFO
+sshd[4787]: Session closed for robert39 from 172.24.188.172 port 11875 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"db slow query","user":"ophillips","trace":"YiBDSioRxjoR"}
+API_TIMEOUT=redis://localhost:6379 password=dU8+(F@{V
+FEATURE_X_ENABLED=false
+REDIS_URL=db-73.wilson.info
+90.178.138.255 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 302 183331 "-" "Opera/9.63.(X11; Linux x86_64; hu-HU) Presto/2.9.189 Version/12.00"
+92.18.51.167 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 404 440633 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.19.5 (KHTML, like Gecko) Version/5.0.5 Safari/534.19.5"
+FEATURE_X_ENABLED=4466
+124.136.142.2 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 400 459232 "-" "Mozilla/5.0 (Android 12.1; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0"

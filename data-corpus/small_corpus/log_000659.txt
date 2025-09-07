@@ -1,0 +1,40 @@
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"user session created","user":"ybrooks","trace":"J1GgPMw0TREK"}
+1.107.20.53 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 200 403154 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5 rv:3.0; ps-AF) AppleWebKit/535.41.2 (KHTML, like Gecko) Version/4.1 Safari/535.41.2"
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"user session created","user":"matthewmorrison","trace":"DSLAABkC0Z1g"}
+143.82.136.13 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 302 430543 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; he-IL) AppleWebKit/533.21.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6533.21.3"
+sshd[4831]: Session closed for tonyarobinson from 10.162.244.117 port 46478 ssh2
+214.131.58.168 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 404 135751 "-" "Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/18.4d5413.0 Mobile/77Z754 Safari/535.1"
+DB_PORT=34604
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"user session created","user":"jameswilliams","trace":"LHRRiCs5Bs2C"}
+sshd[4434]: Session opened for david27 from 192.168.58.207 port 13259 ssh2 API_KEY=AIzaq12XALEAizKYNgRE_Z5W1bYhBgSTLgtJcJrfhA
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"user session created","user":"mathisphillip","trace":"6XlwMwzIrXsX"}
+73.28.209.77 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 500 270755 "-" "Opera/9.38.(Windows 95; tg-TJ) Presto/2.9.165 Version/10.00"
+REDIS_URL=desktop-87.leonard.com
+221.52.58.255 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 200 219312 "-" "Opera/9.76.(Windows NT 10.0; bhb-IN) Presto/2.9.183 Version/11.00"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"request completed","user":"jamesveronica","trace":"uvbU8aViP5qr"}
+FEATURE_X_ENABLED=4664
+sshd[3054]: Session closed for ballen from 10.52.4.103 port 31910 ssh2
+35.6.26.223 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 500 52421 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/3.0)"
+API_TIMEOUT=laptop-91.henry-warren.info
+REDIS_URL=24053
+sshd[7947]: Accepted password for millsdawn from 192.168.10.15 port 12827 ssh2
+218.79.124.52 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 404 467727 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/60.0.891.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"codysutton","trace":"qETR20nKvjyi"}
+API_TIMEOUT=DEBUG
+sshd[7430]: Accepted password for kramerheather from 192.168.148.108 port 49170 ssh2
+DB_HOST=false
+sshd[3244]: Session closed for nrodgers from 10.165.143.16 port 59436 ssh2
+DB_PORT=redis://localhost:6379 password=wT7#'xtxQ
+sshd[7859]: Failed password for msalazar from 192.168.204.23 port 13919 ssh2
+sshd[4165]: Session closed for clinemaxwell from 172.19.83.168 port 25074 ssh2
+221.169.47.240 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 204 290625 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_0 rv:2.0; rw-RW) AppleWebKit/534.21.6 (KHTML, like Gecko) Version/4.0.5 Safari/534.21.6" API_KEY=AIzaT_t1B-8Q0fOQjOOQkTTEaIWukVLW19Pv7PWgdQ
+sshd[8284]: Session opened for jonesangela from 10.223.213.231 port 26732 ssh2
+55.112.161.228 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 400 520524 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.1)"
+185.174.33.143 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 302 104429 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/30.0.894.0 Safari/532.1"
+REDIS_URL=true
+sshd[7570]: Session opened for welchraymond from 192.168.237.159 port 40361 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"cache miss","user":"leah88","trace":"5YtcsU0Ey8o5"} password=oF7!9/iW#@{G`
+DB_PORT=4106
+190.254.81.204 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 401 332980 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_9) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/50.0.886.0 Safari/535.2"

@@ -1,0 +1,35 @@
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"user session created","user":"walter98","trace":"2N4WY2CJ6pEG"}
+55.64.222.66 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 502 257917 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.1)"
+sshd[7271]: Accepted password for hebertjohn from 192.168.101.9 port 11845 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlUmk5cjZaUlhLIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.uRjiBo5NtosHlnCDQTSJ3u598-JeUgFx2QjZEUyU_FY'
+118.83.28.144 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 200 497266 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/50.0.890.0 Mobile/91A631 Safari/536.0"
+sshd[8247]: Failed password for michaelsimon from 172.19.14.213 port 45885 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"sarahreynolds","trace":"GcefOCLn26Kr"}
+sshd[3452]: Accepted password for william79 from 192.168.40.216 port 31683 ssh2
+sshd[2853]: Accepted password for mcgeegary from 192.168.7.153 port 46388 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"request completed","user":"megan26","trace":"DMvyizhMxk49"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"cache miss","user":"anna99","trace":"f4TZCK26HUuG"}
+218.115.86.101 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 400 476115 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"william16","trace":"RQJONhytEEfA"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"zkelly","trace":"dGVFzK0zdaam"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"jacksonsusan","trace":"JOqvj2YkOYgT"}
+131.146.49.195 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 400 149074 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.1)"
+DB_HOST=false
+sshd[1142]: Session closed for pshah from 192.168.130.122 port 15240 ssh2
+FEATURE_X_ENABLED=1319
+DB_HOST=false
+LOG_LEVEL=redis://localhost:6379
+LOG_LEVEL=2983
+133.180.254.21 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 201 332678 "-" "Opera/8.54.(X11; Linux i686; km-KH) Presto/2.9.168 Version/11.00"
+sshd[7307]: Failed password for dudleyamber from 172.27.39.95 port 17698 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[5023]: Session opened for rhondahawkins from 10.43.2.6 port 15530 ssh2
+sshd[4049]: Session opened for justincooke from 172.30.26.197 port 59756 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"cache miss","user":"georgejeremy","trace":"FIC68754zFjX"}
+FEATURE_X_ENABLED=redis://localhost:6379 API_KEY=AIzaJJ12MSEdTV9nEncH8mKsXXKo8JNOJ-UMA7-MWg
+sshd[7807]: Session opened for erogers from 10.36.30.107 port 25771 ssh2
+198.35.242.140 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 403 83073 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.1)"
+sshd[9665]: Failed password for adamcampbell from 192.168.219.92 port 48317 ssh2
+120.185.5.125 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 403 225150 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_4; rv:1.9.3.20) Gecko/5051-05-08 05:59:19.068878 Firefox/5.0"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"carpenterbradley","trace":"OguB0gVdLOtj"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"cache miss","user":"carterjoshua","trace":"Qhllo8Lcikdq"}
+LOG_LEVEL=5353

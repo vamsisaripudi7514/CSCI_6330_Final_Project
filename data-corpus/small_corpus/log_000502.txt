@@ -1,0 +1,26 @@
+API_TIMEOUT=2447
+sshd[5679]: Session opened for glopez from 172.20.181.126 port 20877 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"request completed","user":"wendycampos","trace":"6EbgG5Op2yzV"}
+LOG_LEVEL=3523
+124.127.120.60 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 404 422981 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_4 rv:6.0; id-ID) AppleWebKit/532.40.1 (KHTML, like Gecko) Version/5.1 Safari/532.40.1"
+LOG_LEVEL=srv-23.white.biz
+84.57.177.0 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 400 358429 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.17.7 (KHTML, like Gecko) Version/5.1 Safari/532.17.7"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"cache miss","user":"joseph50","trace":"RqzWZzCJF2iP"}
+API_TIMEOUT=redis://localhost:6379
+sshd[6186]: Failed password for ppeterson from 192.168.31.186 port 43750 ssh2
+181.215.54.47 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 502 497615 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0; rv:1.9.4.20) Gecko/7275-12-26 14:03:18.003510 Firefox/6.0"
+DB_HOST=WARN
+sshd[9184]: Accepted password for kjackson from 192.168.23.73 port 21896 ssh2
+sshd[8953]: Failed password for melissa80 from 10.235.85.187 port 55153 ssh2
+sshd[6162]: Session opened for laurie71 from 10.94.112.175 port 63736 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"kimberly56","trace":"R6J7F4VRSOPp"}
+sshd[5523]: Session closed for prattjessica from 10.15.201.171 port 23008 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"cache miss","user":"fbradford","trace":"wdVFbZuLEM0l"}
+113.204.157.96 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 204 54184 "-" "Opera/8.87.(X11; Linux i686; cv-RU) Presto/2.9.179 Version/11.00"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"db slow query","user":"williamcohen","trace":"geK5v7AMevT6"}
+sshd[5432]: Accepted password for ssmith from 192.168.102.180 port 53669 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvUkFDbXFzc0lNIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.3-mrOWNCxW1ChX0SbeMb-ZidIqcjg8bIPt3K9WKeQhg'
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"christine72","trace":"wU1YGqL5iIAX"}
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"token refreshed","user":"danielmitchell","trace":"OJzBUiFeD1Y3"}
+DB_HOST=4471
+sshd[4911]: Failed password for jessica07 from 172.24.232.161 port 52743 ssh2

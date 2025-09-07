@@ -1,0 +1,39 @@
+API_TIMEOUT=3166
+sshd[9654]: Session opened for joebrown from 172.20.41.226 port 53307 ssh2 password=uI2#fW/|@*njg
+sshd[2472]: Session closed for csmith from 172.16.62.247 port 62118 ssh2
+REDIS_URL=27146
+98.90.34.88 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 401 53548 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_9; rv:1.9.3.20) Gecko/2387-07-07 23:35:47.676378 Firefox/10.0"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"request completed","user":"davismary","trace":"F8Oedx3rZx0C"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"token refreshed","user":"lisa19","trace":"myACpXDm09rq"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"db slow query","user":"hmartin","trace":"wNwBmyOkIJC9"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"user session created","user":"halldaniel","trace":"sM71FGj2terd"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"user session created","user":"davidoconnor","trace":"XqQ5Xxq0K6VX"}
+sshd[8584]: Accepted password for ronniewashington from 172.30.245.48 port 30323 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"db slow query","user":"maria83","trace":"VFWA5PIECy29"}
+72.222.75.77 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 403 90786 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"request completed","user":"williamsthomas","trace":"KP7Vf3sEhfyO"}
+sshd[7138]: Session opened for kaitlinclark from 192.168.208.232 port 29937 ssh2
+sshd[1875]: Accepted password for bmiles from 192.168.164.41 port 38069 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"db slow query","user":"oconnormeredith","trace":"aVi7kJ6Vpl4E"}
+REDIS_URL=redis://localhost:6379
+REDIS_URL=INFO password=pG4@0kC_\M
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"request completed","user":"cbaldwin","trace":"pjeK8HLqwrA0"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"rpace","trace":"7AqP50jiKejw"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"lwebster","trace":"22XHKZj7QrYD"}
+sshd[3460]: Session closed for anna47 from 192.168.60.10 port 58464 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"cache miss","user":"dustinbrown","trace":"KjpxYz7O8TUS"} password=wT9/BM6'35A#q98
+212.34.85.133 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 204 480045 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"james96","trace":"j66FTLnn91Pa"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"victorle","trace":"3rTMEZf2omMf"}
+sshd[7096]: Failed password for wgrant from 10.227.185.188 port 28709 ssh2
+sshd[2267]: Failed password for bjohnson from 10.156.75.185 port 11662 ssh2
+sshd[4111]: Session opened for lauren04 from 172.19.19.241 port 19097 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"ibaker","trace":"924Gszallkws"}
+156.101.99.9 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 204 509680 "-" "Opera/8.26.(Windows NT 5.0; ia-FR) Presto/2.9.185 Version/10.00"
+sshd[9773]: Session closed for vprice from 172.23.210.242 port 10577 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"request completed","user":"floydstephen","trace":"8znsdpYqszCd"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[5316]: Failed password for smithstephanie from 10.104.17.73 port 11380 ssh2
+89.63.237.232 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 403 362493 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; hi-IN) AppleWebKit/535.22.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.22.4"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"db slow query","user":"markmcdonald","trace":"CpusLS8OpqyI"}

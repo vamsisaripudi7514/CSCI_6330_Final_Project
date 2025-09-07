@@ -1,0 +1,41 @@
+sshd[4344]: Session closed for jonessherry from 10.89.247.28 port 17928 ssh2
+54.166.146.177 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 200 309092 "-" "Opera/9.70.(X11; Linux i686; aa-ET) Presto/2.9.188 Version/12.00"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"request completed","user":"rebeccaarnold","trace":"XdklTPeuFyUu"}
+174.224.210.154 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 201 416716 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; apn-IN) AppleWebKit/535.18.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.18.6"
+LOG_LEVEL=2622
+API_TIMEOUT=3745
+DB_HOST=45555
+sshd[4199]: Session closed for xbell from 10.153.168.152 port 24202 ssh2
+sshd[5954]: Session opened for kyleanderson from 10.237.138.108 port 16462 ssh2
+sshd[6971]: Session closed for dmontgomery from 172.26.28.12 port 23355 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"cache miss","user":"efletcher","trace":"Koxsfj1VH5fI"}
+LOG_LEVEL=46313
+DB_HOST=false
+153.200.237.148 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 500 417094 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/19.0.803.0 Safari/532.2"
+sshd[2770]: Session opened for frankerin from 10.59.36.51 port 57617 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"evelynsmith","trace":"qcMMps9x1rDz"}
+133.195.138.54 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 502 27209 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; tk-TM) AppleWebKit/534.29.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6534.29.3"
+sshd[1930]: Failed password for benjamin64 from 172.30.220.68 port 25328 ssh2
+sshd[4505]: Session closed for thompsonchristopher from 172.24.93.132 port 54846 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"db slow query","user":"briggsjustin","trace":"9etFkuLtaiAl"}
+DB_HOST=WARN
+184.34.172.214 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 201 336349 "-" "Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/56.0.849.0 Mobile/68C642 Safari/531.0"
+FEATURE_X_ENABLED=db-36.gordon.com
+205.252.124.81 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 201 215414 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"cache miss","user":"jeremy27","trace":"781WE0HEHGaf"}
+sshd[3598]: Session opened for wpratt from 172.25.142.171 port 26977 ssh2
+sshd[4974]: Accepted password for qdominguez from 192.168.157.114 port 37835 ssh2
+sshd[1623]: Session opened for gonzalezkevin from 10.124.60.4 port 43694 ssh2
+133.39.128.85 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 204 222032 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5; rv:1.9.6.20) Gecko/6012-07-28 19:25:03.569946 Firefox/10.0"
+12.97.134.254 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 502 415812 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/54.0.861.0 Mobile/29L391 Safari/535.1"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"user session created","user":"anna57","trace":"DnbUUU85qLGY"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"xevans","trace":"923WVRyYEWt7"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"uscott","trace":"yP0GVBLCOQXM"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"user session created","user":"dixoncameron","trace":"vyIR1KIzwCK6"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"eric94","trace":"WbDLUL6sge2I"}
+API_TIMEOUT=web-50.gray.com
+API_TIMEOUT=1153
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"user session created","user":"tonya35","trace":"gHgBUBnijOKI"}
+sshd[3988]: Accepted password for gloverchristine from 172.30.142.222 port 12679 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"request completed","user":"denniskevin","trace":"JVQ5EQRQxuPv"}

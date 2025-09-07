@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"robertlopez","trace":"cAn2ghwBEfTh"}
+sshd[4744]: Failed password for robert77 from 192.168.63.53 port 58285 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"token refreshed","user":"steinsteven","trace":"7gQyJxgagW8O"}
+sshd[5397]: Accepted password for thomas56 from 192.168.25.119 port 31054 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"cache miss","user":"jose54","trace":"ztkrMXHTMzLU"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"mwalton","trace":"tFJ7E3W6s5Ro"}
+221.37.43.76 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 140370 "-" "Mozilla/5.0 (Windows NT 6.1; mr-IN; rv:1.9.2.20) Gecko/2951-07-05 18:10:41.670193 Firefox/3.6.15"
+24.109.23.127 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 500 11635 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.1)"
+204.238.237.83 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 302 350488 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDNmxaazhOdzVnIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.PypHSaMbKCKswbiUDGx-0JbrWixW8tCTh40Zp0xtBZY'
+sshd[5020]: Failed password for otucker from 192.168.108.116 port 44599 ssh2
+sshd[6874]: Session opened for jameswaters from 172.22.89.107 port 10299 ssh2
+117.14.177.9 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 502 117648 "-" "Opera/9.73.(Windows NT 6.2; ti-ER) Presto/2.9.188 Version/11.00"
+REDIS_URL=493
+45.198.27.109 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 201 494024 "-" "Mozilla/5.0 (Android 4.0.3; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0"
+sshd[4702]: Session closed for chrisshah from 172.29.130.127 port 33767 ssh2
+51.117.157.83 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 403 329470 "-" "Opera/9.60.(Windows NT 5.2; be-BY) Presto/2.9.164 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"kathy52","trace":"IzsYXGxKfMhy"}
+sshd[4254]: Session opened for fernandeztristan from 172.21.191.31 port 60917 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"justin86","trace":"o4aAxbEE1ReS"}
+REDIS_URL=redis://localhost:6379 API_KEY=AIzaidKlRc38j5EiXW7WOuwKUlOBFflOE7vNmuikqA
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"db slow query","user":"valentinekathleen","trace":"UA5hTRoxLifK"}
+156.135.141.25 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 200 169169 "-" "Opera/9.32.(Windows NT 5.0; crh-UA) Presto/2.9.188 Version/10.00" password=jC3@6lBD`wZfI\E
+sshd[8349]: Session opened for russelloneill from 192.168.145.147 port 11659 ssh2
+22.198.237.15 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 200 253639 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.1)"
+sshd[8533]: Session closed for mary97 from 172.31.198.193 port 64975 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+63.3.148.239 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 401 128551 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.0)"

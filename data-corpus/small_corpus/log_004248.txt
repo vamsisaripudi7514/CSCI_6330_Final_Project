@@ -1,0 +1,39 @@
+sshd[3825]: Failed password for robertmccarthy from 172.21.105.6 port 29049 ssh2
+19.7.186.153 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 400 216995 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/3.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"gabrielle36","trace":"3ZtLhqyuhNab"}
+60.141.145.36 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 204 197633 "-" "Opera/9.67.(X11; Linux i686; hsb-DE) Presto/2.9.161 Version/11.00"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"cache miss","user":"turnerkatie","trace":"3nZNfPDVDxnr"}
+116.203.35.231 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 200 410776 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.804.0 Safari/535.0"
+133.88.95.19 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 502 132982 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.1)"
+211.162.169.225 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 302 356158 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"user session created","user":"michael53","trace":"hnxnPF2CEzHy"}
+sshd[7006]: Session opened for christopher10 from 192.168.62.131 port 50801 ssh2
+sshd[7153]: Session opened for cooperjoshua from 10.48.182.129 port 26730 ssh2
+sshd[8818]: Failed password for tcabrera from 10.144.129.148 port 26456 ssh2
+sshd[7604]: Session closed for jodi95 from 10.162.141.195 port 61306 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"request completed","user":"kevinevans","trace":"jMqac7hwFs4V"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"request completed","user":"matthewyang","trace":"bbiztQ55fmAT"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"db slow query","user":"hjohnston","trace":"NNNzNGJhpqlU"}
+API_TIMEOUT=13234
+198.122.220.129 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 201 338363 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.0)" password=vF1@+('9ugGpdR8n
+81.89.122.74 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 400 174987 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.1)"
+sshd[4894]: Session closed for henryjustin from 192.168.84.202 port 50986 ssh2
+FEATURE_X_ENABLED=db-51.dickerson.com
+sshd[6695]: Session opened for amanda82 from 10.68.41.45 port 53393 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"db slow query","user":"ojohnson","trace":"0Xw4O28OA3Cz"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"joshuaguerra","trace":"BsZPckMIGmUb"}
+23.20.133.61 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 403 508287 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/6397-06-28 19:45:52.905823 Firefox/11.0"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"vaughnjennifer","trace":"Jk27nDhBzq1g"}
+115.175.83.155 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 400 384996 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.0)"
+170.240.206.211 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 500 155978 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.0)"
+sshd[4075]: Failed password for ellisjasmine from 10.14.145.235 port 13089 ssh2
+API_TIMEOUT=3725
+sshd[7926]: Session closed for melendezdenise from 172.19.233.68 port 64335 ssh2
+195.78.168.248 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 401 150983 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.0)"
+62.120.162.179 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 500 212084 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/57.0.808.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"huntnathan","trace":"TmAtXF02flap"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"db slow query","user":"perezsteven","trace":"hvY8RnE2xvmP"}
+sshd[3383]: Accepted password for mcknightkimberly from 192.168.162.127 port 56296 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"user session created","user":"jorgeruiz","trace":"xlRi9FbcGfxD"}
+28.232.168.141 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 401 377722 "-" "Opera/9.65.(X11; Linux i686; cy-GB) Presto/2.9.182 Version/10.00" password=xN1_0+M2
+sshd[6940]: Accepted password for zfrazier from 192.168.122.128 port 49466 ssh2

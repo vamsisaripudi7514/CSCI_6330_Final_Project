@@ -1,0 +1,40 @@
+80.138.38.169 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 302 269166 "-" "Opera/8.70.(Windows 98; Win 9x 4.90; sv-FI) Presto/2.9.179 Version/11.00"
+sshd[5875]: Session closed for kgonzalez from 172.22.188.61 port 48488 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"request completed","user":"sara68","trace":"Ui11kYC1pq2V"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"token refreshed","user":"cooperjustin","trace":"8poj1uGzvr2c"}
+sshd[8298]: Session opened for john31 from 10.244.100.105 port 34698 ssh2
+DB_PORT=358
+REDIS_URL=laptop-50.dean-chang.biz
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"request completed","user":"dlove","trace":"PC60qVeQawCS"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"carlsonchristopher","trace":"eizwkFAHVQfZ"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"wesley08","trace":"bciEkNWDIjGr"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"request completed","user":"jessicapearson","trace":"qgrtX7mE71bI"}
+sshd[8941]: Session opened for willie03 from 172.18.129.230 port 62599 ssh2
+DB_PORT=26310
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"retrying upstream","user":"crystal22","trace":"QQods2ZqlxND"}
+FEATURE_X_ENABLED=59251
+64.47.58.195 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 404 327464 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/32.0.852.0 Mobile/40H289 Safari/532.0"
+REDIS_URL=2167
+REDIS_URL=31108
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"sandovaljohn","trace":"1ReUtoo5rEu0"}
+44.83.161.47 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 204 334634 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; mr-IN) AppleWebKit/533.32.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6533.32.2"
+22.112.174.45 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 404 300138 "-" "Opera/9.22.(X11; Linux i686; xh-ZA) Presto/2.9.163 Version/12.00"
+89.196.25.178 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 401 107037 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/32.0.893.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"request completed","user":"williammurillo","trace":"PSOPgHngaaL8"}
+48.213.46.81 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 302 69140 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"user session created","user":"davisveronica","trace":"sLDPFIaLgrWW"}
+API_TIMEOUT=lt-00.sanders-hughes.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnRkNJSnh6eGpTIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.9pWEeXwJ8O9KOnMCpJsn1qHsM-9t1xSFugnhKqzkRRM'
+sshd[6226]: Failed password for angela96 from 10.140.92.153 port 58265 ssh2
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"zmeadows","trace":"yuxC4XYERH3v"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"user session created","user":"lfox","trace":"0nx1cZvz07Rs"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"cache miss","user":"larrymartin","trace":"un5bNb6COiur"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"daniellethompson","trace":"jRQ7sW9uepwK"}
+37.241.109.130 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 404 461655 "-" "Opera/8.12.(Windows NT 10.0; se-NO) Presto/2.9.161 Version/11.00" API_KEY=AIzajEcqXkK5O9eZQgjEYXxAO0U6aq874IdddUa6jg
+LOG_LEVEL=57356
+REDIS_URL=DEBUG
+91.69.240.138 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 404 226155 "-" "Opera/9.51.(Windows 98; Win 9x 4.90; yue-HK) Presto/2.9.171 Version/11.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDbWxUT3RoeEJjIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.vbBnuS1lP30Y0mgusPX6dLTlL4mf77E0sIG9VHyyXF8'
+sshd[3185]: Session opened for walter92 from 192.168.61.229 port 10140 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqb01mejdoMVo1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.6Km9ZR6deNxxcnK9e-mrPvfG1AmwiLdK_6qDIgeMvdQ'
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"db slow query","user":"joan60","trace":"UPPzwGB8XEmH"}
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"db slow query","user":"tclark","trace":"r2RTnKCFFA3h"}

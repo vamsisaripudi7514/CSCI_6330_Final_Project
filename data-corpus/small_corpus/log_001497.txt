@@ -1,0 +1,43 @@
+sshd[7803]: Session opened for cynthia96 from 192.168.62.130 port 40731 ssh2
+sshd[2001]: Failed password for grobinson from 192.168.56.177 port 39386 ssh2
+DB_PORT=redis://localhost:6379
+112.90.131.6 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 204 148030 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_8) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/62.0.805.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"michaelobrien","trace":"Q5cWH7ahra3S"}
+API_TIMEOUT=redis://localhost:6379
+API_TIMEOUT=7122
+FEATURE_X_ENABLED=true
+119.154.56.187 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 401 523101 "-" "Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/31.0.866.0 Mobile/27D583 Safari/533.0"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"ellisaaron","trace":"hYd3GCzFnNcE"}
+76.130.111.56 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 500 90274 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.0)"
+API_TIMEOUT=7319
+sshd[5456]: Accepted password for bellvictor from 10.237.246.145 port 23998 ssh2
+17.167.70.191 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 200 34096 "-" "Opera/8.44.(X11; Linux i686; dz-BT) Presto/2.9.170 Version/10.00"
+LOG_LEVEL=934
+222.135.110.217 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 502 415536 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/48.0.889.0 Mobile/10R807 Safari/532.1"
+DB_HOST=3542
+sshd[9272]: Accepted password for santoschloe from 192.168.79.110 port 25093 ssh2
+sshd[7821]: Failed password for jacob54 from 10.93.26.237 port 31764 ssh2
+API_TIMEOUT=web-21.davis.info
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"mvelasquez","trace":"ntOZuw2JPIvp"}
+LOG_LEVEL=DEBUG
+DB_HOST=WARN
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"cache miss","user":"lisamiller","trace":"zcXXU666MSsx"}
+DB_HOST=desktop-77.moore-ware.com
+sshd[3867]: Failed password for ramseydouglas from 192.168.210.132 port 43397 ssh2
+DB_PORT=1244
+158.144.117.224 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 404 407534 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/26.0.864.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"request completed","user":"michaelalvarez","trace":"T2U04a1cYU5I"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJTUmRoNHNzR01XIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.c71-x7wUvTyyvbCatzE9nayYJvp2bZW9BNXuVMdfc80'
+217.152.206.52 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 401 68816 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.28.7 (KHTML, like Gecko) Version/4.0.5 Safari/532.28.7"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"db slow query","user":"heathergarcia","trace":"y5eRJt2JUU44"}
+LOG_LEVEL=false
+FEATURE_X_ENABLED=2699
+REDIS_URL=DEBUG
+sshd[2521]: Session opened for jessicabowman from 192.168.159.170 port 24989 ssh2
+sshd[3381]: Accepted password for christian78 from 172.30.163.74 port 46738 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"request completed","user":"njohnson","trace":"i0SS4N2i9H74"}
+sshd[1728]: Session closed for cholloway from 172.28.235.8 port 55002 ssh2 password=rZ0$GqoY,9
+sshd[4518]: Failed password for hmyers from 172.23.73.106 port 42158 ssh2
+DB_HOST=web-44.randolph-davis.info
+API_TIMEOUT=true
+LOG_LEVEL=redis://localhost:6379

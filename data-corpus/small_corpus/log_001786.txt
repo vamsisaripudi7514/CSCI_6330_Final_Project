@@ -1,0 +1,41 @@
+45.180.249.181 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 403 168729 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/52.0.834.0 Safari/536.0"
+222.8.120.247 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 401 274402 "-" "Opera/8.39.(X11; Linux i686; ps-AF) Presto/2.9.169 Version/11.00"
+5.114.120.219 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 403 262914 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; mni-IN; rv:1.9.1.20) Gecko/8762-03-19 12:28:15.078705 Firefox/3.8"
+DB_PORT=INFO
+sshd[4194]: Session opened for gonzalezlarry from 10.173.221.153 port 41296 ssh2
+DB_HOST=38185
+sshd[7194]: Failed password for kgutierrez from 172.25.138.255 port 50240 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ6U3FCWjZtN3JWIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.A0aLIM7496uQFNgq1KPgFod1aL5WJxvpsQ_yaKV5aDg'
+95.249.108.148 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 401 114733 "-" "Opera/9.57.(X11; Linux i686; mg-MG) Presto/2.9.182 Version/11.00"
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"db slow query","user":"michele56","trace":"jRJ0IKTAIXsY"}
+DB_HOST=4689
+REDIS_URL=redis://localhost:6379
+87.239.114.153 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 200 353896 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ia-FR) AppleWebKit/535.1.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.1.6"
+sshd[1460]: Session closed for toddayala from 192.168.231.249 port 58244 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"user session created","user":"ishah","trace":"RAhMLL1MPx1u"}
+REDIS_URL=20150
+13.17.33.45 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 404 336898 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5 rv:5.0; pl-PL) AppleWebKit/532.6.7 (KHTML, like Gecko) Version/5.1 Safari/532.6.7"
+200.68.229.162 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 204 468666 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6; rv:1.9.3.20) Gecko/8162-03-12 21:32:51.869629 Firefox/3.6.17"
+213.83.151.211 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 204 505804 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_8 rv:3.0; fo-FO) AppleWebKit/531.9.7 (KHTML, like Gecko) Version/4.0 Safari/531.9.7"
+sshd[9746]: Session closed for cameronmarsh from 10.227.59.200 port 15024 ssh2
+FEATURE_X_ENABLED=4529
+LOG_LEVEL=false
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"hrandolph","trace":"TrJNzYVgNf04"}
+20.132.27.217 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 302 465092 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.0)"
+API_TIMEOUT=redis://localhost:6379
+sshd[3298]: Failed password for leonardklein from 192.168.232.147 port 15422 ssh2
+DB_PORT=lt-36.powell-hines.com
+sshd[7831]: Failed password for ericpittman from 10.246.105.62 port 18421 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"zamoradarren","trace":"2KlCN5tQYbPk"}
+sshd[5219]: Failed password for aguilarkenneth from 192.168.22.235 port 38973 ssh2
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"user session created","user":"javierpoole","trace":"AasjUbnILKLx"}
+LOG_LEVEL=email-72.hudson.com
+sshd[6856]: Session opened for dawnsloan from 192.168.37.0 port 47713 ssh2
+sshd[7316]: Accepted password for smithangela from 192.168.31.55 port 23874 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"db slow query","user":"ksmith","trace":"Bo7x3i6zGlPQ"}
+68.157.30.190 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 302 96093 "-" "Mozilla/5.0 (Android 12.1; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0"
+213.85.83.141 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 500 378204 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/18.0.850.0 Mobile/94Q043 Safari/532.2"
+DB_HOST=false
+sshd[2432]: Session closed for lawrencebrown from 192.168.185.172 port 47468 ssh2
+LOG_LEVEL=redis://localhost:6379

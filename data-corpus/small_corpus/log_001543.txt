@@ -1,0 +1,29 @@
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"zrussell","trace":"YcBO8PLMo2Sk"}
+sshd[1755]: Session closed for deborahcooper from 172.25.201.251 port 50377 ssh2
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"tiffany10","trace":"CNNiWg68EogC"}
+REDIS_URL=redis://localhost:6379
+sshd[9320]: Failed password for david19 from 192.168.95.159 port 10441 ssh2
+151.116.49.0 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 502 241273 "-" "Opera/8.69.(Windows 95; mai-IN) Presto/2.9.179 Version/12.00"
+sshd[7268]: Accepted password for floydgregory from 10.247.28.21 port 54279 ssh2
+sshd[6078]: Session opened for stephanie13 from 10.188.0.39 port 56129 ssh2
+144.213.252.29 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 200 457466 "-" "Mozilla/5.0 (Android 3.2.6; Mobile; rv:46.0) Gecko/46.0 Firefox/46.0"
+sshd[7114]: Session closed for bwilson from 192.168.202.113 port 33794 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"db slow query","user":"andreawagner","trace":"8Wh3FSi0Og80"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"cache miss","user":"tiffanyking","trace":"DzDYbiW3iXaR"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"db slow query","user":"dsantiago","trace":"ouq90G9F305f"}
+REDIS_URL=48255
+DB_PORT=2313
+118.5.66.7 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 400 516680 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/18.0.833.0 Mobile/40L070 Safari/531.1"
+139.205.20.115 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 204 159035 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_3 rv:3.0; sq-ML) AppleWebKit/534.35.6 (KHTML, like Gecko) Version/5.0 Safari/534.35.6"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"james30","trace":"fbxcJAWQQMP2"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"robertstevens","trace":"XOKApnB3q3h5"}
+DB_HOST=true
+177.149.8.167 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 200 84451 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/9950-09-29 12:26:09.050934 Firefox/3.6.15"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"user session created","user":"ramirezlaura","trace":"yS13yKlTJTIA"}
+76.92.162.53 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 204 317065 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/534.12.7 (KHTML, like Gecko) Version/5.0.3 Safari/534.12.7"
+REDIS_URL=DEBUG
+FEATURE_X_ENABLED=3040
+77.111.14.41 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 201 271346 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_9) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/47.0.817.0 Safari/536.1"
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"katiefarrell","trace":"OM2z8Y3wnCyW"}

@@ -1,0 +1,25 @@
+FEATURE_X_ENABLED=WARN
+sshd[4414]: Failed password for stephanie75 from 10.179.154.64 port 60064 ssh2
+sshd[9173]: Session closed for sandovalelizabeth from 10.209.76.4 port 40246 ssh2
+REDIS_URL=lt-52.rosales.net
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"user session created","user":"hjordan","trace":"uBlLq2WiijMf"}
+168.50.188.42 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 201 265412 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_5 rv:4.0; wo-SN) AppleWebKit/532.30.7 (KHTML, like Gecko) Version/5.0 Safari/532.30.7" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJpODM4ZjdzN21DIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ._58vSn15bq5X3kTYkNZExw6nibUZn39pAnyfQMZbH3I'
+sshd[3183]: Accepted password for barias from 192.168.122.52 port 18393 ssh2
+sshd[4872]: Accepted password for bishopsusan from 192.168.137.22 port 54216 ssh2
+51.85.212.35 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 204 441727 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/15.8e0281.0 Mobile/92I656 Safari/531.0"
+LOG_LEVEL=WARN
+165.121.1.191 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 401 252151 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_0 rv:2.0; hne-IN) AppleWebKit/535.11.1 (KHTML, like Gecko) Version/5.0 Safari/535.11.1"
+sshd[6094]: Accepted password for ianshaw from 192.168.113.11 port 26737 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"yhodges","trace":"6KVd8NLSLKIf"}
+LOG_LEVEL=srv-85.hart.com
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"cache miss","user":"sancheztravis","trace":"KhzBozhWuzN2"}
+91.84.250.103 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 401 473075 "-" "Opera/8.94.(Windows 98; Win 9x 4.90; ro-RO) Presto/2.9.188 Version/11.00"
+sshd[4168]: Session opened for karencruz from 172.26.78.142 port 32385 ssh2
+REDIS_URL=DEBUG
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"patrickjames","trace":"qw5UgVdREPR1"}
+sshd[1291]: Failed password for lisajohnson from 10.19.195.116 port 42133 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"retrying upstream","user":"pampeters","trace":"yup09Z3O85GU"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"request completed","user":"john84","trace":"n2RJaxbHrgQB"}
+sshd[9256]: Failed password for chadphelps from 192.168.98.8 port 32067 ssh2
+184.12.22.195 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 201 3000 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.0)"
+sshd[2275]: Failed password for esmith from 10.218.112.254 port 36238 ssh2

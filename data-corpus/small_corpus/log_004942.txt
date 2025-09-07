@@ -1,0 +1,49 @@
+LOG_LEVEL=redis://localhost:6379
+sshd[7712]: Session opened for lthomas from 172.27.9.225 port 55798 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"clynch","trace":"2wMefCIOS6De"}
+123.179.163.110 - - [07/Sep/2025:18:24:57 +0000] "PUT /index.html HTTP/1.1" 204 301659 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.9.5 (KHTML, like Gecko) Version/4.0.3 Safari/531.9.5"
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"hernandezkevin","trace":"FMDfcYH3KMiA"}
+API_TIMEOUT=srv-72.graham-foster.com
+1.192.179.242 - - [07/Sep/2025:18:24:57 +0000] "PUT /assets/app.js HTTP/1.1" 502 479061 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"orders","msg":"request completed","user":"grace40","trace":"KmVm0FFUZHbj"}
+sshd[8111]: Failed password for fbaldwin from 192.168.195.142 port 32209 ssh2
+sshd[5182]: Session opened for raymondbutler from 172.20.43.69 port 54908 ssh2
+sshd[6714]: Failed password for christinecolon from 10.65.85.189 port 38536 ssh2
+DB_HOST=redis://localhost:6379
+FEATURE_X_ENABLED=2579
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"juan13","trace":"s0mBTKGt99Z7"}
+REDIS_URL=false
+sshd[3076]: Session closed for vanessaryan from 10.153.51.41 port 15397 ssh2
+209.102.62.147 - - [07/Sep/2025:18:24:57 +0000] "GET /index.html HTTP/1.1" 302 403731 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/24.0.814.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"notify","msg":"request completed","user":"robrien","trace":"8v10CCMLqaFr"}
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"bakerjamie","trace":"mx3afOEYm0PD"}
+sshd[3959]: Session opened for jamiebrewer from 192.168.7.220 port 24695 ssh2
+API_TIMEOUT=2505
+sshd[1510]: Failed password for sanchezmichelle from 10.181.142.25 port 64087 ssh2
+146.205.58.153 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 400 376675 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.0)"
+DB_HOST=redis://localhost:6379
+LOG_LEVEL=19108
+sshd[1029]: Accepted password for christina23 from 10.26.234.98 port 20941 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"notify","msg":"user session created","user":"kwashington","trace":"xoTbdyxWR2hh"}
+sshd[3519]: Session opened for nicholasreid from 10.98.169.180 port 49310 ssh2
+sshd[7722]: Session opened for jennifer28 from 10.208.119.34 port 31289 ssh2
+sshd[5714]: Failed password for bramirez from 172.28.128.199 port 27092 ssh2
+sshd[3798]: Session closed for nbryant from 172.23.143.219 port 60584 ssh2
+sshd[5832]: Accepted password for loretta09 from 172.18.163.77 port 45847 ssh2
+DB_PORT=WARN
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"search","msg":"user session created","user":"michaelbeltran","trace":"vMBwOQ4QVioY"}
+sshd[2996]: Session closed for kathrynliu from 192.168.153.51 port 57286 ssh2
+219.40.157.211 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 400 390307 "-" "Mozilla/5.0 (Windows CE; th-TH; rv:1.9.0.20) Gecko/5654-10-12 19:53:50.142975 Firefox/3.8"
+REDIS_URL=redis://localhost:6379
+sshd[2069]: Failed password for blakesmith from 192.168.72.16 port 52718 ssh2
+sshd[8099]: Failed password for xkeller from 172.23.45.73 port 21254 ssh2
+FEATURE_X_ENABLED=lt-04.campbell.com password=xZ2,==qI
+LOG_LEVEL=true
+DB_PORT=true
+DB_HOST=desktop-56.harvey.net
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"dawsonchristopher","trace":"ExpSYTPmGMUT"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"oyoder","trace":"j8IsrbaRfSpM"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"whitesteven","trace":"waGc0uhvKIbe"}
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"request completed","user":"haroldmay","trace":"UBFiw9HxJEU9"}
+FEATURE_X_ENABLED=27981

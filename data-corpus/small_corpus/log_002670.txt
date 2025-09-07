@@ -1,0 +1,26 @@
+DB_HOST=false
+REDIS_URL=redis://localhost:6379
+DB_PORT=desktop-26.butler-smith.info
+sshd[4343]: Session opened for marcmoss from 172.29.45.55 port 33537 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"user session created","user":"zwebb","trace":"HtWQkU9EwElJ"}
+205.90.222.68 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 502 141212 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.0)"
+99.230.62.128 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 403 172916 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1_2 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/50.0.845.0 Mobile/18A787 Safari/532.2"
+sshd[2501]: Session closed for jonesmatthew from 172.24.59.161 port 43488 ssh2
+181.131.74.44 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 302 515315 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/9.4i2016.0 Mobile/86K585 Safari/532.1" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJicHFiUGxTUTNpIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.aMzalNrjBBCcgNl1vWcwKH69OCpinwe-4TkhNH2AvjY'
+115.21.59.207 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 401 39655 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)"
+sshd[4673]: Accepted password for alvarezjulia from 192.168.0.244 port 26905 ssh2
+173.147.161.190 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 401 474087 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/4.1)"
+DB_HOST=lt-69.rojas.com
+3.98.253.98 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 302 338838 "-" "Opera/9.40.(Windows NT 6.1; byn-ER) Presto/2.9.167 Version/12.00"
+145.239.28.9 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 200 208704 "-" "Opera/8.27.(Windows NT 11.0; ayc-PE) Presto/2.9.174 Version/12.00"
+205.132.20.80 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 401 264753 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/11.9s4178.0 Mobile/09T108 Safari/532.1"
+sshd[8198]: Session opened for swood from 10.229.91.216 port 27278 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"ralph32","trace":"bwIOoSsX79Bm"} API_KEY=AIza2eqQP9mJiABmbxg_JF19Rn_n9XakFZx7tdEvew
+sshd[8448]: Failed password for douglaspayne from 192.168.163.215 port 13685 ssh2
+sshd[2630]: Failed password for evanssamantha from 192.168.34.150 port 34925 ssh2
+DB_PORT=false
+REDIS_URL=DEBUG
+DB_HOST=2688 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ6a1BkVENpQWluIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.NBW8UKR_J5AzU9_XYiN-RzYN1awb_d57xvgAF3pttwo'
+LOG_LEVEL=64219
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"user session created","user":"raymond07","trace":"GhsXu7ZhrIph"}
+sshd[3260]: Session closed for smithanthony from 172.31.130.107 port 13307 ssh2

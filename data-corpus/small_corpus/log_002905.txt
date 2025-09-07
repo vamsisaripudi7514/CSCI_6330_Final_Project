@@ -1,0 +1,26 @@
+48.33.61.101 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 404 87433 "-" "Opera/8.30.(X11; Linux x86_64; lo-LA) Presto/2.9.166 Version/11.00"
+166.179.123.198 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 204 260745 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/46.0.836.0 Safari/536.0"
+FEATURE_X_ENABLED=2761
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"request completed","user":"englishantonio","trace":"OGfSq3vLbbEv"}
+FEATURE_X_ENABLED=25257
+200.167.232.253 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 201 501565 "-" "Opera/9.31.(Windows 95; en-NG) Presto/2.9.164 Version/11.00"
+170.154.149.73 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 400 81711 "-" "Opera/8.14.(X11; Linux x86_64; ht-HT) Presto/2.9.185 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"user session created","user":"ojohnson","trace":"weDDMDrPfBFU"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"request completed","user":"elliottsandy","trace":"wk66IslpdUT4"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"gmorgan","trace":"XVqpGJYWKgCA"}
+83.107.51.40 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 201 394736 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/56.0.805.0 Safari/532.0"
+194.133.212.137 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 201 483645 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/55.0.879.0 Safari/534.0"
+REDIS_URL=lt-93.price.com
+DB_HOST=INFO
+sshd[5135]: Session opened for charles66 from 192.168.210.241 port 29076 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"token refreshed","user":"chenrichard","trace":"eNiGeLS1EApX"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"cesarsampson","trace":"gmqN8wN6lZ6B"}
+FEATURE_X_ENABLED=4661
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"token refreshed","user":"karinawatkins","trace":"KQd4YzpROLkh"}
+142.204.52.140 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 400 132404 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0)"
+sshd[9188]: Session closed for phillipssteven from 172.21.236.56 port 53215 ssh2
+27.224.182.234 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 403 489458 "-" "Opera/9.82.(Windows NT 6.2; ja-JP) Presto/2.9.186 Version/10.00"
+121.97.23.60 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 500 459901 "-" "Mozilla/5.0 (Windows NT 5.01; wa-BE; rv:1.9.0.20) Gecko/6192-05-11 06:28:17.444962 Firefox/3.6.20"
+sshd[2310]: Session opened for rasmussenemily from 172.28.210.212 port 10727 ssh2

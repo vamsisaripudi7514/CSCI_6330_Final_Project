@@ -1,0 +1,28 @@
+DB_PORT=WARN
+sshd[8483]: Failed password for qfitzgerald from 172.27.4.247 port 29400 ssh2
+78.180.146.178 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 200 446951 "-" "Opera/9.80.(X11; Linux i686; ckb-IQ) Presto/2.9.176 Version/11.00"
+sshd[2898]: Session closed for paulfields from 192.168.26.166 port 16225 ssh2
+162.83.67.232 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 204 172440 "-" "Opera/9.20.(X11; Linux x86_64; byn-ER) Presto/2.9.168 Version/10.00"
+FEATURE_X_ENABLED=18607
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"token refreshed","user":"james98","trace":"Ud82kgA6LEZK"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"user session created","user":"christinacraig","trace":"b3R41U5iE6Fh"}
+DB_HOST=INFO
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"user session created","user":"elizabeth69","trace":"SSNgBQUpEwQR"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"token refreshed","user":"aprilmclaughlin","trace":"7kG2E2F3keWF"}
+sshd[1824]: Session opened for michael43 from 10.145.169.43 port 43222 ssh2
+API_TIMEOUT=2025
+DB_HOST=lt-18.gordon.com
+164.31.131.25 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 403 18914 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_9 rv:2.0; hr-HR) AppleWebKit/535.17.6 (KHTML, like Gecko) Version/5.1 Safari/535.17.6"
+142.26.190.119 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 502 334381 "-" "Mozilla/5.0 (Windows NT 6.0; id-ID; rv:1.9.2.20) Gecko/6289-11-09 11:05:36.192108 Firefox/3.8"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"moraemma","trace":"0d0o2DvJXNME"}
+sshd[2868]: Session closed for charlesnathan from 192.168.3.100 port 16385 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"travis94","trace":"1O9ZsJHxSgc5"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"wwhite","trace":"Nmmh72znD0Ym"}
+216.247.241.182 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 502 64730 "-" "Opera/9.71.(Windows NT 10.0; st-ZA) Presto/2.9.161 Version/12.00"
+API_TIMEOUT=lt-08.long-parks.com
+19.218.14.93 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 404 484764 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; mai-IN) AppleWebKit/534.21.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.21.6"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"request completed","user":"michael76","trace":"yQMM4uG4yAM6"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"retrying upstream","user":"robertgoodwin","trace":"sCZiiAMS4VGt"}
+sshd[4291]: Failed password for iwhite from 172.24.242.185 port 23743 ssh2
+sshd[3173]: Session opened for linda86 from 192.168.51.34 port 56556 ssh2

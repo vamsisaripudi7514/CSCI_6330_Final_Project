@@ -1,0 +1,25 @@
+sshd[9812]: Accepted password for kenneth38 from 192.168.84.182 port 52074 ssh2
+sshd[4147]: Accepted password for mercadocarl from 172.21.79.168 port 36311 ssh2
+143.77.102.62 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 404 517879 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/57.0.875.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"request completed","user":"crichardson","trace":"VjcVa5HF2gjO"}
+112.191.232.44 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 200 102563 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.1)"
+DB_PORT=WARN
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"retrying upstream","user":"joshua48","trace":"RwTNO0MWidNU"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"tsantos","trace":"hCfboVzYdKuy"}
+sshd[9820]: Failed password for scotttucker from 172.28.147.76 port 33686 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"greenmitchell","trace":"xXISZ1DPKK41"}
+sshd[3713]: Session closed for ruthjenkins from 172.20.135.246 port 52047 ssh2
+sshd[5082]: Failed password for tdiaz from 192.168.154.114 port 15740 ssh2
+4.231.251.53 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 201 269751 "-" "Opera/9.59.(Windows NT 6.2; lo-LA) Presto/2.9.186 Version/11.00"
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"db slow query","user":"mooreleah","trace":"vbl4PSbpgNjA"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"request completed","user":"brenda13","trace":"rrERTkDWTjMX"}
+17.45.72.172 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 204 267793 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; rv:1.9.6.20) Gecko/6600-03-26 17:48:26.553009 Firefox/3.6.19"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"cache miss","user":"hinesdouglas","trace":"q0pjSWk0LJi8"}
+DB_PORT=4328
+sshd[5627]: Failed password for cohenmichael from 10.250.59.169 port 23192 ssh2
+166.147.112.216 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 404 54106 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"db slow query","user":"ryan35","trace":"7FXhoSra2vxH"}
+168.151.110.64 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 401 94718 "-" "Opera/8.40.(Windows NT 10.0; cv-RU) Presto/2.9.182 Version/12.00"
+124.163.198.156 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 500 505901 "-" "Mozilla/5.0 (Linux; Android 7.1.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/39.0.801.0 Safari/535.1"
+66.215.58.220 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 502 57476 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; bs-BA) AppleWebKit/532.22.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.22.5"

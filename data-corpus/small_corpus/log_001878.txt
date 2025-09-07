@@ -1,0 +1,38 @@
+sshd[5419]: Session opened for fkrueger from 10.105.21.81 port 16093 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJIR0NWUGhxTVdxIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.7csh1f4wOhbyHoedXEy3UI1yTHJtXYxMRVj98IytWxM'
+134.38.73.251 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 403 447199 "-" "Opera/8.27.(Windows NT 4.0; ve-ZA) Presto/2.9.185 Version/11.00"
+DB_PORT=redis://localhost:6379
+22.152.179.229 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 500 508223 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.0)"
+API_TIMEOUT=INFO
+17.236.96.29 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 204 371619 "-" "Mozilla/5.0 (Linux; Android 2.0.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/60.0.863.0 Safari/533.2"
+sshd[6753]: Session opened for thorntonjeremiah from 10.243.31.145 port 38964 ssh2
+sshd[5078]: Session closed for bharris from 192.168.51.193 port 45672 ssh2
+sshd[1831]: Session closed for thorntonmarissa from 192.168.96.231 port 40748 ssh2 API_KEY=AIzaJ3-YYT91OQ2r5uFjjuICDVk798XQOBsLqsKqNg
+sshd[5388]: Session opened for spencerelizabeth from 192.168.110.215 port 63032 ssh2
+sshd[8963]: Session closed for neallogan from 172.26.233.135 port 28731 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"christina36","trace":"0VVjDhOQF2iu"} API_KEY=AIzaT9s_qzbVoy2b0q_sgyeOgmRzeqyN3PU4OeNKog
+DB_PORT=INFO
+sshd[1877]: Session opened for crussell from 172.25.18.120 port 11134 ssh2
+sshd[9054]: Session opened for justin35 from 10.182.96.67 port 58653 ssh2 API_KEY=AIzaxabZHi-ZQf97S9v7w1cnaa8BXcHxpYvWc13Ciw
+FEATURE_X_ENABLED=srv-73.carlson-hughes.org
+sshd[1085]: Failed password for warrencarolyn from 192.168.159.17 port 13430 ssh2
+132.97.3.119 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 201 342148 "-" "Opera/9.89.(X11; Linux x86_64; mni-IN) Presto/2.9.180 Version/12.00"
+FEATURE_X_ENABLED=14977
+sshd[6285]: Session opened for wilsondaniel from 172.24.81.248 port 29633 ssh2
+87.33.37.87 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 500 257461 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/3.0)"
+18.109.217.230 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 403 232578 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"cache miss","user":"martinkimberly","trace":"HrwnU0CP80AY"}
+102.192.75.238 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 400 263744 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/3.1)"
+sshd[9074]: Failed password for cburns from 10.201.102.150 port 62316 ssh2
+sshd[4640]: Failed password for cbrowning from 10.44.102.71 port 64784 ssh2 API_KEY=AIzaZPtWRAJ7MvpvOEeKPOwOEyX5vR8TuOkv2mAeIA
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"kwells","trace":"flWWWVOf3CyP"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"request completed","user":"jasonnewman","trace":"PK88lm630zWE"}
+105.93.30.110 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 403 397364 "-" "Mozilla/5.0 (Android 2.3.1; Mobile; rv:19.0) Gecko/19.0 Firefox/19.0"
+98.182.52.4 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 502 140803 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.1)"
+88.255.140.72 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 302 503777 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/57.0.848.0 Safari/535.2"
+205.164.187.237 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 302 9987 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/39.0.893.0 Safari/534.1"
+48.197.182.242 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 302 214288 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.0)"
+sshd[7215]: Failed password for austinalyssa from 10.58.151.62 port 59716 ssh2
+112.87.90.107 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 302 42233 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/49.0.874.0 Safari/533.1"
+25.35.116.113 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 404 284088 "-" "Opera/8.89.(X11; Linux i686; ps-AF) Presto/2.9.166 Version/10.00"
+sshd[4359]: Session closed for elizabethjohnson from 10.79.254.4 port 55856 ssh2
+152.81.160.136 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 201 418534 "-" "Mozilla/5.0 (Android 11; Mobile; rv:28.0) Gecko/28.0 Firefox/28.0"

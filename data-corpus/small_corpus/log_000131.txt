@@ -1,0 +1,26 @@
+REDIS_URL=25211
+220.112.141.67 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 204 139063 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_3 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/58.0.887.0 Mobile/72A942 Safari/531.1"
+sshd[2409]: Failed password for justinsmith from 192.168.247.228 port 11576 ssh2
+115.40.31.199 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 201 351020 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_6) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/29.0.882.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"cache miss","user":"georgebenjamin","trace":"W3FEOPoFBwvq"}
+89.211.50.220 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 404 187281 "-" "Mozilla/5.0 (Android 1.0; Mobile; rv:20.0) Gecko/20.0 Firefox/20.0"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"xguzman","trace":"J7gsD8gl6yAB"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"chambersnathan","trace":"3iMrlDTd1i9e"}
+193.107.227.161 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 302 333883 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8 rv:3.0; es-DO) AppleWebKit/535.49.3 (KHTML, like Gecko) Version/5.0.2 Safari/535.49.3"
+218.59.159.33 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 404 324520 "-" "Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/16.9r6562.0 Mobile/13Z957 Safari/536.0"
+sshd[5718]: Failed password for jessica87 from 10.95.214.79 port 63238 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"request completed","user":"barbaradillon","trace":"1iM3M3coC6hS"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"user session created","user":"bjohnson","trace":"pKSYxuDQ6f8s"}
+213.8.0.90 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 204 515515 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.0)"
+LOG_LEVEL=laptop-08.richardson.com
+sshd[7453]: Failed password for sharonbeck from 192.168.73.134 port 26461 ssh2
+REDIS_URL=INFO
+FEATURE_X_ENABLED=INFO
+174.72.231.125 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 204 86714 "-" "Opera/9.21.(Windows NT 5.0; mai-IN) Presto/2.9.166 Version/12.00"
+API_TIMEOUT=48065
+114.242.240.46 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 401 350695 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_5 rv:5.0; zh-HK) AppleWebKit/535.36.6 (KHTML, like Gecko) Version/4.0.2 Safari/535.36.6"
+165.80.150.251 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 500 393663 "-" "Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/20.0.826.0 Safari/532.2"
+91.174.116.5 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 502 22875 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; br-FR) AppleWebKit/535.42.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6535.42.2"
+DB_PORT=WARN
+API_TIMEOUT=redis://localhost:6379
+53.80.197.146 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 500 345146 "-" "Opera/9.88.(X11; Linux i686; kn-IN) Presto/2.9.181 Version/12.00"

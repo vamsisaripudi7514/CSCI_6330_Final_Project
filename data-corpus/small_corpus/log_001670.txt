@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"bharris","trace":"phMtRApX3VSe"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"db slow query","user":"elambert","trace":"3WGTRVfMsnrB"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"cache miss","user":"christinafisher","trace":"t81t1L6Ewv93"}
+145.175.115.234 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 401 116323 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/4.1)"
+sshd[8619]: Session closed for benjaminellis from 10.166.26.94 port 26475 ssh2
+96.107.72.23 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 401 4371 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4 rv:4.0; mt-MT) AppleWebKit/533.32.2 (KHTML, like Gecko) Version/4.0 Safari/533.32.2"
+sshd[6024]: Failed password for anthonyabbott from 10.113.136.110 port 10054 ssh2
+REDIS_URL=INFO
+92.19.4.228 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 204 173441 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.0)"
+107.154.181.47 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 502 392331 "-" "Opera/8.43.(Windows NT 11.0; sr-RS) Presto/2.9.189 Version/12.00"
+LOG_LEVEL=INFO
+DB_HOST=21794 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBcWJrcVdOakY0IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.bcokTtFlPESFNBJP0mVwhCBPzjmz2Nnibv6MuQWdyG4'
+DB_HOST=24198
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"request completed","user":"garrisonthomas","trace":"UCyHjzuFXBYZ"}
+sshd[1429]: Accepted password for ginahayes from 172.21.227.250 port 20853 ssh2
+sshd[5369]: Session opened for mbrown from 172.25.99.52 port 14579 ssh2
+sshd[4435]: Session opened for paulwilliams from 192.168.143.163 port 23028 ssh2
+REDIS_URL=email-12.wood-garcia.org
+sshd[5582]: Failed password for lauraporter from 192.168.102.164 port 13277 ssh2
+sshd[3263]: Session opened for grichards from 10.95.214.162 port 34006 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"connorvalentine","trace":"JTmJ59Z6pg0U"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"michaelgordon","trace":"fBA3376h6ewx"}
+158.22.125.4 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 400 181237 "-" "Opera/9.42.(Windows 95; or-IN) Presto/2.9.165 Version/12.00"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"cache miss","user":"heather59","trace":"RcYesWuJlKsG"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"gordonsara","trace":"udUuZHd54pqX"}
+LOG_LEVEL=WARN

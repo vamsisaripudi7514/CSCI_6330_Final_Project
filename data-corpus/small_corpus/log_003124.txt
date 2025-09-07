@@ -1,0 +1,25 @@
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[3337]: Accepted password for shannon04 from 192.168.186.162 port 58024 ssh2
+sshd[7480]: Session opened for paula26 from 10.24.201.185 port 46462 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"christinamolina","trace":"GiJMhCbkyMmY"}
+REDIS_URL=32878
+188.77.211.170 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 302 397923 "-" "Opera/8.26.(Windows NT 6.0; ko-KR) Presto/2.9.176 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"request completed","user":"joshua10","trace":"ckgr3qYn4CFM"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"request completed","user":"salazarjessica","trace":"BLFSjBZFsf5A"}
+38.34.122.151 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 401 287750 "-" "Mozilla/5.0 (Android 2.2.3; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0"
+sshd[3803]: Session opened for iwilliams from 10.150.30.200 port 54260 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"request completed","user":"kcunningham","trace":"igryH0qa3gsp"}
+sshd[7969]: Accepted password for crosbyjackie from 172.27.46.122 port 61775 ssh2
+FEATURE_X_ENABLED=INFO
+124.171.5.140 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 401 123053 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/23.0.809.0 Safari/531.2"
+LOG_LEVEL=51138
+162.142.50.248 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 401 40742 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_1 rv:2.0; pa-PK) AppleWebKit/532.1.6 (KHTML, like Gecko) Version/4.0.4 Safari/532.1.6"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"wilcoxedgar","trace":"mBhQ9QuSBOxD"}
+170.50.11.146 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 403 165635 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/44.0.871.0 Mobile/01I754 Safari/531.1"
+REDIS_URL=redis://localhost:6379
+DB_PORT=email-43.pena.com
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"tammy13","trace":"MqC0yTsR58UX"}
+sshd[2757]: Failed password for zadams from 172.22.215.3 port 28662 ssh2
+sshd[7765]: Failed password for agrant from 172.20.236.208 port 18341 ssh2
+62.24.119.225 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 400 338476 "-" "Mozilla/5.0 (Windows NT 5.0; lb-LU; rv:1.9.0.20) Gecko/2844-12-30 15:56:41.491817 Firefox/6.0"
+20.25.133.235 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 201 114298 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.24.2 (KHTML, like Gecko) Version/5.0 Safari/534.24.2"

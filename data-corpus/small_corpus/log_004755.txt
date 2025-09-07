@@ -1,0 +1,33 @@
+LOG_LEVEL=DEBUG
+sshd[8521]: Session closed for carpenterstephanie from 192.168.220.32 port 64561 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"igraham","trace":"nnYLPwgfhSNf"} password=lI9"#i(a
+sshd[1066]: Session opened for mark97 from 172.19.158.22 port 11276 ssh2
+181.0.201.103 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 200 65447 "-" "Mozilla/5.0 (Windows NT 5.0; quz-PE; rv:1.9.1.20) Gecko/6325-06-03 17:13:02.372040 Firefox/3.8"
+LOG_LEVEL=INFO
+LOG_LEVEL=redis://localhost:6379
+60.109.132.24 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 403 51639 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/35.0.865.0 Safari/534.1"
+5.130.54.246 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 401 304364 "-" "Opera/9.81.(Windows 98; Win 9x 4.90; fur-IT) Presto/2.9.187 Version/11.00"
+195.238.36.104 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 404 123912 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.0)"
+sshd[4614]: Failed password for thomaskennedy from 10.53.159.141 port 13637 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"lbutler","trace":"AvWzIXM1kx6N"}
+sshd[2775]: Session closed for lisamorgan from 172.23.197.10 port 62611 ssh2
+sshd[2520]: Session closed for paulsosa from 172.26.30.200 port 48434 ssh2
+REDIS_URL=51445
+REDIS_URL=1042
+sshd[9263]: Session closed for mcgrathjennifer from 10.70.199.109 port 44187 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"vbaker","trace":"YgKiOHwJWAud"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"token refreshed","user":"sotojohn","trace":"Ys9Zmg0PNiAF"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"user session created","user":"mirandahensley","trace":"XJGyJPiNMfc0"}
+sshd[5132]: Failed password for xgilbert from 10.70.71.76 port 32040 ssh2
+DB_HOST=laptop-73.anderson.com
+FEATURE_X_ENABLED=381
+sshd[9007]: Session closed for michelle10 from 10.145.151.51 port 22204 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"user session created","user":"lbrown","trace":"syYL242eBeiu"}
+208.200.5.114 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 404 291095 "-" "Opera/9.75.(X11; Linux x86_64; crh-UA) Presto/2.9.170 Version/12.00"
+134.25.114.210 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 404 380125 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.0)"
+67.85.202.186 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 500 404708 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; et-EE) AppleWebKit/533.4.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6533.4.3"
+sshd[2880]: Session opened for scottjohn from 172.27.245.167 port 61950 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"lawrencesanchez","trace":"mx2FA7Mv9sCM"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"jacqueline79","trace":"fURDcq43wlIc"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"token refreshed","user":"nyang","trace":"2VejbGyU0aw8"}
+138.109.198.11 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 400 489375 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.39.4 (KHTML, like Gecko) Version/4.0 Safari/534.39.4"

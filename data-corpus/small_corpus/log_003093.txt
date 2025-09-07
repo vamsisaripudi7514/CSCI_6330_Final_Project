@@ -1,0 +1,27 @@
+API_TIMEOUT=53072
+193.40.165.47 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 404 171183 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.1)"
+sshd[9865]: Failed password for djordan from 10.146.244.160 port 26631 ssh2
+76.167.12.177 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 400 424111 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/3057-09-30 14:12:39.806683 Firefox/3.6.2"
+sshd[8376]: Failed password for ehamilton from 172.18.39.158 port 33402 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"yroy","trace":"j3V16zWIep7w"}
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"db slow query","user":"christopherball","trace":"xShY6gOWsjb3"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"token refreshed","user":"nathanmiller","trace":"sLKmCJ3QKwpj"}
+FEATURE_X_ENABLED=false
+34.155.53.252 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 400 444142 "-" "Opera/8.74.(X11; Linux x86_64; mn-MN) Presto/2.9.167 Version/10.00"
+221.167.167.107 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 302 91496 "-" "Opera/9.36.(Windows NT 11.0; lzh-TW) Presto/2.9.171 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"user session created","user":"psmall","trace":"M7D0XzEU3W9J"}
+34.47.236.194 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 204 37396 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/535.43.5 (KHTML, like Gecko) Version/5.0.1 Safari/535.43.5"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"taylormitchell","trace":"j5WEAKu0cXUq"}
+LOG_LEVEL=1833
+REDIS_URL=13570
+DB_PORT=39820
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"vmarshall","trace":"Z38cH1xfhJxk"}
+sshd[6861]: Session opened for fho from 192.168.198.118 port 28861 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"retrying upstream","user":"sarahowen","trace":"rvgAGzIsxWDe"}
+LOG_LEVEL=db-56.davis-miller.com
+sshd[9320]: Failed password for cory61 from 192.168.172.2 port 43809 ssh2
+218.167.192.8 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 201 411753 "-" "Opera/9.36.(X11; Linux i686; kk-KZ) Presto/2.9.187 Version/12.00"
+DB_PORT=redis://localhost:6379
+83.34.54.248 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 500 305075 "-" "Mozilla/5.0 (Windows NT 5.01; be-BY; rv:1.9.2.20) Gecko/9071-06-28 00:59:26.645172 Firefox/11.0"
+19.115.238.253 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 302 264405 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/4.1)"

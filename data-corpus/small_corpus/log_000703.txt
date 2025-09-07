@@ -1,0 +1,31 @@
+sshd[6965]: Accepted password for kthomas from 172.21.101.227 port 63153 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"craig46","trace":"vwiNheqMu2Wj"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[9815]: Session closed for meganmcdonald from 10.166.29.159 port 37544 ssh2
+sshd[3090]: Failed password for xpennington from 172.31.57.52 port 22154 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"zachary11","trace":"hHdHN9GXAGW5"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"request completed","user":"jennifer94","trace":"NnN6PzY67Qyq"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"token refreshed","user":"ybrown","trace":"0kRKwvXqvxxY"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"request completed","user":"sharpsharon","trace":"0h51d7c59dBv"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"zrobinson","trace":"482fIzIZml9t"}
+REDIS_URL=WARN
+64.139.39.41 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 404 503931 "-" "Mozilla/5.0 (Android 3.2.3; Mobile; rv:8.0) Gecko/8.0 Firefox/8.0"
+API_TIMEOUT=false
+API_TIMEOUT=redis://localhost:6379
+194.55.22.78 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 302 162723 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"cache miss","user":"jonespamela","trace":"kVOYTUR7hpS8"}
+DB_PORT=true
+sshd[3648]: Session closed for victoria13 from 192.168.249.113 port 15156 ssh2
+151.188.64.93 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 201 7570 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/15.0.830.0 Mobile/11W697 Safari/535.2"
+sshd[9625]: Failed password for kimberlybrown from 10.167.237.16 port 12565 ssh2
+sshd[4970]: Session opened for charlesmccarthy from 192.168.190.240 port 63820 ssh2
+DB_HOST=redis://localhost:6379
+sshd[2910]: Failed password for kennethlawrence from 192.168.248.68 port 23852 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"db slow query","user":"brandon69","trace":"IMBvCt5mqcrt"}
+FEATURE_X_ENABLED=3065
+API_TIMEOUT=web-98.moore-johnson.org
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"token refreshed","user":"gonzalezrobert","trace":"FXRbyd3b9kdj"}
+sshd[8965]: Failed password for fmorris from 172.25.47.49 port 45581 ssh2
+170.1.242.53 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 404 441499 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/7359-11-16 15:54:58.830475 Firefox/10.0"
+DB_PORT=1984
+sshd[8688]: Failed password for montgomeryjeremy from 192.168.204.191 port 34270 ssh2

@@ -1,0 +1,38 @@
+14.242.191.99 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 500 193309 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/5929-08-10 15:06:09.272842 Firefox/3.8" API_KEY=AIzaMKbW0w8dloIkoS-FQSC-Ql4XSfgNzOwQZjKAxA
+LOG_LEVEL=redis://localhost:6379
+222.136.159.242 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 302 463067 "-" "Mozilla/5.0 (Android 4.4; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0"
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"request completed","user":"ruizkathryn","trace":"hb5X8Ke9WGHc"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"token refreshed","user":"ofriedman","trace":"7C7v7O6EMxFu"}
+32.230.106.40 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 200 112264 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.1)"
+LOG_LEVEL=redis://localhost:6379
+API_TIMEOUT=INFO
+36.225.116.189 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 502 334324 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/49.0.841.0 Mobile/38O533 Safari/531.2"
+134.131.186.213 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 500 470950 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/7724-10-28 18:18:33.499451 Firefox/3.6.8"
+sshd[7271]: Accepted password for davismichael from 172.22.149.14 port 16861 ssh2
+DB_HOST=63609
+sshd[3037]: Session opened for williamsjessica from 192.168.152.37 port 43955 ssh2
+sshd[7659]: Accepted password for romerotina from 10.148.248.222 port 55446 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"db slow query","user":"joshuawilliams","trace":"uCrVPTQpuqyq"}
+sshd[5976]: Session opened for samanthabarton from 172.21.138.6 port 58031 ssh2
+42.228.252.231 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 400 101858 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; sq-ML) AppleWebKit/534.12.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6534.12.5"
+DB_HOST=true
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"edwardfowler","trace":"EM2gbt1p38L7"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"request completed","user":"colton54","trace":"IV4H2X1Y3M1b"}
+sshd[7376]: Session opened for lewisnicholas from 10.73.44.13 port 23411 ssh2
+DB_PORT=WARN
+106.169.62.216 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 302 399865 "-" "Mozilla/5.0 (Android 2.1; Mobile; rv:66.0) Gecko/66.0 Firefox/66.0"
+LOG_LEVEL=WARN
+API_TIMEOUT=redis://localhost:6379
+sshd[8396]: Session closed for ggonzalez from 172.18.63.13 port 22781 ssh2
+sshd[8207]: Failed password for mgarcia from 172.16.202.54 port 25819 ssh2
+sshd[4342]: Failed password for rrhodes from 10.6.45.141 port 46214 ssh2
+sshd[8109]: Session closed for rogersjason from 10.78.7.95 port 30352 ssh2
+sshd[7527]: Failed password for sarah92 from 172.28.167.239 port 56107 ssh2
+LOG_LEVEL=redis://localhost:6379
+REDIS_URL=2127
+API_TIMEOUT=srv-75.sanders.com
+91.244.98.50 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 502 350558 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/9.2c0821.0 Mobile/44I088 Safari/532.1"
+82.30.206.235 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 201 329183 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_5 rv:2.0; the-NP) AppleWebKit/531.22.6 (KHTML, like Gecko) Version/4.0 Safari/531.22.6"
+REDIS_URL=true
+56.17.177.118 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 404 358039 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/3.0)"

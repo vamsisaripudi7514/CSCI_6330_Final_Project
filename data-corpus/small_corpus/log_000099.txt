@@ -1,0 +1,32 @@
+sshd[7671]: Failed password for douglas96 from 172.25.40.48 port 46653 ssh2
+DB_PORT=desktop-57.nelson-harris.com
+158.165.17.52 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 204 230434 "-" "Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/31.0.838.0 Mobile/53Z334 Safari/531.2"
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[9023]: Failed password for dhunt from 192.168.47.68 port 40124 ssh2
+API_TIMEOUT=1871
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"jeff63","trace":"tRsnOMqzGXMy"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"user session created","user":"travisroberts","trace":"eR9jmoxCRAfE"}
+214.189.177.222 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 201 464599 "-" "Mozilla/5.0 (Android 6.0.1; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0"
+sshd[8552]: Session opened for melissadunn from 172.20.116.187 port 40248 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"db slow query","user":"davidrasmussen","trace":"p8zCIuScGN56"}
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"token refreshed","user":"igrimes","trace":"viLw2mCVDYq4"}
+108.47.120.20 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 403 244305 "-" "Opera/8.11.(Windows NT 5.01; hy-AM) Presto/2.9.179 Version/10.00"
+REDIS_URL=2272
+sshd[6048]: Accepted password for clayamy from 172.28.180.251 port 49110 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"request completed","user":"codyharris","trace":"uWEXnPXndNLd"}
+144.239.153.19 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 200 417623 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/14.2m4210.0 Mobile/18D465 Safari/535.0"
+REDIS_URL=INFO
+sshd[5000]: Session opened for clarkmelissa from 192.168.101.8 port 44428 ssh2
+sshd[6987]: Session closed for barbara27 from 10.201.170.64 port 26121 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"hmurray","trace":"BcOR66QWa39c"}
+31.158.165.121 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 200 385800 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.1)"
+sshd[7904]: Session opened for washingtonyesenia from 10.158.0.156 port 15098 ssh2
+REDIS_URL=redis://localhost:6379
+REDIS_URL=DEBUG
+API_TIMEOUT=861
+sshd[7743]: Session closed for jonesjeffrey from 172.17.15.161 port 36207 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[6621]: Session closed for katherinegreen from 172.31.251.3 port 49347 ssh2
+128.209.41.160 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 204 367855 "-" "Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/37.0.858.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"user session created","user":"cwhite","trace":"TlFB6s2bur1E"}

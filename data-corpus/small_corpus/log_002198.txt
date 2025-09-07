@@ -1,0 +1,27 @@
+89.24.25.146 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 204 83859 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/535.17.7 (KHTML, like Gecko) Version/5.0 Safari/535.17.7"
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"user session created","user":"jasonwalker","trace":"fomn5nhVq1j7"}
+sshd[5273]: Session closed for vtucker from 172.23.169.84 port 55420 ssh2
+sshd[5665]: Session closed for brownjohn from 192.168.226.24 port 21957 ssh2
+sshd[3167]: Accepted password for sharris from 172.30.68.237 port 29487 ssh2
+167.65.104.149 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 400 107676 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.16.7 (KHTML, like Gecko) Version/4.1 Safari/532.16.7"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"thomaspatrick","trace":"Q8ar0GitPty6"}
+API_TIMEOUT=false
+215.113.27.42 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 500 405527 "-" "Mozilla/5.0 (Windows NT 5.01) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/54.0.870.0 Safari/531.1"
+DB_PORT=redis://localhost:6379
+API_TIMEOUT=INFO
+LOG_LEVEL=false
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"cache miss","user":"pearsonmarissa","trace":"MaTFJbFryPWc"}
+97.66.228.133 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 200 335951 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; nan-TW; rv:1.9.2.20) Gecko/9514-03-31 20:04:57.387604 Firefox/3.6.19"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"request completed","user":"cwalters","trace":"wxbBCbOKmJaM"}
+sshd[9984]: Accepted password for stevenreyes from 172.30.203.10 port 11490 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"conradjames","trace":"7ZKx9wkoV8HB"}
+sshd[7719]: Session closed for sabrina13 from 192.168.25.233 port 35943 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"db slow query","user":"bdonaldson","trace":"QsheiGOlu6rK"}
+LOG_LEVEL=2863
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"cache miss","user":"shepardalexandra","trace":"kGXTZSVYaKPs"}
+sshd[4934]: Accepted password for cbell from 10.126.41.26 port 62880 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"db slow query","user":"singletoncharles","trace":"UTnBVGdmQIUV"}
+REDIS_URL=4104
+API_TIMEOUT=WARN
+DB_PORT=false

@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"cache miss","user":"smithlaurie","trace":"PFP82xtMGeYQ"}
+159.27.119.54 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 502 454539 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/39.0.826.0 Safari/535.0"
+12.149.84.215 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 502 245086 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.1)"
+FEATURE_X_ENABLED=4160
+205.147.230.62 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 404 96864 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; szl-PL) AppleWebKit/532.24.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.24.1"
+15.189.34.21 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 200 195278 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/59.0.856.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"request completed","user":"josedavis","trace":"gJW3IWE7NNgf"}
+sshd[2225]: Session closed for christopherramsey from 192.168.167.96 port 45822 ssh2
+sshd[9301]: Session closed for burkejames from 192.168.236.152 port 15228 ssh2
+REDIS_URL=4596
+sshd[6171]: Failed password for johnsonandrew from 172.26.254.249 port 63272 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"user session created","user":"eanthony","trace":"i9uoD9wmew0b"}
+DB_PORT=desktop-22.arnold.info
+101.0.163.176 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 400 73795 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/31.0.888.0 Mobile/12H398 Safari/532.2"
+DB_PORT=INFO
+sshd[9432]: Accepted password for browndavid from 10.103.210.128 port 47007 ssh2
+REDIS_URL=db-21.harmon-simmons.com
+LOG_LEVEL=redis://localhost:6379
+sshd[8313]: Failed password for gtorres from 10.163.152.191 port 19531 ssh2
+sshd[6263]: Session opened for bobbybarry from 172.31.8.109 port 52560 ssh2 password=sF7?WGdxJK
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"lance85","trace":"zO0qNpE1f57v"}
+DB_HOST=true
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"cache miss","user":"qmcdonald","trace":"mCKI8mAgHTmU"}
+157.158.211.71 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 400 279570 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1dWs5THl6bURQIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.sQiGS2HD1dJEBN7ktal-Ikvg-1v8uOJ4Y8VeGPj9r3Q'
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"anna68","trace":"gf6YzObbTKim"}

@@ -1,0 +1,35 @@
+sshd[7764]: Failed password for ashleypatrick from 192.168.242.71 port 19347 ssh2
+sshd[7470]: Accepted password for fsherman from 10.31.91.247 port 32530 ssh2
+sshd[3538]: Failed password for ronald86 from 192.168.120.47 port 35634 ssh2
+sshd[4671]: Accepted password for hcarter from 192.168.143.28 port 50118 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"db slow query","user":"jamessalazar","trace":"qbl2NKbO6nX3"}
+91.123.182.15 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 502 175927 "-" "Opera/8.82.(Windows 95; om-ET) Presto/2.9.188 Version/12.00"
+23.41.150.95 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 400 86635 "-" "Mozilla/5.0 (Android 2.3.7; Mobile; rv:44.0) Gecko/44.0 Firefox/44.0"
+4.61.64.44 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 403 388560 "-" "Mozilla/5.0 (Android 3.2.3; Mobile; rv:44.0) Gecko/44.0 Firefox/44.0"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"token refreshed","user":"brettdavis","trace":"L9ue3X3FSg16"} password=xF7!$4@`p
+121.204.83.201 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 302 334377 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.6.1 (KHTML, like Gecko) Version/5.0.5 Safari/532.6.1"
+15.19.238.85 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 502 175635 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/535.30.4 (KHTML, like Gecko) Version/5.0.1 Safari/535.30.4"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"joanne72","trace":"7ARXnPsin3K5"}
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"token refreshed","user":"currymichael","trace":"pqQWvFoKAUSH"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"user session created","user":"bmartin","trace":"A5j8sJ5apAdd"}
+sshd[8904]: Accepted password for joywarren from 172.18.250.250 port 12758 ssh2
+sshd[9973]: Session opened for kaitlyncruz from 10.102.124.95 port 10164 ssh2
+LOG_LEVEL=DEBUG
+161.129.1.35 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 200 104558 "-" "Mozilla/5.0 (Windows NT 5.01; fy-DE; rv:1.9.2.20) Gecko/5410-11-04 23:59:24.208405 Firefox/6.0" password=eQ0."Vi|%|Wh}|
+210.100.11.220 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 201 166989 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_6 rv:5.0; cv-RU) AppleWebKit/532.41.6 (KHTML, like Gecko) Version/4.0.1 Safari/532.41.6"
+223.118.214.113 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 502 343515 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9 rv:5.0; be-BY) AppleWebKit/535.3.7 (KHTML, like Gecko) Version/5.1 Safari/535.3.7"
+sshd[5402]: Session closed for thenderson from 172.23.8.148 port 19436 ssh2
+LOG_LEVEL=lt-43.cannon.org
+153.127.227.52 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 403 203272 "-" "Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/15.0.885.0 Safari/533.2"
+sshd[1760]: Session closed for goodmanamanda from 172.20.223.71 port 33704 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"frojas","trace":"iqLUeVJpSEVR"}
+REDIS_URL=email-90.gonzalez.info
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"token refreshed","user":"brownearl","trace":"oMtpUkkCqwTL"}
+40.22.160.151 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 204 331223 "-" "Mozilla/5.0 (Windows NT 4.0; am-ET; rv:1.9.0.20) Gecko/8318-04-04 01:38:16.268799 Firefox/3.8"
+76.164.28.193 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 201 14338 "-" "Opera/8.88.(Windows NT 6.2; raj-IN) Presto/2.9.182 Version/11.00"
+LOG_LEVEL=false
+47.40.7.39 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 200 103791 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/46.0.814.0 Safari/534.0"
+sshd[7614]: Accepted password for cindy72 from 172.22.17.195 port 39230 ssh2
+DB_HOST=false

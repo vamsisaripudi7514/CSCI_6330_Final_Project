@@ -1,0 +1,31 @@
+sshd[6826]: Session opened for bradley84 from 10.251.231.93 port 18622 ssh2
+sshd[7587]: Failed password for juan81 from 172.27.1.77 port 51820 ssh2
+FEATURE_X_ENABLED=4207
+REDIS_URL=true
+API_TIMEOUT=redis://localhost:6379
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"cache miss","user":"fosterjennifer","trace":"lHG4XgU0lBjJ"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"yjones","trace":"vWkRa32GQS5n"}
+REDIS_URL=web-29.barajas-bates.com
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"dustinsmith","trace":"jbeX6dmPvVnB"}
+sshd[5071]: Failed password for milleradam from 172.21.148.8 port 53958 ssh2
+112.232.242.179 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 204 373863 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/34.0.839.0 Safari/534.2"
+DB_HOST=false
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"token refreshed","user":"fischerjoseph","trace":"a6MzXQjldRVA"}
+FEATURE_X_ENABLED=INFO
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"alexandertara","trace":"niSgcrNGNbhx"}
+sshd[4128]: Accepted password for aguilarleroy from 10.11.194.129 port 49663 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"token refreshed","user":"millsangela","trace":"pDnmFU8Alzdc"}
+DB_HOST=redis://localhost:6379
+sshd[2347]: Session opened for pkane from 192.168.175.201 port 50427 ssh2
+sshd[6513]: Failed password for johnathan25 from 10.245.108.185 port 17730 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJJbWFJcXI3Q1dMIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Nx6WPBAEPltPE4xj5EfLZMRJc9UtHC-3ubbcN8Cl2og'
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"cache miss","user":"mitchellpaul","trace":"L1EobLV2bmh6"}
+112.177.213.109 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 401 291500 "-" "Opera/8.71.(X11; Linux x86_64; sd-PK) Presto/2.9.166 Version/11.00"
+37.197.44.18 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 201 193752 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5; rv:1.9.6.20) Gecko/7513-10-10 02:13:11.448883 Firefox/12.0"
+196.111.85.151 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 404 474577 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0 rv:3.0; ml-IN) AppleWebKit/534.41.6 (KHTML, like Gecko) Version/4.1 Safari/534.41.6"
+sshd[3739]: Failed password for ebarker from 172.28.110.99 port 35042 ssh2
+108.71.8.76 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 403 370317 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_9; rv:1.9.3.20) Gecko/2396-02-24 02:01:34.075239 Firefox/3.6.20"
+API_TIMEOUT=desktop-00.romero.com
+sshd[1773]: Failed password for matthewgarcia from 192.168.193.131 port 51671 ssh2
+sshd[9434]: Session closed for andrew54 from 10.148.4.199 port 24555 ssh2

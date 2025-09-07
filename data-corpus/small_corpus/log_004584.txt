@@ -1,0 +1,43 @@
+sshd[6041]: Session closed for lisa66 from 192.168.152.83 port 29517 ssh2
+23.170.16.189 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 404 11562 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; uz-UZ) AppleWebKit/532.8.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6532.8.3"
+DB_PORT=WARN
+sshd[7354]: Session opened for sparker from 10.223.103.214 port 33513 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"token refreshed","user":"nicole77","trace":"NloE1PcTpJ1r"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"request completed","user":"townsendmary","trace":"7YQxfsZpPG0D"}
+sshd[3188]: Session opened for tphillips from 192.168.43.61 port 27366 ssh2
+DB_HOST=INFO
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"nlong","trace":"8lnD8Qpz7By5"}
+168.145.102.149 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 500 418212 "-" "Opera/8.88.(Windows NT 10.0; os-RU) Presto/2.9.190 Version/10.00"
+218.180.52.251 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 201 192823 "-" "Opera/9.57.(X11; Linux i686; quz-PE) Presto/2.9.167 Version/10.00"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"jlowe","trace":"W6m6SeeYyWc9"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"user session created","user":"santostheodore","trace":"WPYjOT9XArZh"}
+sshd[2242]: Session opened for barberduane from 10.238.246.183 port 20914 ssh2
+LOG_LEVEL=26459
+sshd[4581]: Accepted password for andrewskevin from 192.168.140.204 port 25028 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJLTjRVZjNWNk1pIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.L1T_AqdwvX5GDzT1u4EMB9yRE-EjtgPL2wUO1efKzHY'
+sshd[9664]: Session closed for aburns from 192.168.81.166 port 54951 ssh2
+sshd[7282]: Failed password for tammy01 from 192.168.71.206 port 34349 ssh2
+sshd[9372]: Session closed for cynthiabarnes from 192.168.199.135 port 29672 ssh2
+sshd[6691]: Session opened for robert22 from 192.168.202.162 port 31372 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"gibsonroberto","trace":"65s7PDCOboMn"}
+sshd[9632]: Session closed for michael60 from 172.22.71.134 port 63473 ssh2
+DB_HOST=false
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"lisacarroll","trace":"ddnSSnbaCjja"}
+sshd[9521]: Failed password for colonemma from 172.28.220.25 port 29861 ssh2
+sshd[5239]: Accepted password for nelsonjack from 172.31.21.86 port 56735 ssh2
+REDIS_URL=WARN
+86.228.251.230 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 204 369096 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ja-JP) AppleWebKit/535.18.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6535.18.4"
+sshd[5999]: Accepted password for adamsralph from 192.168.114.68 port 62216 ssh2
+FEATURE_X_ENABLED=5655
+sshd[7469]: Failed password for markross from 10.95.33.103 port 57354 ssh2
+96.220.8.22 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 400 255378 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4616-08-24 22:55:26.579254 Firefox/3.8"
+REDIS_URL=srv-57.cunningham.com
+FEATURE_X_ENABLED=true
+REDIS_URL=9401
+DB_PORT=lt-36.durham.com
+sshd[5732]: Session opened for grayjames from 10.63.91.134 port 30880 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"token refreshed","user":"david99","trace":"Hm8qmNuOFru8"}
+81.114.128.241 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 400 76744 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/4.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"luis19","trace":"TwYbOPisZb2T"}
+175.69.133.184 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 302 262384 "-" "Mozilla/5.0 (Linux; Android 2.3.3) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/59.0.863.0 Safari/531.1"
+198.22.36.246 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 401 83685 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"gilmoremark","trace":"la2pyvHOWRBP"}

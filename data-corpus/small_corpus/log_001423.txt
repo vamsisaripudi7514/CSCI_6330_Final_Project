@@ -1,0 +1,42 @@
+DB_HOST=WARN
+121.221.142.151 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 403 288723 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_3 rv:3.0; st-ZA) AppleWebKit/534.39.2 (KHTML, like Gecko) Version/5.0.5 Safari/534.39.2"
+sshd[3074]: Session closed for xlynn from 172.27.85.248 port 60305 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"user session created","user":"davidfarmer","trace":"0Vqb6kTz0nlV"}
+sshd[9592]: Session opened for tbernard from 10.46.69.6 port 41209 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"request completed","user":"tim78","trace":"qNr51LBz1pFo"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"db slow query","user":"rickey19","trace":"Oa0xBvjpwdAF"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"db slow query","user":"keithtyler","trace":"TeI2holqoPaa"}
+sshd[3555]: Session closed for david02 from 172.20.249.66 port 12908 ssh2
+LOG_LEVEL=redis://localhost:6379
+sshd[3451]: Accepted password for parsonstravis from 10.44.252.174 port 17545 ssh2
+sshd[5219]: Session closed for urodriguez from 172.16.63.208 port 38605 ssh2
+191.178.232.188 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 500 183872 "-" "Opera/9.92.(X11; Linux x86_64; raj-IN) Presto/2.9.170 Version/11.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"user session created","user":"rjohns","trace":"BKSHKjOgcgVG"}
+196.178.48.214 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 204 99633 "-" "Opera/8.77.(Windows NT 4.0; iw-IL) Presto/2.9.186 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"token refreshed","user":"vpacheco","trace":"IemGIK1sciXH"}
+sshd[2663]: Session opened for guzmantiffany from 192.168.154.214 port 40170 ssh2
+sshd[2223]: Accepted password for kathleencooke from 172.16.246.182 port 60670 ssh2
+115.147.198.23 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 200 89273 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.0)"
+DB_PORT=true
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"request completed","user":"angela98","trace":"IcunNsEP531A"}
+API_TIMEOUT=DEBUG
+sshd[5124]: Session opened for sarahzavala from 192.168.176.146 port 54510 ssh2
+sshd[8920]: Session opened for juanrichardson from 172.17.49.3 port 59422 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"cache miss","user":"steven64","trace":"i2uD3XZ3YHj0"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"cache miss","user":"obrienjerry","trace":"5oS8963BaaPJ"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"db slow query","user":"candace55","trace":"3LzjPVNQrmNe"}
+sshd[1904]: Accepted password for melindasosa from 192.168.29.18 port 46414 ssh2
+DB_HOST=2204
+101.38.220.254 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 302 433648 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"user session created","user":"andersonjacob","trace":"2vvKxQeEZPHL"}
+176.87.113.249 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 404 474990 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/3.1)"
+sshd[2625]: Session opened for princemary from 192.168.7.116 port 24726 ssh2
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"cache miss","user":"amandamathews","trace":"4SEAX7H5lXGM"}
+DB_HOST=redis://localhost:6379
+sshd[5767]: Session closed for sandraroberson from 10.113.117.138 port 46715 ssh2
+sshd[1318]: Accepted password for davisbonnie from 172.31.16.80 port 46454 ssh2
+42.38.89.139 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 403 12868 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.1)"
+79.134.202.199 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 204 424905 "-" "Opera/9.97.(Windows NT 6.1; ks-IN) Presto/2.9.186 Version/10.00" password=eS1%6%Ms&I=q

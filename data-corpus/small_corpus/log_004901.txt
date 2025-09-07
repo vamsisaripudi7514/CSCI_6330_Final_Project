@@ -1,0 +1,27 @@
+API_TIMEOUT=62600
+135.243.74.91 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/v1/users HTTP/1.1" 403 372349 "-" "Opera/9.15.(X11; Linux i686; ga-IE) Presto/2.9.174 Version/11.00"
+116.248.224.255 - - [07/Sep/2025:18:24:57 +0000] "PUT /download/report.csv HTTP/1.1" 404 54028 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/15.0.851.0 Safari/533.0"
+18.178.31.51 - - [07/Sep/2025:18:24:57 +0000] "DELETE /api/v1/users HTTP/1.1" 502 381567 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.15.4 (KHTML, like Gecko) Version/5.0.5 Safari/533.15.4"
+DB_HOST=3526 API_KEY=AIzapdUxUTwSTjPW9nJpSnJUvtHC6Ra_QQnpfPuseQ
+sshd[9423]: Accepted password for joseph32 from 172.28.83.143 port 40761 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"cache miss","user":"james51","trace":"Ak3QdsuEoTNm"}
+LOG_LEVEL=28161
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"orders","msg":"request completed","user":"bethrichardson","trace":"2NvRqn9B26Gg"}
+91.87.196.208 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 401 20378 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"notify","msg":"user session created","user":"omartinez","trace":"OHPBdtG5qXbz"}
+DB_HOST=662
+REDIS_URL=false
+sshd[1093]: Accepted password for smartinez from 172.17.127.51 port 11281 ssh2
+sshd[6523]: Session closed for drussell from 192.168.5.216 port 40641 ssh2
+sshd[5473]: Session closed for justinjohnson from 10.186.193.173 port 11381 ssh2
+sshd[3419]: Accepted password for lisaholloway from 172.16.117.129 port 40515 ssh2
+196.70.83.56 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 302 265435 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"williamsangela","trace":"wIbqPRWTLEFO"}
+sshd[6501]: Session closed for lhampton from 172.29.43.215 port 18284 ssh2
+36.222.108.215 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 500 314448 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/5.0)"
+sshd[6831]: Session opened for richardjoseph from 10.54.106.47 port 28679 ssh2
+sshd[3109]: Session closed for vincent97 from 192.168.213.113 port 40943 ssh2
+sshd[2380]: Accepted password for slee from 172.21.157.84 port 25021 ssh2
+sshd[8022]: Accepted password for duranamy from 172.30.144.252 port 56322 ssh2
+REDIS_URL=redis://localhost:6379
+DB_PORT=WARN

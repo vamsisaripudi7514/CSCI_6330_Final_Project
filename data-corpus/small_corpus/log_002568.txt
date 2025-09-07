@@ -1,0 +1,42 @@
+REDIS_URL=808
+sshd[8932]: Session opened for browncharles from 192.168.174.89 port 49245 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4OTZodUdYblBxIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.rO845Hh3FNs7HJYvcSqLg2nzkOXucSD-GYyqibHXmnc'
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"db slow query","user":"andrewramirez","trace":"QPJrj9tDdg1H"}
+API_TIMEOUT=redis://localhost:6379
+API_TIMEOUT=web-12.nguyen.com
+159.4.96.171 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 302 215280 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/35.0.887.0 Mobile/01X431 Safari/536.0"
+3.119.102.110 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 204 361841 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/5.0)"
+sshd[6993]: Session opened for raymondwashington from 192.168.82.241 port 15894 ssh2
+LOG_LEVEL=true
+DB_HOST=INFO
+sshd[1398]: Accepted password for wkirk from 10.146.152.231 port 39915 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"user session created","user":"xmassey","trace":"baQYG81ZR61M"}
+DB_HOST=59904
+sshd[2887]: Session closed for wilkinsnancy from 10.127.45.208 port 16087 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"user session created","user":"jesse75","trace":"YebxjxBI7jjp"}
+105.191.127.86 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 404 30451 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_5) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/26.0.863.0 Safari/533.2"
+sshd[8574]: Session closed for teresaaguirre from 172.24.3.192 port 33430 ssh2
+192.81.201.48 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 502 99745 "-" "Mozilla/5.0 (Linux; Android 8.0.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/41.0.897.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"user session created","user":"vroach","trace":"dwa8RMHDvIoH"}
+120.51.75.16 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 201 133001 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.0)"
+API_TIMEOUT=redis://localhost:6379
+141.247.224.225 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 502 336849 "-" "Opera/9.84.(Windows 95; tcy-IN) Presto/2.9.173 Version/11.00"
+DB_PORT=DEBUG
+sshd[7281]: Accepted password for ibailey from 10.11.240.168 port 64019 ssh2
+sshd[5865]: Failed password for kathleen88 from 192.168.174.246 port 63575 ssh2
+198.241.136.81 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 500 173428 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.0)"
+115.37.7.202 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 200 278137 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.7.3 (KHTML, like Gecko) Version/5.0.2 Safari/532.7.3"
+sshd[4264]: Accepted password for gomezkaren from 172.22.59.187 port 49432 ssh2
+DB_HOST=redis://localhost:6379
+sshd[4657]: Accepted password for apeterson from 10.56.56.162 port 25496 ssh2
+7.152.122.159 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 400 195489 "-" "Mozilla/5.0 (Android 5.1.1; Mobile; rv:44.0) Gecko/44.0 Firefox/44.0"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"request completed","user":"cturner","trace":"ReNJXEQCKhQi"}
+DB_PORT=1558
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"request completed","user":"lewisdavid","trace":"UsHznLb2gdU5"}
+sshd[6987]: Failed password for igoodwin from 172.26.19.158 port 27277 ssh2
+sshd[5622]: Accepted password for greenisaac from 10.229.21.197 port 26373 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"orodriguez","trace":"fjR5trL5uc83"}
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"wendy38","trace":"c0yAGoT0cyGY"}
+sshd[8039]: Session closed for novaklaura from 10.244.27.58 port 51316 ssh2 password=dT4'deYzysyp
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"cache miss","user":"gilljessica","trace":"NK1Uo3xXWDQp"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"db slow query","user":"jjohnson","trace":"l1bIctYwr1Zj"}

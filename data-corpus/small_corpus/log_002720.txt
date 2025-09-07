@@ -1,0 +1,39 @@
+DB_HOST=db-11.reed.com
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"dalejones","trace":"M0MAg9izUH2E"}
+187.134.176.147 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 200 407952 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/4.0)"
+sshd[3051]: Session opened for bondryan from 10.95.230.39 port 42996 ssh2
+sshd[3141]: Failed password for kim19 from 172.21.125.16 port 57214 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"request completed","user":"james04","trace":"U3p2B3Y6FDnT"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"user session created","user":"rweber","trace":"yNdWWdqchdG9"}
+DB_HOST=db-79.garcia.biz
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"request completed","user":"peter32","trace":"s5CWasxzyo8H"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"cynthia47","trace":"QZhblsBpLgag"}
+REDIS_URL=WARN
+API_TIMEOUT=25934
+sshd[2479]: Accepted password for jessicafarrell from 10.111.232.248 port 45190 ssh2
+sshd[7582]: Failed password for kthompson from 172.20.214.81 port 10929 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"request completed","user":"bryanpineda","trace":"jPHpRAnBkuFB"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"ralphkennedy","trace":"RCAexWMdCJSe"}
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"jasmineholloway","trace":"5qynV1PPH5jr"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"jamescopeland","trace":"UBrCZ94OJ7n8"}
+99.151.34.8 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 500 265628 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ka-GE) AppleWebKit/535.19.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.19.3"
+44.99.203.54 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 403 245895 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/13.3n5296.0 Mobile/44R874 Safari/531.2"
+85.186.76.204 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 403 275158 "-" "Opera/8.77.(X11; Linux x86_64; ber-MA) Presto/2.9.168 Version/12.00"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"user session created","user":"dukerobert","trace":"xJRgza12TPs9"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"cache miss","user":"carrnicholas","trace":"15f7QgqnV7lV"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"cache miss","user":"catherine52","trace":"95rdsdxCHHgS"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmNnVSWlhvbk1QIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.q7gwZ1Dn8R227kYoXEEzGQznuDgOAW2nkfyCbIvve08'
+214.66.67.176 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 403 113354 "-" "Opera/8.88.(X11; Linux i686; ps-AF) Presto/2.9.181 Version/11.00"
+sshd[4419]: Failed password for achang from 172.17.106.226 port 59001 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"request completed","user":"ryan48","trace":"zvuHX2hljnWW"}
+sshd[3206]: Failed password for coxdylan from 192.168.190.167 port 10663 ssh2
+DB_HOST=redis://localhost:6379
+136.3.113.242 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 502 174580 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; tt-RU) AppleWebKit/532.33.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.33.4"
+FEATURE_X_ENABLED=50065
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"request completed","user":"sandrarobinson","trace":"2wpnsp8xADED"}
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"michael24","trace":"NlW4IC2e2Ly8"}
+61.60.94.13 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 404 160688 "-" "Opera/9.92.(Windows NT 11.0; kok-IN) Presto/2.9.165 Version/12.00"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"watsonnicole","trace":"iTcUbNCAcl6E"}

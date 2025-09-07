@@ -1,0 +1,27 @@
+sshd[3790]: Accepted password for kmartin from 10.88.189.50 port 60126 ssh2
+130.42.46.150 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 500 135241 "-" "Opera/8.93.(Windows NT 5.1; ps-AF) Presto/2.9.165 Version/11.00"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"db slow query","user":"paulmendoza","trace":"oadn910ghJLi"}
+FEATURE_X_ENABLED=false
+162.225.152.55 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 404 507078 "-" "Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/17.9n5660.0 Mobile/08M850 Safari/532.1"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"cache miss","user":"colekaren","trace":"d1OlyFrFzQxP"}
+sshd[3143]: Failed password for dochoa from 10.55.86.189 port 61125 ssh2
+sshd[4163]: Failed password for katie43 from 10.211.255.46 port 40070 ssh2
+35.78.153.5 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 404 7028 "-" "Opera/8.99.(X11; Linux x86_64; kk-KZ) Presto/2.9.173 Version/10.00"
+118.63.169.90 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 201 319496 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/43.0.888.0 Safari/534.1"
+61.221.73.100 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 502 158496 "-" "Mozilla/5.0 (Linux; Android 4.2.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/20.0.839.0 Safari/533.2"
+FEATURE_X_ENABLED=3840
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"cache miss","user":"campbellmary","trace":"uUx0HBllZIjF"}
+sshd[2985]: Accepted password for romerocheryl from 192.168.178.151 port 17293 ssh2
+LOG_LEVEL=INFO
+25.70.129.234 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 404 222842 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/33.0.896.0 Safari/536.0"
+sshd[1814]: Failed password for david84 from 10.31.99.243 port 40934 ssh2
+LOG_LEVEL=srv-90.cook.info
+FEATURE_X_ENABLED=6072
+89.156.115.35 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 201 26559 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0; rv:1.9.4.20) Gecko/2781-09-10 12:28:22.026665 Firefox/3.6.9"
+sshd[4464]: Session opened for jerry04 from 10.103.136.29 port 36944 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"db slow query","user":"bmartinez","trace":"UbTzWo8Ud3In"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"bruce91","trace":"KRaD37h90ty2"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"kevin20","trace":"prZct6ExsEDh"}
+DB_HOST=56310
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"cache miss","user":"madisonharris","trace":"WgB3wIZEKwLf"}
+DB_PORT=WARN

@@ -1,0 +1,32 @@
+DB_PORT=false
+sshd[9577]: Session closed for james48 from 172.16.249.169 port 62679 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"request completed","user":"vwright","trace":"d7cMcCIArTbW"}
+sshd[8320]: Session closed for clarkadrian from 192.168.164.61 port 53815 ssh2
+sshd[5729]: Session opened for jacksonsteven from 192.168.74.164 port 23298 ssh2
+sshd[8003]: Session closed for davismaurice from 172.30.65.143 port 42233 ssh2
+API_TIMEOUT=email-69.bennett.com
+sshd[6054]: Accepted password for john54 from 172.25.241.197 port 38596 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"gadams","trace":"9JA5U4mrY0jg"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"user session created","user":"rosalesdanielle","trace":"CYNa87uBuCwc"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"request completed","user":"thomasrogers","trace":"5768KbbKEoCX"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"token refreshed","user":"athompson","trace":"zjzKJ8jmaUqQ"}
+sshd[7773]: Accepted password for jodi30 from 10.92.251.9 port 19910 ssh2
+65.254.87.109 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 404 224213 "-" "Opera/8.19.(X11; Linux x86_64; sr-ME) Presto/2.9.170 Version/12.00"
+LOG_LEVEL=redis://localhost:6379
+155.103.72.165 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 401 499276 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.0)"
+85.107.63.21 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 403 255269 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/14.7c0133.0 Mobile/63H637 Safari/534.2"
+sshd[8079]: Session opened for yquinn from 192.168.82.22 port 51405 ssh2
+sshd[4821]: Session opened for karen55 from 10.43.238.213 port 42918 ssh2
+sshd[9227]: Accepted password for milleranne from 172.21.168.192 port 59107 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"cache miss","user":"tammy76","trace":"Ji4ib3TiV0et"}
+sshd[8920]: Session closed for cho from 192.168.99.189 port 32399 ssh2
+sshd[3505]: Accepted password for hcurry from 172.16.188.198 port 12612 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3NW1UcmtnWFVPIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.3_1PqHFj_rVnV3SdpuG8XPCIW0tXd5WGzxBPbfAXT8k'
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"user session created","user":"suzannehall","trace":"B48mSwbiif0Z"}
+sshd[1469]: Accepted password for zenglish from 10.44.174.168 port 42513 ssh2
+DB_PORT=WARN
+165.140.216.141 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 500 430332 "-" "Opera/8.89.(Windows NT 6.0; an-ES) Presto/2.9.174 Version/10.00"
+API_TIMEOUT=2461
+17.191.97.252 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 200 314254 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/3.0)"
+DB_PORT=redis://localhost:6379

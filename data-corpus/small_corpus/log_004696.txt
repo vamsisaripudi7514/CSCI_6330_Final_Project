@@ -1,0 +1,34 @@
+DB_PORT=redis://localhost:6379
+6.36.109.190 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 401 107145 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_2) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/42.0.817.0 Safari/533.1"
+36.38.152.159 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 401 370601 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+LOG_LEVEL=924
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"user session created","user":"robincole","trace":"7QO2pby4SIrA"}
+LOG_LEVEL=1112
+sshd[8405]: Session opened for manueltodd from 192.168.214.42 port 60466 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"db slow query","user":"jameserickson","trace":"N4F6c2oqR3PC"}
+202.231.168.29 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 201 372078 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/18.0.853.0 Mobile/38N147 Safari/532.1"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"cruzamanda","trace":"CVj7AV3pVRN0"}
+sshd[9459]: Failed password for jennifer23 from 172.20.72.44 port 63972 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"cache miss","user":"kathrynstrickland","trace":"vzZqDPQ4we3H"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"db slow query","user":"rrangel","trace":"6CNtIrnPWAzl"}
+sshd[9018]: Failed password for cartersamantha from 172.20.39.40 port 60568 ssh2
+DB_HOST=redis://localhost:6379
+216.78.206.216 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 200 350255 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.1)"
+sshd[8209]: Accepted password for gina36 from 10.17.76.11 port 35961 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"db slow query","user":"joshua57","trace":"79eJsohJhPKb"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"request completed","user":"vthompson","trace":"YPXSbkkJQ64O"}
+sshd[4721]: Accepted password for bdiaz from 172.20.200.218 port 25034 ssh2
+sshd[2182]: Session opened for lhansen from 192.168.47.186 port 54078 ssh2
+69.202.24.16 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 200 328295 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9 rv:4.0; hne-IN) AppleWebKit/534.34.5 (KHTML, like Gecko) Version/4.0.2 Safari/534.34.5"
+82.97.119.47 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 204 440028 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/534.11.2 (KHTML, like Gecko) Version/5.0.1 Safari/534.11.2"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"token refreshed","user":"grobinson","trace":"Xx0F3YNiknNf"} password=gZ3_4q&dkk(
+149.228.244.70 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 500 55151 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/24.0.855.0 Safari/534.2"
+REDIS_URL=2845
+132.184.229.114 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 201 286908 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.1)"
+107.234.74.106 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 200 253706 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/21.0.853.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"user session created","user":"sonyapaul","trace":"roEHZArIyXxi"}
+sshd[8576]: Failed password for xcook from 10.233.44.134 port 14936 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"cache miss","user":"qfleming","trace":"UNQioZ1jjIMt"}
+128.253.118.134 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 401 126306 "-" "Opera/9.16.(X11; Linux x86_64; gez-ET) Presto/2.9.163 Version/12.00"
+sshd[2446]: Accepted password for brycepetty from 172.17.19.34 port 28662 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"middletondiane","trace":"nqqrp2Q4cmGw"}

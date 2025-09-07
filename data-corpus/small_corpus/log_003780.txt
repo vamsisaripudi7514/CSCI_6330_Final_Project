@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"rcastro","trace":"ajkuqFbg1f59"}
+sshd[2200]: Failed password for clarkjames from 192.168.66.192 port 45380 ssh2
+74.79.190.100 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 403 451339 "-" "Mozilla/5.0 (Linux; Android 4.4.2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/55.0.833.0 Safari/536.0"
+101.55.36.200 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 403 144304 "-" "Mozilla/5.0 (Android 3.2.5; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0"
+sshd[1850]: Failed password for shannon80 from 172.29.49.93 port 12753 ssh2
+FEATURE_X_ENABLED=false
+LOG_LEVEL=true
+27.181.56.43 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 403 297347 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_8; rv:1.9.4.20) Gecko/3544-11-24 00:52:49.449959 Firefox/3.6.4" API_KEY=AIzaULkK5KmXyXUH58z4ZlRndHfml7Bc9_l_ehMF-w
+216.190.53.225 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 200 14010 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/58.0.802.0 Safari/532.2"
+219.117.26.65 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 302 64571 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/29.0.887.0 Mobile/71F225 Safari/536.2"
+148.38.71.227 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 302 391650 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"token refreshed","user":"donaldburns","trace":"XhHK314zikZG"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"rwest","trace":"0OYFHKV5iU0O"}
+sshd[9727]: Accepted password for christydurham from 172.16.199.219 port 46603 ssh2
+89.213.208.165 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 200 486006 "-" "Opera/8.86.(Windows CE; ber-DZ) Presto/2.9.183 Version/11.00"
+7.125.117.213 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 201 508602 "-" "Opera/9.85.(X11; Linux i686; bs-BA) Presto/2.9.175 Version/12.00"
+109.23.185.62 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 401 323466 "-" "Opera/8.61.(Windows CE; te-IN) Presto/2.9.187 Version/11.00"
+sshd[4095]: Session closed for gjones from 192.168.108.9 port 15486 ssh2
+sshd[9779]: Accepted password for kellylydia from 10.249.150.212 port 24545 ssh2
+DB_PORT=51719
+sshd[4562]: Accepted password for jvasquez from 10.41.157.240 port 48332 ssh2
+sshd[6650]: Session closed for richardkey from 10.117.134.57 port 12460 ssh2
+208.65.114.164 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 400 460240 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/3.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"igarcia","trace":"wwXYmOKgGr8s"}
+9.126.59.131 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 400 356321 "-" "Opera/8.53.(X11; Linux i686; lt-LT) Presto/2.9.184 Version/10.00"

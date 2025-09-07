@@ -1,0 +1,28 @@
+LOG_LEVEL=5243
+sshd[4466]: Session opened for george90 from 172.17.205.157 port 20341 ssh2
+sshd[7718]: Failed password for johnsclaudia from 192.168.54.179 port 21107 ssh2
+sshd[5747]: Accepted password for imartin from 10.92.99.203 port 32974 ssh2
+DB_PORT=DEBUG
+sshd[1382]: Failed password for iwilson from 10.3.71.93 port 50095 ssh2
+sshd[7415]: Session closed for susan77 from 192.168.151.90 port 27409 ssh2
+sshd[7669]: Session opened for dianaflores from 10.178.235.8 port 38866 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"db slow query","user":"gordonrush","trace":"aVlvBdIGLn8y"}
+195.79.2.165 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 403 341796 "-" "Mozilla/5.0 (Windows NT 6.1; ti-ER; rv:1.9.1.20) Gecko/2158-12-30 09:04:57.683717 Firefox/4.0"
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"user session created","user":"william71","trace":"oyKpYvHO47MW"}
+12.235.89.12 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 403 225301 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/34.0.861.0 Mobile/52H628 Safari/535.1"
+199.192.208.255 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 201 481685 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_0 rv:3.0; pl-PL) AppleWebKit/534.8.2 (KHTML, like Gecko) Version/4.0.3 Safari/534.8.2"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"db slow query","user":"jessehart","trace":"Wd8bDMpfjHJs"}
+sshd[1860]: Failed password for xhunter from 172.25.99.57 port 46170 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"user session created","user":"shanetorres","trace":"G16I54lePmO4"}
+147.135.107.109 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 201 290751 "-" "Mozilla/5.0 (Linux; Android 2.3.7) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/41.0.872.0 Safari/536.1"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"audreytaylor","trace":"KK5tZnxJ9yQl"}
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"corycollier","trace":"flgnCtCxPWYX"}
+44.61.164.221 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 403 133763 "-" "Opera/8.60.(X11; Linux x86_64; ht-HT) Presto/2.9.160 Version/12.00"
+LOG_LEVEL=2001
+DB_PORT=lt-38.foster.com
+sshd[2452]: Accepted password for taylor05 from 10.9.44.220 port 46724 ssh2
+148.11.232.2 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 502 29522 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJTUGZDQTlRTmE4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.vdF-SWPizNE-3dkyHUESCClRWpFTjkS6RebvfSQUlEk'
+52.222.207.198 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 204 382503 "-" "Mozilla/5.0 (Linux; Android 6.0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/25.0.834.0 Safari/535.0"
+sshd[3739]: Failed password for schaefersara from 172.29.120.93 port 28942 ssh2

@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"token refreshed","user":"john80","trace":"F7KPbl5DIq6c"}
+28.185.240.53 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 404 306006 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/47.0.882.0 Safari/532.2"
+sshd[3600]: Session closed for maria72 from 10.142.151.3 port 33969 ssh2
+DB_PORT=redis://localhost:6379
+101.249.109.122 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 200 436438 "-" "Mozilla/5.0 (Android 5.0; Mobile; rv:55.0) Gecko/55.0 Firefox/55.0"
+53.41.23.198 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 502 416076 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_3 rv:5.0; szl-PL) AppleWebKit/531.46.3 (KHTML, like Gecko) Version/5.1 Safari/531.46.3"
+3.47.164.146 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 403 219159 "-" "Opera/8.75.(Windows NT 6.1; dv-MV) Presto/2.9.165 Version/11.00"
+59.138.18.156 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 404 233244 "-" "Opera/8.53.(X11; Linux i686; tk-TM) Presto/2.9.178 Version/10.00"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"derek00","trace":"zrC4XuYPkRNe"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"cache miss","user":"johnny21","trace":"jgVaVsj2RO7e"}
+sshd[4211]: Session closed for hbeard from 172.17.191.227 port 27058 ssh2
+sshd[4610]: Session opened for grahamwalter from 10.122.116.15 port 40977 ssh2
+sshd[4012]: Session closed for lori02 from 192.168.109.66 port 49124 ssh2
+56.126.210.30 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 502 2411 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/5.0)"
+16.160.174.193 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 204 69332 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.1)"
+DB_HOST=DEBUG
+DB_HOST=lt-42.fields.com
+52.8.75.41 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 200 322187 "-" "Mozilla/5.0 (Windows CE; mi-NZ; rv:1.9.1.20) Gecko/8636-12-08 03:14:35.370422 Firefox/12.0"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"user session created","user":"olsonglenn","trace":"0AACgQhCemOL"}
+sshd[8205]: Session closed for abigail21 from 172.31.90.35 port 31200 ssh2
+sshd[1747]: Failed password for wbest from 10.69.143.8 port 52752 ssh2
+DB_PORT=22612
+44.56.174.206 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 204 313491 "-" "Opera/8.91.(X11; Linux i686; hy-AM) Presto/2.9.180 Version/12.00"
+DB_HOST=lt-54.jackson.com
+DB_HOST=true
+sshd[3571]: Session opened for anneshaffer from 192.168.190.162 port 46545 ssh2

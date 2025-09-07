@@ -1,0 +1,28 @@
+DB_PORT=false password=xV9@|J#!>
+sshd[3549]: Failed password for sheilawest from 192.168.153.8 port 27214 ssh2
+sshd[7787]: Session closed for michele03 from 10.98.133.145 port 16520 ssh2
+178.217.102.108 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 500 184441 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_0 rv:3.0; ia-FR) AppleWebKit/534.12.1 (KHTML, like Gecko) Version/5.0.3 Safari/534.12.1"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"user session created","user":"harrelleric","trace":"uQW8xUvQRKQe"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"db slow query","user":"jasonortiz","trace":"8YKREH8A64hp"}
+API_TIMEOUT=56247
+DB_PORT=2768
+LOG_LEVEL=desktop-20.cooper.com
+LOG_LEVEL=53208 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvUkFDbXFzc0lNIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.3-mrOWNCxW1ChX0SbeMb-ZidIqcjg8bIPt3K9WKeQhg'
+DB_HOST=false password=yI4)y~!z8Uh6eFtE
+sshd[7580]: Session opened for brittney79 from 172.20.167.117 port 18275 ssh2
+REDIS_URL=58727
+81.226.167.79 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 404 510214 "-" "Mozilla/5.0 (Windows NT 5.01; ha-NG; rv:1.9.0.20) Gecko/2365-12-10 05:41:58.460920 Firefox/3.8"
+98.50.143.23 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 404 137563 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ss-ZA) AppleWebKit/534.17.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6534.17.4"
+156.181.9.115 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 400 178114 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0)"
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"cache miss","user":"natasharush","trace":"a4Fdj8Gp2S21"}
+sshd[5822]: Session closed for richardmartin from 10.225.41.135 port 39081 ssh2
+LOG_LEVEL=false
+sshd[2122]: Accepted password for tylerjimenez from 10.110.61.174 port 10170 ssh2
+sshd[5030]: Session opened for robertlong from 172.20.29.154 port 26744 ssh2
+DB_HOST=redis://localhost:6379
+204.26.64.213 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 500 212843 "-" "Mozilla/5.0 (Linux; Android 7.1.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/30.0.848.0 Safari/534.2"
+DB_PORT=true
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"craigroth","trace":"Hn3JmngRajCR"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"cache miss","user":"wcook","trace":"kSfmLaeRVQjx"}
+191.225.42.17 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 401 2035 "-" "Mozilla/5.0 (Android 5.0.1; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0"

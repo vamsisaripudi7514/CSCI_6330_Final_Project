@@ -1,0 +1,32 @@
+API_TIMEOUT=WARN
+sshd[3385]: Session closed for dclark from 192.168.150.125 port 16560 ssh2
+API_TIMEOUT=51862
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"user session created","user":"leahshields","trace":"Qfj67bxknVfx"}
+DB_PORT=email-94.williams.com
+REDIS_URL=DEBUG
+28.152.9.122 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 200 175718 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.0)"
+FEATURE_X_ENABLED=false
+DB_PORT=false
+151.48.142.39 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 302 165923 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4 rv:2.0; szl-PL) AppleWebKit/532.17.7 (KHTML, like Gecko) Version/5.0 Safari/532.17.7"
+DB_HOST=694
+53.14.201.132 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 500 215815 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)"
+sshd[7387]: Failed password for qcooper from 192.168.60.58 port 62364 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"user session created","user":"sanchezsamuel","trace":"HoplSMAdHba7"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"token refreshed","user":"marksrodney","trace":"DrkvWvAWI8D1"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"cache miss","user":"matthew51","trace":"ji2jx2kOklrX"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"token refreshed","user":"amanda75","trace":"gRXhHE3BJdRA"}
+106.117.155.88 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 403 170548 "-" "Opera/9.51.(Windows 95; ti-ER) Presto/2.9.163 Version/12.00"
+56.117.227.223 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 401 84465 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.1)"
+sshd[3079]: Session closed for dpowell from 172.28.124.104 port 49704 ssh2
+sshd[4033]: Session opened for joannawise from 172.30.91.108 port 25295 ssh2
+sshd[8918]: Session opened for michaelmaynard from 192.168.159.110 port 15694 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+16.154.160.44 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 401 465671 "-" "Opera/9.86.(X11; Linux i686; tn-ZA) Presto/2.9.163 Version/11.00"
+LOG_LEVEL=INFO
+LOG_LEVEL=db-81.dalton.com
+181.251.115.175 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 502 149948 "-" "Opera/9.39.(X11; Linux x86_64; yi-US) Presto/2.9.179 Version/12.00"
+DB_PORT=INFO
+65.76.152.243 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 400 294198 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/57.0.816.0 Mobile/26W883 Safari/531.2"
+sshd[9385]: Session closed for jonathan70 from 10.184.141.109 port 64786 ssh2
+API_TIMEOUT=web-25.davis-hudson.com
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"request completed","user":"tneal","trace":"Sq8aLn0T23LY"}

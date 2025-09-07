@@ -1,0 +1,35 @@
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"julialee","trace":"ljUZcXQjxnaE"}
+sshd[6287]: Session closed for clarkstephanie from 10.105.202.96 port 56526 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"bsmall","trace":"GZUP4je5yYMG"}
+REDIS_URL=1194
+109.109.61.68 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 204 91891 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.0)"
+57.16.155.88 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 401 345752 "-" "Mozilla/5.0 (Windows NT 5.0; id-ID; rv:1.9.2.20) Gecko/2741-02-20 04:46:01.610924 Firefox/12.0"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"cache miss","user":"kimberlystanton","trace":"PhPsUiOvNIal"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"lkirby","trace":"qRAshBiWpx79"}
+FEATURE_X_ENABLED=redis://localhost:6379
+41.234.230.124 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 500 336998 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)"
+112.226.125.115 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 404 505087 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6 rv:6.0; ha-NG) AppleWebKit/531.17.5 (KHTML, like Gecko) Version/5.0.2 Safari/531.17.5" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmMEEzcGdDVGFaIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5QQjdbJXhbo41pQhDOJ1nx98PN1qvw6lTS4Kxz4-Lr0'
+REDIS_URL=redis://localhost:6379
+API_TIMEOUT=web-79.wilson.com
+221.208.144.51 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 500 332183 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/52.0.844.0 Safari/531.0"
+sshd[9543]: Session closed for teresaross from 192.168.191.205 port 19556 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"hollandmichael","trace":"7KPqPeXuHhw7"}
+166.40.5.26 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 200 153476 "-" "Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/16.1y5504.0 Mobile/65C330 Safari/532.0"
+sshd[1896]: Failed password for justin85 from 192.168.174.48 port 32644 ssh2
+sshd[3482]: Session closed for gutierrezjennifer from 192.168.0.12 port 32256 ssh2
+DB_PORT=lt-14.davis.com
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"request completed","user":"jacksonjohn","trace":"M1J10pl5sbNq"}
+sshd[3395]: Session closed for stacieowens from 172.24.129.119 port 41196 ssh2
+105.85.251.173 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 274112 "-" "Mozilla/5.0 (Linux; Android 4.2.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/57.0.878.0 Safari/534.1" password=uQ3}3_ip?M
+sshd[3535]: Failed password for alexandria44 from 10.211.72.43 port 52050 ssh2
+sshd[9902]: Session opened for kathrynoconnor from 172.16.233.160 port 44766 ssh2
+sshd[4925]: Session opened for brooksdaniel from 192.168.124.198 port 45196 ssh2
+sshd[5248]: Session opened for chad50 from 192.168.22.79 port 57650 ssh2
+sshd[6958]: Session closed for vtran from 192.168.162.33 port 12603 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"request completed","user":"griffinronnie","trace":"5i4kkRujtirt"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"request completed","user":"dgomez","trace":"pUcAXVnpiK1h"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"db slow query","user":"mario42","trace":"mJXrtrf82qsI"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"request completed","user":"james11","trace":"u8FQZDOkW4wQ"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"db slow query","user":"rpatterson","trace":"kaoBOORvDotZ"}
+LOG_LEVEL=false

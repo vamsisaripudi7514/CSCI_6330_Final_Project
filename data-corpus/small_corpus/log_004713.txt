@@ -1,0 +1,26 @@
+sshd[7177]: Accepted password for fsantana from 192.168.78.3 port 63017 ssh2
+sshd[3871]: Failed password for williamsstephen from 172.16.75.220 port 62336 ssh2
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"rodriguezjanet","trace":"h3NWGn8Mxt8f"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"sandra17","trace":"C2iejLL4ftSZ"} API_KEY=AIzaaIqClhQe0yLzqmU2cre2V2Su1WKIq_zn_ibDZw
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"token refreshed","user":"mccoyjason","trace":"CUiOIzdsXh5g"}
+DB_HOST=redis://localhost:6379
+62.13.51.103 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 201 190875 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/5.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"vgriffin","trace":"ED0cqPWmDysd"}
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"cache miss","user":"lallen","trace":"Wn2mRoPY7aPK"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"token refreshed","user":"mccarthyjeremy","trace":"QgmUG3lNCiLb"}
+FEATURE_X_ENABLED=39180
+51.139.157.155 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 302 427822 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.0)"
+API_TIMEOUT=srv-83.perkins.com
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"request completed","user":"tammy32","trace":"mh6ZvMUG20sX"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"token refreshed","user":"zperry","trace":"CL5hor9Mu4au"}
+sshd[1376]: Session closed for hardysharon from 172.23.39.56 port 63579 ssh2
+sshd[1209]: Session opened for nguyenbeth from 192.168.178.87 port 63922 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"flittle","trace":"mDml6Hfcj2lK"}
+sshd[5434]: Accepted password for sabrina26 from 10.180.18.36 port 64865 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"qbuckley","trace":"FwpbtWD5n6KB"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"db slow query","user":"alexahoffman","trace":"9QUwTyriDl4t"}
+LOG_LEVEL=49280
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"mphillips","trace":"cOivxtyUYlu2"}
+sshd[5091]: Accepted password for aprilyork from 10.202.153.55 port 63207 ssh2

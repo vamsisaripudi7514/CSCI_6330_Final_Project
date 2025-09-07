@@ -1,0 +1,33 @@
+API_TIMEOUT=false
+77.250.174.90 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 403 250060 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.49.1 (KHTML, like Gecko) Version/5.1 Safari/535.49.1"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"wrightmelanie","trace":"I2MxUul7pzrY"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"token refreshed","user":"figueroajoy","trace":"ywVwWaHnyMZ8"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJCbFZtWDVpMTFvIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Qe93eqtjki7wxazg1KX7-0q53P6b4I1OVjw_TN7w89Q'
+FEATURE_X_ENABLED=19336
+114.50.91.182 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 401 288251 "-" "Opera/8.43.(Windows NT 11.0; oc-FR) Presto/2.9.173 Version/11.00"
+DB_PORT=redis://localhost:6379
+API_TIMEOUT=WARN
+sshd[4261]: Session closed for johnsonkatie from 192.168.38.130 port 18218 ssh2
+LOG_LEVEL=true
+145.101.8.95 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 404 153561 "-" "Opera/9.44.(Windows 98; Win 9x 4.90; ne-NP) Presto/2.9.190 Version/10.00"
+sshd[9715]: Accepted password for lisa84 from 192.168.28.206 port 19558 ssh2
+DB_HOST=true
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"token refreshed","user":"blane","trace":"P3PIqs1ZmigQ"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"token refreshed","user":"caldwellkaylee","trace":"QUu1c2J0xETM"}
+sshd[2105]: Session closed for teresamartin from 172.31.130.195 port 44685 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"kathrynparker","trace":"yKHfkLxkVQWt"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"alexandragonzalez","trace":"fdZjYbOio8k7"}
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"db slow query","user":"rbennett","trace":"PQ8TpXNlGSM9"}
+REDIS_URL=web-39.james.info
+sshd[3479]: Failed password for martinemily from 172.30.47.54 port 45314 ssh2
+sshd[9552]: Session closed for kelseyward from 172.17.179.127 port 25173 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"token refreshed","user":"santoskayla","trace":"wmrix9Op6eiF"}
+LOG_LEVEL=false
+API_TIMEOUT=700
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"token refreshed","user":"zthomas","trace":"FEZuKei0Xllc"}
+API_TIMEOUT=47531
+DB_HOST=lt-55.jimenez.com
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"cache miss","user":"chadwilkinson","trace":"Mlqh4xVw4wtu"}
+FEATURE_X_ENABLED=25448
+DB_HOST=1540

@@ -1,0 +1,34 @@
+REDIS_URL=web-14.moore-mckee.com
+REDIS_URL=22248
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"user session created","user":"julie43","trace":"Wtf40xLuYK6J"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[5893]: Session opened for zwilkerson from 192.168.21.227 port 34622 ssh2
+DB_PORT=redis://localhost:6379
+102.183.86.194 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 200 127334 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; csb-PL) AppleWebKit/535.18.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6535.18.3"
+142.210.172.215 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 500 72609 "-" "Opera/8.85.(X11; Linux x86_64; nan-TW) Presto/2.9.186 Version/10.00"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"db slow query","user":"shawn81","trace":"elVxFWv8Qwk7"}
+47.248.172.3 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 500 70931 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/25.0.814.0 Safari/534.2"
+5.117.120.53 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 302 421197 "-" "Opera/9.93.(X11; Linux i686; da-DK) Presto/2.9.164 Version/12.00"
+LOG_LEVEL=DEBUG
+187.221.50.53 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 201 159868 "-" "Mozilla/5.0 (Windows NT 6.0; mg-MG; rv:1.9.2.20) Gecko/7257-03-02 18:57:49.993195 Firefox/3.6.13"
+REDIS_URL=false
+4.228.234.138 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 204 312672 "-" "Opera/8.20.(X11; Linux x86_64; szl-PL) Presto/2.9.166 Version/12.00"
+163.17.106.4 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 401 150331 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/535.29.6 (KHTML, like Gecko) Version/4.0.5 Safari/535.29.6"
+sshd[1287]: Session opened for bscott from 192.168.249.50 port 58292 ssh2
+103.99.129.8 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 400 144202 "-" "Opera/9.97.(X11; Linux i686; tk-TM) Presto/2.9.179 Version/12.00"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"cache miss","user":"luisjackson","trace":"Kq0t9C51Fgez"}
+DB_HOST=3815
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"user session created","user":"tclark","trace":"6UPLLHGd29uD"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"user session created","user":"oscar13","trace":"csH22Ksdg7Pt"}
+sshd[2424]: Session closed for pamelagomez from 172.25.136.211 port 43184 ssh2
+LOG_LEVEL=2624
+DB_PORT=desktop-52.peterson-brown.info
+DB_HOST=redis://localhost:6379 API_KEY=AIzajSkCzu0agxWhPhZSS2mVdbirArtC2wkT70uw5g
+sshd[7097]: Failed password for leonprice from 10.128.249.35 port 62153 ssh2
+FEATURE_X_ENABLED=db-54.jones.com
+DB_PORT=DEBUG
+148.140.230.68 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 302 422040 "-" "Opera/9.38.(X11; Linux x86_64; fy-DE) Presto/2.9.167 Version/10.00"
+sshd[7875]: Session closed for tbaker from 192.168.170.98 port 40268 ssh2
+sshd[3526]: Session closed for carolcopeland from 10.156.232.217 port 36537 ssh2
+sshd[1280]: Session opened for ajordan from 10.253.128.129 port 31758 ssh2
+13.238.17.27 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 400 334068 "-" "Opera/9.86.(Windows NT 5.1; nl-NL) Presto/2.9.162 Version/11.00"

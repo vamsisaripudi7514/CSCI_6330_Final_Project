@@ -1,0 +1,38 @@
+sshd[8198]: Session closed for elizabeth72 from 192.168.149.58 port 54630 ssh2
+178.111.67.236 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 401 473149 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_6) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/21.0.887.0 Safari/531.0"
+183.240.59.129 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 500 436387 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/16.8q6410.0 Mobile/49C677 Safari/531.1"
+52.101.50.148 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 302 246320 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.0)"
+219.99.61.166 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 302 88543 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/45.0.828.0 Safari/532.1"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"user session created","user":"benjaminvelazquez","trace":"qy9Nfy0AT0qj"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"cache miss","user":"beltrandana","trace":"jUjW0d6SXNBG"}
+sshd[2804]: Failed password for brianporter from 192.168.163.152 port 34253 ssh2
+sshd[5605]: Session closed for kingshelby from 192.168.175.203 port 27282 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"db slow query","user":"ktrujillo","trace":"IHcxWggGeL8i"}
+191.76.46.70 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 201 503870 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/533.36.4 (KHTML, like Gecko) Version/4.0 Safari/533.36.4" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwNm9qTnBvcVVMIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.T8Gt9O-HOREtj6HLIuut59fpXIm5P7F_oeGuwKqcIbU'
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"token refreshed","user":"andrewsjustin","trace":"bZqFQIRHSB3U"}
+DB_PORT=46280
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"jessicajimenez","trace":"95h2S8gm0XQt"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"token refreshed","user":"richardavery","trace":"KS4RMfIBvPpf"}
+sshd[7689]: Accepted password for xherman from 192.168.152.131 port 32940 ssh2
+DB_PORT=DEBUG
+sshd[8512]: Failed password for hunterwashington from 10.243.145.123 port 20764 ssh2
+FEATURE_X_ENABLED=38715
+sshd[9491]: Session opened for underwoodtami from 192.168.209.194 port 61483 ssh2
+131.39.224.125 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 500 182870 "-" "Opera/9.44.(Windows NT 5.01; ber-MA) Presto/2.9.162 Version/12.00"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"myerskayla","trace":"e0rn35oKUiaG"}
+132.138.15.107 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 200 437853 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)"
+REDIS_URL=3720
+DB_HOST=3962 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkS0g4TWc0R3ByIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.eTpriaUaIU_NnobLj1E4yHTvbIs-BzK4QdwEeMNmOaA'
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"cache miss","user":"kcastillo","trace":"XFeqyxo35nlM"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"request completed","user":"wayne76","trace":"uT9P2KohveBQ"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"cache miss","user":"fordbilly","trace":"MDeuI0nIqzUN"}
+DB_HOST=redis://localhost:6379
+sshd[2913]: Accepted password for aroberts from 172.22.104.9 port 27857 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"cache miss","user":"emccarthy","trace":"0A5y4gOvCX3X"}
+sshd[2779]: Session opened for hmiller from 10.2.31.185 port 54663 ssh2
+sshd[9387]: Accepted password for jillwalters from 192.168.57.190 port 23424 ssh2
+DB_PORT=false
+73.252.106.19 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 502 17524 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/531.23.7 (KHTML, like Gecko) Version/4.0.4 Safari/531.23.7"
+DB_PORT=1691
+sshd[3146]: Session opened for ejimenez from 192.168.67.176 port 12473 ssh2 API_KEY=AIza0gb1a6nSeW0sBdUN0GV-ucgH3ekzi7-JruwqfA

@@ -1,0 +1,29 @@
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"riverastephanie","trace":"c7pnlThpWvrO"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"ericrodgers","trace":"sBkur8lXUPRs"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"martinezjohn","trace":"0VSw1658Pk5P"}
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"db slow query","user":"cbailey","trace":"8x1m1F6STJNT"}
+4.227.12.152 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 204 279766 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_2; rv:1.9.4.20) Gecko/8125-07-06 02:20:00.092743 Firefox/3.8"
+API_TIMEOUT=true
+sshd[4239]: Accepted password for qlee from 10.240.147.33 port 56032 ssh2
+REDIS_URL=DEBUG
+sshd[9033]: Session opened for bruce84 from 192.168.105.55 port 38709 ssh2
+sshd[1500]: Session closed for josephfrank from 192.168.147.76 port 57781 ssh2
+sshd[6892]: Session closed for lisa98 from 172.19.42.219 port 36154 ssh2
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"alanjimenez","trace":"QfEHRrjSPCrI"}
+17.137.148.84 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 201 80813 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.1)"
+sshd[5578]: Failed password for damon29 from 172.18.24.35 port 48052 ssh2
+sshd[9112]: Session opened for qolsen from 192.168.152.9 port 24957 ssh2
+218.171.210.250 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 400 344716 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/3.1)"
+178.103.185.230 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 204 116638 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"db slow query","user":"tatecolleen","trace":"OB1u5jjTBoUf"}
+sshd[3014]: Accepted password for josetaylor from 192.168.98.211 port 61941 ssh2
+DB_HOST=laptop-59.smith.org
+sshd[7491]: Failed password for sherry02 from 172.21.49.198 port 16789 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"wlindsey","trace":"Z2CGeUJ81FDD"}
+sshd[4331]: Accepted password for cruzmindy from 172.31.252.232 port 10242 ssh2
+FEATURE_X_ENABLED=2188
+API_TIMEOUT=false
+FEATURE_X_ENABLED=62786

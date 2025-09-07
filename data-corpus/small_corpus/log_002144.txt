@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"user session created","user":"gregoryparrish","trace":"toJeTuDPV8RJ"}
+sshd[9013]: Accepted password for kylelittle from 192.168.124.179 port 13850 ssh2
+4.146.117.126 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 502 191938 "-" "Opera/9.89.(Windows NT 10.0; en-DK) Presto/2.9.165 Version/12.00"
+150.151.190.254 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 201 187804 "-" "Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/30.0.872.0 Mobile/86K943 Safari/533.0"
+13.208.161.111 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 302 266152 "-" "Opera/8.28.(Windows CE; or-IN) Presto/2.9.185 Version/11.00"
+177.213.244.104 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 201 412366 "-" "Mozilla/5.0 (Android 5.1; Mobile; rv:20.0) Gecko/20.0 Firefox/20.0" password=qD3'.)XlZ6F$'8u
+REDIS_URL=30689
+83.186.137.50 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 204 137223 "-" "Mozilla/5.0 (Android 7.0; Mobile; rv:33.0) Gecko/33.0 Firefox/33.0"
+DB_HOST=db-44.ball.com
+DB_PORT=54060
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"linjoshua","trace":"DIOxf4phfCMo"}
+173.32.83.254 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 400 408498 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.834.0 Safari/536.0"
+FEATURE_X_ENABLED=3597
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"request completed","user":"zjones","trace":"NPb9Nyx8kLkt"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"trujillomatthew","trace":"wemjuHqdr5so"}
+170.160.141.34 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 404 376039 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ur-IN) AppleWebKit/534.41.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.41.6"
+DB_PORT=db-55.mullen.com
+sshd[7489]: Failed password for mmiller from 10.55.169.31 port 41217 ssh2
+API_TIMEOUT=60534
+115.207.136.10 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 302 341378 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.7.6 (KHTML, like Gecko) Version/4.1 Safari/534.7.6"
+190.70.26.11 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 400 200833 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/16.2w6003.0 Mobile/63U489 Safari/532.1"
+LOG_LEVEL=1167
+155.22.112.119 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 201 357622 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/13.2x7915.0 Mobile/95E895 Safari/532.0"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"dianewilliams","trace":"t6w7GjgKeNsP"}
+130.152.8.217 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 500 170028 "-" "Mozilla/5.0 (Windows NT 6.1; yi-US; rv:1.9.1.20) Gecko/5675-09-27 08:16:23.157822 Firefox/3.6.19"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"allisonpalmer","trace":"WyUBOwFHkI8k"}

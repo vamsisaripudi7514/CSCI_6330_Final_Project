@@ -1,0 +1,43 @@
+sshd[9130]: Failed password for jenniferfaulkner from 192.168.10.94 port 13899 ssh2
+LOG_LEVEL=redis://localhost:6379
+DB_PORT=2512
+REDIS_URL=db-36.mckee-lynch.com password=rW1{QqZD5*!u|2ld
+sshd[3710]: Failed password for colonbrandi from 172.20.228.94 port 57138 ssh2
+173.91.219.247 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 401 491735 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; he-IL) AppleWebKit/534.37.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.37.4"
+72.27.67.252 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 403 418420 "-" "Opera/8.50.(Windows NT 5.0; xh-ZA) Presto/2.9.178 Version/11.00"
+API_TIMEOUT=3192
+sshd[2171]: Accepted password for lward from 192.168.157.231 port 26148 ssh2
+sshd[3828]: Failed password for thomashudson from 172.31.176.3 port 31147 ssh2
+sshd[8366]: Session opened for thomasadam from 192.168.19.107 port 11262 ssh2
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"request completed","user":"eklein","trace":"2EmdGgsfrl8o"}
+REDIS_URL=DEBUG
+DB_PORT=1687
+sshd[7424]: Session closed for fhenson from 10.69.20.243 port 34174 ssh2
+27.124.43.39 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 502 38690 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/5.0)"
+sshd[2523]: Session opened for josephclark from 10.40.247.225 port 61818 ssh2
+REDIS_URL=lt-39.todd.net
+DB_HOST=INFO
+sshd[4283]: Session opened for angela77 from 10.107.133.228 port 16475 ssh2
+sshd[7298]: Accepted password for jamiechapman from 10.241.11.81 port 28484 ssh2
+180.236.210.17 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 400 448768 "-" "Mozilla/5.0 (Linux; Android 4.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/18.0.868.0 Safari/532.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRclkyUFZ6emNtIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5MNvvFfJvJ9MTsD1wx5YcZdBMMR4sOIVGV930ey5vrk'
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"theresa50","trace":"XkbX4DWNzSgS"}
+89.174.16.144 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 500 416200 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)"
+sshd[4705]: Accepted password for christopher63 from 10.59.233.41 port 16599 ssh2
+DB_HOST=WARN
+REDIS_URL=4888
+sshd[8735]: Session closed for carlawhite from 172.27.138.105 port 13219 ssh2
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"user session created","user":"aaronthompson","trace":"71xjPHxDNtZd"}
+sshd[2366]: Session opened for christineperry from 10.251.206.126 port 53678 ssh2
+167.33.196.212 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 502 292449 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_3) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/25.0.888.0 Safari/531.1"
+40.204.230.100 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 403 355809 "-" "Opera/8.60.(Windows NT 6.2; km-KH) Presto/2.9.187 Version/10.00"
+FEATURE_X_ENABLED=srv-82.edwards-odonnell.com
+sshd[5135]: Accepted password for sthomas from 10.116.41.26 port 50292 ssh2
+API_TIMEOUT=3852
+sshd[3303]: Accepted password for laguilar from 192.168.27.193 port 22583 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"token refreshed","user":"smithstephanie","trace":"yJmNPXQyLNwD"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"request completed","user":"crystal71","trace":"cgBJsweOjkUr"}
+131.211.29.119 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 500 398718 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.27.7 (KHTML, like Gecko) Version/5.0.2 Safari/531.27.7"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"user session created","user":"john24","trace":"h5sUDz80draK"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"user session created","user":"albert15","trace":"9kjwX8KYTwmC"}

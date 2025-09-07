@@ -1,0 +1,31 @@
+sshd[6232]: Failed password for amandalewis from 10.13.109.138 port 50910 ssh2
+207.175.73.96 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 500 469586 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_1 rv:6.0; ve-ZA) AppleWebKit/531.30.3 (KHTML, like Gecko) Version/4.1 Safari/531.30.3"
+sshd[8372]: Session opened for charles99 from 172.28.155.150 port 49473 ssh2
+REDIS_URL=WARN
+API_TIMEOUT=15764
+97.132.42.58 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 400 221408 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; af-ZA) AppleWebKit/532.23.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6532.23.3"
+sshd[3720]: Failed password for ryan96 from 172.24.13.235 port 23992 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"kenneth26","trace":"1JRmEzdpIqgV"}
+DB_PORT=3285
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"dreyes","trace":"ifKqLXc7EQh7"}
+129.215.140.196 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 201 39049 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/47.0.842.0 Safari/532.2"
+123.178.89.167 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 200 313414 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/41.0.823.0 Mobile/78G314 Safari/536.1"
+FEATURE_X_ENABLED=1426
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"zcollins","trace":"VJpZ5IWj1Rfn"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"token refreshed","user":"curtis36","trace":"U0iPjPEzV0vM"}
+sshd[3085]: Session opened for stephaniehall from 10.195.236.66 port 41060 ssh2 API_KEY=AIza_tfIyczfwKplgOR4hfoizzOG5XWrsSnMkgG4Zw
+31.58.172.85 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 404 35173 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_0 rv:2.0; fr-CA) AppleWebKit/532.31.6 (KHTML, like Gecko) Version/4.1 Safari/532.31.6"
+222.181.138.152 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 403 122956 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/26.0.898.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"user session created","user":"brookscharles","trace":"wZ5X5FfYcHWp"}
+167.72.55.60 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 401 325768 "-" "Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/30.0.877.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"db slow query","user":"johnnguyen","trace":"87m79LgJH7jx"}
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"cache miss","user":"hamiltonelizabeth","trace":"sukg7FKvtUjN"}
+sshd[8670]: Accepted password for jbright from 172.30.152.53 port 18741 ssh2
+LOG_LEVEL=56750
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"user session created","user":"smithelizabeth","trace":"bIjdPzDWHW60"}
+LOG_LEVEL=db-16.gilbert.com
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"db slow query","user":"holtlance","trace":"FdZ1taKHV97z"}
+DB_HOST=redis://localhost:6379

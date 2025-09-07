@@ -1,0 +1,27 @@
+REDIS_URL=44457
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"dennis87","trace":"4RsLDx3f1re9"} API_KEY=AIzaLiyRS5PGtjMbUBsJmfCXyDzweNeeKsKZL685mg
+34.174.9.73 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 500 82829 "-" "Opera/8.61.(Windows 98; Win 9x 4.90; fur-IT) Presto/2.9.177 Version/10.00"
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"user session created","user":"ubecker","trace":"TQo7oeR9UjcN"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"cache miss","user":"patricianewton","trace":"S2FBBZgx7qjS"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"wilkinsjulian","trace":"gWUJ5amqeTDX"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"db slow query","user":"robert84","trace":"rEugpaUAypxm"}
+LOG_LEVEL=3518
+34.217.176.228 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 500 316212 "-" "Opera/8.76.(X11; Linux x86_64; tk-TM) Presto/2.9.185 Version/11.00"
+API_TIMEOUT=laptop-33.garcia.net
+110.139.61.169 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 201 313808 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.0)"
+LOG_LEVEL=desktop-52.may.com
+sshd[3958]: Accepted password for kbrown from 172.21.134.172 port 31071 ssh2
+sshd[9777]: Session closed for ryoung from 10.30.167.178 port 25425 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"request completed","user":"courtneyvega","trace":"xbnPPMexaywi"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"jacqueline38","trace":"LfbHhy4oTFg5"}
+API_TIMEOUT=redis://localhost:6379
+sshd[7251]: Session opened for yolanda79 from 10.69.172.255 port 56949 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"db slow query","user":"paigehansen","trace":"XO8JS5CCmT5c"}
+DB_HOST=true
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"request completed","user":"mariahoffman","trace":"qx6f2ItjErQ9"}
+sshd[7030]: Session opened for anneharrison from 10.218.84.140 port 57202 ssh2
+sshd[8851]: Session opened for smatthews from 172.24.180.1 port 17418 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"cache miss","user":"xdelacruz","trace":"eYa2GrL72Omh"}
+90.187.112.150 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 404 181466 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.0)"
+42.2.196.6 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 401 157258 "-" "Opera/8.34.(Windows NT 6.2; lo-LA) Presto/2.9.189 Version/12.00"

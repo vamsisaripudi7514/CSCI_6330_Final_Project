@@ -1,0 +1,33 @@
+DB_PORT=redis://localhost:6379
+API_TIMEOUT=816
+sshd[5410]: Accepted password for megan16 from 192.168.80.124 port 19551 ssh2
+API_TIMEOUT=INFO
+FEATURE_X_ENABLED=WARN
+184.48.172.213 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 400 497126 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/5.1)"
+DB_PORT=true
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"user session created","user":"jamesrowland","trace":"e6NPTyzWOIFH"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"db slow query","user":"robertwilliams","trace":"BMMx01rEyDws"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"cache miss","user":"heatherfleming","trace":"dd4EerPyZKAR"}
+sshd[3335]: Session opened for blambert from 172.19.3.228 port 27312 ssh2
+106.34.146.78 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 500 63252 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/535.18.2 (KHTML, like Gecko) Version/5.0 Safari/535.18.2"
+sshd[1940]: Accepted password for alarson from 10.71.73.191 port 49379 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"user session created","user":"tnelson","trace":"OICHS7buExcA"}
+sshd[6898]: Failed password for ericperry from 192.168.237.210 port 36531 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"cache miss","user":"justin40","trace":"32Nk4tJXZwDD"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"david00","trace":"UFd3aDyT18JK"}
+42.70.87.160 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 200 135960 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_4 rv:3.0; tl-PH) AppleWebKit/535.3.5 (KHTML, like Gecko) Version/5.0 Safari/535.3.5"
+LOG_LEVEL=true
+LOG_LEVEL=DEBUG
+sshd[4600]: Session closed for urose from 192.168.114.248 port 61469 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"request completed","user":"qgoodwin","trace":"53r13bDur2GS"}
+sshd[2747]: Session opened for jacqueline08 from 10.12.96.161 port 63016 ssh2
+DB_HOST=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"user session created","user":"pcummings","trace":"IhN2yFKnA99D"}
+DB_PORT=srv-51.johnson.com
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"db slow query","user":"david63","trace":"fuc3dFqeS7Nb"}
+sshd[7728]: Failed password for rodriguezrick from 192.168.113.201 port 56394 ssh2
+sshd[1141]: Failed password for cmoses from 172.30.66.150 port 53703 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"cache miss","user":"kfry","trace":"2PhKUOQTskO2"}
+sshd[3787]: Accepted password for geraldschaefer from 172.16.233.135 port 55280 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"jonesmegan","trace":"DijB8lzKSzRM"}
+81.65.131.248 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 500 484926 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.38.3 (KHTML, like Gecko) Version/4.0 Safari/532.38.3"

@@ -1,0 +1,28 @@
+sshd[6440]: Failed password for amandagardner from 192.168.240.187 port 37019 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"request completed","user":"samanthablack","trace":"xLaEWEY2LQx3"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"request completed","user":"nprice","trace":"kyxvAOancoUx"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[9649]: Session closed for quinnjohn from 192.168.101.149 port 20781 ssh2
+183.2.2.243 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 500 118160 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.2.3 (KHTML, like Gecko) Version/4.0.5 Safari/533.2.3"
+200.119.21.244 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 500 245205 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.1)"
+REDIS_URL=true
+59.164.19.234 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 502 433749 "-" "Mozilla/5.0 (iPad; CPU iPad OS 12_5_7 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/26.0.845.0 Mobile/75X325 Safari/531.0"
+9.169.131.221 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 204 32008 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; gu-IN) AppleWebKit/534.31.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6534.31.5"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"token refreshed","user":"estone","trace":"BsTKAoiIKvLH"}
+FEATURE_X_ENABLED=false
+DB_HOST=2555
+134.17.145.206 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 400 468228 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/31.0.879.0 Mobile/22Z283 Safari/535.0"
+109.63.76.136 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 502 120464 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/49.0.818.0 Safari/532.2"
+140.148.157.10 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 200 299752 "-" "Opera/9.28.(Windows NT 11.0; mai-IN) Presto/2.9.172 Version/12.00"
+LOG_LEVEL=8210
+24.183.11.94 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 404 65757 "-" "Opera/9.48.(X11; Linux i686; as-IN) Presto/2.9.161 Version/12.00"
+sshd[6849]: Failed password for gosborne from 10.9.19.231 port 36319 ssh2
+REDIS_URL=db-83.brock.com
+sshd[7740]: Failed password for farmerchristina from 172.19.32.31 port 45827 ssh2
+sshd[1235]: Session opened for emma36 from 192.168.91.164 port 32355 ssh2
+sshd[4010]: Accepted password for danielle77 from 10.190.152.33 port 31518 ssh2 API_KEY=AIzalt31f-L-MYos5frtsdOn9LYWK0K0I57Cd3BEDQ
+API_TIMEOUT=srv-40.george-manning.com
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"erincooper","trace":"c6HT1DoztLFQ"}
+9.184.26.152 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 403 98729 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/3.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"cache miss","user":"richardfarmer","trace":"xMOGMtLUDdXZ"}

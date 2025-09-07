@@ -1,0 +1,29 @@
+157.72.101.31 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 400 39499 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 2_2_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/9.0x3718.0 Mobile/98O354 Safari/531.0"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"dawnmartinez","trace":"gYXL5LNPfLxt"}
+158.148.162.135 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 500 144340 "-" "Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/14.6k8530.0 Mobile/52Q587 Safari/532.0"
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"request completed","user":"jgarcia","trace":"mr5eylyQ8M7g"}
+DB_PORT=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"berrykathy","trace":"B6UDDJfrK7IP"}
+202.55.246.97 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 201 241759 "-" "Mozilla/5.0 (Windows NT 10.0; hsb-DE; rv:1.9.2.20) Gecko/2852-10-17 18:05:17.926353 Firefox/6.0"
+sshd[2830]: Session closed for nthomas from 172.29.66.245 port 39190 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"cache miss","user":"bvillarreal","trace":"N8ul8pKnVpf0"}
+DB_HOST=21523
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"cache miss","user":"eosborne","trace":"lwgc56QgVhCm"}
+203.69.243.206 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 403 49558 "-" "Opera/9.63.(X11; Linux i686; pa-IN) Presto/2.9.164 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"tinawinters","trace":"9wge4R4h9IPQ"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"user session created","user":"pricealex","trace":"4JSF1je60UFz"}
+sshd[7262]: Session opened for becklinda from 10.93.143.178 port 57640 ssh2
+sshd[9818]: Session closed for pzamora from 192.168.103.144 port 32841 ssh2
+sshd[9706]: Failed password for schneiderethan from 10.203.183.221 port 17941 ssh2
+DB_HOST=4272
+2.152.182.112 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 500 486449 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/59.0.827.0 Safari/532.2"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"db slow query","user":"mary73","trace":"Oi1i2ES4KdiV"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"token refreshed","user":"yaustin","trace":"18UxjWymZRne"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"request completed","user":"carolyn77","trace":"Cu3cCwjyJU8m"}
+DB_HOST=redis://localhost:6379
+DB_PORT=srv-19.crane.com
+83.157.198.57 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 302 427909 "-" "Opera/8.18.(X11; Linux x86_64; sk-SK) Presto/2.9.189 Version/12.00"
+37.38.130.192 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 200 427206 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/16.0.832.0 Mobile/85D812 Safari/531.0"
+sshd[8613]: Failed password for michelehardy from 172.24.202.172 port 54341 ssh2
+sshd[1701]: Accepted password for josephgomez from 192.168.235.86 port 27166 ssh2

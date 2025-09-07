@@ -1,0 +1,30 @@
+182.18.110.196 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 400 342484 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/5.1)"
+104.186.195.4 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 401 411329 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/27.0.822.0 Mobile/70R851 Safari/533.1"
+sshd[8407]: Session closed for isalazar from 10.52.197.35 port 24810 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"gjackson","trace":"XW1G5k1u75RA"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"db slow query","user":"sabrinacampbell","trace":"stF3etb4bawx"}
+sshd[5090]: Session closed for mcintoshdaniel from 192.168.183.26 port 22625 ssh2
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"request completed","user":"ramosjennifer","trace":"MGY9XkD7b0gw"}
+65.119.155.193 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 401 480406 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"cache miss","user":"duranclaudia","trace":"m2fYblaO9pW7"}
+sshd[4555]: Session opened for tammy34 from 172.30.183.188 port 22785 ssh2
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"db slow query","user":"caitlinriley","trace":"DuIng903b5HL"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"omerritt","trace":"Yig6JGion9ZU"}
+API_TIMEOUT=1459
+DB_PORT=22339
+API_TIMEOUT=2942
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"savannah79","trace":"SlKFN22XwN47"}
+FEATURE_X_ENABLED=DEBUG
+sshd[2564]: Session closed for kayleephillips from 192.168.13.137 port 46795 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+42.48.203.10 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 500 121030 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/8344-08-02 00:04:17.520050 Firefox/13.0" password=fA5!K+FQ7A|E
+FEATURE_X_ENABLED=DEBUG
+DB_HOST=2707
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"db slow query","user":"ruizpeter","trace":"KgG5EN6GB3qd"}
+LOG_LEVEL=email-18.liu.com
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"browndevin","trace":"1hN2rbu4ZZ3B"}
+30.251.69.253 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 204 155 "-" "Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/21.0.800.0 Mobile/78O600 Safari/534.2"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"davidmcbride","trace":"EA9gbL3uEdi2"}
+FEATURE_X_ENABLED=4835

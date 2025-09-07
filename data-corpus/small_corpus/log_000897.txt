@@ -1,0 +1,26 @@
+LOG_LEVEL=false
+FEATURE_X_ENABLED=23266
+177.115.251.199 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 302 26007 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/3878-03-01 05:32:17.956787 Firefox/8.0"
+sshd[9547]: Accepted password for melissajones from 10.44.149.135 port 41370 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"token refreshed","user":"walshdavid","trace":"48OGJPFvyX82"}
+59.77.207.93 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 400 479460 "-" "Opera/8.64.(X11; Linux i686; nso-ZA) Presto/2.9.160 Version/12.00"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"hberry","trace":"MNzoCQNZiiED"}
+sshd[1072]: Session opened for tiffanymartinez from 192.168.32.239 port 28214 ssh2
+FEATURE_X_ENABLED=desktop-35.booth.com
+sshd[9697]: Session opened for reidkelly from 172.18.82.94 port 37605 ssh2
+sshd[3699]: Failed password for nsmith from 192.168.157.116 port 28852 ssh2
+150.3.104.47 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 400 511714 "-" "Mozilla/5.0 (Linux; Android 2.3.5) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/59.0.819.0 Safari/536.1"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"db slow query","user":"vsmith","trace":"2qUxHFlzcgj2"}
+LOG_LEVEL=false
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"token refreshed","user":"phelpsbrittney","trace":"EuQktRKbZ4dW"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"db slow query","user":"hallwilliam","trace":"52lDeBeHgcl1"}
+sshd[4205]: Failed password for kaitlinbeasley from 192.168.91.246 port 44384 ssh2
+sshd[4784]: Session closed for asnyder from 192.168.119.245 port 43185 ssh2
+135.142.68.10 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 204 23729 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/3.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"db slow query","user":"millersarah","trace":"OFIrW9ThrzFR"} password=dK1'}U`zlMR
+131.205.93.45 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 400 285005 "-" "Mozilla/5.0 (Android 2.0; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0"
+16.68.234.167 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 502 425926 "-" "Opera/9.33.(Windows NT 6.0; wal-ET) Presto/2.9.175 Version/12.00"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"db slow query","user":"masseyamanda","trace":"nxIan6cHB70j"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"cache miss","user":"timothyhancock","trace":"67WkAjK9JY7x"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"notify","msg":"user session created","user":"christinaporter","trace":"j860zpTGF106"}

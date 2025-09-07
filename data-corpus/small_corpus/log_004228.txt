@@ -1,0 +1,32 @@
+REDIS_URL=1322
+sshd[1989]: Session opened for vmorgan from 192.168.158.121 port 17619 ssh2
+sshd[9463]: Accepted password for sherrycohen from 10.116.82.11 port 63766 ssh2
+52.191.161.101 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 201 490995 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_7 rv:2.0; uk-UA) AppleWebKit/531.27.3 (KHTML, like Gecko) Version/4.1 Safari/531.27.3"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"user session created","user":"david10","trace":"NaOjPhNqUJVR"}
+66.245.19.188 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 204 419740 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/29.0.884.0 Mobile/35M485 Safari/531.0"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"retrying upstream","user":"robert54","trace":"lb8M89uhTR79"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"user session created","user":"elliskevin","trace":"Mts8lhgGtmeU"}
+sshd[3986]: Session closed for emily52 from 10.225.29.242 port 33351 ssh2
+sshd[1172]: Accepted password for eric32 from 172.20.38.33 port 44521 ssh2
+FEATURE_X_ENABLED=false
+82.40.220.168 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 404 303047 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_9) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/60.0.828.0 Safari/536.1"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"thernandez","trace":"AAH5F2Hfkvjo"}
+69.106.5.103 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 403 430110 "-" "Opera/9.63.(Windows NT 11.0; ko-KR) Presto/2.9.183 Version/11.00" API_KEY=AIzau5ZAeESnSoeBAGJQeBLj3gAcIKWayqeX8JKD4A
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"nicholasruiz","trace":"5kTB5KZxobWD"}
+LOG_LEVEL=redis://localhost:6379
+LOG_LEVEL=43388
+sshd[3899]: Accepted password for kayla05 from 192.168.117.181 port 44122 ssh2
+sshd[7901]: Failed password for dmccormick from 10.0.255.244 port 19607 ssh2
+sshd[5963]: Session closed for alexanderyoung from 192.168.255.91 port 49681 ssh2
+sshd[6515]: Failed password for alyssa79 from 192.168.237.242 port 34516 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"barbarasmith","trace":"uRWOjPJm59it"}
+LOG_LEVEL=redis://localhost:6379
+87.171.252.136 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 200 134436 "-" "Opera/9.49.(X11; Linux x86_64; wae-CH) Presto/2.9.164 Version/10.00"
+DB_HOST=desktop-50.dickson-diaz.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJsaXFTbjRwWGp4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.hKouyICOXWCCv9fFpYMGyj0WfvxBpCopphxYdqXnkXo'
+REDIS_URL=web-36.stephens.com
+DB_HOST=16779
+105.18.212.46 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 201 466678 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/13.8a8529.0 Mobile/49I535 Safari/532.1"
+sshd[9274]: Accepted password for amanda48 from 192.168.44.115 port 63312 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"request completed","user":"stevenfarmer","trace":"ZKuujohx4SbS"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"hfields","trace":"1U2Im7ThmMlB"} API_KEY=AIzaylYszf5hEiJVaaS6AKJtwifVdSzOWd6F0cPvvw

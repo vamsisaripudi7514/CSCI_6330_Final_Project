@@ -1,0 +1,28 @@
+sshd[2660]: Session closed for martinezsarah from 192.168.202.209 port 46417 ssh2
+141.17.220.225 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 500 484333 "-" "Opera/9.99.(X11; Linux i686; zu-ZA) Presto/2.9.178 Version/12.00"
+sshd[4251]: Session closed for garciaanthony from 192.168.51.7 port 30677 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"jonathancameron","trace":"t0cQzdRn4F8h"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"user session created","user":"carrollalejandro","trace":"6jYGC44n8ZaR"}
+176.131.56.202 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 201 207406 "-" "Opera/8.33.(Windows NT 5.1; tl-PH) Presto/2.9.168 Version/12.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"user session created","user":"hansonerica","trace":"WkJBcgEJmCel"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"schmidtdavid","trace":"1DD3B5iT63Zl"}
+62.45.141.56 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 400 131969 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/16.0.818.0 Safari/533.0"
+sshd[7160]: Failed password for cwilson from 172.24.1.114 port 44438 ssh2
+141.72.166.125 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 201 26938 "-" "Opera/9.93.(Windows NT 5.1; nhn-MX) Presto/2.9.179 Version/12.00"
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"cache miss","user":"russellmark","trace":"VZoHW5VgOtQD"}
+LOG_LEVEL=2170
+sshd[2328]: Session opened for richardkimberly from 172.21.13.242 port 33230 ssh2
+157.78.61.236 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 302 233155 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"user session created","user":"jgarcia","trace":"TDKtqzTtZ8rz"}
+43.248.134.6 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 302 491390 "-" "Opera/9.69.(Windows NT 6.0; mt-MT) Presto/2.9.179 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"request completed","user":"christopherharris","trace":"3sGVKea2rQur"}
+sshd[6592]: Session closed for victoriabradley from 192.168.106.42 port 62447 ssh2
+API_TIMEOUT=INFO
+sshd[7034]: Session closed for rodriguezcaleb from 192.168.207.116 port 44984 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"zwatson","trace":"6K4cUVKAYQf5"}
+API_TIMEOUT=srv-77.wallace-payne.com
+sshd[5042]: Session opened for stevelee from 10.246.249.47 port 17695 ssh2
+API_TIMEOUT=INFO
+sshd[2830]: Accepted password for thompsonstephanie from 172.20.106.90 port 14809 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"request completed","user":"zjefferson","trace":"hBy7XnoYgnfg"}

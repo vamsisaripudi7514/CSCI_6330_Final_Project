@@ -1,0 +1,26 @@
+sshd[2749]: Session closed for rachel82 from 192.168.38.122 port 28303 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"cache miss","user":"micheal00","trace":"1AJnunXd9629"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"user session created","user":"williamjohnson","trace":"SFcJK9VIGUL7"}
+sshd[9953]: Session closed for davidsnyder from 172.16.247.4 port 15995 ssh2
+120.112.94.110 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 403 348315 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/26.0.841.0 Safari/533.1"
+API_TIMEOUT=199
+DB_HOST=3450
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"jacksonpatricia","trace":"6MJsOQtcERUW"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"db slow query","user":"hclark","trace":"ol44lx5TxDiO"}
+DB_HOST=DEBUG
+sshd[2193]: Session closed for ehunt from 192.168.198.220 port 33365 ssh2
+sshd[3840]: Accepted password for morrismark from 10.55.21.117 port 22714 ssh2
+sshd[8525]: Session closed for nsantana from 10.122.116.26 port 50009 ssh2
+DB_PORT=true
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"uclark","trace":"ocCQfEVCDiC8"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"cache miss","user":"drobinson","trace":"JMptrEGozlCX"}
+sshd[2413]: Failed password for fowleraaron from 172.30.216.106 port 24887 ssh2
+API_TIMEOUT=db-60.cox.com
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"token refreshed","user":"bradgeorge","trace":"r1TneEyHbJ3l"}
+REDIS_URL=1578
+sshd[1657]: Session opened for evelyn83 from 172.19.190.150 port 12420 ssh2
+DB_HOST=43539
+FEATURE_X_ENABLED=false
+207.95.21.12 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 201 522370 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/60.0.810.0 Safari/536.0"
+sshd[4393]: Session opened for johnlucas from 192.168.53.135 port 61385 ssh2
+69.112.110.223 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 200 428572 "-" "Mozilla/5.0 (Linux; Android 9) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/16.0.869.0 Safari/534.0"

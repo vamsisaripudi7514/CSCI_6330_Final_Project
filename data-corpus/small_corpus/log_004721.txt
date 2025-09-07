@@ -1,0 +1,34 @@
+sshd[7045]: Accepted password for gwest from 10.219.221.204 port 61981 ssh2
+sshd[4846]: Failed password for jennifer41 from 192.168.32.133 port 47938 ssh2
+202.216.189.85 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 200 308657 "-" "Mozilla/5.0 (Android 1.0; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0"
+sshd[5947]: Session opened for lmcgrath from 192.168.84.11 port 27202 ssh2
+194.161.51.220 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 204 63464 "-" "Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/9.8n8642.0 Mobile/14J007 Safari/531.0"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"delgadopatricia","trace":"2E32TMvyyRKW"}
+152.202.97.134 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 201 407297 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5; rv:1.9.6.20) Gecko/9519-01-22 00:43:16.095612 Firefox/3.8"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"request completed","user":"kimberlyfoley","trace":"M8bGaeK7RFRj"}
+FEATURE_X_ENABLED=true
+sshd[6701]: Failed password for hectorpowell from 192.168.204.129 port 17631 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"user session created","user":"ricky93","trace":"IiEXBBYtJiRK"}
+177.245.221.111 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 204 184653 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.1)"
+REDIS_URL=DEBUG
+108.129.165.179 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 404 176928 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"alison64","trace":"ufyAWHdjEBk5"}
+221.102.174.61 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 403 424422 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.0)"
+API_TIMEOUT=885
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"user session created","user":"georgewatts","trace":"CGffiDLVXoGS"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"db slow query","user":"carolyn78","trace":"LWPRTTtMViLc"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"request completed","user":"mckenziejessica","trace":"ozLJeFoiIt96"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"token refreshed","user":"frazierjames","trace":"ULYjzTudXvYd"}
+DB_PORT=redis://localhost:6379
+sshd[7190]: Failed password for sabrina94 from 10.68.33.111 port 38484 ssh2
+sshd[7232]: Accepted password for josephmcdaniel from 10.4.237.54 port 15623 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJYOFlMUUhNU3lyIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.K1Bf7DZNzxTBTweCAq2JR3OYVOjaUIif6stH5EqhuQ0'
+sshd[2878]: Accepted password for vpeters from 192.168.216.120 port 51119 ssh2
+sshd[4567]: Accepted password for brewerstephanie from 10.188.4.1 port 45942 ssh2
+sshd[3649]: Session closed for jeff36 from 192.168.31.91 port 37046 ssh2
+107.113.78.121 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 201 485315 "-" "Mozilla/5.0 (iPad; CPU iPad OS 13_5_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/23.0.888.0 Mobile/61K328 Safari/535.1"
+sshd[5619]: Failed password for arogers from 10.222.206.241 port 56432 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"user session created","user":"pcampbell","trace":"HA0ccwrXsdRJ"}
+111.118.57.109 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 403 148805 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDSHlXVkhoanU1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.JthVzD0aUuJSA5mnJGhbhInhGZ3lRB1ohity0VdB6cA'
+sshd[3381]: Session opened for joshuadavis from 192.168.73.37 port 35171 ssh2
+sshd[9316]: Failed password for steeleeric from 172.28.196.234 port 27273 ssh2
+42.14.32.34 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 201 183033 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_3 rv:4.0; th-TH) AppleWebKit/532.26.2 (KHTML, like Gecko) Version/4.0 Safari/532.26.2"

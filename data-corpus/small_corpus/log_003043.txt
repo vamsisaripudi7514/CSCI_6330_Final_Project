@@ -1,0 +1,27 @@
+DB_PORT=redis://localhost:6379
+DB_PORT=true
+REDIS_URL=4687
+sshd[8334]: Session closed for megan16 from 192.168.76.213 port 29470 ssh2
+89.78.76.20 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 502 46485 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5319-12-07 04:44:13.755386 Firefox/12.0"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"request completed","user":"jacobwalters","trace":"ZNVoo2HU11pm"}
+DB_HOST=desktop-33.vaughn.com
+DB_HOST=srv-31.carson.com
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"user session created","user":"robert08","trace":"70UMo9h2lEkE"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"user session created","user":"justin23","trace":"xqxgqmuLTvWE"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"request completed","user":"sullivanamy","trace":"3hSprUDLsicX"}
+sshd[8116]: Session opened for emorris from 192.168.246.214 port 47694 ssh2
+FEATURE_X_ENABLED=DEBUG
+75.129.86.48 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 302 107736 "-" "Opera/9.77.(X11; Linux i686; uk-UA) Presto/2.9.175 Version/12.00"
+sshd[9556]: Accepted password for tfrench from 10.216.90.242 port 27883 ssh2
+sshd[5680]: Session closed for henrydarryl from 192.168.62.249 port 17067 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"user session created","user":"victoria24","trace":"KPKLKn2TlLOx"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"rbarnett","trace":"xUNHsQkU4eY8"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"request completed","user":"pnorton","trace":"o1AC0pIQeRKt"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[8134]: Session closed for onelson from 172.22.199.63 port 31110 ssh2
+106.172.232.104 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 400 109837 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/5.1)"
+REDIS_URL=redis://localhost:6379
+167.40.245.195 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 401 255299 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/59.0.846.0 Safari/535.2"
+sshd[3665]: Accepted password for emily74 from 172.30.110.99 port 23695 ssh2
+FEATURE_X_ENABLED=845

@@ -1,0 +1,25 @@
+sshd[1598]: Failed password for pandrews from 192.168.79.204 port 63729 ssh2
+DB_PORT=WARN password=kO6.V0S*!KD4Bu
+sshd[9663]: Accepted password for kaitlingibbs from 172.31.167.24 port 46330 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJxc2Y1N3VFZzM2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.LbuOw_J-VHyruPcnUWjguJ1L4ChRaLcymk0o_SL-o5o'
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"pwebb","trace":"D9fyqriyvF2n"}
+80.213.115.33 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 400 283742 "-" "Mozilla/5.0 (Windows CE; so-DJ; rv:1.9.1.20) Gecko/2782-10-03 12:42:09.517288 Firefox/3.6.17" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvUkdFWnlQRTl5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Fnvu3G2sxYmHWRNbMxJO2JThAwJh4jd1y7GV-aZT0do'
+sshd[7467]: Failed password for kelli14 from 192.168.30.174 port 44873 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"request completed","user":"ehamilton","trace":"t6lpdgGB3kzi"}
+21.253.112.227 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 403 442393 "-" "Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/16.0.810.0 Mobile/48T702 Safari/532.0"
+108.76.39.253 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 200 214728 "-" "Opera/9.15.(X11; Linux x86_64; lv-LV) Presto/2.9.164 Version/10.00"
+107.162.251.50 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 500 320663 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/15.0.841.0 Mobile/51R530 Safari/533.0"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"blynch","trace":"3CFz0mLBRC4a"}
+sshd[1737]: Session closed for ymitchell from 172.18.206.120 port 47878 ssh2
+sshd[5146]: Session opened for johnsontodd from 192.168.123.230 port 41848 ssh2
+sshd[8225]: Accepted password for zacharycarlson from 192.168.143.246 port 34076 ssh2 password=zI5'#qi0UisXA&
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"request completed","user":"krausekristin","trace":"RcnttUc7SCh6"}
+59.21.204.158 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 400 324148 "-" "Opera/8.95.(Windows NT 4.0; lv-LV) Presto/2.9.174 Version/10.00"
+sshd[5386]: Session opened for michelle21 from 192.168.143.209 port 24053 ssh2
+sshd[7696]: Session closed for fenglish from 10.158.201.50 port 26713 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"robertwalker","trace":"3du62YtKFAKn"}
+REDIS_URL=30843
+FEATURE_X_ENABLED=4493
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"user session created","user":"taranelson","trace":"GMbBtEI40vGa"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"barrettray","trace":"0iq5JIoKaEz0"}
+FEATURE_X_ENABLED=24681
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"request completed","user":"martinkatie","trace":"qhpQDh5Sexlk"}

@@ -1,0 +1,26 @@
+8.169.254.163 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 302 427762 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+sshd[9008]: Failed password for nguyencesar from 172.22.132.30 port 62233 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"retrying upstream","user":"richardtorres","trace":"XUecOMfOw2FI"}
+REDIS_URL=2681
+47.61.87.85 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 302 309012 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ga-IE) AppleWebKit/533.25.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.25.1"
+sshd[4984]: Session closed for bmiller from 10.178.67.44 port 64990 ssh2
+REDIS_URL=true
+71.201.154.80 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 400 92183 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/24.0.886.0 Mobile/55K249 Safari/532.1"
+DB_PORT=WARN
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"db slow query","user":"wolflaura","trace":"u7CMNOhB9KGK"}
+sshd[1365]: Session closed for krystalmorton from 10.216.93.201 port 33402 ssh2
+LOG_LEVEL=3653
+sshd[7150]: Session opened for mbooth from 192.168.245.153 port 60889 ssh2
+162.204.42.176 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 502 509970 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.1)"
+DB_HOST=true
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"wongsamuel","trace":"h8F1rjXrUK31"}
+sshd[8248]: Failed password for gclarke from 10.29.138.41 port 62180 ssh2
+DB_PORT=40520
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"db slow query","user":"brian88","trace":"m7Fi4lMYtrrY"}
+108.234.222.141 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 500 356290 "-" "Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/17.0.843.0 Safari/535.0"
+sshd[1184]: Session opened for hicksthomas from 10.173.38.66 port 33603 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"cache miss","user":"brandonkim","trace":"V6tflc00tCGW"}
+API_TIMEOUT=22461
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"request completed","user":"kendra66","trace":"WB11T7gTUZzi"}
+sshd[6829]: Accepted password for michaelatkinson from 172.18.105.0 port 36976 ssh2

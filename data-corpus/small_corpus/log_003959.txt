@@ -1,0 +1,42 @@
+sshd[1037]: Accepted password for xayala from 192.168.59.217 port 29424 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[5406]: Failed password for ekeller from 192.168.173.108 port 63030 ssh2
+LOG_LEVEL=redis://localhost:6379
+sshd[4277]: Session opened for amanda36 from 10.118.189.43 port 33828 ssh2
+REDIS_URL=33581
+sshd[7922]: Session closed for madelinesmith from 172.21.94.241 port 61207 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"sylvia47","trace":"k16dxsi9Di74"}
+DB_HOST=DEBUG password=eV2<Y9v0FD*
+11.45.185.166 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 502 327065 "-" "Mozilla/5.0 (Linux; Android 4.0.3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/57.0.895.0 Safari/534.1"
+97.20.159.53 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 400 104500 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1)"
+45.40.34.97 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 502 219982 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/38.0.858.0 Safari/536.2"
+DB_PORT=redis://localhost:6379
+184.10.222.128 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 403 377405 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.1)"
+sshd[6919]: Session opened for davismitchell from 10.9.119.153 port 49672 ssh2
+111.164.103.190 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 204 46985 "-" "Opera/9.41.(X11; Linux x86_64; si-LK) Presto/2.9.189 Version/12.00" password=zJ8\MC}3VuqKtE
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"troy35","trace":"x8ZT81ddHQIU"}
+sshd[6706]: Session closed for emiranda from 172.30.212.45 port 54446 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"oburton","trace":"WOFoE7W2RJCa"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"blackjuan","trace":"cxXlwiM9sDif"}
+sshd[8678]: Session closed for ggomez from 192.168.76.158 port 22498 ssh2
+LOG_LEVEL=4134
+FEATURE_X_ENABLED=redis://localhost:6379
+LOG_LEVEL=DEBUG
+38.25.223.139 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 500 385168 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/5383-06-26 09:06:49.233215 Firefox/3.8"
+4.43.36.239 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 500 305037 "-" "Mozilla/5.0 (Windows CE; km-KH; rv:1.9.0.20) Gecko/9796-11-15 17:15:37.054596 Firefox/3.8"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"cache miss","user":"shawnjohnson","trace":"gVjm36TzCPMg"}
+sshd[5973]: Failed password for heatheribarra from 172.28.20.4 port 29575 ssh2
+159.231.74.246 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 502 278904 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; sq-AL) AppleWebKit/534.18.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6534.18.2"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"user session created","user":"hollandmichael","trace":"2JUo8TVi1Cl9"}
+DB_HOST=true
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"request completed","user":"joshuasnyder","trace":"r9so2ZToPMED"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"token refreshed","user":"rwatson","trace":"htBwI44UEtUo"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJEWEE1ZURsNDQ2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.-F-_g0j77gHME81nsIezbELdW1DK-lppayZ5-JVSIiY'
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"user session created","user":"davidthompson","trace":"d4d3YvE2Q8b9"}
+REDIS_URL=61144
+DB_PORT=desktop-13.elliott.com
+LOG_LEVEL=false
+DB_HOST=8297
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"cache miss","user":"dakotawalker","trace":"pbJQoSgxnLT6"}
+60.139.90.146 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 200 453491 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/57.0.860.0 Safari/535.1"
+sshd[1704]: Accepted password for maureengarcia from 10.230.138.122 port 29912 ssh2

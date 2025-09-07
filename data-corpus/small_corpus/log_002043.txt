@@ -1,0 +1,42 @@
+REDIS_URL=srv-55.medina.com
+DB_HOST=4437
+LOG_LEVEL=WARN
+173.12.242.8 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 500 432636 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/16.0.882.0 Safari/536.0"
+LOG_LEVEL=redis://localhost:6379
+133.254.247.201 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 500 246989 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.1)"
+sshd[6192]: Accepted password for matthewmartin from 10.91.200.167 port 62501 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"request completed","user":"andrew44","trace":"ezoNrguXIfyj"}
+sshd[3011]: Failed password for nrios from 192.168.82.243 port 23253 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"request completed","user":"davidking","trace":"H4qbcYhAFkne"}
+sshd[9499]: Session closed for landerson from 10.156.194.49 port 36622 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"charles96","trace":"ZwvxPKP2RbCX"} password=qR5)y@K=@X0EE>y=
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"cache miss","user":"jenniferguzman","trace":"AiTTtf8dyrY3"}
+11.122.48.239 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 500 70024 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/10.4c7098.0 Mobile/61Y564 Safari/532.0"
+sshd[3344]: Session opened for uaguilar from 172.30.99.255 port 60252 ssh2
+LOG_LEVEL=2384
+API_TIMEOUT=13110
+DB_PORT=2765
+102.196.208.76 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 302 32908 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.44.5 (KHTML, like Gecko) Version/4.0.5 Safari/534.44.5"
+13.10.234.226 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 204 488301 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_6) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/23.0.822.0 Safari/532.2"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"request completed","user":"iball","trace":"YhnGO55hb898"}
+REDIS_URL=srv-13.grant.info
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[4301]: Session opened for smalljoshua from 172.18.212.112 port 28670 ssh2
+LOG_LEVEL=4006
+sshd[6176]: Session closed for leemike from 172.23.89.76 port 29359 ssh2
+FEATURE_X_ENABLED=true
+sshd[3997]: Session opened for briangarcia from 10.16.33.203 port 64169 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"user session created","user":"powelljeffrey","trace":"QMRyUTRdKcK2"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"token refreshed","user":"lbaker","trace":"hZvzkf5ebCEm"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"thomasscott","trace":"AcMAACdGXkcd"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"cache miss","user":"schmittjacqueline","trace":"efVfs3PzMYfr"}
+sshd[9539]: Session closed for robert33 from 192.168.37.176 port 17029 ssh2
+210.228.122.104 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 403 96386 "-" "Mozilla/5.0 (Windows NT 6.0; ak-GH; rv:1.9.0.20) Gecko/6367-09-04 02:32:16.831055 Firefox/3.8"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"request completed","user":"travismatthew","trace":"WKr6gm2IHTmC"}
+102.127.2.227 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 500 293298 "-" "Mozilla/5.0 (Android 3.2.1; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0"
+184.21.96.69 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 302 26665 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_5) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/28.0.854.0 Safari/531.1"
+25.210.200.188 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 400 487751 "-" "Opera/9.38.(X11; Linux x86_64; pl-PL) Presto/2.9.164 Version/10.00"
+123.249.88.69 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 502 123091 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/10.1k7566.0 Mobile/74B239 Safari/533.0"
+194.17.41.94 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 204 303828 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.0)"
+10.219.4.183 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 400 13962 "-" "Opera/9.55.(Windows NT 6.2; bs-BA) Presto/2.9.176 Version/12.00"
+DB_PORT=INFO

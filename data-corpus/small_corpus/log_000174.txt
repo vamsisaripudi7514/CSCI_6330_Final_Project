@@ -1,0 +1,37 @@
+sshd[4994]: Session opened for iflores from 192.168.31.242 port 46276 ssh2
+REDIS_URL=11598
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"sandra69","trace":"fcgkv8tSzCuX"}
+132.87.93.131 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 502 350627 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0)"
+API_TIMEOUT=2004 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ6ejlPN1IwanRHIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.t6fryPGr0qDf6AT0rGXQqiQL2y31S4ll1laJvhhA9a4'
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"cache miss","user":"gillespieelizabeth","trace":"lce5rZ7nvtxy"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"user session created","user":"dana29","trace":"GGRZoBGBpAO2"}
+sshd[9319]: Session opened for apatel from 192.168.102.26 port 17672 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJScGZSUU5EM09XIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.1p8bLLGjHdUfiyGqNDpXxTbF2ML6jxJz_lZZtpLNaSA'
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"db slow query","user":"hansonsteve","trace":"WmKiOby0TYbr"}
+sshd[3296]: Failed password for spearsmichael from 10.40.58.187 port 59567 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"retrying upstream","user":"michael10","trace":"9nPWYOvdBMQE"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"user session created","user":"zgalvan","trace":"VnGEi3hgi7bn"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"hartrichard","trace":"4aXQ8XRxNw8t"}
+DB_HOST=WARN
+132.26.194.212 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 400 381491 "-" "Opera/9.11.(Windows NT 6.2; quz-PE) Presto/2.9.186 Version/10.00"
+173.125.38.98 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 400 456348 "-" "Opera/8.92.(X11; Linux i686; tt-RU) Presto/2.9.171 Version/11.00"
+213.244.172.190 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 302 62258 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/39.0.878.0 Safari/534.0"
+sshd[4936]: Failed password for gilbertmccarthy from 192.168.67.17 port 37281 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDYnJaTEI3ZVE1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.1g5raqGX0hSXypCUYoQvNp7tsMKm2GzeM5v7twvvVIg'
+sshd[4043]: Failed password for daviddodson from 10.242.155.215 port 16708 ssh2
+40.247.62.4 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 400 301235 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/33.0.852.0 Safari/532.0"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"user session created","user":"warrenpaul","trace":"V9gMy14NZQdM"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"request completed","user":"psavage","trace":"FPAu9SKib610"}
+sshd[7519]: Failed password for michaelfleming from 10.253.104.33 port 11642 ssh2
+50.228.46.138 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 500 7254 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.0)"
+113.133.156.39 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 302 519188 "-" "Mozilla/5.0 (Windows NT 6.1; sl-SI; rv:1.9.2.20) Gecko/4879-02-22 23:10:21.975327 Firefox/11.0"
+167.12.223.4 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 302 319139 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.47.3 (KHTML, like Gecko) Version/5.0.3 Safari/533.47.3"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"db slow query","user":"hendersonryan","trace":"nida2LAc8hxm"}
+26.190.115.214 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 204 416615 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4042-12-07 19:12:05.483582 Firefox/3.8"
+LOG_LEVEL=true
+sshd[5526]: Session closed for valerie68 from 192.168.64.72 port 46134 ssh2
+sshd[6837]: Session opened for evancook from 192.168.99.62 port 16374 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"request completed","user":"matthewlopez","trace":"1v5WO5CWYR9Y"}
+193.229.2.36 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 302 297297 "-" "Opera/9.72.(Windows NT 6.1; mk-MK) Presto/2.9.166 Version/10.00"
+215.7.255.76 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 502 38712 "-" "Opera/9.52.(X11; Linux i686; ky-KG) Presto/2.9.188 Version/12.00"
+API_TIMEOUT=srv-22.sweeney.com
+sshd[9694]: Session closed for alexander23 from 192.168.17.45 port 56933 ssh2 password=kS0+fd#%)2vv
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"user session created","user":"dean03","trace":"acYGRQHLjuX6"}

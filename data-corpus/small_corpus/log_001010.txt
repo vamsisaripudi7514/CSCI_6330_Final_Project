@@ -1,0 +1,31 @@
+207.150.88.52 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 500 402203 "-" "Mozilla/5.0 (Android 7.1; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"ehorn","trace":"tRIoHbI0DUjm"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"request completed","user":"amanda70","trace":"qVtTfKSgVRGr"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"cache miss","user":"eric74","trace":"nDQLpJPuRW3s"}
+sshd[9231]: Session opened for daniellemurray from 10.234.204.147 port 51545 ssh2
+sshd[7351]: Session closed for vsullivan from 192.168.116.253 port 43206 ssh2
+103.45.248.239 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 201 254286 "-" "Opera/8.35.(Windows 98; Win 9x 4.90; mni-IN) Presto/2.9.174 Version/11.00"
+50.57.207.12 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 403 168806 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3 rv:2.0; cy-GB) AppleWebKit/532.24.7 (KHTML, like Gecko) Version/4.0.2 Safari/532.24.7" password=fX0<FGnwRbyz
+sshd[8438]: Session closed for nathanwatson from 192.168.71.79 port 55010 ssh2 password=tK8`ZDT&C<n
+186.18.103.23 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 401 178415 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.1)"
+REDIS_URL=26674
+FEATURE_X_ENABLED=false
+DB_HOST=40567
+22.125.49.251 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 201 262435 "-" "Opera/9.72.(Windows NT 5.1; doi-IN) Presto/2.9.186 Version/12.00"
+sshd[9103]: Session closed for barroyo from 192.168.130.27 port 12836 ssh2
+sshd[2690]: Accepted password for hartmanjohn from 10.224.0.181 port 51232 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"user session created","user":"tweeks","trace":"ayhBtA7hLm0b"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"victoriamora","trace":"FoaBRU6t81cT"}
+sshd[8772]: Accepted password for sue24 from 192.168.129.7 port 54047 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"request completed","user":"owilliams","trace":"QpNb8h0igwtI"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"qwashington","trace":"I66tOEMyYxwO"}
+FEATURE_X_ENABLED=false
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"db slow query","user":"benjamin36","trace":"6VoBxeHuDE4E"}
+sshd[7161]: Session closed for hunternewton from 172.30.248.166 port 16455 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"user session created","user":"shawn75","trace":"BzQl84efAdsB"}
+75.249.208.156 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 204 428325 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; fy-DE; rv:1.9.0.20) Gecko/2296-05-04 00:13:19.068071 Firefox/3.6.5"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"db slow query","user":"hwalker","trace":"6ZfTJZU0sF4p"}
+sshd[9710]: Session closed for wshaffer from 10.10.139.93 port 23161 ssh2 password=sF0_&j3l+/vx+2Wd
+93.185.234.214 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 200 118041 "-" "Opera/9.69.(X11; Linux i686; lg-UG) Presto/2.9.180 Version/12.00"
+sshd[3060]: Accepted password for shannon25 from 10.250.172.122 port 25328 ssh2
+114.136.227.123 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 401 136540 "-" "Opera/9.78.(Windows NT 5.1; ln-CD) Presto/2.9.172 Version/12.00" API_KEY=AIzaTvfxBiuX-Op9EBz40hLVoiHCTLOE_UekMmx3_g

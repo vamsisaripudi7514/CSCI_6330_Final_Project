@@ -1,0 +1,34 @@
+5.30.210.125 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 200 447327 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/52.0.855.0 Safari/535.0"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"cache miss","user":"zharmon","trace":"NIZwYOUlsZjq"}
+LOG_LEVEL=WARN
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"request completed","user":"williambrown","trace":"9JwX5rZqTMz9"}
+sshd[6044]: Failed password for bcooper from 192.168.57.144 port 39188 ssh2
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"donovanjoseph","trace":"chiQUWbjNYqX"}
+24.181.16.46 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 302 405324 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/24.0.845.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"aaroncummings","trace":"Kuag811VdoOr"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"amanda93","trace":"vwYhCgi40Y2Z"}
+62.63.230.114 - - [07/Sep/2025:18:24:49 +0000] "GET /index.html HTTP/1.1" 200 495739 "-" "Opera/8.20.(Windows 98; Win 9x 4.90; st-ZA) Presto/2.9.170 Version/10.00"
+93.38.200.85 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 200 233314 "-" "Opera/9.13.(Windows NT 5.2; nds-NL) Presto/2.9.172 Version/11.00"
+FEATURE_X_ENABLED=INFO
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"user session created","user":"gregory21","trace":"GmkU61TmrCSR"}
+REDIS_URL=desktop-77.rodriguez.net
+sshd[1377]: Failed password for ireed from 10.76.182.168 port 27925 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"request completed","user":"kristi77","trace":"v5X6SBFer6KK"}
+sshd[2857]: Accepted password for graymark from 192.168.252.119 port 27604 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"user session created","user":"christopher26","trace":"HVE9N4RZGHMW"}
+sshd[9178]: Session opened for martinezmegan from 192.168.85.89 port 38853 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"request completed","user":"jefferyhuffman","trace":"cz92CvrCv8IU"}
+DB_HOST=true
+sshd[2081]: Session opened for ucurtis from 172.26.189.202 port 55683 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"db slow query","user":"gonzalesjanice","trace":"s7F45ZZEqCln"}
+DB_PORT=true
+sshd[8332]: Accepted password for mclaughlinangela from 172.21.22.50 port 22686 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"reedryan","trace":"INdMaNXbQeJu"}
+DB_PORT=laptop-29.pugh.com
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"kromero","trace":"hNBnp70Sw5RM"}
+105.95.92.216 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 400 396659 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.38.3 (KHTML, like Gecko) Version/4.0.5 Safari/534.38.3"
+sshd[6528]: Session closed for gleon from 172.27.25.6 port 20043 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"cache miss","user":"ustanley","trace":"y7Q7t3IfyXtG"}
+14.110.39.183 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 200 135084 "-" "Opera/9.41.(X11; Linux x86_64; af-ZA) Presto/2.9.181 Version/10.00"

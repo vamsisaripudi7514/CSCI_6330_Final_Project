@@ -1,0 +1,26 @@
+131.29.202.82 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 200 398187 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_3; rv:1.9.3.20) Gecko/6404-02-05 09:32:58.974823 Firefox/7.0"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"request completed","user":"herrerajose","trace":"3q4Mjoj30PPM"}
+sshd[7846]: Session opened for powellcrystal from 10.231.142.117 port 29488 ssh2
+FEATURE_X_ENABLED=17463
+sshd[4186]: Failed password for eking from 192.168.222.65 port 43955 ssh2
+sshd[9269]: Accepted password for jamiejoseph from 10.62.152.147 port 60117 ssh2
+sshd[4098]: Failed password for curtislisa from 192.168.82.78 port 60515 ssh2
+sshd[4491]: Session closed for darrellaustin from 192.168.31.64 port 37186 ssh2
+104.60.142.3 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 201 63683 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; gv-GB) AppleWebKit/531.31.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6531.31.5"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"user session created","user":"djackson","trace":"Wv1TJA51aFlz"}
+sshd[3881]: Accepted password for rachelcline from 192.168.171.160 port 33143 ssh2
+18.43.10.158 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 200 62610 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_4 rv:4.0; uz-UZ) AppleWebKit/531.15.1 (KHTML, like Gecko) Version/4.0.4 Safari/531.15.1"
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"db slow query","user":"harveyrandy","trace":"6PEEIXV4mDYm"}
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"request completed","user":"hickmankelly","trace":"mIVTs0jMMoXu"}
+REDIS_URL=2933
+DB_HOST=redis://localhost:6379
+FEATURE_X_ENABLED=true
+201.16.15.59 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 502 258305 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/533.46.4 (KHTML, like Gecko) Version/5.0 Safari/533.46.4"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"patriciarobinson","trace":"0ybGpLf96Lmi"}
+69.120.104.77 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 204 226114 "-" "Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/39.0.862.0 Safari/534.0" API_KEY=AIza0fxBCbRfIfGZaywohacSNrnx-8Mwq8VH3YyH1g
+sshd[3648]: Accepted password for angelabradley from 10.77.221.134 port 28236 ssh2
+LOG_LEVEL=web-20.perry.info
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"user session created","user":"margaret90","trace":"vvdxaodLv3HY"}
+114.237.186.38 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 401 124542 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4; rv:1.9.5.20) Gecko/8072-11-03 11:08:08.731598 Firefox/3.8"

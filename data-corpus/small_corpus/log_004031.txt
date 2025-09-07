@@ -1,0 +1,46 @@
+sshd[3771]: Session closed for dhiggins from 10.251.17.200 port 24153 ssh2
+sshd[4481]: Failed password for andrewgoodman from 172.16.104.60 port 64737 ssh2
+sshd[7878]: Accepted password for lcallahan from 192.168.125.191 port 59010 ssh2
+sshd[4662]: Session opened for carriebarron from 10.223.231.102 port 52735 ssh2
+REDIS_URL=40201
+DB_PORT=WARN
+DB_HOST=59004
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"cache miss","user":"frankblack","trace":"tjzjTWcQ5Gby"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"user session created","user":"kimberlywhite","trace":"9hOQn4cNZ6kF"}
+16.178.186.61 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 400 261156 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.0)"
+sshd[8304]: Session closed for dana20 from 172.21.161.22 port 30163 ssh2
+REDIS_URL=laptop-46.hayes.net
+sshd[6863]: Session closed for smithdavid from 172.20.211.191 port 19008 ssh2
+sshd[9509]: Accepted password for deborahscott from 10.66.180.234 port 10724 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"user session created","user":"matthew80","trace":"v0d5tDBisNSR"}
+sshd[8047]: Session closed for mitchellsharon from 172.18.109.234 port 22189 ssh2
+138.175.175.47 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 204 434074 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.0)"
+sshd[9136]: Session closed for hendrickswhitney from 10.133.216.231 port 26784 ssh2
+sshd[7745]: Failed password for fwhitney from 10.153.99.229 port 31896 ssh2
+REDIS_URL=true API_KEY=AIza-uHPs4TElTYk3FXvL3bWr_7VOM14p1n6fqSiYw
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"shelley39","trace":"QtFKdZISZsEu"}
+DB_PORT=2993
+API_TIMEOUT=redis://localhost:6379
+sshd[1753]: Failed password for yvargas from 172.27.149.14 port 19545 ssh2
+FEATURE_X_ENABLED=true
+19.3.28.171 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 502 126686 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/26.0.870.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"cache miss","user":"tammy06","trace":"qZVn8wHX83xr"} password=iB2{7Ap.{2Wso|
+136.21.29.186 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 500 515893 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/3.0)"
+LOG_LEVEL=903
+12.110.122.124 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 200 458259 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_8; rv:1.9.4.20) Gecko/3646-11-08 21:06:05.983551 Firefox/8.0"
+DB_PORT=false
+8.247.132.129 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 401 197019 "-" "Opera/8.96.(Windows CE; tn-ZA) Presto/2.9.171 Version/10.00"
+sshd[8714]: Session closed for pattersondawn from 172.29.254.109 port 12757 ssh2
+195.210.72.15 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 200 260697 "-" "Opera/8.12.(X11; Linux x86_64; sr-RS) Presto/2.9.178 Version/10.00"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"user session created","user":"william84","trace":"FTs7tc9DRgCZ"}
+DB_PORT=redis://localhost:6379
+69.185.222.239 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 404 154656 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/3.0)"
+DB_HOST=web-37.schmitt-owens.com
+sshd[7041]: Session opened for harnold from 172.19.49.76 port 14729 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"request completed","user":"riveralance","trace":"cGYeUkyekXon"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzMVJDY3dwazFJIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ._ZXcI4vPzO09EzfFcqFfZryGoSmi-QtZqcSHiQFnpYs'
+sshd[8976]: Session closed for eric16 from 10.252.214.123 port 13155 ssh2
+103.220.116.159 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 200 409254 "-" "Opera/9.98.(X11; Linux x86_64; mg-MG) Presto/2.9.160 Version/11.00"
+150.217.189.211 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 502 444370 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.0)"
+80.90.115.75 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 200 153525 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)"
+LOG_LEVEL=true
+DB_PORT=54665

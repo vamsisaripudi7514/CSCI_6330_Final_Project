@@ -1,0 +1,25 @@
+REDIS_URL=true
+65.202.188.10 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 401 428414 "-" "Opera/8.12.(Windows NT 4.0; kn-IN) Presto/2.9.187 Version/12.00"
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_PORT=WARN
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"ulawson","trace":"0hgKKzMq69KN"}
+FEATURE_X_ENABLED=desktop-45.armstrong-whitaker.com
+API_TIMEOUT=36084
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"token refreshed","user":"wmendez","trace":"ETXrq2g08iCR"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"token refreshed","user":"ehoward","trace":"gC83nVJXtR6O"}
+sshd[6654]: Session opened for cooperjacob from 10.101.162.193 port 55031 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"db slow query","user":"harrisjeffrey","trace":"FpWQTueHYfHy"}
+46.237.165.225 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 404 15304 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2 rv:4.0; mhr-RU) AppleWebKit/531.24.2 (KHTML, like Gecko) Version/5.1 Safari/531.24.2"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"cache miss","user":"scottgonzalez","trace":"Kxu7ztFtNkhb"}
+12.133.80.205 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 500 437316 "-" "Opera/9.38.(X11; Linux x86_64; fy-NL) Presto/2.9.183 Version/11.00"
+24.97.255.99 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 403 398919 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.49.7 (KHTML, like Gecko) Version/4.1 Safari/533.49.7"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"carolynsteele","trace":"9io9muhtuuJ9"}
+82.17.239.7 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 401 339646 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"gwebb","trace":"2B9sflIXMekS"}
+sshd[6836]: Session closed for emily02 from 192.168.56.131 port 33196 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"user session created","user":"lcox","trace":"is5Rn2GqRBnP"}
+42.147.254.159 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 403 7406 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/3.1)"
+sshd[7396]: Session closed for monicamoore from 192.168.79.132 port 16097 ssh2
+sshd[7621]: Accepted password for jose02 from 192.168.225.168 port 48696 ssh2
+sshd[7019]: Accepted password for meredithwright from 10.228.122.166 port 51406 ssh2
+FEATURE_X_ENABLED=1469

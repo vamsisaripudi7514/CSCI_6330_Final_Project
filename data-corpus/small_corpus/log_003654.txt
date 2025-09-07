@@ -1,0 +1,40 @@
+sshd[5764]: Session opened for morgankari from 192.168.104.132 port 45833 ssh2
+204.134.72.136 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 403 499922 "-" "Opera/8.89.(X11; Linux x86_64; ce-RU) Presto/2.9.161 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"brian95","trace":"AL7ZrFpXb0tb"}
+11.98.82.191 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 404 361981 "-" "Opera/8.21.(X11; Linux x86_64; ks-IN) Presto/2.9.163 Version/12.00"
+DB_PORT=1761
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"pcollins","trace":"fRs1cOOL7Diz"}
+REDIS_URL=10341
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"charles27","trace":"NXZyvcAXRJVV"}
+79.209.136.125 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 401 17919 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_6 rv:6.0; hne-IN) AppleWebKit/535.47.7 (KHTML, like Gecko) Version/5.0 Safari/535.47.7"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"cache miss","user":"ronnie01","trace":"2xr2uuLQgnrH"}
+214.26.52.182 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 201 429049 "-" "Opera/9.54.(Windows NT 11.0; hu-HU) Presto/2.9.175 Version/10.00"
+sshd[6683]: Failed password for sloanjeffery from 192.168.99.167 port 29101 ssh2
+sshd[6100]: Accepted password for bradyhailey from 192.168.124.242 port 37195 ssh2
+sshd[3925]: Session opened for brianmurphy from 10.10.245.53 port 45251 ssh2
+sshd[1975]: Session closed for deborah56 from 10.69.3.10 port 37633 ssh2
+FEATURE_X_ENABLED=844
+sshd[4350]: Failed password for tgreen from 10.133.111.115 port 13047 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"cache miss","user":"cervantescarla","trace":"V8NKBjh00Rj5"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"cache miss","user":"justinphillips","trace":"Bh2Zx36Gnvsl"}
+214.83.200.47 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 400 124751 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/3.1)"
+FEATURE_X_ENABLED=laptop-31.trujillo.com
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"request completed","user":"jacob64","trace":"DhIpRtSMGuAA"}
+FEATURE_X_ENABLED=WARN
+133.34.106.120 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 403 222001 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/531.32.2 (KHTML, like Gecko) Version/5.0.4 Safari/531.32.2"
+DB_PORT=db-64.harvey-allen.net
+DB_PORT=redis://localhost:6379 password=kB5#l<~$eo2oLh
+FEATURE_X_ENABLED=47850
+25.120.61.212 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 201 132895 "-" "Opera/8.89.(Windows NT 6.0; byn-ER) Presto/2.9.168 Version/10.00"
+200.170.212.175 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 500 172541 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.22.1 (KHTML, like Gecko) Version/5.0 Safari/535.22.1"
+190.175.14.206 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 400 325667 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_3 rv:2.0; ug-CN) AppleWebKit/533.39.1 (KHTML, like Gecko) Version/5.0.4 Safari/533.39.1"
+LOG_LEVEL=true
+sshd[9906]: Failed password for amy09 from 172.25.89.217 port 19282 ssh2
+sshd[6997]: Failed password for chelseajames from 172.21.111.111 port 27263 ssh2
+sshd[9243]: Failed password for robinsonkevin from 192.168.129.73 port 39716 ssh2
+DB_HOST=4236
+FEATURE_X_ENABLED=false
+181.169.63.247 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 201 24885 "-" "Opera/9.77.(X11; Linux i686; id-ID) Presto/2.9.176 Version/11.00"
+DB_PORT=1414
+108.210.251.232 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 502 172228 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/19.0.878.0 Safari/534.2"
+7.114.211.236 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 403 330048 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.40.3 (KHTML, like Gecko) Version/5.0 Safari/532.40.3"

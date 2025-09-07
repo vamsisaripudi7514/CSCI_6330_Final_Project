@@ -1,0 +1,37 @@
+sshd[3927]: Session closed for ucole from 192.168.95.194 port 17236 ssh2
+215.188.69.103 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 500 49433 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/14.0.802.0 Safari/531.1"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"elizabeth61","trace":"M1QT2syzpVoE"}
+221.174.55.174 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 401 120273 "-" "Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/16.5h5604.0 Mobile/80G082 Safari/532.1"
+72.100.211.187 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 502 287503 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"charles10","trace":"gxSDaLJEX7Ad"}
+37.205.55.154 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 400 480800 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/4.0 Safari/533.21.1"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"jacksonchristopher","trace":"dXeD4HK0Rfax"}
+sshd[7007]: Session opened for josephbailey from 10.93.33.123 port 57218 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"db slow query","user":"robinsontina","trace":"QcwQchwPRwrU"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"db slow query","user":"fostercourtney","trace":"XakOgiifv8Z3"}
+FEATURE_X_ENABLED=51050
+sshd[9332]: Accepted password for briandiaz from 192.168.232.12 port 10343 ssh2
+sshd[6367]: Session opened for jefferybecker from 192.168.208.144 port 54562 ssh2
+sshd[1895]: Session closed for wrightcaroline from 192.168.234.42 port 32415 ssh2
+sshd[3736]: Session closed for colemanmariah from 172.18.136.130 port 13965 ssh2
+FEATURE_X_ENABLED=db-75.joseph.com
+sshd[6849]: Accepted password for lindamoore from 172.18.234.100 port 16036 ssh2
+DB_PORT=605
+LOG_LEVEL=srv-64.farmer.com
+API_TIMEOUT=true
+sshd[7027]: Session closed for aaronpeterson from 192.168.6.236 port 28430 ssh2
+REDIS_URL=redis://localhost:6379
+DB_HOST=false
+sshd[4321]: Accepted password for aliciarogers from 172.26.195.119 port 13705 ssh2
+sshd[3713]: Accepted password for pateljason from 192.168.219.173 port 48317 ssh2
+REDIS_URL=30361
+121.143.199.111 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 403 14401 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+LOG_LEVEL=53073
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"user session created","user":"fsanchez","trace":"4zQfc4Ctoun4"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"db slow query","user":"matthewweiss","trace":"v1kkeogsEDCt"} API_KEY=AIzaaIRad-_O8u6uQ5qi68EibeO6pmqHsDNGb-d9rA
+sshd[3988]: Failed password for kgray from 172.31.10.206 port 20105 ssh2
+sshd[1657]: Session opened for jeffrey63 from 192.168.57.62 port 18811 ssh2
+sshd[4029]: Accepted password for shannon41 from 172.27.132.85 port 19079 ssh2 API_KEY=AIzaKb24h730rnFJPB4tqy-TZcJ3P4EUAc0lLBf8HQ
+DB_PORT=43543
+134.15.54.25 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 404 408719 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"retrying upstream","user":"henrymichael","trace":"ZpgEhL564He1"}

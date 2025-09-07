@@ -1,0 +1,36 @@
+69.26.197.192 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 308587 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)"
+186.252.144.78 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 302 169318 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/532.20.3 (KHTML, like Gecko) Version/4.1 Safari/532.20.3"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"webbtimothy","trace":"JqqHqGECBziL"}
+93.189.219.90 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 201 502302 "-" "Mozilla/5.0 (Linux; Android 4.1.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/47.0.869.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"cache miss","user":"vpatterson","trace":"YUDj0rMNpI4x"}
+104.30.227.39 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 404 134840 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/63.0.824.0 Safari/533.1"
+LOG_LEVEL=db-20.ramos-jensen.net
+26.9.188.0 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 403 181442 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"request completed","user":"scotttodd","trace":"C2O1iaaYqGKt"}
+sshd[8812]: Failed password for hhayes from 192.168.80.87 port 13066 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"request completed","user":"travis69","trace":"KduppSK85hLn"}
+sshd[9764]: Accepted password for robert55 from 172.22.235.120 port 16231 ssh2
+sshd[8034]: Session opened for duncanrichard from 10.24.33.253 port 19434 ssh2
+sshd[1535]: Failed password for pphillips from 192.168.162.245 port 56028 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"lawrence40","trace":"sMXruaSaJfrs"}
+DB_HOST=13109
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"db slow query","user":"thomasjackson","trace":"MFQa6FFILwBk"}
+sshd[4614]: Failed password for warrensean from 10.32.73.233 port 47606 ssh2
+sshd[8750]: Accepted password for gjohnson from 192.168.133.213 port 54307 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"request completed","user":"matthew90","trace":"arMaiKn4uDuN"}
+sshd[4448]: Accepted password for amandagarcia from 172.28.75.201 port 46377 ssh2
+DB_HOST=false
+70.189.48.218 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 404 276965 "-" "Mozilla/5.0 (Windows NT 5.0; ha-NG; rv:1.9.0.20) Gecko/4242-10-17 04:09:56.770676 Firefox/3.8"
+82.235.242.141 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 400 156619 "-" "Opera/8.58.(Windows NT 5.1; eo-US) Presto/2.9.161 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"eedwards","trace":"2QZPMEIYYHh4"}
+87.167.143.13 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 500 315614 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5; rv:1.9.3.20) Gecko/2856-05-31 13:39:35.534481 Firefox/3.6.11"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"user session created","user":"gina55","trace":"JlQtJfxaHrBF"}
+20.75.94.3 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 204 176817 "-" "Opera/9.69.(X11; Linux i686; sa-IN) Presto/2.9.190 Version/12.00"
+sshd[3335]: Failed password for kellydunn from 10.72.79.159 port 48796 ssh2
+sshd[9842]: Accepted password for garciasarah from 192.168.203.34 port 12890 ssh2
+125.255.135.218 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 403 242444 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJveFJ6YzFQOUxQIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Zm9M7vhSR2blMZndrMaudMgfq3eHzIWUWcTZM5L1RC4'
+sshd[3381]: Session opened for matthew23 from 10.34.70.92 port 57730 ssh2
+201.131.102.62 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 302 118077 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/13.0.826.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"db slow query","user":"guerrerodana","trace":"7iPuz9tvpxvo"}
+FEATURE_X_ENABLED=lt-02.newton-roberts.com

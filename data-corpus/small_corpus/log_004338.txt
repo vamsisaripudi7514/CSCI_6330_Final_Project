@@ -1,0 +1,27 @@
+sshd[4180]: Failed password for kevinowens from 172.20.137.222 port 61905 ssh2
+REDIS_URL=DEBUG
+sshd[3700]: Failed password for kimberlyhampton from 192.168.118.51 port 43819 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"token refreshed","user":"haley06","trace":"IiW3DmNw0gAS"}
+REDIS_URL=false
+132.87.69.46 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 500 295444 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_4 rv:2.0; ln-CD) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/4.0.4 Safari/534.48.3"
+DB_PORT=15991
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"request completed","user":"jon18","trace":"9BcB2pDhYNQN"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"cache miss","user":"lisa81","trace":"4j7H4B4n57tB"}
+FEATURE_X_ENABLED=desktop-32.knight-davidson.com
+DB_PORT=email-77.johnson-gibson.com
+LOG_LEVEL=redis://localhost:6379
+76.164.45.253 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 204 329403 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"db slow query","user":"tammy75","trace":"toX6lyxkjQzW"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"user session created","user":"paulgarcia","trace":"019g2QSVzpjW"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"ahopkins","trace":"xMo6RqllV7Dj"}
+sshd[5207]: Failed password for alejandro31 from 172.30.194.119 port 26656 ssh2
+sshd[2694]: Session opened for flove from 172.21.12.183 port 25208 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"request completed","user":"jamesoconnor","trace":"uRNhjuumA8wh"}
+API_TIMEOUT=db-57.johnson-taylor.com
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"db slow query","user":"marie21","trace":"aasWcuqrniGK"}
+63.21.157.150 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 201 197841 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/5.0)"
+184.36.143.128 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 401 464625 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_8 rv:2.0; se-NO) AppleWebKit/531.28.2 (KHTML, like Gecko) Version/4.0 Safari/531.28.2"
+159.113.255.75 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 502 458473 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.50.2 (KHTML, like Gecko) Version/5.0 Safari/531.50.2"
+LOG_LEVEL=WARN
+REDIS_URL=redis://localhost:6379

@@ -1,0 +1,37 @@
+sshd[7192]: Session closed for ilewis from 192.168.35.218 port 29770 ssh2
+189.228.13.101 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 400 257493 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.1)"
+sshd[3494]: Session closed for idixon from 192.168.40.160 port 64110 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"db slow query","user":"michelledunlap","trace":"bwjQH2aTa6Mz"}
+21.59.181.232 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 302 241771 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.4.3 (KHTML, like Gecko) Version/5.0.5 Safari/531.4.3"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"halltheresa","trace":"ENIWgbYWUdDo"}
+sshd[2305]: Session closed for swalters from 192.168.220.139 port 27229 ssh2
+90.57.132.10 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 201 250134 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_3; rv:1.9.5.20) Gecko/7741-08-20 00:08:43.515533 Firefox/3.8"
+111.141.168.119 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 201 217556 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.0)"
+REDIS_URL=29693
+209.148.33.118 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 500 125153 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.48.3 (KHTML, like Gecko) Version/4.0.5 Safari/535.48.3"
+68.185.47.72 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 403 403604 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.39.1 (KHTML, like Gecko) Version/4.0.4 Safari/531.39.1"
+132.122.124.123 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 401 128906 "-" "Mozilla/5.0 (Windows 98; ml-IN; rv:1.9.0.20) Gecko/2846-06-23 04:33:55.625694 Firefox/3.6.17"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"nnelson","trace":"60ete769yt22"}
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"user session created","user":"qkaufman","trace":"NmmnEkpreUfL"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"cache miss","user":"angela64","trace":"PL4OSl6tcv95"}
+sshd[6931]: Session closed for wilsonalexandria from 10.7.36.92 port 50778 ssh2
+FEATURE_X_ENABLED=web-11.franklin-brady.com
+sshd[2463]: Session closed for lewismary from 10.254.244.18 port 29479 ssh2 password=mO9.1&VewRn#
+sshd[7491]: Session closed for matthew87 from 10.213.204.181 port 17165 ssh2
+116.171.0.170 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 404 420908 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+192.58.151.67 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 302 209158 "-" "Opera/8.52.(Windows 98; fil-PH) Presto/2.9.185 Version/10.00"
+REDIS_URL=false
+API_TIMEOUT=4110
+102.62.239.247 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 400 517796 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/46.0.871.0 Safari/532.0"
+FEATURE_X_ENABLED=2263
+110.107.165.146 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 201 188213 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; lb-LU) AppleWebKit/534.11.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.11.6"
+REDIS_URL=DEBUG
+118.144.227.211 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 204 190472 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/5.0)"
+sshd[7055]: Session opened for kaitlyn87 from 10.55.232.132 port 46766 ssh2
+REDIS_URL=false
+sshd[5030]: Session closed for fharding from 10.8.57.77 port 21475 ssh2
+API_TIMEOUT=WARN
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"request completed","user":"onelson","trace":"wSC4XNr3fDZF"}

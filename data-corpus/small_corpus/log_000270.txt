@@ -1,0 +1,44 @@
+sshd[9225]: Session opened for hannah73 from 10.51.13.236 port 27875 ssh2
+sshd[4100]: Session closed for ricardomcclain from 192.168.113.218 port 31281 ssh2
+sshd[8326]: Accepted password for laura05 from 172.16.146.255 port 17084 ssh2
+sshd[4238]: Accepted password for alec47 from 10.158.79.150 port 17052 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnUmtiRm5xT3JNIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.zBrZjP9h1PbLBEgL3FiN8HepJ3r8-t5iDhpdvBOJm0g'
+sshd[9164]: Failed password for johnsonsean from 172.19.123.95 port 30387 ssh2
+sshd[8074]: Session opened for ilowe from 192.168.211.201 port 26472 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"user session created","user":"carneydavid","trace":"dpH0lBugjWLq"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"cache miss","user":"christine24","trace":"Cc5P97cMwhen"}
+163.23.2.153 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 204 230856 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_3 rv:2.0; tt-RU) AppleWebKit/535.28.7 (KHTML, like Gecko) Version/5.0 Safari/535.28.7"
+DB_HOST=redis://localhost:6379
+134.219.23.70 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 400 487582 "-" "Mozilla/5.0 (Windows NT 10.0; uk-UA; rv:1.9.2.20) Gecko/4004-02-20 09:14:03.534225 Firefox/3.6.13"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"lindazhang","trace":"Gnf8SWnkNEwF"} API_KEY=AIzavAn7gRO7hA1XnHfAYukIWe-v13wHpokQU9OkTA
+48.141.219.154 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 500 49124 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.1)"
+sshd[4749]: Session opened for urodriguez from 192.168.159.102 port 36339 ssh2
+LOG_LEVEL=4364
+LOG_LEVEL=2674
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"user session created","user":"piercemark","trace":"uhLjzeFS7QXw"}
+FEATURE_X_ENABLED=INFO
+138.120.71.198 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 201 205820 "-" "Opera/9.50.(X11; Linux x86_64; wae-CH) Presto/2.9.177 Version/11.00"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"request completed","user":"evanskaren","trace":"8gFctbsT5FIP"}
+DB_PORT=32223
+LOG_LEVEL=1269
+DB_HOST=42209
+DB_PORT=2684
+LOG_LEVEL=DEBUG
+59.67.209.175 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 200 212526 "-" "Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/26.0.848.0 Safari/533.2"
+sshd[6112]: Session opened for coxjason from 10.220.75.149 port 27418 ssh2
+sshd[1954]: Session opened for juan19 from 10.203.101.47 port 27862 ssh2
+REDIS_URL=3000
+sshd[2745]: Session opened for pfisher from 10.54.193.81 port 21281 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"db slow query","user":"djohnson","trace":"89C8p8gvxlu1"}
+FEATURE_X_ENABLED=14970
+161.31.6.106 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 401 12650 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6939-11-13 22:20:01.786041 Firefox/14.0"
+DB_PORT=DEBUG
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"sophia99","trace":"l0tlnxNlH3HO"}
+121.164.48.12 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 401 43166 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/16.7b3937.0 Mobile/29B273 Safari/536.2"
+DB_PORT=1541
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"token refreshed","user":"wmcguire","trace":"qaTJr98UGDqj"}
+sshd[8662]: Session opened for meagan84 from 10.117.93.88 port 17654 ssh2
+39.21.111.198 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 404 196303 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/45.0.811.0 Safari/534.1"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"request completed","user":"umayer","trace":"bAgh3PRNYoBJ"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"user session created","user":"kenneth31","trace":"ak3TmoO1wkpu"}
+sshd[8097]: Session opened for ashleyjohnson from 172.21.138.160 port 25438 ssh2

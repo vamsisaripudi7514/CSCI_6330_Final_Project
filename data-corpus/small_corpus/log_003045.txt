@@ -1,0 +1,30 @@
+LOG_LEVEL=28769
+DB_HOST=INFO
+sshd[4989]: Failed password for mbyrd from 172.28.65.181 port 42200 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[9067]: Accepted password for alvareztracy from 192.168.171.64 port 35748 ssh2
+27.116.32.242 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 403 465945 "-" "Opera/9.48.(Windows NT 5.1; an-ES) Presto/2.9.189 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"user session created","user":"palmerjorge","trace":"5UMkgb0x56Pn"}
+128.13.229.209 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 302 366184 "-" "Opera/9.28.(Windows CE; hak-TW) Presto/2.9.160 Version/12.00"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"stephen61","trace":"vTXWiLGeZS65"}
+DB_HOST=2478
+sshd[5342]: Accepted password for jason51 from 10.12.197.51 port 48642 ssh2
+API_TIMEOUT=web-99.huerta.com
+sshd[1496]: Session closed for martinezdouglas from 172.25.206.232 port 22573 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"db slow query","user":"dianawalker","trace":"FhUd1WAwpg3N"} password=cA1`t4@)qL$FZNl
+LOG_LEVEL=3532
+LOG_LEVEL=WARN
+216.105.238.64 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 404 356030 "-" "Mozilla/5.0 (Android 2.1; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"timothy58","trace":"fe8U4bbUJCbs"}
+15.58.149.217 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 201 347711 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; szl-PL) AppleWebKit/535.37.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6535.37.6"
+sshd[3407]: Session closed for zavalascott from 192.168.43.248 port 18467 ssh2
+REDIS_URL=redis://localhost:6379
+sshd[3188]: Failed password for jordanmichael from 10.135.150.48 port 31900 ssh2
+sshd[7695]: Accepted password for byrdrobert from 10.225.211.169 port 44132 ssh2
+REDIS_URL=DEBUG
+FEATURE_X_ENABLED=email-21.allen.info
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"rodriguezmaria","trace":"Fh31ExQwPxBW"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"user session created","user":"johnathanwest","trace":"eo6C22nQqo31"}
+sshd[5565]: Failed password for rpitts from 10.171.97.222 port 26472 ssh2
+DB_PORT=redis://localhost:6379
+118.214.94.104 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 302 426466 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/42.0.897.0 Mobile/82J490 Safari/534.2"

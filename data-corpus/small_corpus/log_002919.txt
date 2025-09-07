@@ -1,0 +1,26 @@
+DB_HOST=56847 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvUkdFWnlQRTl5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Fnvu3G2sxYmHWRNbMxJO2JThAwJh4jd1y7GV-aZT0do'
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"db slow query","user":"devinwade","trace":"hh3IDrl9NH2l"}
+LOG_LEVEL=4271
+FEATURE_X_ENABLED=24469 API_KEY=AIza54nYegSgjOQLB-w-zrGfoX12PHmoiRiRMgD8JQ
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"token refreshed","user":"browntom","trace":"DkQm2lmBxclN"}
+21.113.58.221 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 404 157935 "-" "Opera/9.77.(Windows NT 5.1; fil-PH) Presto/2.9.172 Version/12.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJEbzF1aVBLbXFOIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.7mh69vEf67VvzBuAhEaSNrZCIuJuEPWQFjEAaTcGqSk'
+161.218.210.29 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 401 440685 "-" "Mozilla/5.0 (Android 4.2; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0"
+sshd[5091]: Session opened for lynnevans from 192.168.246.13 port 21850 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"cache miss","user":"scottwright","trace":"YwIdcRCPc9GZ"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"ronald75","trace":"JZHSkIvMXkiQ"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"user session created","user":"jodybrennan","trace":"lkRSuVZHK3Yf"}
+REDIS_URL=3367
+163.119.182.80 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 502 104109 "-" "Opera/9.65.(Windows 98; cmn-TW) Presto/2.9.187 Version/10.00"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"cache miss","user":"katherineanderson","trace":"sGufKNPAae2B"}
+53.100.237.70 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 500 293495 "-" "Opera/8.17.(Windows NT 11.0; hak-TW) Presto/2.9.165 Version/10.00"
+LOG_LEVEL=32064
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"db slow query","user":"mollysloan","trace":"boLg58UWKfXv"}
+131.228.181.17 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 400 285789 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/63.0.831.0 Safari/534.2"
+REDIS_URL=WARN
+176.102.149.209 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 502 499004 "-" "Mozilla/5.0 (Windows NT 10.0; de-LI; rv:1.9.0.20) Gecko/5944-01-12 05:24:12.357773 Firefox/3.8"
+141.212.0.226 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 401 248826 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/24.0.874.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"colekevin","trace":"pKg8Aq6rpFU2"}
+REDIS_URL=true
+104.230.49.105 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 401 229415 "-" "Mozilla/5.0 (Android 8.0.0; Mobile; rv:11.0) Gecko/11.0 Firefox/11.0"

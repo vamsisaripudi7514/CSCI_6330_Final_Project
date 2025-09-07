@@ -1,0 +1,37 @@
+REDIS_URL=redis://localhost:6379
+FEATURE_X_ENABLED=1736
+sshd[6032]: Failed password for chloe75 from 10.165.196.103 port 58371 ssh2
+sshd[8045]: Accepted password for vincent23 from 10.211.247.219 port 26529 ssh2
+74.152.129.217 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 204 218125 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/3.1)"
+API_TIMEOUT=18969
+137.32.148.22 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 302 334673 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0)"
+FEATURE_X_ENABLED=4518
+sshd[5820]: Accepted password for paul93 from 172.20.196.3 port 61572 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJEazFGV2N1RUlPIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.cEyjED3YbyRcbz4k-2dFrqI__Eo-KJkr5ys7hVr7uhc'
+7.185.12.51 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 201 174789 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/3.1)"
+187.78.221.155 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 403 261795 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/39.0.853.0 Safari/535.0"
+27.21.209.12 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 401 271454 "-" "Mozilla/5.0 (Android 4.1; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0"
+34.132.179.164 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 400 286330 "-" "Mozilla/5.0 (Linux; Android 3.2.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/39.0.854.0 Safari/533.2"
+sshd[8536]: Session closed for estewart from 192.168.189.103 port 61037 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"db slow query","user":"jennifer20","trace":"NDhcZOFjNMzi"}
+sshd[3175]: Session opened for hansonrichard from 192.168.209.196 port 36451 ssh2
+193.173.231.60 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 204 391666 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4 rv:2.0; de-CH) AppleWebKit/533.42.7 (KHTML, like Gecko) Version/5.0.5 Safari/533.42.7"
+sshd[7168]: Session opened for jackhines from 172.28.123.60 port 31639 ssh2
+sshd[1075]: Accepted password for thompsonjeremiah from 192.168.171.253 port 18171 ssh2
+DB_PORT=true
+REDIS_URL=64539
+57.102.197.213 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 403 232902 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/59.0.802.0 Mobile/94A759 Safari/534.2"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"kathryn34","trace":"k6dseNs079F1"}
+19.226.237.174 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 400 233726 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/36.0.856.0 Safari/535.0"
+121.218.177.80 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 404 482698 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"icarlson","trace":"mHIi5QCY2v1E"}
+222.99.26.239 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 502 325125 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.38.3 (KHTML, like Gecko) Version/4.0.1 Safari/532.38.3"
+FEATURE_X_ENABLED=INFO
+91.135.59.4 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 502 54993 "-" "Opera/8.30.(Windows NT 5.0; gv-GB) Presto/2.9.161 Version/12.00"
+sshd[1161]: Session opened for cassidy48 from 192.168.186.111 port 52466 ssh2
+FEATURE_X_ENABLED=false
+208.54.210.197 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 400 387898 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/16.0.851.0 Mobile/45W118 Safari/531.1"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"johnsonerik","trace":"UjWJOV9wVVd9"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"martinezjennifer","trace":"mSmeXnk6HaJU"}
+DB_HOST=4417
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"db slow query","user":"jeffrey87","trace":"cRjkw2cquL8O"}

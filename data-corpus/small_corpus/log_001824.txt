@@ -1,0 +1,26 @@
+7.202.13.155 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 401 368530 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_2; rv:1.9.6.20) Gecko/7916-10-19 14:21:27.991730 Firefox/3.8"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"db slow query","user":"stevenmolina","trace":"4yqkjw65AxaF"}
+66.198.155.25 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 302 362252 "-" "Opera/9.84.(Windows NT 4.0; mhr-RU) Presto/2.9.185 Version/12.00"
+sshd[2421]: Accepted password for huangspencer from 10.253.199.18 port 15486 ssh2
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"cache miss","user":"wpeterson","trace":"buesiTIljHJw"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"user session created","user":"carterjennifer","trace":"Lbzlu4YpvrcI"}
+REDIS_URL=DEBUG
+REDIS_URL=2548
+sshd[3519]: Failed password for roycarmen from 10.44.19.42 port 61459 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"meganduarte","trace":"JxxJrPZLXbC7"}
+69.228.40.0 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 204 317116 "-" "Opera/8.24.(Windows NT 5.01; ro-RO) Presto/2.9.179 Version/10.00"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"request completed","user":"emilywalker","trace":"7nl8BfCuGDMs"}
+DB_PORT=DEBUG
+sshd[2337]: Failed password for cisnerosjames from 10.171.167.225 port 17958 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"user session created","user":"tammy69","trace":"m8425qqczngk"}
+DB_PORT=redis://localhost:6379
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"request completed","user":"gonzaleslinda","trace":"E0XwtVeyMS0R"}
+LOG_LEVEL=4105
+DB_HOST=DEBUG
+65.170.72.118 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 500 312933 "-" "Opera/8.39.(X11; Linux x86_64; so-KE) Presto/2.9.185 Version/10.00"
+sshd[2750]: Accepted password for angela60 from 192.168.97.116 port 56960 ssh2
+FEATURE_X_ENABLED=52212 API_KEY=AIzaOzCB2t0feIqOKtYUer7sHwx_-ec6vmY4nfWyww
+FEATURE_X_ENABLED=62758
+sshd[8290]: Session closed for floresrichard from 10.207.237.227 port 43599 ssh2

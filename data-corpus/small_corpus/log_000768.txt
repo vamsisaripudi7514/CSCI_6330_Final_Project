@@ -1,0 +1,25 @@
+REDIS_URL=email-86.garrett.org
+104.36.65.90 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 500 496020 "-" "Opera/9.85.(X11; Linux x86_64; ln-CD) Presto/2.9.185 Version/12.00"
+sshd[3239]: Failed password for foxgeorge from 10.210.44.118 port 63297 ssh2
+sshd[7276]: Session closed for larrycontreras from 172.22.67.154 port 36344 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"andrew12","trace":"Oi8pEzrwAu0K"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"cache miss","user":"mario07","trace":"d99FtZLFTagQ"}
+sshd[6450]: Accepted password for kyleschaefer from 192.168.35.133 port 16842 ssh2
+sshd[9948]: Session closed for rosscraig from 10.238.42.224 port 58436 ssh2
+173.36.67.188 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 502 246927 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_0; rv:1.9.3.20) Gecko/6152-03-29 12:26:49.725250 Firefox/3.6.4"
+sshd[5056]: Session opened for afranklin from 192.168.55.229 port 42319 ssh2
+64.57.220.207 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 200 250288 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.1)"
+sshd[7755]: Failed password for clane from 172.23.228.234 port 16401 ssh2
+sshd[5590]: Session closed for fbrooks from 10.61.206.47 port 40515 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"bowersandrew","trace":"TJjsQ2AaIt9Q"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"request completed","user":"christensenbrian","trace":"fxc6cvDa4cPK"}
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"request completed","user":"mcculloughbrittany","trace":"WzWppJXfL1Ma"}
+sshd[4063]: Session closed for philiproberts from 192.168.37.12 port 30953 ssh2
+DB_PORT=true
+163.116.53.163 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 400 511272 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_5) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/24.0.863.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"token refreshed","user":"cuevaslindsay","trace":"3od7VgTUojoS"}
+15.243.205.182 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 401 312512 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/42.0.843.0 Safari/533.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiaUwzQjdoSDM1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.EhGqYpOT-9QT5RRMcJR8GGxMxYtHN0gzzUEJz57fEhY'
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"request completed","user":"matthew73","trace":"TJXG0u4GvR91"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"cache miss","user":"jayyoung","trace":"IqPd71qmlOp8"}
+sshd[9913]: Failed password for katie77 from 10.28.158.42 port 48814 ssh2

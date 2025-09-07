@@ -1,0 +1,26 @@
+DB_HOST=395
+78.70.22.40 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 201 379448 "-" "Mozilla/5.0 (Windows NT 5.2; bho-IN; rv:1.9.2.20) Gecko/8810-06-06 04:12:48.367462 Firefox/3.6.11"
+LOG_LEVEL=lt-01.holmes.com
+211.142.124.156 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 502 349707 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3 rv:5.0; nhn-MX) AppleWebKit/531.27.1 (KHTML, like Gecko) Version/4.0.5 Safari/531.27.1"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"scotthernandez","trace":"pV8YIWehqAVp"}
+sshd[6948]: Accepted password for ilynch from 192.168.11.177 port 38681 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"austinchen","trace":"JGmZMHwQsa0q"}
+FEATURE_X_ENABLED=1705
+sshd[6693]: Failed password for tross from 192.168.106.187 port 36724 ssh2
+25.253.93.72 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 404 15437 "-" "Opera/9.30.(Windows NT 5.2; th-TH) Presto/2.9.164 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"user session created","user":"lisa16","trace":"toDqc6LxJdYY"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"user session created","user":"william92","trace":"N0yOzpjbUqjt"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"wilkinsjustin","trace":"9T7eNvtmP8Es"}
+7.210.178.52 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 404 179114 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/3.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"tony06","trace":"oAd2tA3ZS1wA"}
+REDIS_URL=web-28.case-smith.net
+REDIS_URL=48880
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"db slow query","user":"katherine47","trace":"JyJAr1Q9WwJp"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"request completed","user":"myates","trace":"JqHQzFMitVHa"}
+78.188.230.45 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 500 274043 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3 rv:5.0; se-NO) AppleWebKit/532.43.5 (KHTML, like Gecko) Version/4.0.4 Safari/532.43.5"
+LOG_LEVEL=DEBUG
+sshd[7171]: Accepted password for nrichmond from 172.20.135.214 port 44660 ssh2
+40.39.210.170 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 200 452634 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.0)"
+217.101.119.219 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 302 409127 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/50.0.829.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"request completed","user":"thomasmontgomery","trace":"EtKU7lHH2hUB"}
+187.14.37.158 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 302 444401 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/15.0.822.0 Safari/531.2"

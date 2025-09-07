@@ -1,0 +1,38 @@
+LOG_LEVEL=WARN
+DB_HOST=27611
+sshd[4330]: Failed password for taylorhendrix from 10.29.23.23 port 38466 ssh2
+REDIS_URL=redis://localhost:6379
+27.181.169.212 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 403 134403 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_0; rv:1.9.4.20) Gecko/8034-07-14 18:52:32.502228 Firefox/3.6.18"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"db slow query","user":"bmitchell","trace":"dVuJQE7vvoCQ"}
+148.36.85.219 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 201 474026 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6 rv:4.0; te-IN) AppleWebKit/532.38.7 (KHTML, like Gecko) Version/5.1 Safari/532.38.7"
+sshd[3902]: Session closed for teresamack from 172.23.38.127 port 48262 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"token refreshed","user":"lamaustin","trace":"hGqvq2oV7wh8"}
+LOG_LEVEL=5502
+REDIS_URL=63991 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRbWFNQWJwUlZUIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.33_iWZJ-PZ51U832ZN4VwL29TVtRjdqHEeJkacuM4M8'
+API_TIMEOUT=redis://localhost:6379
+FEATURE_X_ENABLED=28442
+3.12.126.244 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 403 494843 "-" "Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/12.0e4517.0 Mobile/78Y748 Safari/536.1"
+sshd[5404]: Accepted password for bmay from 192.168.113.2 port 39300 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"keithellis","trace":"rm8pjjvRbJCw"} API_KEY=AIzayluOXhMBsbd9lLh7Zy2XMHjZmelTHOb_IqbzcA
+120.169.190.213 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 302 10413 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+133.214.131.199 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 401 477865 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_4; rv:1.9.6.20) Gecko/4415-05-12 12:28:38.797806 Firefox/12.0"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"erica96","trace":"2X1Z28B7JZ0m"}
+51.203.190.32 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 201 277598 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.1)"
+83.245.245.155 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 200 268810 "-" "Opera/9.85.(Windows NT 5.1; the-NP) Presto/2.9.181 Version/10.00"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"db slow query","user":"dana57","trace":"KCYhJ88yZiKn"} API_KEY=AIzaPUuG_y-s2oEhKE3ADX64TDGnNsj2Y8vxYBTNlg
+53.79.72.7 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 404 177033 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/27.0.857.0 Safari/532.0"
+sshd[8800]: Accepted password for caleb37 from 192.168.33.9 port 43276 ssh2
+sshd[3428]: Accepted password for hillkevin from 172.28.235.121 port 36415 ssh2
+sshd[9481]: Accepted password for fcurry from 172.26.223.193 port 64277 ssh2
+sshd[3095]: Failed password for jennifer66 from 10.52.212.112 port 36876 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"request completed","user":"uwilson","trace":"xSIfKou0TOyh"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"user session created","user":"jennifer40","trace":"YBvt9EcXBx1i"}
+REDIS_URL=4632
+79.48.178.51 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 201 357114 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/33.0.833.0 Safari/531.2"
+DB_PORT=INFO
+171.123.133.124 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 403 135145 "-" "Opera/9.28.(X11; Linux x86_64; hne-IN) Presto/2.9.167 Version/11.00"
+sshd[5520]: Session opened for theodoremolina from 192.168.34.127 port 10746 ssh2
+API_TIMEOUT=false
+sshd[7734]: Session closed for luis49 from 10.160.163.171 port 52440 ssh2
+sshd[1668]: Failed password for smithbreanna from 172.18.163.219 port 22158 ssh2
+REDIS_URL=2984

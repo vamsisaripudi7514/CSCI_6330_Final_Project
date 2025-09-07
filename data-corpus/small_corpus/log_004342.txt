@@ -1,0 +1,29 @@
+FEATURE_X_ENABLED=desktop-28.huynh.net
+sshd[7657]: Session opened for daniel75 from 172.19.40.32 port 60421 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwam1Ua0F5Tnd3IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.fkvSN-DBvfL7szfmnzqU8MsfKQnlKc9-eSR55DPxLP8'
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"tiffanyfoley","trace":"6npnqnlZPztQ"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"db slow query","user":"david06","trace":"TPkTaKyVSAn1"}
+API_TIMEOUT=redis://localhost:6379
+sshd[3137]: Session opened for foleyjoshua from 172.22.45.113 port 26102 ssh2
+17.60.152.0 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 204 356198 "-" "Opera/9.28.(Windows NT 11.0; ckb-IQ) Presto/2.9.190 Version/12.00"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"db slow query","user":"monica84","trace":"xDNCsH9bE9no"}
+114.184.77.134 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 502 431835 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2344-12-16 16:13:33.357637 Firefox/3.6.18"
+sshd[5200]: Accepted password for kathy20 from 10.143.245.86 port 52233 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"user session created","user":"hessjoe","trace":"mmn9FtYesgyF"}
+sshd[5737]: Failed password for hardintabitha from 192.168.104.169 port 45569 ssh2
+193.155.92.179 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 404 398399 "-" "Opera/9.73.(X11; Linux x86_64; mr-IN) Presto/2.9.189 Version/11.00" password=wX3!\U7BNCC
+DB_PORT=1286
+DB_HOST=true
+82.64.174.76 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 400 77044 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/10.2o8087.0 Mobile/63W215 Safari/531.0"
+91.208.202.189 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 400 246649 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)"
+DB_HOST=DEBUG
+129.15.207.60 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 201 339208 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/4.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"karen71","trace":"ooChk92qOzqn"}
+82.90.23.159 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 502 247056 "-" "Opera/8.94.(X11; Linux i686; wo-SN) Presto/2.9.170 Version/11.00"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"db slow query","user":"prattmatthew","trace":"NJobTJYre2Ud"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"request completed","user":"scottcook","trace":"kCQDHnAMPogP"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"reeseamy","trace":"uSrsoCHPj10y"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"user session created","user":"christiansanchez","trace":"eTI6w5bePZA6"} API_KEY=AIzatXkAp7L1aBvZUwNztWAT_PE8isTMzQJ-VkrUaw
+75.52.204.71 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 201 102229 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/35.0.834.0 Safari/532.2"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"cache miss","user":"avilaronnie","trace":"7te4BJyTq2BW"}
+sshd[2391]: Session opened for daniellemack from 172.20.167.197 port 38862 ssh2
+sshd[3005]: Session opened for elizabeth93 from 10.136.25.214 port 29380 ssh2

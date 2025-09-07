@@ -1,0 +1,38 @@
+sshd[1810]: Accepted password for ksloan from 172.29.72.181 port 53875 ssh2
+90.119.185.73 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 500 242485 "-" "Opera/9.29.(X11; Linux i686; yi-US) Presto/2.9.180 Version/12.00"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"stephenramos","trace":"U4i8C41i3Wri"}
+sshd[8347]: Session closed for christina47 from 10.203.161.100 port 58585 ssh2
+sshd[2471]: Accepted password for shelly21 from 10.54.172.93 port 50443 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5MzhPdmU0bTF6IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.WB3cKQwz637_GxYuW19u5bttnSeqbAd7nLqmWQr1Yzk'
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"user session created","user":"roberto46","trace":"tuJH7nAifCBh"}
+64.17.75.11 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 400 74498 "-" "Mozilla/5.0 (Android 2.3; Mobile; rv:56.0) Gecko/56.0 Firefox/56.0"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"user session created","user":"ohuber","trace":"B3trZ1gbXclI"}
+87.154.144.40 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 400 191005 "-" "Opera/8.34.(Windows NT 6.0; ps-AF) Presto/2.9.163 Version/11.00"
+101.210.249.2 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 403 58576 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_8) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/14.0.801.0 Safari/531.1"
+sshd[7710]: Session opened for obarron from 192.168.154.141 port 44882 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"db slow query","user":"heather37","trace":"raa0rrEcczxQ"}
+API_TIMEOUT=web-04.byrd.com
+24.246.180.19 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 302 176509 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/43.0.869.0 Safari/532.1"
+22.184.242.252 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 204 67419 "-" "Mozilla/5.0 (Linux; Android 4.2.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/56.0.865.0 Safari/531.1"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"db slow query","user":"tracy09","trace":"boBVZh4Ruanj"}
+149.252.97.4 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 404 354267 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_3; rv:1.9.3.20) Gecko/8095-01-30 00:46:20.183044 Firefox/15.0"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"request completed","user":"jensenmelissa","trace":"m5VlaFVgibSe"}
+sshd[7386]: Session opened for wintersandrew from 192.168.218.147 port 48980 ssh2
+DB_HOST=993
+DB_HOST=50935
+194.24.225.243 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 201 179409 "-" "Mozilla/5.0 (Linux; Android 4.2.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/23.0.823.0 Safari/534.1"
+sshd[1288]: Failed password for williamlee from 192.168.28.62 port 41506 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"rcummings","trace":"Uh5LdutOGMhg"} API_KEY=AIza0IDA0UMciWEhiIXIN7FA-hoFehnRn8J4gOk7tQ
+DB_HOST=2012
+DB_PORT=srv-37.rodriguez-lara.com
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"db slow query","user":"urobinson","trace":"G4WGYp49x6E3"}
+FEATURE_X_ENABLED=23143
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"gallegoseric","trace":"eq91lWqBaVxM"}
+LOG_LEVEL=true
+API_TIMEOUT=email-59.rose.com
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"user session created","user":"bartonlawrence","trace":"iRJi84uhlTHR"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"user session created","user":"adambryant","trace":"kbl3oKIg7Snq"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"user session created","user":"chenheather","trace":"raAQmiBrbkhc"}
+156.181.26.4 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 502 155157 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.27.5 (KHTML, like Gecko) Version/5.1 Safari/531.27.5"
+96.108.44.21 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 204 13158 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/4.1)"
+DB_HOST=56935

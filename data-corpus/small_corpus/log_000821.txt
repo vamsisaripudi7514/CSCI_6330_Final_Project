@@ -1,0 +1,29 @@
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"db slow query","user":"henrymichael","trace":"BNU3XwF6FQ7K"}
+117.161.90.50 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 302 234741 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/5.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"ejensen","trace":"vMuGQffEL7O4"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"cache miss","user":"tpreston","trace":"Q25pYDAtCVX1"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"phillippage","trace":"Or4kGQ8krccV"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"ovelazquez","trace":"rVMQet8xY8Y4"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"user session created","user":"donald29","trace":"hkF92WuelruF"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"token refreshed","user":"aaron95","trace":"cAnQo2govzVH"}
+34.21.29.62 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 404 311978 "-" "Opera/9.75.(X11; Linux i686; hy-AM) Presto/2.9.166 Version/12.00"
+REDIS_URL=3732
+DB_HOST=db-25.white-bates.com
+sshd[9751]: Failed password for qfreeman from 10.239.11.38 port 64426 ssh2
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"db slow query","user":"qallen","trace":"ANMvKDpb3yGG"}
+sshd[4891]: Failed password for christensennicholas from 10.134.31.203 port 60410 ssh2 API_KEY=AIzaAbB3EVpxCWkbf1umKPJqf5ohQuv9C7H3bfYubg
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"rlee","trace":"spz6N0auRXMw"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"db slow query","user":"turnercalvin","trace":"FtltTK16F0WS"}
+LOG_LEVEL=redis://localhost:6379
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[6609]: Accepted password for vevans from 192.168.146.250 port 45948 ssh2
+31.25.122.7 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 404 66911 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_1 rv:3.0; mi-NZ) AppleWebKit/532.15.5 (KHTML, like Gecko) Version/4.0.2 Safari/532.15.5"
+sshd[8772]: Session opened for jameshebert from 10.29.23.198 port 44085 ssh2
+API_TIMEOUT=db-97.wells.net
+DB_PORT=srv-05.wilson-jackson.biz
+sshd[1585]: Session closed for dramos from 172.31.136.14 port 35075 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"cache miss","user":"jessicacraig","trace":"tRQRxQeFKfg4"}
+5.86.12.212 - - [07/Sep/2025:18:24:49 +0000] "GET /index.html HTTP/1.1" 400 295775 "-" "Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/59.0.837.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"breannarodriguez","trace":"SyRoZDH5afRO"}
+DB_HOST=true

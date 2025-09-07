@@ -1,0 +1,34 @@
+132.224.87.139 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 201 479406 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"cameronhernandez","trace":"wCnPXnl3dQXh"}
+89.137.61.126 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 302 244600 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/18.6e3068.0 Mobile/08J720 Safari/536.0"
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"jamesfox","trace":"xSLGYQUFBqnb"}
+DB_HOST=3923
+15.216.69.14 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 401 231007 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/53.0.823.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"cache miss","user":"michael35","trace":"BvxTVU3oMVDK"}
+sshd[2521]: Session closed for stephanie67 from 10.149.35.207 port 48400 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"request completed","user":"elizabeth41","trace":"DO19v9mO2c98"}
+173.181.89.98 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 401 59758 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_4 rv:3.0; apn-IN) AppleWebKit/531.38.2 (KHTML, like Gecko) Version/5.0.1 Safari/531.38.2"
+REDIS_URL=redis://localhost:6379
+LOG_LEVEL=52633
+119.255.209.116 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 201 67090 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_5; rv:1.9.4.20) Gecko/8946-03-03 12:29:08.675476 Firefox/3.6.20"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"user session created","user":"olopez","trace":"sK0am7cx04SV"} password=yK6%<>*lxEPIN8w
+sshd[6820]: Session closed for ujohnson from 10.12.175.173 port 10219 ssh2
+sshd[6491]: Accepted password for pattersonkathleen from 192.168.89.3 port 46850 ssh2
+sshd[6096]: Session opened for elizabeth63 from 172.16.100.121 port 46331 ssh2
+221.178.201.128 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 500 327988 "-" "Mozilla/5.0 (Windows NT 6.2; ca-ES; rv:1.9.2.20) Gecko/2619-11-18 02:18:58.461628 Firefox/10.0"
+REDIS_URL=DEBUG
+LOG_LEVEL=26774
+70.157.243.135 - - [07/Sep/2025:18:24:49 +0000] "GET /index.html HTTP/1.1" 403 272761 "-" "Opera/8.83.(Windows NT 5.0; lb-LU) Presto/2.9.165 Version/11.00"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"csmith","trace":"5qwzY0KmJRHu"}
+DB_HOST=INFO
+sshd[3104]: Session opened for campbellmichelle from 192.168.172.176 port 61983 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"cache miss","user":"veronicacampbell","trace":"vxv4xQNFP1VQ"}
+FEATURE_X_ENABLED=57804 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJxdXQ3bjFBdHhCIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.HnAhZBOv8ji9-dCAFgcxO3sVh4d6NRGCEurzZZqB6TU'
+DB_HOST=srv-84.palmer.com
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[9204]: Session closed for james70 from 192.168.207.204 port 60900 ssh2
+DB_HOST=INFO
+215.74.140.3 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 500 176039 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"dillonraymond","trace":"llF57PJFOIjn"}
+169.153.8.99 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 404 177157 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/3.0)"

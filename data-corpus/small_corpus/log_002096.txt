@@ -1,0 +1,36 @@
+DB_HOST=redis://localhost:6379
+5.135.141.190 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 502 410227 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/6356-02-27 14:57:11.105225 Firefox/15.0" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJpcjh3aXM5dExKIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.i6xjLtOVrRuVh88hzSY3RDa5rDFzZS65ezG81fxi_2c'
+DB_HOST=false
+sshd[2064]: Accepted password for thomasjohnson from 10.219.52.226 port 29096 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"znguyen","trace":"tg8uwB8NUpnF"}
+DB_HOST=46563
+9.63.22.57 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 502 59142 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)"
+sshd[2131]: Session opened for ericschmitt from 192.168.157.39 port 60389 ssh2
+sshd[6540]: Session opened for raymondperez from 10.198.97.70 port 36359 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"lisa83","trace":"Pb7LeBq0Dm30"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"request completed","user":"derrickwatson","trace":"QYzOuzgIQt54"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"request completed","user":"perezrobin","trace":"lsLG8qjSffl7"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"token refreshed","user":"lisa08","trace":"JXHymXhovcCl"}
+DB_HOST=26794
+DB_PORT=true
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"db slow query","user":"klucas","trace":"QIHhcHeowNha"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"request completed","user":"yboone","trace":"XJSoRpJoGwf5"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"travishuffman","trace":"gd8vUI3kvC5F"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"hansenapril","trace":"guXKmvoviCWi"}
+sshd[7266]: Session opened for tim69 from 10.206.213.234 port 30848 ssh2
+186.248.108.56 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 404 78339 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.1)"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"request completed","user":"gary12","trace":"Pf6qXgpzYtyV"}
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"judithwilliams","trace":"Z368sOpewAiS"}
+165.146.103.175 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 302 369005 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6; rv:1.9.4.20) Gecko/4486-01-30 01:00:10.444885 Firefox/15.0"
+API_TIMEOUT=false
+24.166.149.167 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 201 184956 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_7) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/45.0.824.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"amy48","trace":"hEwFLTWZJQqQ"}
+sshd[8847]: Accepted password for brandonsawyer from 192.168.28.114 port 57551 ssh2
+169.38.19.135 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 302 209719 "-" "Opera/8.11.(X11; Linux i686; tl-PH) Presto/2.9.174 Version/10.00"
+DB_HOST=true
+FEATURE_X_ENABLED=true
+154.235.101.66 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 401 15758 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_5 rv:4.0; zu-ZA) AppleWebKit/532.45.6 (KHTML, like Gecko) Version/5.0 Safari/532.45.6"
+REDIS_URL=web-67.garza.biz
+105.15.150.8 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 500 299013 "-" "Opera/9.67.(X11; Linux x86_64; doi-IN) Presto/2.9.176 Version/12.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"token refreshed","user":"angelagillespie","trace":"5XoBt3H3z6pQ"}

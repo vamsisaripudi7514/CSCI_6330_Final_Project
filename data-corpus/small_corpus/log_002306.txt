@@ -1,0 +1,28 @@
+LOG_LEVEL=DEBUG
+sshd[8751]: Session closed for ifuller from 172.19.46.155 port 63091 ssh2
+sshd[9446]: Accepted password for awalls from 172.17.13.237 port 36951 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"cache miss","user":"jameshowe","trace":"zkqWIPBiNsFu"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"vritter","trace":"UYuJstKhe1yM"}
+13.37.120.68 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 302 369157 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1 rv:4.0; yo-NG) AppleWebKit/533.50.4 (KHTML, like Gecko) Version/4.1 Safari/533.50.4"
+DB_PORT=49551
+FEATURE_X_ENABLED=true
+103.137.213.208 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 200 87171 "-" "Opera/8.28.(X11; Linux i686; sw-KE) Presto/2.9.187 Version/10.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"db slow query","user":"simmonsnathan","trace":"y0hYWzMEJFa6"}
+REDIS_URL=redis://localhost:6379 password=xV9@|J#!>
+FEATURE_X_ENABLED=srv-80.archer.com
+sshd[5366]: Accepted password for pbowman from 192.168.126.180 port 63930 ssh2
+112.187.78.192 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 204 145963 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; mni-IN) AppleWebKit/535.5.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.5.2"
+REDIS_URL=WARN
+sshd[7827]: Session closed for jrich from 192.168.141.70 port 13854 ssh2
+LOG_LEVEL=WARN
+LOG_LEVEL=4617
+LOG_LEVEL=db-05.shah.com
+sshd[8264]: Session opened for johnprice from 172.31.60.43 port 30881 ssh2
+sshd[4991]: Session opened for greenrobert from 172.27.149.201 port 44786 ssh2
+REDIS_URL=DEBUG
+sshd[1594]: Accepted password for alyssa45 from 10.26.168.32 port 28445 ssh2
+sshd[9566]: Session opened for brookslisa from 10.225.168.131 port 57899 ssh2
+218.243.202.42 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 200 122702 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/17.4l6017.0 Mobile/47M085 Safari/536.0"
+sshd[4391]: Accepted password for emma73 from 10.242.222.65 port 48364 ssh2
+sshd[6075]: Failed password for murphyanna from 172.31.217.160 port 21391 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"cache miss","user":"jonathanallen","trace":"MTeJ1V1q93td"}

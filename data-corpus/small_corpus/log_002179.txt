@@ -1,0 +1,50 @@
+sshd[2904]: Failed password for alexpope from 172.17.36.25 port 52312 ssh2
+sshd[9066]: Accepted password for mroberts from 10.79.78.58 port 41800 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"request completed","user":"thomascrane","trace":"Ly6faOPu9kJg"}
+FEATURE_X_ENABLED=false
+216.39.95.225 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 400 346371 "-" "Opera/9.75.(X11; Linux x86_64; cs-CZ) Presto/2.9.182 Version/12.00"
+41.255.37.163 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 500 274826 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_8; rv:1.9.3.20) Gecko/5704-01-10 03:23:51.302475 Firefox/3.8"
+FEATURE_X_ENABLED=WARN
+API_TIMEOUT=true Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiaXZZSXhpbHdJIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.70_YOtoymAL3gQA7flAqwACbYa_o1JmTwF0GdzZ5MM4'
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"aaroncruz","trace":"uVMtLyE1nXgQ"}
+181.216.183.236 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 403 120520 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.1)"
+45.93.152.208 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 400 286488 "-" "Mozilla/5.0 (Android 1.0; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0"
+DB_HOST=redis://localhost:6379
+62.68.198.171 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 403 494650 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.0)"
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"ubauer","trace":"AxFCT8twHkh0"}
+212.82.30.74 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 200 313479 "-" "Mozilla/5.0 (Linux; Android 2.3.7) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/25.0.897.0 Safari/531.2"
+sshd[7515]: Failed password for uluna from 10.111.80.237 port 38155 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"christinasharp","trace":"ZoXdZbkxARPa"}
+sshd[5202]: Accepted password for brownlisa from 172.18.130.4 port 38138 ssh2
+213.119.50.229 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 403 228174 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_8 rv:6.0; ia-FR) AppleWebKit/535.14.7 (KHTML, like Gecko) Version/5.1 Safari/535.14.7"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"user session created","user":"coopermark","trace":"Hg8vymLR7vZa"}
+FEATURE_X_ENABLED=177
+sshd[4830]: Session opened for mmcfarland from 10.190.78.29 port 14803 ssh2
+sshd[2053]: Failed password for nhoward from 172.18.242.125 port 55467 ssh2
+32.67.250.195 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 401 466304 "-" "Opera/9.75.(X11; Linux x86_64; unm-US) Presto/2.9.175 Version/11.00"
+84.123.40.116 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 201 471556 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/4.0)"
+137.32.146.180 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 400 442037 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.22.5 (KHTML, like Gecko) Version/5.1 Safari/535.22.5"
+API_TIMEOUT=true
+sshd[7979]: Accepted password for woodardcindy from 192.168.131.21 port 18076 ssh2
+DB_PORT=52259
+sshd[6327]: Session closed for matthew22 from 172.26.219.132 port 10407 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"nathancaldwell","trace":"cc057teJRs9u"}
+166.190.103.70 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 500 509894 "-" "Mozilla/5.0 (Linux; Android 2.0.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/45.0.887.0 Safari/533.2"
+149.120.10.23 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 204 353877 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/5.0)"
+208.161.14.117 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 200 313542 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.14.4 (KHTML, like Gecko) Version/5.0.2 Safari/534.14.4"
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"cache miss","user":"patriciamurphy","trace":"7x7UZsGSx3Uj"}
+202.147.182.0 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 204 79637 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ka-GE) AppleWebKit/531.40.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6531.40.5"
+208.143.202.5 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 500 205386 "-" "Opera/8.16.(Windows NT 6.1; ce-RU) Presto/2.9.161 Version/12.00"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"user session created","user":"uharding","trace":"TqDqeJ7e99AB"}
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"yvette07","trace":"HlSnxL3O5OCn"}
+DB_HOST=3630
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"bradleyperry","trace":"f8rOI7qCC4pv"}
+82.110.206.18 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 201 254086 "-" "Opera/8.45.(X11; Linux i686; hak-TW) Presto/2.9.179 Version/11.00"
+sshd[5661]: Session closed for jonathanjames from 172.28.87.234 port 64362 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"user session created","user":"dawn26","trace":"jOe0kcmxTdTx"}
+101.190.146.112 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 404 460431 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.0)"
+137.80.182.203 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 200 433975 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/60.0.854.0 Safari/532.1" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJEbklRTkt4MjZ4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.6kfOVcywKWAyW_0w0LxsesbsifmnZ_1YVIhihiG3PxU'
+DB_PORT=email-77.aguirre-green.biz

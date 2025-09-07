@@ -1,0 +1,28 @@
+18.114.211.233 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 204 234384 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5 rv:5.0; te-IN) AppleWebKit/534.48.5 (KHTML, like Gecko) Version/5.0.1 Safari/534.48.5"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"request completed","user":"robertpennington","trace":"lwNKKJ7q7Dwc"}
+LOG_LEVEL=48291
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"db slow query","user":"peckgabriel","trace":"yfbQUQ2ymax1"}
+REDIS_URL=true
+103.89.53.182 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 502 477447 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/24.0.811.0 Safari/531.0"
+DB_PORT=true
+75.243.67.86 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 201 38219 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_7) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/34.0.879.0 Safari/533.1"
+sshd[8062]: Session closed for harrislisa from 192.168.196.36 port 33527 ssh2
+101.189.95.215 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 302 337550 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/60.0.896.0 Safari/532.2"
+sshd[2169]: Accepted password for wsavage from 172.31.193.149 port 12295 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxYnBPT2pSYU5HIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.jJZTcM_kX1VqTJQUyoZeDIQc4GOCx_uYCbAS_3JMAWw'
+LOG_LEVEL=54266
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"user session created","user":"jromero","trace":"cBuIjBM3XQKo"}
+sshd[2637]: Failed password for angela26 from 10.88.40.123 port 45457 ssh2
+sshd[1411]: Failed password for singletonjasmine from 192.168.217.121 port 12563 ssh2
+sshd[9697]: Session closed for wolfedavid from 10.231.174.149 port 13118 ssh2
+223.81.126.173 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 200 486611 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/25.0.807.0 Safari/531.1"
+13.151.20.132 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 302 277200 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9 rv:3.0; mn-MN) AppleWebKit/532.33.5 (KHTML, like Gecko) Version/4.0 Safari/532.33.5"
+sshd[3705]: Accepted password for jill25 from 10.11.54.61 port 42052 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"request completed","user":"christopher85","trace":"FTYkVOtT5mud"}
+LOG_LEVEL=2321
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"zburch","trace":"MZeiSH192AXe"}
+DB_PORT=redis://localhost:6379
+LOG_LEVEL=57133
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"christophercooper","trace":"3eT0QA6kVIEK"}
+DB_HOST=srv-17.williams.net

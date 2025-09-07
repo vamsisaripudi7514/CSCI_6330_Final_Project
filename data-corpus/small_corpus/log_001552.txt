@@ -1,0 +1,41 @@
+65.65.131.117 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 204 443656 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/35.0.889.0 Safari/533.2"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"yblack","trace":"aIiw4AhZOtso"}
+sshd[2268]: Accepted password for mrichardson from 172.27.41.235 port 57908 ssh2
+sshd[9150]: Failed password for drandall from 172.28.235.122 port 32125 ssh2
+FEATURE_X_ENABLED=true
+sshd[3095]: Session opened for josephvang from 172.21.240.162 port 11839 ssh2
+sshd[5418]: Session opened for jeremy31 from 192.168.45.211 port 52936 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"yucarrie","trace":"7TZww7PBNNnD"}
+sshd[3047]: Session opened for baxterjennifer from 10.114.78.187 port 44656 ssh2
+sshd[8074]: Failed password for petersmason from 192.168.130.1 port 46115 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"cache miss","user":"noblemary","trace":"ny8EEy0c3PLs"}
+DB_HOST=db-94.perkins-parsons.com
+sshd[2402]: Failed password for lwilliams from 192.168.224.35 port 23494 ssh2
+sshd[7234]: Session opened for rachael59 from 10.178.23.155 port 11250 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"db slow query","user":"elizabethcamacho","trace":"vhdAQEbacniB"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ4eXdTRWRPZTRYIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5TcoHTG2zat_nXHJkeJr7QeX0EwQGcxl_F8r6sDTAac'
+sshd[7100]: Failed password for stacy96 from 192.168.224.208 port 44195 ssh2
+DB_HOST=srv-25.bradford.org
+65.251.57.118 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 404 261142 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/29.0.890.0 Mobile/93R405 Safari/535.2"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"aprilfowler","trace":"eVLhND69AOso"}
+REDIS_URL=598
+REDIS_URL=false
+sshd[5570]: Accepted password for ujarvis from 192.168.250.155 port 48512 ssh2
+64.43.127.155 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 404 176961 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.1)"
+sshd[3879]: Failed password for nathanreynolds from 172.19.56.11 port 54313 ssh2
+DB_PORT=3036
+DB_PORT=11215
+sshd[9308]: Failed password for teresariley from 172.25.87.94 port 47177 ssh2
+sshd[8472]: Session closed for vconway from 10.130.135.91 port 63642 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"cache miss","user":"bruce95","trace":"Cu7rGtq09ZDr"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyVTJ3NTdaaFNhIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Fa43uYUdEy0h5baCefD1b_d0PwANGNLthldGYRJrNdc'
+API_TIMEOUT=false
+sshd[6502]: Accepted password for xjackson from 192.168.4.222 port 33049 ssh2
+sshd[5459]: Session closed for ulewis from 192.168.189.1 port 61733 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"db slow query","user":"michaelgill","trace":"r4Srvt9ie3P4"} API_KEY=AIzaXlb4MTIB_arfy1u7DSC-Lne3dQC8n9s61zrKxA
+DB_HOST=redis://localhost:6379
+208.6.74.84 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 201 415401 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5525-08-25 17:06:48.250549 Firefox/3.8"
+sshd[8513]: Session opened for hayespatricia from 10.148.3.114 port 47182 ssh2
+sshd[3741]: Accepted password for rosskimberly from 192.168.49.2 port 51847 ssh2
+47.64.253.28 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 201 523559 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/5.1)"
+121.247.185.96 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 500 106292 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/55.0.871.0 Safari/533.1"
+FEATURE_X_ENABLED=1999

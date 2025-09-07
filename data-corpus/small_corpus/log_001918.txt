@@ -1,0 +1,35 @@
+113.193.50.15 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 502 5174 "-" "Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/44.0.851.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"johnnybrown","trace":"X0LYtzTVuU1i"}
+DB_PORT=3054
+129.167.217.148 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 200 288325 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_0; rv:1.9.5.20) Gecko/8026-05-20 07:36:03.940582 Firefox/3.6.1"
+10.95.82.193 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 302 138800 "-" "Opera/8.92.(Windows 98; it-IT) Presto/2.9.173 Version/12.00"
+47.88.197.191 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 500 269236 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"user session created","user":"klee","trace":"p2NGcHGykEHk"}
+sshd[6509]: Accepted password for harrisjames from 172.28.211.140 port 53442 ssh2
+sshd[1576]: Accepted password for sean88 from 192.168.90.66 port 31667 ssh2
+169.32.120.190 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 204 496206 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.885.0 Safari/536.0"
+74.21.78.123 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 500 128178 "-" "Opera/9.59.(Windows NT 5.1; sq-ML) Presto/2.9.165 Version/12.00"
+3.192.78.44 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 500 40216 "-" "Opera/8.26.(X11; Linux i686; lt-LT) Presto/2.9.168 Version/12.00"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"db slow query","user":"paulaadams","trace":"frqrVqS2Gg5d"}
+sshd[7392]: Session opened for zholmes from 192.168.80.216 port 18712 ssh2
+180.57.95.133 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 302 215835 "-" "Opera/9.70.(X11; Linux x86_64; km-KH) Presto/2.9.161 Version/12.00"
+DB_HOST=5024
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"user session created","user":"jason18","trace":"jBEiTe5bvBf5"}
+LOG_LEVEL=WARN
+LOG_LEVEL=5027
+192.254.68.238 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 400 483623 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.1)"
+API_TIMEOUT=INFO
+sshd[8749]: Session opened for dmaldonado from 192.168.94.194 port 13920 ssh2
+API_TIMEOUT=34160
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"lisa18","trace":"6DfyM3NdtIS3"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"request completed","user":"yfrazier","trace":"TvX5ihq0UND9"}
+FEATURE_X_ENABLED=db-54.moreno-parsons.info
+FEATURE_X_ENABLED=1879
+sshd[7417]: Session opened for bianca79 from 192.168.166.8 port 64649 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"cache miss","user":"suejohnson","trace":"6QebuCyn9R9J"}
+REDIS_URL=redis://localhost:6379
+REDIS_URL=redis://localhost:6379
+sshd[9059]: Failed password for ohall from 192.168.168.140 port 42995 ssh2
+sshd[4568]: Accepted password for hrowland from 192.168.65.77 port 40219 ssh2
+DB_HOST=false

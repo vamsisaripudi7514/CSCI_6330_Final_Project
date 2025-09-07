@@ -1,0 +1,31 @@
+LOG_LEVEL=DEBUG
+sshd[5001]: Session opened for ryan53 from 192.168.186.90 port 44527 ssh2
+sshd[1884]: Accepted password for marccarey from 172.18.119.29 port 32717 ssh2
+REDIS_URL=6165
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"token refreshed","user":"gnichols","trace":"0YjcpSCPWD8h"} password=xA0/k|JWE|B".9*n
+sshd[7294]: Session opened for stevenandrews from 192.168.178.89 port 29687 ssh2
+92.6.19.229 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 502 201421 "-" "Opera/9.81.(X11; Linux x86_64; bho-IN) Presto/2.9.160 Version/12.00"
+API_TIMEOUT=463
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[4547]: Session opened for clewis from 172.20.68.117 port 59627 ssh2 password=lD8&bLH+
+API_TIMEOUT=567
+sshd[7944]: Session closed for arellanobrian from 172.26.16.11 port 47526 ssh2
+sshd[7247]: Failed password for morenojessica from 172.18.69.189 port 40627 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"johnguzman","trace":"ZR8rfpXIsvKz"} API_KEY=AIza3uHI488ayx2BUeC9-G7wp5ITe4YuW86t0-C0nQ
+sshd[1202]: Session opened for vchandler from 10.15.24.254 port 18146 ssh2
+sshd[3929]: Session opened for yballard from 10.206.158.204 port 39085 ssh2
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"user session created","user":"fkoch","trace":"8fr5NJu9eClq"}
+sshd[9108]: Session opened for jeremyduke from 10.205.135.240 port 18337 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"morgankaren","trace":"dohPclRG3CLu"} password=zF2~O8=@
+8.83.143.191 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 200 355798 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.36.1 (KHTML, like Gecko) Version/5.0.1 Safari/531.36.1"
+sshd[4845]: Accepted password for amandadaugherty from 10.255.20.63 port 32919 ssh2
+DB_HOST=redis://localhost:6379
+DB_HOST=lt-27.howell.com
+sshd[7686]: Session opened for felicia98 from 172.19.114.228 port 52728 ssh2
+sshd[3626]: Accepted password for carrieosborn from 10.254.204.30 port 34137 ssh2 password=uF8`AwQMk_W.
+222.140.161.255 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 302 423770 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; hsb-DE) AppleWebKit/534.29.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.29.1"
+sshd[7206]: Failed password for alvaradoluke from 192.168.50.147 port 64442 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"request completed","user":"psherman","trace":"97oKGKOJUAIU"}
+103.72.1.7 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 500 272933 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/14.7z9647.0 Mobile/70R715 Safari/534.0"
+sshd[5801]: Failed password for williammaldonado from 10.222.27.144 port 25992 ssh2

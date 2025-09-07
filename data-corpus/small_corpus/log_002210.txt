@@ -1,0 +1,36 @@
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"request completed","user":"lindseybrianna","trace":"5DmSivUwPCT0"}
+sshd[7117]: Session opened for kweber from 10.165.81.9 port 14692 ssh2
+65.162.174.255 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 200 373794 "-" "Opera/8.66.(Windows NT 6.1; nb-NO) Presto/2.9.183 Version/12.00"
+REDIS_URL=8779
+97.242.6.56 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 403 69911 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_6 rv:4.0; nso-ZA) AppleWebKit/533.45.1 (KHTML, like Gecko) Version/4.0.4 Safari/533.45.1"
+185.41.3.79 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 200 484746 "-" "Opera/9.58.(X11; Linux i686; gl-ES) Presto/2.9.189 Version/12.00"
+sshd[6045]: Session opened for forbesalbert from 172.20.204.226 port 43865 ssh2
+192.188.184.85 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 502 467220 "-" "Opera/8.55.(Windows NT 10.0; el-GR) Presto/2.9.174 Version/10.00"
+223.52.160.1 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 500 217475 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/535.49.1 (KHTML, like Gecko) Version/4.0.1 Safari/535.49.1"
+sshd[7518]: Failed password for james69 from 172.17.106.12 port 53495 ssh2
+sshd[4126]: Failed password for samuel29 from 192.168.195.71 port 57183 ssh2
+sshd[6514]: Session closed for browntim from 10.91.181.206 port 15587 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"db slow query","user":"andreajones","trace":"s6L55mP98kRz"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"request completed","user":"karen66","trace":"NJY6uivhEGn4"}
+82.102.96.26 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 401 297095 "-" "Mozilla/5.0 (Android 7.1.2; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0"
+LOG_LEVEL=28652 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJJQmVJd1N1RVI3IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.MFQwmxXnriTYUG7U9qZPHyxK0lq6LGakm_kJc2QktoU'
+sshd[6140]: Session opened for samanthajohnson from 10.114.39.219 port 54608 ssh2
+sshd[3179]: Failed password for cindy07 from 192.168.249.121 port 48315 ssh2
+178.14.48.254 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 204 349972 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.0)"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"token refreshed","user":"lanedeanna","trace":"GCBqH228g9Kp"}
+sshd[3443]: Session closed for diazanthony from 192.168.152.46 port 55010 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"token refreshed","user":"paul61","trace":"uVdr9vowSdNp"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[7885]: Failed password for raymondyoung from 192.168.10.78 port 51009 ssh2
+DB_HOST=redis://localhost:6379
+sshd[3453]: Accepted password for megan99 from 172.22.134.233 port 46421 ssh2
+204.170.200.7 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 204 310731 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1)" password=vW0@gjs)_8pO&nO
+DB_PORT=2262 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIySUVub2hBRVpHIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.XNdsDNh5-RUOxGFwf8v5eVkM_TZRFyGIWMKc2whoztc'
+sshd[3601]: Failed password for charles36 from 10.249.29.26 port 25817 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"jdavies","trace":"v7ZHMkhbKSEN"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"wagnermary","trace":"3dOeRHo6IvDR"}
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"ycampos","trace":"BWFYjGUSvKKx"}
+sshd[5008]: Accepted password for tcastro from 10.224.146.0 port 24370 ssh2
+216.97.240.233 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 201 86781 "-" "Opera/8.76.(Windows 98; Win 9x 4.90; my-MM) Presto/2.9.173 Version/12.00"
+API_TIMEOUT=true

@@ -1,0 +1,25 @@
+220.133.252.62 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 204 230743 "-" "Mozilla/5.0 (Android 7.1; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"request completed","user":"stacy99","trace":"EuaIUV8Xp7fr"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"request completed","user":"bgonzalez","trace":"xuTJzDE5w9iY"}
+94.59.219.185 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 302 336847 "-" "Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/25.0.814.0 Safari/536.2"
+DB_PORT=lt-97.hardy-smith.com
+DB_PORT=3292
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"db slow query","user":"ohoward","trace":"eVzNi9dQDtvh"}
+FEATURE_X_ENABLED=INFO
+sshd[6477]: Session closed for rroberts from 172.24.186.133 port 35068 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"margaret63","trace":"KOhzuHEUBYgh"}
+sshd[3781]: Session closed for qcampbell from 192.168.13.192 port 28531 ssh2
+7.33.255.159 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 302 229495 "-" "Opera/8.14.(Windows NT 6.1; mk-MK) Presto/2.9.173 Version/12.00"
+3.162.242.213 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 302 294144 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/49.0.895.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"user session created","user":"renee96","trace":"vzS97PJHAAxF"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"cache miss","user":"hermancolleen","trace":"7YaXPN2ccVah"}
+134.173.186.183 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 500 97091 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/22.0.893.0 Mobile/05Y033 Safari/535.0"
+87.122.204.149 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 502 286436 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/3.0)"
+DB_HOST=3840
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"opalmer","trace":"vKUqdZUZSWBd"}
+DB_HOST=redis://localhost:6379
+API_TIMEOUT=39628
+LOG_LEVEL=srv-86.garcia.com
+DB_PORT=false
+FEATURE_X_ENABLED=laptop-21.daniels-harris.net
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"token refreshed","user":"tylerchristy","trace":"B3uAPo4HO4ws"}

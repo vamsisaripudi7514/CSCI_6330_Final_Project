@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"user session created","user":"matthewstammy","trace":"4LAuTm4qWji7"}
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"user session created","user":"xhooper","trace":"2QVergWuTIqE"}
+sshd[1187]: Accepted password for rhernandez from 172.24.138.15 port 59954 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"user session created","user":"nicholasadams","trace":"c4QNpdhD8Ybk"}
+sshd[5878]: Failed password for baxterthomas from 172.22.222.70 port 54338 ssh2
+45.154.169.50 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 502 408122 "-" "Opera/9.80.(X11; Linux x86_64; ig-NG) Presto/2.9.167 Version/10.00"
+sshd[9891]: Failed password for hendersonrebecca from 10.20.8.3 port 31623 ssh2
+218.227.95.59 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 403 522235 "-" "Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/47.0.879.0 Mobile/79G533 Safari/534.1"
+sshd[7497]: Failed password for weaverrenee from 10.22.50.22 port 24274 ssh2
+sshd[9449]: Session opened for uedwards from 192.168.57.194 port 41092 ssh2
+50.9.37.143 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 500 139334 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/3.0)"
+70.210.13.14 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 302 99827 "-" "Opera/8.61.(X11; Linux i686; sc-IT) Presto/2.9.183 Version/10.00"
+sshd[2882]: Session opened for antoniocollins from 192.168.120.153 port 14615 ssh2
+DB_HOST=redis://localhost:6379
+REDIS_URL=30773
+204.219.220.209 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 200 110664 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.1)"
+sshd[8811]: Session closed for natalieallen from 172.30.252.118 port 16179 ssh2
+LOG_LEVEL=15139
+REDIS_URL=4371
+sshd[3142]: Failed password for floydjared from 192.168.168.151 port 22464 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"request completed","user":"heidi98","trace":"rbPb9nVq0WEe"}
+API_TIMEOUT=true
+20.53.231.250 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 302 203038 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/4122-03-17 01:43:35.989220 Firefox/3.8"
+14.203.216.45 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 200 243909 "-" "Mozilla/5.0 (Linux; Android 7.1.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/41.0.893.0 Safari/536.2"
+43.56.2.197 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 200 279898 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/3.0)"
+2.206.83.31 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 401 278713 "-" "Mozilla/5.0 (Android 2.0; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0"

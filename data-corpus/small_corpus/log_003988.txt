@@ -1,0 +1,26 @@
+48.249.154.2 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 201 497894 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+DB_HOST=58098
+API_TIMEOUT=false
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"ibarr","trace":"oPNCXozG83gp"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"token refreshed","user":"scampbell","trace":"VmVShZYHhS0X"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"request completed","user":"manderson","trace":"jW7JXj7I6T6L"}
+sshd[8577]: Session closed for ashleyperez from 10.185.206.186 port 23197 ssh2
+74.139.183.108 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 404 110113 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_8) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/48.0.836.0 Safari/533.2"
+sshd[1300]: Failed password for srios from 192.168.155.145 port 55209 ssh2
+sshd[1903]: Failed password for nielsenmisty from 10.242.66.137 port 32337 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"request completed","user":"wilsonbrenda","trace":"fK7G1YJ3NnzX"}
+sshd[5738]: Failed password for hortontina from 10.172.133.215 port 11666 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"token refreshed","user":"amandasandoval","trace":"C3E8JjbofH8E"}
+sshd[5495]: Session opened for jonescurtis from 192.168.255.220 port 10477 ssh2
+DB_PORT=redis://localhost:6379
+sshd[8601]: Accepted password for gonzalezjoseph from 172.28.164.118 port 27706 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"cache miss","user":"pguerrero","trace":"1tyfppA9GBk2"}
+163.127.176.208 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 502 359197 "-" "Opera/9.72.(Windows NT 5.0; ps-AF) Presto/2.9.176 Version/12.00"
+DB_HOST=true
+65.104.227.91 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 401 31275 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"db slow query","user":"michellemitchell","trace":"dcTNBamCkvBr"}
+21.217.27.207 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 302 490889 "-" "Opera/9.32.(Windows NT 5.2; el-CY) Presto/2.9.173 Version/10.00"
+sshd[4513]: Accepted password for ymaldonado from 172.18.228.63 port 47189 ssh2
+FEATURE_X_ENABLED=2862
+167.42.246.10 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 201 435092 "-" "Mozilla/5.0 (Windows NT 10.0; raj-IN; rv:1.9.1.20) Gecko/8248-05-14 22:48:57.902832 Firefox/14.0"

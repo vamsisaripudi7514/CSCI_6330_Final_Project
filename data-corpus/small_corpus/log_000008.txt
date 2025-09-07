@@ -1,0 +1,26 @@
+DB_PORT=35380 password=yD6,nUZkIGVxiXNZ
+37.15.125.108 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 404 164593 "-" "Opera/9.96.(X11; Linux x86_64; ca-ES) Presto/2.9.161 Version/11.00"
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"timothybooth","trace":"QEHyu9lD6IvI"}
+sshd[4150]: Session closed for sharonhayden from 172.16.125.157 port 26155 ssh2
+sshd[5876]: Failed password for heatherpadilla from 10.245.53.29 port 60539 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"db slow query","user":"jherman","trace":"wJ77YUrshKRI"}
+REDIS_URL=redis://localhost:6379
+63.211.100.35 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 400 391948 "-" "Opera/9.50.(Windows NT 10.0; om-KE) Presto/2.9.189 Version/10.00"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"token refreshed","user":"owilliams","trace":"rigNVLppdQ5H"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"db slow query","user":"allentran","trace":"vTEgRXia9J7k"}
+API_TIMEOUT=redis://localhost:6379
+143.186.10.96 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 200 478923 "-" "Opera/9.68.(X11; Linux x86_64; hu-HU) Presto/2.9.190 Version/12.00"
+DB_PORT=62229
+sshd[1151]: Accepted password for combscharles from 192.168.30.18 port 29555 ssh2
+160.198.183.7 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 404 518700 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/31.0.802.0 Mobile/31Q203 Safari/534.0"
+DB_PORT=56799
+sshd[8518]: Failed password for joseph61 from 10.129.60.245 port 52486 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"susan79","trace":"KRWmlN2O5z0B"}
+115.157.28.127 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 201 97006 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.0)"
+REDIS_URL=2132
+sshd[5947]: Session opened for vnewman from 192.168.255.237 port 48172 ssh2
+1.48.211.68 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 401 363338 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/531.15.2 (KHTML, like Gecko) Version/5.0.3 Safari/531.15.2"
+47.99.229.125 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 204 212683 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_1 rv:5.0; xh-ZA) AppleWebKit/534.44.5 (KHTML, like Gecko) Version/5.0 Safari/534.44.5"
+sshd[5833]: Accepted password for jperez from 10.230.174.131 port 34087 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"cache miss","user":"rreynolds","trace":"DVMxASJ6EWIZ"}

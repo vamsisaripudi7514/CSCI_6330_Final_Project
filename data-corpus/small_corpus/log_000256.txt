@@ -1,0 +1,25 @@
+53.101.231.2 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 403 414691 "-" "Opera/8.45.(Windows CE; ff-SN) Presto/2.9.174 Version/12.00"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"request completed","user":"garciaapril","trace":"ti1bPskj4rD5"}
+sshd[9551]: Failed password for ejones from 172.27.8.250 port 29406 ssh2
+sshd[2233]: Accepted password for fhammond from 172.20.160.18 port 23183 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"request completed","user":"brianzhang","trace":"JNpjUd2bHu5V"}
+REDIS_URL=631
+sshd[6020]: Session closed for jmiller from 192.168.88.25 port 24398 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"request completed","user":"kyle39","trace":"KFBPv6HnOwFh"}
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"notify","msg":"user session created","user":"ijones","trace":"FNmqJnlKqHbF"}
+FEATURE_X_ENABLED=redis://localhost:6379
+API_TIMEOUT=db-73.anderson-mitchell.com
+198.165.169.94 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 500 64381 "-" "Mozilla/5.0 (Android 4.1.2; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"amyanderson","trace":"UaQMVAJahlbb"}
+7.64.101.111 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 502 241621 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/11.1t4326.0 Mobile/33M753 Safari/534.2"
+sshd[7650]: Session closed for sanchezcrystal from 172.30.131.129 port 32196 ssh2
+sshd[5732]: Session opened for matthewsjacob from 192.168.98.96 port 12472 ssh2
+sshd[4230]: Accepted password for nicholegibson from 192.168.84.131 port 62601 ssh2
+184.121.163.3 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 400 452551 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.1)"
+20.0.146.84 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 204 307443 "-" "Mozilla/5.0 (Linux; Android 2.3.6) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/21.0.888.0 Safari/531.0"
+63.47.130.191 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 204 29353 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/4.1)"
+DB_PORT=56876
+sshd[4778]: Session closed for matthew67 from 172.29.175.126 port 61722 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"user session created","user":"tmiller","trace":"jOwi0pGgvXsE"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"user session created","user":"hhubbard","trace":"w9uZCwupY1Ho"}

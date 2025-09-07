@@ -1,0 +1,25 @@
+114.137.211.85 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 500 208764 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/13.3d2876.0 Mobile/39B367 Safari/533.2"
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"donaldwilliams","trace":"qb63NSeMsyhQ"}
+123.230.170.97 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 400 129931 "-" "Mozilla/5.0 (Windows NT 4.0; bg-BG; rv:1.9.0.20) Gecko/2609-09-29 23:04:44.325283 Firefox/3.8"
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"cache miss","user":"williamsanna","trace":"EeKWjOAJYCwQ"}
+REDIS_URL=58712
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"db slow query","user":"mbell","trace":"hUI3eVo7N8rc"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[1931]: Failed password for jasonstafford from 172.23.159.121 port 50448 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"request completed","user":"michael58","trace":"drF0JiicH3C3"}
+162.243.82.66 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 502 209883 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/7015-07-31 17:35:32.636841 Firefox/3.8"
+65.27.35.113 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 302 183429 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"jenkinssteven","trace":"FEhxfE23IXNh"}
+LOG_LEVEL=DEBUG
+sshd[2912]: Failed password for jonathansanders from 172.22.72.253 port 14465 ssh2
+sshd[7697]: Failed password for mcbridekaren from 192.168.47.236 port 12489 ssh2
+34.121.181.28 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 400 511818 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/5.1)"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"user session created","user":"fjohnson","trace":"yqgM2MDzxTeN"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"db slow query","user":"sford","trace":"iTX3u9cEWYk1"}
+sshd[4062]: Session closed for walterslisa from 192.168.210.40 port 50455 ssh2
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"cache miss","user":"mark86","trace":"E1RV8oF2hV7J"}
+DB_PORT=true
+DB_PORT=redis://localhost:6379

@@ -1,0 +1,33 @@
+sshd[1606]: Session closed for johnshaw from 192.168.161.20 port 40253 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"michaelshelton","trace":"kzKVkEV30itw"}
+sshd[6488]: Accepted password for kristarasmussen from 10.61.118.91 port 52052 ssh2
+29.237.81.151 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 401 28205 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.1)"
+sshd[1517]: Session opened for robertadams from 172.17.201.199 port 31300 ssh2
+sshd[9462]: Session closed for andrealester from 192.168.37.84 port 15842 ssh2
+123.57.140.232 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 404 206629 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_3) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/49.0.888.0 Safari/534.0"
+sshd[7781]: Failed password for sjones from 192.168.232.135 port 60767 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"brittany24","trace":"W2wpw3C5fbbz"}
+182.93.44.14 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 302 33150 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/20.0.858.0 Safari/534.1"
+sshd[4737]: Session opened for denise14 from 10.3.249.124 port 48667 ssh2
+REDIS_URL=3198
+sshd[8172]: Session closed for shawn52 from 10.146.221.152 port 14155 ssh2
+DB_HOST=redis://localhost:6379
+FEATURE_X_ENABLED=57052
+DB_PORT=DEBUG
+sshd[7791]: Failed password for ethomas from 172.24.71.131 port 52662 ssh2
+99.242.101.126 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 500 105341 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/7109-10-21 11:55:44.045624 Firefox/3.8"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"snyderjennifer","trace":"OY6M9PQhARK3"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJadGpsRlZzV3N2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.otbLZ2YvU0Q-abOlzH_sq_I43Bj14UqIJwHXn7q22ek'
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"cache miss","user":"ncharles","trace":"zKDMKIf4UD40"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"request completed","user":"wcollier","trace":"ap8KlOB4F1Kq"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"james49","trace":"SwNymHfKvxu6"}
+DB_HOST=db-36.burch-carter.com
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"db slow query","user":"brendabrowning","trace":"1D4aJaqSNqoZ"}
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"nicoleballard","trace":"eGvWmYugn5go"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"request completed","user":"carrillokrista","trace":"lfLV49gO8J1o"}
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"db slow query","user":"colleen50","trace":"O20TcVZqNel3"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"token refreshed","user":"lisashea","trace":"AaGbCtK9JDlk"}
+1.235.97.14 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 204 201616 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.0)"
+90.179.239.86 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 500 489771 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4 rv:3.0; sat-IN) AppleWebKit/533.19.3 (KHTML, like Gecko) Version/5.1 Safari/533.19.3"
+168.109.146.160 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 201 518911 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_9; rv:1.9.4.20) Gecko/2398-07-06 10:35:46.474289 Firefox/3.6.6"

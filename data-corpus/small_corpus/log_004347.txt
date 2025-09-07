@@ -1,0 +1,47 @@
+DB_HOST=email-06.ballard.com
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"cache miss","user":"tbeck","trace":"c2gdG1mBjvK1"}
+DB_HOST=25206
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"request completed","user":"branchlinda","trace":"s2nzfFg414CS"}
+118.213.170.68 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 302 11107 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_7; rv:1.9.3.20) Gecko/7706-12-17 22:13:30.566742 Firefox/9.0"
+sshd[5136]: Accepted password for hkhan from 192.168.108.224 port 57441 ssh2
+sshd[4847]: Session closed for justinhughes from 192.168.33.114 port 21710 ssh2
+sshd[5519]: Session opened for kevin50 from 10.52.34.127 port 48020 ssh2
+DB_HOST=6366
+DB_HOST=true
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"token refreshed","user":"mhunter","trace":"RRkIX1tgcbHi"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"cache miss","user":"dhughes","trace":"fd5ixmte6wvH"}
+sshd[5579]: Session opened for patricia39 from 172.17.62.46 port 40341 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"request completed","user":"david91","trace":"dbnKp9YE5jxQ"}
+sshd[8492]: Accepted password for ssmith from 172.25.40.78 port 40818 ssh2
+176.32.162.240 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 403 426775 "-" "Opera/8.18.(Windows NT 4.0; ps-AF) Presto/2.9.165 Version/12.00"
+LOG_LEVEL=34561
+DB_PORT=65178
+sshd[2377]: Accepted password for fwright from 192.168.123.20 port 57242 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"db slow query","user":"jacksonjoseph","trace":"gkyGcTNEQY08"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"db slow query","user":"tsmith","trace":"4M9yGpUU55eD"}
+sshd[6085]: Accepted password for prestonnathan from 172.26.210.178 port 21883 ssh2
+sshd[9928]: Session opened for archermary from 10.161.254.164 port 61742 ssh2
+REDIS_URL=false
+204.231.212.154 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 302 73931 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"lday","trace":"KlQYv2JCi4eY"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"user session created","user":"connie22","trace":"Hwk3xeo18QRt"}
+API_TIMEOUT=4231
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"db slow query","user":"frostmeghan","trace":"7KSdoVL4ueKP"}
+DB_PORT=redis://localhost:6379
+sshd[2893]: Session closed for jackbernard from 10.223.213.17 port 31498 ssh2
+DB_PORT=WARN Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ6a1BkVENpQWluIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.NBW8UKR_J5AzU9_XYiN-RzYN1awb_d57xvgAF3pttwo'
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"request completed","user":"nmassey","trace":"CxmrBZsCEqAv"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"marshalljack","trace":"6lxZbnnNAc9g"}
+sshd[2997]: Session opened for james81 from 172.20.216.240 port 62770 ssh2
+REDIS_URL=true
+LOG_LEVEL=desktop-00.smith-jones.com
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"gglover","trace":"TPgBUOzDzARN"}
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"matthewcopeland","trace":"HUhdet0KRmIM"}
+157.108.136.80 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 400 149272 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6636-10-11 09:46:30.721405 Firefox/15.0"
+103.236.241.228 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 302 478179 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/6587-03-14 22:57:00.269989 Firefox/3.6.11"
+63.208.71.82 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 404 201755 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJuZUltNG83dnNJIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.IxZkqO6bd06j0Y65-JOoXA47KljAy94aFeMq_V8-mS4'
+DB_PORT=true
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"request completed","user":"meganpadilla","trace":"33Zf2zqJ8YqV"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"user session created","user":"brendaharris","trace":"feLrZ0hnUPH3"}

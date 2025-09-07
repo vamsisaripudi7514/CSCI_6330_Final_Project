@@ -1,0 +1,25 @@
+30.85.124.251 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 404 128416 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/8145-12-27 08:08:29.545380 Firefox/7.0"
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"request completed","user":"umcdonald","trace":"ha47OJfZFGmf"}
+sshd[2162]: Session closed for pmccoy from 192.168.248.44 port 50552 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"token refreshed","user":"syoung","trace":"hEAxGGfHYG4Z"}
+API_TIMEOUT=INFO
+210.228.210.155 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 401 361316 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/29.0.855.0 Mobile/50M583 Safari/535.0"
+REDIS_URL=email-34.lopez-todd.com
+FEATURE_X_ENABLED=false
+sshd[6027]: Session opened for davidjohnson from 10.107.138.181 port 23574 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"user session created","user":"amy00","trace":"M9fdGDCgFu1B"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"user session created","user":"hilljay","trace":"a1m1VGeIBWHm"}
+57.42.130.186 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 302 290345 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/8565-03-19 12:00:34.487549 Firefox/11.0"
+REDIS_URL=email-75.hughes.biz
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"notify","msg":"user session created","user":"stephanie30","trace":"lHMDPiiqK6CA"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"db slow query","user":"hunterkathryn","trace":"EPRycgogbTNI"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"cache miss","user":"bdavis","trace":"f6h6uWFgI8iX"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"request completed","user":"jeffreysaunders","trace":"SazHqAB134Bw"}
+sshd[1532]: Session opened for wagneremily from 192.168.109.12 port 28576 ssh2
+122.54.104.110 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 404 140127 "-" "Opera/9.95.(X11; Linux x86_64; sv-SE) Presto/2.9.187 Version/11.00"
+DB_PORT=2552
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"joshuagross","trace":"MJU2CBO5teuw"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"request completed","user":"cowanjohn","trace":"SNfpLyH6pZL3"}
+90.31.69.30 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 204 302515 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/40.0.841.0 Safari/532.1"
+LOG_LEVEL=laptop-54.phillips.com

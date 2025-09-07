@@ -1,0 +1,32 @@
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"request completed","user":"clopez","trace":"xPvKiLkBnUwd"}
+sshd[1416]: Session closed for ryan53 from 192.168.54.63 port 43797 ssh2 password=qK8)oS1Q
+159.164.127.209 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 401 21567 "-" "Opera/8.94.(Windows NT 11.0; doi-IN) Presto/2.9.163 Version/10.00" API_KEY=AIzampof1p2hLvV90C67cpIF67KvKKe3EIqyTNf_4g
+99.15.242.167 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 201 16249 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/41.0.856.0 Safari/536.2"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"request completed","user":"jeffreynguyen","trace":"5di1jn7fGGUH"}
+REDIS_URL=2535
+sshd[7378]: Session closed for iponce from 172.30.218.113 port 57568 ssh2
+DB_HOST=11753
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"db slow query","user":"saundersmitchell","trace":"XWKJNfk5Vs24"}
+12.68.232.118 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 500 414191 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_7; rv:1.9.2.20) Gecko/5619-09-25 18:25:07.201965 Firefox/3.6.1"
+44.46.79.192 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 302 448739 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.0)"
+148.118.28.228 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 404 375287 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/3.1)"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"barbara17","trace":"z5v6yBR4BT1m"}
+sshd[6931]: Session closed for karichen from 192.168.194.85 port 39463 ssh2
+60.91.74.24 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 404 483239 "-" "Opera/8.79.(X11; Linux x86_64; ast-ES) Presto/2.9.188 Version/11.00"
+sshd[8300]: Session opened for william58 from 172.26.178.141 port 51669 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"ruizphilip","trace":"35yAjqdY65nu"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"user session created","user":"brandon11","trace":"HezqYTzxYH2c"}
+sshd[6493]: Session closed for kathleen13 from 172.25.212.78 port 13204 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"cache miss","user":"robert97","trace":"6KGwpeOCbdwB"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"db slow query","user":"courtneyarmstrong","trace":"sFpIwzc6yrAp"}
+sshd[2220]: Failed password for michael45 from 172.25.58.8 port 29210 ssh2
+213.186.158.176 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 502 501597 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/60.0.886.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"db slow query","user":"john99","trace":"rIvqCQ8bRmCf"} API_KEY=AIzalCoAw26BGkxK5kxBSF5tA9lHKcsL2SHEq4Yi4w
+81.221.187.5 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 400 509704 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.0)"
+10.199.95.95 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 500 447449 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/12.7m9040.0 Mobile/15E598 Safari/536.0"
+API_TIMEOUT=redis://localhost:6379
+184.177.112.199 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 204 194559 "-" "Opera/9.26.(X11; Linux x86_64; dz-BT) Presto/2.9.178 Version/10.00"
+151.110.17.5 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 200 192882 "-" "Mozilla/5.0 (Windows NT 11.0; lij-IT; rv:1.9.1.20) Gecko/9530-08-26 14:46:40.329468 Firefox/3.8"
+223.197.122.196 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 200 511512 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; tcy-IN) AppleWebKit/533.8.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6533.8.5"
+DB_HOST=email-23.wyatt.info

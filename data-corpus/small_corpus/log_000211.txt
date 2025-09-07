@@ -1,0 +1,47 @@
+DB_PORT=WARN
+sshd[2550]: Session opened for heather68 from 10.24.5.152 port 40145 ssh2
+sshd[9157]: Session closed for uhill from 192.168.26.185 port 24077 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"user session created","user":"meaganthompson","trace":"1cDa1yqRHPFj"}
+sshd[6468]: Failed password for fhayes from 10.250.103.17 port 15414 ssh2
+sshd[1891]: Failed password for jessica15 from 10.137.168.5 port 29933 ssh2
+112.8.139.141 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 500 102564 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_6 rv:3.0; fur-IT) AppleWebKit/531.10.6 (KHTML, like Gecko) Version/4.1 Safari/531.10.6"
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"cache miss","user":"reynoldsjesse","trace":"JojS0zWZk3iv"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"cache miss","user":"patriciakelly","trace":"Dp5VRVi58o2a"}
+REDIS_URL=28813
+sshd[2394]: Session opened for martinmelissa from 172.19.236.198 port 45483 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"user session created","user":"johnsonmichael","trace":"Fg2c05hS7brW"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"request completed","user":"gina53","trace":"LId0LL5Zp0qc"}
+LOG_LEVEL=false
+REDIS_URL=22477
+API_TIMEOUT=redis://localhost:6379
+REDIS_URL=1259
+128.206.50.140 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 401 68543 "-" "Mozilla/5.0 (Linux; Android 4.4.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/62.0.833.0 Safari/536.1"
+REDIS_URL=40986
+DB_HOST=true
+sshd[2240]: Session closed for lisapayne from 192.168.47.108 port 55157 ssh2
+20.39.139.36 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 401 239487 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/17.5r9389.0 Mobile/33V440 Safari/534.0"
+FEATURE_X_ENABLED=db-59.jones-peterson.info
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"db slow query","user":"richard22","trace":"jWoe6FvOwnnU"}
+sshd[8666]: Session closed for sallen from 172.17.48.185 port 52610 ssh2
+24.228.106.117 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 500 186794 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.4.3 (KHTML, like Gecko) Version/4.0.5 Safari/534.4.3"
+API_TIMEOUT=false
+sshd[4589]: Session closed for marygonzalez from 172.19.161.141 port 51639 ssh2 API_KEY=AIzaieinO-AoZ8My4AmkpWPiSGLTBLnHQDMXSw90Ng
+FEATURE_X_ENABLED=DEBUG
+sshd[9585]: Failed password for hartmanspencer from 192.168.239.150 port 56579 ssh2
+API_TIMEOUT=web-73.smith.com
+18.58.88.18 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 401 496981 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7; rv:1.9.2.20) Gecko/9253-05-02 00:30:35.655579 Firefox/3.8"
+sshd[1710]: Accepted password for michael36 from 10.174.98.126 port 42357 ssh2
+1.37.231.255 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 403 464421 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/17.0.828.0 Mobile/40P534 Safari/533.0"
+sshd[2050]: Accepted password for paulgreer from 192.168.240.81 port 41981 ssh2
+DB_PORT=INFO
+FEATURE_X_ENABLED=15035
+sshd[1987]: Failed password for shaunolson from 172.21.243.204 port 35581 ssh2 password=oB3!1&8Ig
+213.41.103.127 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 502 402911 "-" "Mozilla/5.0 (Windows NT 5.1; raj-IN; rv:1.9.0.20) Gecko/9214-02-01 03:49:49.066406 Firefox/3.6.17"
+FEATURE_X_ENABLED=redis://localhost:6379
+FEATURE_X_ENABLED=redis://localhost:6379
+25.177.29.58 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 204 349374 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_2; rv:1.9.2.20) Gecko/3379-07-02 18:08:20.072144 Firefox/3.6.16"
+LOG_LEVEL=7929
+REDIS_URL=41882
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"user session created","user":"andrew93","trace":"KW0OduATq9Zn"}
+67.107.40.184 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 201 386598 "-" "Mozilla/5.0 (Linux; Android 2.3.5) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/50.0.814.0 Safari/535.1"

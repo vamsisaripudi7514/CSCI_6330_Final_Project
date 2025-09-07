@@ -1,0 +1,30 @@
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"melanie62","trace":"QS0D6qlK7VKF"}
+DB_HOST=redis://localhost:6379
+LOG_LEVEL=web-91.west.org
+sshd[3026]: Session opened for johnwise from 192.168.55.123 port 21459 ssh2
+sshd[5280]: Session closed for fgreen from 172.31.191.204 port 43182 ssh2
+LOG_LEVEL=INFO
+14.202.161.207 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 200 249151 "-" "Opera/8.59.(Windows NT 5.0; tt-RU) Presto/2.9.175 Version/10.00"
+DB_HOST=64983
+sshd[1812]: Failed password for david77 from 172.28.130.8 port 30643 ssh2
+sshd[4807]: Failed password for lauren01 from 192.168.71.135 port 50609 ssh2
+sshd[2359]: Session opened for wkrause from 10.139.210.159 port 23381 ssh2
+sshd[3841]: Accepted password for fmorris from 192.168.55.38 port 44056 ssh2
+20.207.62.192 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 204 169409 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/532.2.1 (KHTML, like Gecko) Version/4.0.3 Safari/532.2.1"
+sshd[2164]: Session opened for clayangela from 192.168.11.60 port 51005 ssh2
+DB_HOST=srv-22.johnston.com
+DB_HOST=true
+172.42.236.253 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 204 479575 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/60.0.839.0 Mobile/32F958 Safari/535.0"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"db slow query","user":"nicholas53","trace":"lHA2D3Ls5Q7V"}
+191.117.187.87 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 200 326054 "-" "Opera/8.96.(X11; Linux i686; dz-BT) Presto/2.9.186 Version/10.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"cache miss","user":"shannongonzales","trace":"VW4tuMf8spLn"}
+118.23.221.174 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 403 74539 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)"
+DB_PORT=15757
+6.234.208.142 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 204 18028 "-" "Opera/9.60.(X11; Linux x86_64; cs-CZ) Presto/2.9.185 Version/11.00"
+45.212.4.249 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 403 450688 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.0)"
+sshd[6453]: Failed password for blankenshipstephanie from 192.168.23.101 port 61594 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"user session created","user":"abarber","trace":"MhnNMzKPjdGV"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"user session created","user":"along","trace":"psxWwUH80Hna"}
+123.245.189.31 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 404 245763 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.1)"
+API_TIMEOUT=DEBUG
+67.79.202.192 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 400 216226 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_6 rv:4.0; fr-FR) AppleWebKit/534.14.4 (KHTML, like Gecko) Version/4.1 Safari/534.14.4"

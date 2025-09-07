@@ -1,0 +1,29 @@
+17.166.11.40 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 403 417140 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1 rv:3.0; tcy-IN) AppleWebKit/535.41.7 (KHTML, like Gecko) Version/5.0.2 Safari/535.41.7"
+sshd[7377]: Accepted password for alexandra55 from 172.20.194.40 port 26692 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"peter05","trace":"0d7gO87TKik4"}
+118.133.131.117 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 404 364331 "-" "Opera/9.83.(Windows 98; cv-RU) Presto/2.9.171 Version/12.00"
+sshd[9923]: Session opened for conleydiane from 192.168.159.101 port 17720 ssh2
+sshd[9359]: Accepted password for bwilliams from 192.168.16.53 port 34685 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"davidflores","trace":"uXf2Bq1la92P"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"orodriguez","trace":"xOXOgZ3cdGDX"}
+sshd[2213]: Accepted password for charlesshaffer from 10.178.28.49 port 34410 ssh2
+97.192.131.112 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 404 294630 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 2_2_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/54.0.899.0 Mobile/55I873 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"user session created","user":"tracylowery","trace":"FsfE2hEkX9R0"}
+168.186.127.13 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 302 487457 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_5 rv:5.0; ast-ES) AppleWebKit/534.35.2 (KHTML, like Gecko) Version/4.1 Safari/534.35.2"
+sshd[5308]: Session closed for vmclaughlin from 192.168.187.194 port 56567 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"user session created","user":"rarmstrong","trace":"84vY3QyOsc6m"}
+195.252.127.53 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 403 320553 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.34.7 (KHTML, like Gecko) Version/4.1 Safari/531.34.7"
+73.189.66.172 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 204 184519 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/531.30.5 (KHTML, like Gecko) Version/5.1 Safari/531.30.5"
+136.122.13.65 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 403 498800 "-" "Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/43.0.864.0 Mobile/15E388 Safari/535.1"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"cache miss","user":"maciasbrittany","trace":"ByXRkT66EQSA"}
+sshd[3971]: Accepted password for hernandezleslie from 172.20.68.132 port 10131 ssh2
+FEATURE_X_ENABLED=60479
+sshd[4204]: Session closed for lauraharrison from 172.26.246.107 port 59417 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=4234
+sshd[4441]: Accepted password for sarah65 from 172.20.181.191 port 38457 ssh2
+DB_PORT=2135
+188.239.4.47 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 201 286852 "-" "Mozilla/5.0 (Windows NT 5.1; nb-NO; rv:1.9.0.20) Gecko/8259-08-30 09:56:19.685516 Firefox/3.8"
+sshd[7402]: Accepted password for ucooper from 172.23.17.124 port 41984 ssh2
+207.49.28.173 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 200 50425 "-" "Opera/9.24.(X11; Linux i686; zu-ZA) Presto/2.9.188 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"request completed","user":"katiewilliams","trace":"GmZMT78zNzHg"}

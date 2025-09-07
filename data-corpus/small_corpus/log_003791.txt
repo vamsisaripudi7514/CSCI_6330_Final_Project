@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"user session created","user":"ryanaguilar","trace":"1UD7UeAADxuF"}
+sshd[3120]: Session opened for mpatel from 192.168.237.125 port 18197 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"cache miss","user":"kgonzalez","trace":"k3rr23Kc3jnf"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"db slow query","user":"victoriagriffith","trace":"kwWtUCvf9caF"}
+188.231.93.210 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 403 300846 "-" "Mozilla/5.0 (Android 8.1.0; Mobile; rv:56.0) Gecko/56.0 Firefox/56.0"
+DB_PORT=4673
+173.69.107.52 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 502 497682 "-" "Opera/8.92.(X11; Linux i686; tk-TM) Presto/2.9.164 Version/11.00"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"zwilson","trace":"MkiQfyKZUSiq"}
+sshd[7656]: Session closed for pcummings from 192.168.54.48 port 36440 ssh2
+185.250.109.56 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 502 336673 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; sv-SE) AppleWebKit/534.45.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6534.45.2"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"cache miss","user":"kennethmarsh","trace":"aNqWsMNHMlaN"}
+169.49.127.185 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 302 463201 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/3.1)"
+sshd[7795]: Session opened for cmejia from 192.168.114.2 port 28103 ssh2
+sshd[4990]: Failed password for ashleylevy from 192.168.143.160 port 45129 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"user session created","user":"chloe50","trace":"cEeDre27K3Qx"}
+FEATURE_X_ENABLED=65333
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"cache miss","user":"rbradley","trace":"p1P6NZXFgDCs"}
+sshd[3527]: Accepted password for fjohnson from 192.168.61.185 port 37841 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"cache miss","user":"gailjacobs","trace":"5LKHe6WsrWdg"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"brian61","trace":"KFoTNlrMhumk"}
+sshd[3965]: Session opened for murphyjonathan from 192.168.86.25 port 18896 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"request completed","user":"davidadams","trace":"Ezvi6zNbG0U4"}
+sshd[8964]: Accepted password for cynthiabarr from 10.132.51.17 port 47007 ssh2
+46.218.220.66 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 302 27516 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+sshd[8756]: Accepted password for heatherholloway from 172.21.151.51 port 58812 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"lambertdenise","trace":"mKnLp3USkkov"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"token refreshed","user":"xwilson","trace":"xbXLsaOpz6Fj"}

@@ -1,0 +1,38 @@
+sshd[3265]: Session closed for ocarrillo from 10.114.96.107 port 17843 ssh2
+API_TIMEOUT=lt-24.savage-duncan.com
+142.5.45.125 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 201 335903 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/3.1)"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"user session created","user":"rzimmerman","trace":"LFElWFdK451q"}
+sshd[7520]: Accepted password for syoung from 10.0.207.103 port 54391 ssh2
+sshd[4129]: Session closed for pmueller from 172.16.25.201 port 63621 ssh2
+sshd[2290]: Session closed for fshort from 192.168.61.66 port 63300 ssh2
+132.194.62.51 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 500 99430 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/5.1)"
+94.96.234.44 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 401 59010 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/37.0.880.0 Safari/535.1"
+48.246.250.104 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 400 497120 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.1)"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"patricia80","trace":"LjBhPUjBqdqc"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"cache miss","user":"garciakyle","trace":"9pgvQdAO2ENk"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"request completed","user":"kshah","trace":"legm90O2HD4h"}
+DB_HOST=email-23.rodriguez.com
+sshd[5930]: Failed password for bartonchristine from 10.153.41.8 port 42887 ssh2
+DB_HOST=desktop-89.turner-bishop.com
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"debrarichards","trace":"DOfnTsNWxwjj"}
+sshd[8113]: Session closed for angel78 from 10.174.121.157 port 55823 ssh2
+sshd[1671]: Accepted password for pcisneros from 10.108.241.25 port 58362 ssh2
+sshd[5675]: Accepted password for sperez from 172.21.248.239 port 20302 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"request completed","user":"jeffreyhill","trace":"48L9S3dvD0qh"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"mikelong","trace":"ws3tcLJEqXhG"}
+143.160.64.181 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 204 504554 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/32.0.837.0 Safari/532.0"
+166.149.93.178 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 500 241576 "-" "Mozilla/5.0 (Linux; Android 4.1.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/14.0.898.0 Safari/535.2"
+10.139.229.83 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 401 372142 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_9) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/55.0.881.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"guzmankatherine","trace":"zwWHLTlRz3ZN"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"db slow query","user":"sosajoshua","trace":"DShHfobVyhkf"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"cache miss","user":"ssimpson","trace":"SXh4KWBB3Rcc"}
+LOG_LEVEL=20757
+39.181.44.122 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 200 108371 "-" "Opera/9.96.(Windows NT 5.1; ht-HT) Presto/2.9.189 Version/11.00"
+sshd[8874]: Accepted password for jacqueline67 from 192.168.53.137 port 30320 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"cache miss","user":"suesanchez","trace":"h4HEKICI1eeg"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"joelmitchell","trace":"wOJRlec7BkAf"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"andrewjones","trace":"bGQN1kRy0bj0"}
+LOG_LEVEL=WARN
+DB_PORT=db-18.brown-johnson.info
+sshd[1182]: Failed password for austincook from 172.31.213.146 port 19255 ssh2 API_KEY=AIzarkVwf6r9ZgeRyM6BkeFmZje025W8H_6F3JwfTg
+144.104.154.127 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 201 121643 "-" "Opera/9.81.(X11; Linux x86_64; eu-FR) Presto/2.9.171 Version/10.00"

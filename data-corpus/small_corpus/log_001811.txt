@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"db slow query","user":"laurensimon","trace":"V0fLf8ajSUNK"}
+sshd[4347]: Session closed for csanchez from 10.97.196.239 port 55031 ssh2
+sshd[8911]: Session closed for rothdavid from 192.168.38.206 port 29066 ssh2
+19.221.7.216 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 500 465008 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"nicholas84","trace":"bUE28hY1fzB4"}
+144.147.74.185 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 201 218377 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3207-11-05 21:20:38.944862 Firefox/3.6.9"
+DB_HOST=false
+sshd[5079]: Session closed for pricemichael from 192.168.227.113 port 11555 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"josephwells","trace":"WItJAz4S3I1O"} password=pH8#$mGT
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"user session created","user":"vpatterson","trace":"SIejBRib2jGY"}
+sshd[1383]: Accepted password for raymond85 from 172.21.147.51 port 50340 ssh2
+108.236.185.255 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 403 136784 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"cache miss","user":"operry","trace":"3xmEff5QrTGp"}
+214.48.199.197 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 302 323201 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_9 rv:2.0; ko-KR) AppleWebKit/532.43.3 (KHTML, like Gecko) Version/5.1 Safari/532.43.3"
+sshd[2128]: Session opened for jonesbrianna from 172.25.97.6 port 35537 ssh2
+DB_PORT=redis://localhost:6379
+sshd[1850]: Accepted password for jameswhite from 10.158.230.93 port 55968 ssh2
+sshd[7560]: Session opened for martinezjames from 172.31.140.112 port 19885 ssh2
+sshd[7111]: Accepted password for shawnmyers from 192.168.142.63 port 36251 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+FEATURE_X_ENABLED=INFO
+219.1.47.196 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 403 344188 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)"
+28.189.144.62 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 502 500839 "-" "Opera/8.40.(Windows NT 6.2; yue-HK) Presto/2.9.183 Version/10.00"
+70.103.64.50 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 404 433385 "-" "Opera/9.13.(X11; Linux i686; wae-CH) Presto/2.9.185 Version/11.00"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"michelle10","trace":"IVz5dSmiCVDm"}
+sshd[3909]: Accepted password for ttorres from 10.127.152.253 port 16384 ssh2

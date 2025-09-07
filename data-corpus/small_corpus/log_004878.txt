@@ -1,0 +1,33 @@
+LOG_LEVEL=601
+sshd[1806]: Session opened for ssantiago from 192.168.92.205 port 34578 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"token refreshed","user":"hrivera","trace":"s2mmsXAST8Xv"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"ferrelldavid","trace":"6ZgVInzmWI7P"}
+LOG_LEVEL=DEBUG
+156.221.44.141 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/v1/users HTTP/1.1" 500 441026 "-" "Opera/9.81.(X11; Linux i686; ln-CD) Presto/2.9.170 Version/11.00"
+87.12.51.227 - - [07/Sep/2025:18:24:57 +0000] "PUT /health HTTP/1.1" 502 217630 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/18.2m7814.0 Mobile/58S890 Safari/536.1"
+sshd[4300]: Failed password for david17 from 10.41.44.38 port 25762 ssh2 API_KEY=AIzakXwXxmpXoeI_VzdDG7zFnW5uV6rklvXafi21jA
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"brian20","trace":"z4PMl13lun0a"}
+API_TIMEOUT=64361
+sshd[4281]: Failed password for piercescott from 172.25.174.242 port 36194 ssh2
+DB_HOST=web-91.dalton.info
+143.103.18.200 - - [07/Sep/2025:18:24:57 +0000] "DELETE /api/login HTTP/1.1" 204 485836 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; nb-NO) AppleWebKit/531.11.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6531.11.2"
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"request completed","user":"lindavargas","trace":"7tHdVWiEJqL7"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmMEEzcGdDVGFaIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5QQjdbJXhbo41pQhDOJ1nx98PN1qvw6lTS4Kxz4-Lr0'
+DB_HOST=lt-34.jackson-chase.com
+sshd[9272]: Session opened for pelliott from 172.29.31.31 port 11590 ssh2
+DB_PORT=33337
+API_TIMEOUT=46221
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"cache miss","user":"andersonmarie","trace":"wrISRdhDYzC0"}
+sshd[3364]: Failed password for denise83 from 192.168.229.59 port 46505 ssh2
+sshd[5840]: Accepted password for wallacekayla from 10.100.7.84 port 34211 ssh2
+DB_HOST=WARN
+FEATURE_X_ENABLED=60722
+DB_PORT=laptop-00.reed-stephens.org
+sshd[2793]: Session closed for dmcfarland from 192.168.53.186 port 58283 ssh2
+72.67.123.120 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 404 274015 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/3.0)"
+DB_HOST=1858
+143.229.44.193 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 200 462611 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.0)"
+sshd[5277]: Session opened for kenneth62 from 172.29.169.122 port 33997 ssh2
+DB_HOST=email-70.guerra-barker.com
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"user session created","user":"kellygomez","trace":"1vci5dq7FPCI"}
+sshd[8484]: Session opened for ejordan from 172.19.48.229 port 11035 ssh2

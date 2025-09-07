@@ -1,0 +1,26 @@
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"db slow query","user":"cgonzalez","trace":"ZfXmtRFtP8qh"}
+93.209.11.170 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 502 483398 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.0)"
+sshd[9990]: Accepted password for laurakline from 172.27.20.32 port 32798 ssh2
+205.207.197.228 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 201 305649 "-" "Opera/8.12.(Windows NT 5.01; om-KE) Presto/2.9.177 Version/11.00"
+sshd[6717]: Session closed for kirbyrebekah from 10.158.140.241 port 21820 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJpN002UlFObDRoIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.kHSumz_DJooLf769vBTpURAfDuFuE-8pCqmcp3klu8k'
+DB_HOST=false
+sshd[3805]: Accepted password for rsmith from 192.168.214.129 port 40577 ssh2
+API_TIMEOUT=INFO
+185.20.114.246 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 502 491242 "-" "Opera/8.92.(Windows NT 11.0; kl-GL) Presto/2.9.187 Version/11.00"
+sshd[3722]: Session opened for jcalderon from 10.201.113.248 port 54869 ssh2 password=zZ0&N'zyQP18
+sshd[3860]: Failed password for wendyfoley from 172.19.138.198 port 42789 ssh2
+DB_HOST=INFO
+sshd[5125]: Session opened for chapmananthony from 10.53.187.220 port 29685 ssh2
+sshd[6407]: Accepted password for seanmiller from 192.168.233.136 port 49812 ssh2
+sshd[1708]: Failed password for bauerkristin from 192.168.184.38 port 39346 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"jacksonkimberly","trace":"B3NyyMlMcgqb"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"token refreshed","user":"ogarcia","trace":"JisnrpCUU2pW"}
+DB_HOST=db-90.rogers.com
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"littlekathryn","trace":"JGfcKo8iYCRQ"}
+DB_PORT=2893
+DB_HOST=26872
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"token refreshed","user":"kevin63","trace":"VTPVJSQIqTK8"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"cache miss","user":"rebeccamurray","trace":"KY5NKOIskfDx"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"user session created","user":"brownmary","trace":"igNTdCutMzlk"}
+API_TIMEOUT=59284

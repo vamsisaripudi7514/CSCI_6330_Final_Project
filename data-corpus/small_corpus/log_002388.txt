@@ -1,0 +1,25 @@
+sshd[6604]: Failed password for vcampbell from 10.43.150.52 port 12382 ssh2
+LOG_LEVEL=31843
+sshd[8180]: Session closed for ramseyjeffrey from 10.157.93.114 port 25944 ssh2
+FEATURE_X_ENABLED=WARN
+45.56.1.104 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 201 223159 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.9.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.9.1"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"summersalexis","trace":"JYCQ3QV1rVd4"}
+sshd[3579]: Session closed for lsmith from 172.19.127.194 port 42931 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"cache miss","user":"gvasquez","trace":"oihQ84NDfBdR"}
+157.95.40.202 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 502 213432 "-" "Opera/8.49.(X11; Linux i686; hak-TW) Presto/2.9.164 Version/10.00"
+sshd[5060]: Accepted password for cameronvelazquez from 192.168.245.46 port 50474 ssh2
+sshd[8283]: Session closed for kristen17 from 172.19.129.179 port 12175 ssh2
+sshd[3638]: Accepted password for folson from 192.168.160.221 port 41566 ssh2
+DB_PORT=db-62.mcdonald-matthews.biz
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"ofuller","trace":"xxpTf1eiUqWB"}
+FEATURE_X_ENABLED=true
+sshd[8939]: Accepted password for stacey08 from 10.27.157.38 port 58320 ssh2
+API_TIMEOUT=731
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"ngreen","trace":"lTq1S2nHQkKJ"}
+LOG_LEVEL=INFO
+121.193.105.224 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 400 99706 "-" "Opera/9.84.(X11; Linux i686; ml-IN) Presto/2.9.165 Version/10.00"
+98.56.38.46 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 500 255895 "-" "Opera/9.96.(X11; Linux i686; se-NO) Presto/2.9.190 Version/10.00"
+139.33.22.179 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 204 158793 "-" "Mozilla/5.0 (Android 4.1.1; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"xstevens","trace":"BhbLlxX8TdRF"}
+DB_PORT=true
+156.179.87.243 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 502 429179 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_1; rv:1.9.3.20) Gecko/4309-09-26 11:31:28.991730 Firefox/3.8"

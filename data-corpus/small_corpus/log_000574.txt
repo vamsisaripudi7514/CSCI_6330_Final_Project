@@ -1,0 +1,31 @@
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"retrying upstream","user":"iperry","trace":"Ip9oThGqs10x"}
+sshd[1643]: Session closed for etaylor from 192.168.235.141 port 31246 ssh2
+19.144.206.255 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 204 188120 "-" "Opera/8.18.(X11; Linux i686; da-DK) Presto/2.9.182 Version/10.00"
+LOG_LEVEL=desktop-26.blair.info
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"user session created","user":"elizabethdonovan","trace":"uFuSy3Eckl9Q"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"user session created","user":"andrew49","trace":"AqmzPry6bDRW"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"cache miss","user":"daniel17","trace":"uZJgSic8HiPg"}
+67.99.182.131 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 403 450705 "-" "Opera/9.33.(Windows CE; tn-ZA) Presto/2.9.163 Version/11.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiTjN5eEE4VzRVIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.muyPJVfnB5nSzIjIMunO2voQhtOdqS68uKK_wluQ3cI'
+sshd[2917]: Accepted password for shannon95 from 172.30.117.192 port 50130 ssh2
+REDIS_URL=false Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHS3hScDFYWFdBIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ixAWrE7w1IZWCrMxJORLOCoaJiA7fYA2Rc6jrnm_jT4'
+66.74.203.205 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 201 438665 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/56.0.811.0 Safari/534.1" API_KEY=AIza2YstRMqlNGiQIXpG8A8KlHcVPxqrKGyDCrYWkg
+55.245.18.117 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 201 430755 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/12.7u1141.0 Mobile/71F205 Safari/536.1"
+183.74.151.108 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 200 2254 "-" "Opera/8.99.(Windows 95; ru-UA) Presto/2.9.179 Version/10.00"
+API_TIMEOUT=db-46.stevenson.com
+5.184.157.218 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 201 165460 "-" "Mozilla/5.0 (Android 3.2.5; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0"
+sshd[5942]: Session opened for maria98 from 192.168.28.161 port 25591 ssh2
+sshd[4151]: Session closed for dylan20 from 10.66.104.29 port 15161 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"token refreshed","user":"randy38","trace":"Ykl0iYw58RfO"}
+148.225.106.144 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 200 439365 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.1)"
+FEATURE_X_ENABLED=DEBUG
+106.127.235.36 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 204 409316 "-" "Mozilla/5.0 (Linux; Android 2.0.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/24.0.844.0 Safari/534.2"
+26.100.37.26 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 403 159876 "-" "Opera/8.14.(X11; Linux i686; lt-LT) Presto/2.9.182 Version/10.00"
+API_TIMEOUT=lt-90.delgado-drake.net
+7.178.124.236 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 200 65394 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.1)"
+sshd[8818]: Session closed for todd99 from 172.28.112.122 port 13296 ssh2
+46.202.195.189 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 500 171013 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/4.0)"
+DB_HOST=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiTUlmSmNSOTJ5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.lHcJ0fVQzqqI4RxA9jI-gLVlJVEy_ypfKE1UO7VKcR0'
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"request completed","user":"jacobbrock","trace":"gqu8QZpw43Lh"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"susantaylor","trace":"fKIOOypdJWvV"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"robert04","trace":"pBJIjZ1zh9vj"}

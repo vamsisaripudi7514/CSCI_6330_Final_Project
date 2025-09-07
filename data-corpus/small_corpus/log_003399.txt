@@ -1,0 +1,26 @@
+FEATURE_X_ENABLED=redis://localhost:6379 password=rM1.LKk4l.am
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"georgekaren","trace":"ZCdhTFNU1UTk"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"request completed","user":"amartinez","trace":"jmgw2qRpNGoh"}
+LOG_LEVEL=laptop-60.conner.com
+15.149.151.189 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 200 499409 "-" "Mozilla/5.0 (Linux; Android 4.1.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/20.0.852.0 Safari/532.2"
+API_TIMEOUT=db-67.schmidt-anderson.org
+45.116.239.67 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 403 293314 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+sshd[9341]: Session opened for amberburns from 10.22.189.231 port 61931 ssh2
+221.83.143.193 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 400 41542 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/17.3q1381.0 Mobile/75C585 Safari/534.2"
+API_TIMEOUT=3116
+REDIS_URL=false
+35.190.77.214 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 502 275812 "-" "Opera/9.85.(X11; Linux x86_64; pa-PK) Presto/2.9.189 Version/12.00"
+69.239.99.121 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 400 274629 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_8 rv:2.0; szl-PL) AppleWebKit/532.48.3 (KHTML, like Gecko) Version/5.0.1 Safari/532.48.3" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqTGU1bjM3WWR2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.jYLMVDgmplsntWGCGYp-Lccp_Y9rZ0gPfs7m9LEro3E'
+sshd[1207]: Session closed for byrdraymond from 192.168.14.53 port 17412 ssh2
+204.244.155.206 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 401 299315 "-" "Mozilla/5.0 (Android 2.0.1; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0"
+FEATURE_X_ENABLED=false
+DB_PORT=991
+sshd[6396]: Failed password for qlutz from 172.21.7.182 port 36360 ssh2
+182.59.183.38 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 401 136408 "-" "Opera/8.93.(Windows NT 4.0; or-IN) Presto/2.9.183 Version/10.00"
+FEATURE_X_ENABLED=3242
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"cache miss","user":"catherine02","trace":"NhyslEP4xZh5"}
+202.30.72.162 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 401 151149 "-" "Mozilla/5.0 (Linux; Android 11) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/52.0.865.0 Safari/535.0"
+149.124.56.160 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 302 151586 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/535.50.5 (KHTML, like Gecko) Version/4.0.5 Safari/535.50.5"
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"user session created","user":"monica07","trace":"OTZwcWXYxHzw"}

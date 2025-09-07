@@ -1,0 +1,41 @@
+API_TIMEOUT=17411
+sshd[2518]: Accepted password for rrobinson from 172.29.83.182 port 47463 ssh2
+sshd[6575]: Accepted password for christopher06 from 10.240.158.252 port 36794 ssh2
+52.142.39.182 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 401 461042 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.1)"
+sshd[9903]: Accepted password for jonathanorozco from 172.16.40.66 port 15740 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"fitzpatrickrichard","trace":"KG37E5BATnl2"}
+222.196.169.31 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 302 107321 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/47.0.828.0 Safari/534.0"
+68.21.181.131 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 500 322881 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/3.1)"
+DB_HOST=true
+sshd[8522]: Session opened for kathryn24 from 172.22.149.182 port 64958 ssh2
+sshd[6928]: Session closed for kingyolanda from 192.168.35.177 port 50510 ssh2
+sshd[8750]: Failed password for wthomas from 172.28.170.7 port 11241 ssh2
+sshd[2567]: Session closed for newmanpatricia from 192.168.117.40 port 17409 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"cache miss","user":"david11","trace":"ct83aOEEU5VU"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"request completed","user":"qknapp","trace":"aMWj54igzJLD"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"hbrown","trace":"Cp91jcspfNiC"}
+165.144.52.189 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 403 215732 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/61.0.834.0 Mobile/59W234 Safari/536.2"
+160.39.29.25 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 302 210737 "-" "Opera/8.70.(Windows NT 10.0; kok-IN) Presto/2.9.163 Version/10.00"
+REDIS_URL=23290
+sshd[6543]: Session opened for rdaniels from 192.168.6.21 port 19816 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"db slow query","user":"fowleramanda","trace":"O5EVdjDUuhaa"}
+sshd[8986]: Session closed for dadkins from 192.168.164.120 port 12730 ssh2
+78.142.19.233 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 201 405193 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/27.0.847.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"request completed","user":"mary17","trace":"2yD3SMmZlpxZ"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"brandon09","trace":"3xrHsULSu9f3"}
+sshd[1918]: Session closed for holmeschristine from 10.42.75.98 port 38990 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"badams","trace":"HocjrlzRqAVH"}
+sshd[1402]: Accepted password for murphykristin from 192.168.86.155 port 19350 ssh2
+sshd[2061]: Accepted password for jdorsey from 172.27.52.6 port 31167 ssh2
+12.69.58.72 - - [07/Sep/2025:18:24:48 +0000] "PUT /index.html HTTP/1.1" 200 318261 "-" "Opera/9.36.(X11; Linux i686; mhr-RU) Presto/2.9.176 Version/10.00"
+sshd[6980]: Session closed for chase11 from 192.168.88.4 port 57409 ssh2
+DB_PORT=2050
+sshd[4170]: Session opened for longlauren from 10.13.70.170 port 40504 ssh2
+71.218.241.23 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 500 471834 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/5688-03-11 18:47:24.971085 Firefox/3.6.19"
+REDIS_URL=INFO
+211.61.73.218 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 400 231253 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.1)"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"cache miss","user":"austinwheeler","trace":"J5R1Zo3n66O0"}
+DB_HOST=false
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"elizabethbradford","trace":"edRwUx50LfXy"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"jeremy09","trace":"Ln4ysPFbHMT0"}

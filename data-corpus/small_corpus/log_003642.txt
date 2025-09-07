@@ -1,0 +1,33 @@
+140.229.112.197 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 302 152973 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/531.7.5 (KHTML, like Gecko) Version/4.0.2 Safari/531.7.5"
+sshd[7619]: Failed password for zrobles from 192.168.15.242 port 58029 ssh2
+sshd[2364]: Session opened for leefrancisco from 192.168.28.33 port 22837 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"omcdonald","trace":"ofq1v6OcKK28"}
+89.143.93.76 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 502 337264 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/35.0.805.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"user session created","user":"riverathomas","trace":"KPs0T9pM99dL"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"cache miss","user":"jennifer56","trace":"7O6hMJfXmpmA"}
+sshd[1090]: Session closed for stephenfleming from 192.168.36.81 port 41054 ssh2
+223.255.216.25 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 201 140342 "-" "Opera/9.15.(X11; Linux x86_64; mg-MG) Presto/2.9.169 Version/10.00" password=fL9+>m0>
+sshd[4178]: Accepted password for sandrasparks from 172.22.243.57 port 49219 ssh2
+sshd[8425]: Accepted password for stevenmckenzie from 172.24.250.129 port 26207 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"levinejohn","trace":"4wmdQycim9Np"}
+sshd[3330]: Session opened for icruz from 172.28.176.117 port 53771 ssh2
+REDIS_URL=33783
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"token refreshed","user":"millermatthew","trace":"5H9MzrJG0bLY"}
+59.97.188.246 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 201 15079 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/18.0.899.0 Mobile/37R808 Safari/533.2"
+sshd[8084]: Session closed for ronnie08 from 192.168.193.69 port 39107 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"hillsteven","trace":"XW1NOXfyEvrR"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"db slow query","user":"schultzashley","trace":"6TiGG4NxeouF"}
+52.37.208.214 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 502 348983 "-" "Mozilla/5.0 (Linux; Android 4.0.3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/14.0.809.0 Safari/535.2"
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=53281
+API_TIMEOUT=WARN
+93.185.50.58 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 401 264822 "-" "Opera/9.13.(Windows 95; eu-ES) Presto/2.9.185 Version/12.00"
+REDIS_URL=false
+138.52.237.53 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 201 502316 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/40.0.896.0 Mobile/49M037 Safari/535.2"
+DB_HOST=laptop-00.lambert.com
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"mmartinez","trace":"Y0a16Su4trto"}
+sshd[8883]: Accepted password for reedrhonda from 192.168.155.176 port 18831 ssh2
+149.200.229.8 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 502 171091 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.0)"
+155.53.39.76 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 500 359053 "-" "Mozilla/5.0 (Windows NT 6.1; da-DK; rv:1.9.0.20) Gecko/3014-01-31 16:31:44.327648 Firefox/5.0"
+sshd[5215]: Failed password for sabrinamartinez from 10.246.217.187 port 17479 ssh2
+sshd[4481]: Accepted password for colton07 from 10.98.84.217 port 17520 ssh2

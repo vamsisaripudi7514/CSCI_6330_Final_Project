@@ -1,0 +1,29 @@
+158.174.245.144 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 201 285029 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.1)"
+REDIS_URL=redis://localhost:6379
+169.19.130.23 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 500 163916 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/40.0.894.0 Safari/533.1"
+5.226.221.38 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 500 95869 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.4.3 (KHTML, like Gecko) Version/5.0.4 Safari/532.4.3"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"cache miss","user":"marieramirez","trace":"NlQLTSXNKSpA"}
+11.255.4.103 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 404 101109 "-" "Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/55.0.874.0 Mobile/72F436 Safari/532.0"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"ryan14","trace":"zJixelWHrXY0"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"user session created","user":"beasleywilliam","trace":"vai7P5xXYcM5"}
+sshd[1250]: Accepted password for bauermercedes from 10.180.83.25 port 24854 ssh2
+sshd[5565]: Failed password for mcmahonkaitlyn from 192.168.29.95 port 37144 ssh2
+REDIS_URL=DEBUG
+sshd[1789]: Session opened for tylersmith from 172.30.66.19 port 41623 ssh2
+sshd[3413]: Failed password for hharris from 172.17.209.91 port 23456 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"user session created","user":"scottkeith","trace":"rTrZK2whbTfb"}
+LOG_LEVEL=lt-42.briggs.com
+sshd[5400]: Accepted password for williamcox from 192.168.195.218 port 63970 ssh2 API_KEY=AIzaSLfnaZW4d5zlz1s-57ZNZp3RFGxalvd3lrqc6A
+REDIS_URL=4675
+sshd[8187]: Accepted password for ocase from 192.168.156.233 port 34045 ssh2
+sshd[7430]: Failed password for zreed from 10.21.133.100 port 33082 ssh2
+DB_PORT=INFO
+sshd[4854]: Session closed for ricetheresa from 10.132.151.48 port 47119 ssh2
+199.149.101.193 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 200 44479 "-" "Opera/9.56.(X11; Linux x86_64; apn-IN) Presto/2.9.180 Version/11.00"
+sshd[3883]: Session closed for jasonsoto from 172.30.217.60 port 30494 ssh2
+sshd[2488]: Failed password for mdavis from 172.20.219.220 port 44543 ssh2
+24.85.218.248 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 201 361166 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/10.8n6446.0 Mobile/68Y194 Safari/531.0"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"tammy01","trace":"mM1Bb7TgDLEg"}
+DB_PORT=desktop-59.olson-barnes.org
+DB_HOST=redis://localhost:6379

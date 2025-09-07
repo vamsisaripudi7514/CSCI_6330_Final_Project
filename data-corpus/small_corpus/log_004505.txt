@@ -1,0 +1,35 @@
+LOG_LEVEL=1385
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"sean43","trace":"W0ExYUJX9Rc8"}
+sshd[4976]: Failed password for glee from 172.22.90.215 port 11260 ssh2
+sshd[5223]: Failed password for hollyhughes from 172.24.146.70 port 18088 ssh2
+sshd[9601]: Session opened for kduke from 172.27.184.178 port 37612 ssh2
+19.210.122.254 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 201 103213 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/3.0)"
+REDIS_URL=44019
+37.135.50.140 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 500 63948 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3; rv:1.9.3.20) Gecko/2148-11-21 07:13:24.276714 Firefox/6.0"
+sshd[1732]: Accepted password for smithjames from 192.168.228.200 port 39794 ssh2
+sshd[1101]: Session opened for todd09 from 192.168.153.52 port 28987 ssh2
+123.170.185.119 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 204 259236 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.1)"
+49.199.221.204 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 204 76004 "-" "Mozilla/5.0 (Windows NT 5.0; hu-HU; rv:1.9.2.20) Gecko/9979-07-29 02:17:12.840637 Firefox/3.6.8"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"omoses","trace":"oajDu1LIXd8T"}
+169.129.175.40 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 500 369576 "-" "Mozilla/5.0 (Android 6.0.1; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"xlawson","trace":"ppBiNDIWiyXf"}
+DB_PORT=true
+sshd[7213]: Session closed for nharris from 10.156.136.141 port 57493 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"token refreshed","user":"williamsonstephen","trace":"MAsEcm9Z0lqn"}
+139.121.240.148 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 404 142175 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_0 rv:5.0; ku-TR) AppleWebKit/531.40.3 (KHTML, like Gecko) Version/4.1 Safari/531.40.3"
+sshd[8135]: Failed password for jefferymalone from 10.65.92.202 port 61188 ssh2
+sshd[7259]: Accepted password for vburke from 192.168.98.35 port 17486 ssh2
+147.74.174.212 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 201 509245 "-" "Mozilla/5.0 (Linux; Android 1.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/33.0.831.0 Safari/532.1"
+143.120.126.22 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 400 143444 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/34.0.873.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"john56","trace":"OgKY9x0QY9kj"} API_KEY=AIza_SBSkOpJ8DgbGaa1c2a0MXf5N9K8QSAARp3WvQ
+DB_PORT=false
+sshd[3904]: Session opened for ctanner from 10.168.165.46 port 51684 ssh2
+sshd[4885]: Session opened for tiffany42 from 192.168.169.61 port 15360 ssh2 password=fM4@3A!pZZfLse
+sshd[9498]: Session opened for jacqueline41 from 10.207.5.49 port 37949 ssh2
+113.225.166.21 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 401 144488 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"goodmankristine","trace":"dkX2wTCMYdqN"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"kara81","trace":"rNvJEqvQOQjR"}
+sshd[7095]: Session opened for talexander from 172.30.57.102 port 31761 ssh2
+sshd[3146]: Session closed for hallbernard from 192.168.204.114 port 32466 ssh2
+145.61.233.106 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 400 487873 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/535.16.7 (KHTML, like Gecko) Version/4.0.5 Safari/535.16.7"
+FEATURE_X_ENABLED=30976 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1NDR6OTRNMVFiIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.e9B4vV9X8QYOAUAl0X3vOcOPkTNSXd42J7fNr-zKccQ'

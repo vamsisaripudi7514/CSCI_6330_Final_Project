@@ -1,0 +1,27 @@
+209.110.247.187 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 200 214496 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"mford","trace":"kE8g7VVJJMVY"}
+87.172.22.110 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 400 230852 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_0; rv:1.9.4.20) Gecko/7734-10-18 01:25:05.382233 Firefox/3.6.16"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"cache miss","user":"janetburns","trace":"xLkSAYCwnHev"}
+131.222.50.120 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 201 514159 "-" "Opera/9.13.(X11; Linux x86_64; wo-SN) Presto/2.9.161 Version/10.00"
+sshd[5789]: Accepted password for jeffrey64 from 192.168.141.79 port 64540 ssh2
+DB_PORT=redis://localhost:6379
+API_TIMEOUT=INFO
+sshd[9559]: Session opened for allison37 from 192.168.116.84 port 31246 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"user session created","user":"jeremiahlane","trace":"AOqEXLiGSjHj"}
+sshd[5808]: Accepted password for anna44 from 10.37.200.66 port 62469 ssh2
+sshd[2628]: Session opened for kwhite from 192.168.233.169 port 10135 ssh2
+sshd[3078]: Session closed for kevin69 from 192.168.81.4 port 20558 ssh2
+API_TIMEOUT=srv-07.johnson-butler.org
+DB_PORT=laptop-62.blankenship-ramirez.biz
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"db slow query","user":"mistyraymond","trace":"jJ56LrGJNTKb"}
+sshd[9694]: Accepted password for michaelmays from 10.202.32.198 port 12576 ssh2 password=tI9=HAO*
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"thompsondavid","trace":"YrrSEqvWflbO"}
+sshd[7612]: Failed password for sjoseph from 172.27.120.201 port 25116 ssh2
+105.67.35.52 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 401 150579 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"dmorales","trace":"j2uDsLIXleXM"}
+152.105.252.184 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 204 32324 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ast-ES) AppleWebKit/535.18.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.18.6"
+146.11.232.80 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 201 222570 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.1)"
+sshd[5349]: Session opened for owenwalter from 172.25.78.130 port 11679 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"cache miss","user":"cunninghamjoseph","trace":"0GWpXwCLq9Mj"}

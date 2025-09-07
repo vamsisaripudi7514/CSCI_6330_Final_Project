@@ -1,0 +1,25 @@
+FEATURE_X_ENABLED=DEBUG
+79.182.28.10 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 200 25499 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"cache miss","user":"regina33","trace":"qX0YfDBWTIhs"}
+136.227.198.173 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 201 392675 "-" "Opera/8.50.(X11; Linux i686; nhn-MX) Presto/2.9.183 Version/11.00"
+sshd[5302]: Failed password for patricia97 from 172.27.225.28 port 38346 ssh2
+DB_HOST=870
+API_TIMEOUT=WARN
+104.84.195.236 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 502 259424 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_3 rv:4.0; tt-RU) AppleWebKit/535.9.3 (KHTML, like Gecko) Version/5.0 Safari/535.9.3"
+REDIS_URL=email-79.torres-richards.org
+sshd[6759]: Session closed for nicholasbrooks from 192.168.93.172 port 55630 ssh2
+sshd[6919]: Session opened for ericakeller from 192.168.210.141 port 50338 ssh2
+REDIS_URL=3631
+DB_PORT=WARN
+86.138.146.85 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 302 437656 "-" "Mozilla/5.0 (Android 2.1; Mobile; rv:5.0) Gecko/5.0 Firefox/5.0"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"db slow query","user":"hudsonadam","trace":"mM0knMmBI5as"}
+LOG_LEVEL=INFO
+API_TIMEOUT=58230
+DB_HOST=false
+126.112.44.17 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 204 80311 "-" "Mozilla/5.0 (Linux; Android 2.2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/38.0.882.0 Safari/535.0"
+219.33.239.14 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 500 152930 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/4422-10-30 12:00:59.846390 Firefox/3.6.1"
+153.63.184.99 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 500 480187 "-" "Opera/9.75.(Windows NT 6.1; sk-SK) Presto/2.9.172 Version/11.00"
+5.106.193.155 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 200 101641 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/5.0)"
+REDIS_URL=INFO
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"request completed","user":"kcarter","trace":"6P0OeaDPlVCu"}
+217.136.19.230 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 201 123424 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2490-11-07 03:30:55.149950 Firefox/3.8"

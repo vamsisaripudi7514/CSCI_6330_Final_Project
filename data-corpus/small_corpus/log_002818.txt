@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"stevenparrish","trace":"PwMZ8RrRM0GZ"}
+sshd[1879]: Session closed for jill42 from 10.206.150.18 port 27299 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MnhZVUo2QjFJIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.syLK8L7DocVAJKlzPqgBhvHRLRpL7D9_voJGPfPItQM'
+sshd[3167]: Session closed for nancykidd from 172.20.181.169 port 43536 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"brandi29","trace":"8JsvZh4H48QP"}
+175.123.211.180 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 201 188425 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.0)"
+REDIS_URL=58226
+sshd[7537]: Session opened for spowell from 172.16.76.196 port 31902 ssh2
+sshd[7346]: Accepted password for brett77 from 172.16.235.15 port 57234 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"request completed","user":"keithstewart","trace":"QReaokPrJ2YC"}
+sshd[8510]: Session closed for meyersmelissa from 10.187.66.3 port 28839 ssh2
+REDIS_URL=db-57.velez-watson.info
+sshd[3094]: Session opened for nicholasgordon from 172.18.17.59 port 32972 ssh2
+sshd[5173]: Session opened for patricia38 from 172.19.88.55 port 27357 ssh2
+REDIS_URL=4383
+LOG_LEVEL=29549
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"retrying upstream","user":"perkinsdiane","trace":"yMVsk60IRweT"}
+107.51.172.139 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 200 247962 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_2 rv:3.0; lv-LV) AppleWebKit/532.49.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.49.2"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"request completed","user":"cfoster","trace":"6RAZGG56GOYK"}
+sshd[4589]: Accepted password for hpayne from 10.236.208.243 port 54911 ssh2
+sshd[1392]: Failed password for sarabarajas from 10.17.51.80 port 54035 ssh2 password=dH3,j,\N}lRbq"75
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"db slow query","user":"kevin72","trace":"CzCzWayIU0yG"}
+API_TIMEOUT=true
+sshd[2239]: Session opened for gomezcynthia from 10.125.13.66 port 21976 ssh2
+DB_HOST=28721
+sshd[1423]: Session closed for greenejack from 172.19.55.131 port 53706 ssh2

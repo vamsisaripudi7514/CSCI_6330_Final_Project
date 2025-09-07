@@ -1,0 +1,27 @@
+API_TIMEOUT=3069
+FEATURE_X_ENABLED=DEBUG
+91.203.184.5 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 302 38688 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; apn-IN) AppleWebKit/532.3.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.3.5"
+sshd[5145]: Session closed for richardmitchell from 172.27.148.141 port 27444 ssh2
+sshd[1348]: Failed password for stephanie31 from 192.168.228.184 port 37919 ssh2
+DB_PORT=redis://localhost:6379 password=rS4)9*MLqBTy
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"user session created","user":"jonesgabriel","trace":"A27iHewp4Lu0"}
+sshd[1118]: Session closed for washingtonadrienne from 10.84.242.150 port 37571 ssh2
+sshd[5344]: Session closed for april80 from 192.168.133.9 port 48065 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"token refreshed","user":"markwoods","trace":"OurLlyvKFTQy"}
+sshd[4888]: Accepted password for whitetiffany from 192.168.188.80 port 43359 ssh2
+130.0.57.108 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 403 323292 "-" "Opera/8.77.(Windows NT 6.0; om-ET) Presto/2.9.171 Version/12.00"
+API_TIMEOUT=redis://localhost:6379 password=nU6|9&4{#s
+DB_HOST=redis://localhost:6379
+DB_PORT=DEBUG
+sshd[5327]: Session opened for yhamilton from 172.23.50.183 port 29379 ssh2
+FEATURE_X_ENABLED=INFO
+57.64.17.104 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 500 100460 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_4) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/48.0.894.0 Safari/533.1"
+185.173.4.30 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 500 240909 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/3977-04-05 19:58:38.440582 Firefox/3.6.14"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"user session created","user":"cgray","trace":"1Gbzp5flJ8Rw"}
+sshd[2272]: Accepted password for erin66 from 10.89.200.192 port 49179 ssh2
+30.124.169.178 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 400 17496 "-" "Opera/8.21.(X11; Linux i686; gu-IN) Presto/2.9.162 Version/12.00"
+16.188.181.209 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 204 236217 "-" "Opera/8.70.(Windows 98; as-IN) Presto/2.9.182 Version/10.00"
+sshd[2977]: Session opened for danielmurphy from 192.168.247.109 port 41951 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"cache miss","user":"drew14","trace":"VoJrGnwQrIYt"}
+sshd[1360]: Failed password for harrisashley from 10.15.77.212 port 50107 ssh2
+sshd[3346]: Accepted password for stephen84 from 10.95.38.255 port 53733 ssh2

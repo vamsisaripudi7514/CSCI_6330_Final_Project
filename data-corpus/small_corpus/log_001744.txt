@@ -1,0 +1,29 @@
+102.72.162.95 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 401 178500 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.49.2 (KHTML, like Gecko) Version/5.0.1 Safari/533.49.2"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"request completed","user":"badams","trace":"IIP0gLxzBSEt"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"token refreshed","user":"jonathan91","trace":"zpbIuqHTuVn8"}
+LOG_LEVEL=WARN
+sshd[2038]: Session opened for nancyhansen from 192.168.39.162 port 36391 ssh2
+REDIS_URL=4324
+FEATURE_X_ENABLED=INFO
+sshd[8560]: Session opened for ltanner from 10.134.221.162 port 53002 ssh2
+39.90.219.119 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 500 201676 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/28.0.823.0 Safari/533.2"
+sshd[7654]: Session opened for tina67 from 10.180.15.86 port 30874 ssh2
+sshd[9365]: Session closed for michaelsmith from 192.168.5.17 port 15431 ssh2
+sshd[5276]: Session opened for wanda38 from 10.58.233.73 port 60590 ssh2
+DB_HOST=lt-56.kemp.com
+sshd[4442]: Session closed for eric10 from 10.228.248.6 port 20363 ssh2
+LOG_LEVEL=WARN
+sshd[7906]: Accepted password for diazmelissa from 172.23.7.157 port 46987 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"cache miss","user":"wallerwilliam","trace":"V7U1JXir0xBj"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"kellydavis","trace":"wnGBTNh0v38s"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1WGJpS2J1ZE1SIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.N7UqNYEipy_c7VT9UywPKgGescuiQqMtIRtO6zWodBw'
+LOG_LEVEL=1059
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"retrying upstream","user":"anna57","trace":"VwBnF0nyFqmI"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"toddphillips","trace":"rfuFCJ8G83iH"} API_KEY=AIzaUn2L0bNzzW6u7ztUC0ssSZvDp7oMQMlHGI4tyA
+174.36.221.91 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 201 491530 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/59.0.837.0 Safari/531.2"
+sshd[4212]: Session opened for williamstina from 10.51.0.173 port 35422 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"cache miss","user":"tanyarodriguez","trace":"8nI3ILkRI9fl"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"larry56","trace":"fnz8KNjOVNkq"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"user session created","user":"kennedylawrence","trace":"3owlVsyrbSMF"}
+sshd[9591]: Session closed for nancygonzalez from 172.24.56.140 port 40844 ssh2 password=uW8)17+Je`FNX
+LOG_LEVEL=false

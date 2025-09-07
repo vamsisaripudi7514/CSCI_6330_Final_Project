@@ -1,0 +1,39 @@
+sshd[9138]: Session opened for gdavis from 192.168.231.98 port 58306 ssh2
+DB_PORT=4612
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"cache miss","user":"stephaniegreen","trace":"MquE41DzORlq"}
+165.115.106.50 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 400 50075 "-" "Mozilla/5.0 (Linux; Android 2.3.6) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/47.0.862.0 Safari/531.2"
+74.183.182.74 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 401 350225 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/12.3k2543.0 Mobile/59V351 Safari/531.1"
+sshd[2883]: Session opened for anthonypoole from 172.23.152.195 port 15928 ssh2
+65.190.156.111 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 201 190226 "-" "Opera/8.41.(Windows NT 11.0; am-ET) Presto/2.9.189 Version/11.00"
+159.140.109.38 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 200 66666 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9249-06-18 05:07:29.480835 Firefox/3.8"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"db slow query","user":"gregory89","trace":"K8VK6Pd9nT1H"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"user session created","user":"joanne60","trace":"vs9FeXJUY0uf"}
+LOG_LEVEL=INFO
+sshd[3032]: Session closed for lewisjames from 10.100.14.90 port 13266 ssh2
+142.13.221.77 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 201 419662 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.0)"
+134.251.71.71 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 502 358144 "-" "Opera/9.17.(Windows NT 5.2; xh-ZA) Presto/2.9.169 Version/10.00"
+LOG_LEVEL=email-94.long.org
+sshd[3006]: Session opened for ivaughn from 172.25.247.24 port 35581 ssh2
+DB_PORT=DEBUG
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"cache miss","user":"shannonjonathon","trace":"MN62Ri3gBm74"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"request completed","user":"sarah53","trace":"AcAoaVVA16Dv"}
+FEATURE_X_ENABLED=57409
+sshd[1844]: Accepted password for wrightryan from 172.25.132.103 port 40526 ssh2
+sshd[3195]: Session closed for wconner from 192.168.73.39 port 57570 ssh2
+45.16.133.95 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 302 321569 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/24.0.878.0 Mobile/51D853 Safari/535.0"
+DB_HOST=web-73.wilson.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkbTVUbEZtQTRoIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.jIOm4P60bPi-fYLPCmybp1K7BFUQWBLgXrUCrLwSdK0'
+sshd[2399]: Accepted password for justin60 from 172.27.145.163 port 38358 ssh2
+API_TIMEOUT=desktop-07.brewer-wilson.com
+FEATURE_X_ENABLED=laptop-64.smith-mcgrath.net
+DB_HOST=false
+sshd[5298]: Session opened for acervantes from 172.26.145.21 port 50350 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4TUxDMGFra1hrIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.e3PbFVIb9ST61U8Fs6NrEGwG2rKX-Dfg6NoJSzTeyx0'
+sshd[1420]: Failed password for fpearson from 10.253.67.210 port 61932 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"user session created","user":"michaelfletcher","trace":"8YvQv4AOyEW2"}
+25.14.210.214 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 200 23136 "-" "Opera/8.60.(X11; Linux x86_64; bho-IN) Presto/2.9.171 Version/11.00"
+5.32.51.253 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 201 190319 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/5.1)"
+sshd[7065]: Session opened for jordananthony from 192.168.88.86 port 45646 ssh2
+sshd[6386]: Session opened for jkramer from 172.25.8.141 port 19253 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"user session created","user":"jacob53","trace":"oF5c9UXLIotA"}
+sshd[6978]: Accepted password for jdudley from 10.251.131.92 port 19875 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"cache miss","user":"susansanchez","trace":"wJ79rBjjNMIW"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHbDZPVDVzQTZvIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.envZtNl_kT45LwjDCGKbX_tGCFJ2UhEjWkypEQJ9w_A'

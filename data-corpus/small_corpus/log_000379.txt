@@ -1,0 +1,33 @@
+214.237.19.212 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 201 230523 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4; rv:1.9.4.20) Gecko/5372-05-02 08:24:40.169571 Firefox/3.8"
+sshd[3513]: Session closed for rsoto from 172.31.29.230 port 25918 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"db slow query","user":"danny72","trace":"K2avaFoetrVg"}
+sshd[5886]: Session closed for qmcguire from 192.168.172.67 port 36431 ssh2
+sshd[5196]: Failed password for hphillips from 192.168.133.20 port 36446 ssh2
+DB_PORT=web-24.gardner.com
+213.46.106.23 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 302 420277 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/39.0.867.0 Safari/531.2"
+sshd[2380]: Accepted password for jonathanmercer from 192.168.170.60 port 23770 ssh2
+REDIS_URL=srv-49.bautista.com
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"user session created","user":"mark10","trace":"cS4YKCNcOer2"}
+DB_PORT=web-37.ellis.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRaFd4NGZuQkxzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.qNRkgQdyvzya5Mqc37OZv--pb3WUHeZgrkpgI-LPinI'
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"cache miss","user":"gross","trace":"oYQ4dbWeMX7U"}
+149.218.137.60 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 500 362278 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/531.24.2 (KHTML, like Gecko) Version/5.0.3 Safari/531.24.2"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"edwardkelly","trace":"vbIw9zNfGC0S"}
+sshd[4050]: Session closed for umccormick from 192.168.136.105 port 37282 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"myersjessica","trace":"YHlIa9RJfylg"}
+44.28.204.144 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 404 36721 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_8 rv:3.0; da-DK) AppleWebKit/535.34.6 (KHTML, like Gecko) Version/4.0.5 Safari/535.34.6"
+sshd[3101]: Session closed for michaelphelps from 10.27.103.249 port 58005 ssh2
+sshd[4608]: Session opened for annamartinez from 192.168.196.100 port 38399 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"request completed","user":"wperry","trace":"aWlz4Hbop0cO"}
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"xshaffer","trace":"gEITPJbVeq2n"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"user session created","user":"sheltonamanda","trace":"GhMJiXz9sTiw"}
+DB_PORT=false
+API_TIMEOUT=redis://localhost:6379
+151.191.19.89 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 200 402990 "-" "Mozilla/5.0 (Android 13; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"db slow query","user":"ayalacassandra","trace":"SUVjfvlrbK5o"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"db slow query","user":"heatherweber","trace":"2uzfCfQmK1D6"}
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"cache miss","user":"jessicahuber","trace":"Wq2ZGXCYHe5M"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"cache miss","user":"asanchez","trace":"ZwAQpFZacGju"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"request completed","user":"johnsonlisa","trace":"VLzlYBUmPoBw"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"db slow query","user":"katherineramirez","trace":"CppPyknslOw4"}

@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"token refreshed","user":"ramseyjessica","trace":"BA20dsJrOf4s"}
+95.180.184.185 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 200 133618 "-" "Opera/8.74.(X11; Linux x86_64; br-FR) Presto/2.9.160 Version/11.00"
+REDIS_URL=redis://localhost:6379
+sshd[8289]: Failed password for janetboyd from 10.14.131.197 port 18040 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"kennethgriffith","trace":"l3afzC1WRJmp"}
+6.199.231.67 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 204 79867 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)"
+sshd[5626]: Failed password for michaelhunter from 192.168.159.44 port 45714 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"kbennett","trace":"wZmysdt5maD0"}
+21.155.108.228 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 204 83646 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/11.3g7025.0 Mobile/49Y431 Safari/536.1"
+DB_HOST=59700
+LOG_LEVEL=redis://localhost:6379
+LOG_LEVEL=9474
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"cache miss","user":"russellfoster","trace":"9KmLTBevksF7"}
+REDIS_URL=lt-58.hodge.org
+LOG_LEVEL=3920
+77.50.128.101 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 200 153738 "-" "Opera/9.18.(X11; Linux x86_64; pt-BR) Presto/2.9.182 Version/12.00"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"wrichards","trace":"52vtiYPvf75M"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"cache miss","user":"zachary76","trace":"5i10hBEenXni"}
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"cache miss","user":"daniel71","trace":"0KhN7hSNM9Op"}
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"walkerrobert","trace":"RrFCVohllv7y"}
+33.255.195.32 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 502 237037 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"tammy40","trace":"55zDfUp2l6uV"}
+90.55.79.164 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 200 340396 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.1)"
+DB_HOST=WARN

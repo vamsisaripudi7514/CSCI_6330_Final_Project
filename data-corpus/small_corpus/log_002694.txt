@@ -1,0 +1,26 @@
+86.133.202.102 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 502 176334 "-" "Opera/9.10.(X11; Linux x86_64; lg-UG) Presto/2.9.170 Version/11.00"
+API_TIMEOUT=2643
+sshd[4499]: Session opened for teresawright from 172.30.19.81 port 56297 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"user session created","user":"hughesadrian","trace":"GO1LqqrKwfaW"}
+sshd[2065]: Failed password for dpark from 10.166.118.227 port 30369 ssh2
+154.105.54.23 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 500 22131 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/5.1)"
+sshd[9120]: Failed password for coxscott from 192.168.154.211 port 21424 ssh2
+200.1.97.139 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 403 498035 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+sshd[3829]: Accepted password for qsexton from 172.23.225.92 port 39593 ssh2
+30.69.30.100 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 201 224005 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"db slow query","user":"lgarcia","trace":"fYrde5696I6p"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"token refreshed","user":"rothmichael","trace":"pp1pTHheafdb"}
+121.40.0.133 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 302 55372 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/9030-08-29 01:28:50.091461 Firefox/3.8"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"stephaniegarcia","trace":"bTKJZwUtHb2X"}
+24.190.49.184 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 404 16589 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4 rv:5.0; ber-MA) AppleWebKit/532.8.1 (KHTML, like Gecko) Version/4.0.3 Safari/532.8.1"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"token refreshed","user":"gnelson","trace":"qHfC99Gqlxyk"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"user session created","user":"caitlyn04","trace":"nZFE1Q8ftelz"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"hesterdaniel","trace":"aR7KtHpsEmVM"}
+139.23.154.189 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 502 47881 "-" "Opera/8.27.(X11; Linux i686; aa-ET) Presto/2.9.174 Version/10.00" password=aS0#w~|<)!9n.
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"cache miss","user":"kwells","trace":"P6RiZ6QC44kX"}
+sshd[5045]: Failed password for sharon45 from 10.109.248.252 port 16033 ssh2
+80.167.249.17 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 502 369717 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.0)"
+REDIS_URL=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtNWVoeE1IVGZjIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ivD7_PwgM0z9eduLDubNfuOyReKggRNG1-Uo2sUjpmU'
+LOG_LEVEL=3467
+API_TIMEOUT=1284 password=cT5@v<}lj9a.\
+LOG_LEVEL=redis://localhost:6379

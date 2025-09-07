@@ -1,0 +1,27 @@
+sshd[6719]: Session opened for tinaconner from 192.168.159.95 port 39573 ssh2
+DB_PORT=db-99.lee-allison.biz
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"bturner","trace":"Ueo0HmepSmDj"}
+78.192.136.190 - - [07/Sep/2025:18:24:57 +0000] "PUT /download/report.csv HTTP/1.1" 302 352643 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/59.0.870.0 Safari/534.2"
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"request completed","user":"christina59","trace":"kXx67MUluq8h"}
+107.209.176.187 - - [07/Sep/2025:18:24:57 +0000] "DELETE /download/report.csv HTTP/1.1" 401 282517 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.0)"
+sshd[6400]: Session closed for suttonmelissa from 10.28.9.197 port 51496 ssh2
+API_TIMEOUT=2622
+LOG_LEVEL=43548
+REDIS_URL=4257
+DB_HOST=db-97.ortega.biz
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"billing","msg":"db slow query","user":"dsmith","trace":"GWhZ8HF6P0Dw"}
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"billing","msg":"cache miss","user":"stephen37","trace":"3IWhGMv1QxGC"}
+132.249.32.59 - - [07/Sep/2025:18:24:57 +0000] "DELETE /assets/app.js HTTP/1.1" 400 11041 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.22.1 (KHTML, like Gecko) Version/5.0 Safari/534.22.1" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ4UUpMWE5jcXdTIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.xrNIA5gMUojAdGxROfSfLvKFqEbevesaP-T7Akwvl_I'
+DB_HOST=2561
+17.83.34.210 - - [07/Sep/2025:18:24:57 +0000] "DELETE /health HTTP/1.1" 200 86429 "-" "Opera/8.20.(X11; Linux i686; tn-ZA) Presto/2.9.168 Version/10.00"
+DB_PORT=25410
+FEATURE_X_ENABLED=false
+LOG_LEVEL=DEBUG
+DB_PORT=34071
+sshd[6237]: Failed password for heidigillespie from 172.19.226.191 port 45394 ssh2
+sshd[8789]: Session opened for susanrowe from 10.7.182.243 port 60698 ssh2
+DB_PORT=redis://localhost:6379
+sshd[6508]: Session opened for grahamanthony from 10.117.193.1 port 18152 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"jeanettecarter","trace":"q7BQgqLOR260"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"nathan10","trace":"LDFhuxk0p1DD"} password=xU1)qtg<UnHgQ{f,

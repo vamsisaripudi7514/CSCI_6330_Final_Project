@@ -1,0 +1,26 @@
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"cmiller","trace":"UVzP00JoqHus"}
+sshd[6382]: Accepted password for yatesanthony from 172.19.190.55 port 64824 ssh2
+65.126.189.83 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 500 121765 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_6) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/21.0.881.0 Safari/532.2"
+LOG_LEVEL=16634
+180.215.191.122 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 502 272646 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_6) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/37.0.888.0 Safari/533.0"
+62.99.127.134 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 401 327198 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/39.0.813.0 Mobile/16R267 Safari/536.1"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"user session created","user":"pjones","trace":"vNUSy0Jo5quh"}
+60.186.21.186 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 401 48135 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/63.0.859.0 Safari/534.1"
+223.80.191.38 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 204 489097 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4 rv:2.0; pap-CW) AppleWebKit/535.25.2 (KHTML, like Gecko) Version/4.0.1 Safari/535.25.2"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"user session created","user":"amandablack","trace":"XmyWvGJo0rU4"}
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"db slow query","user":"callen","trace":"0RDRMeVmZGGx"}
+FEATURE_X_ENABLED=409
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"user session created","user":"zachary78","trace":"a5XF4zAg7xqw"}
+131.162.58.120 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 500 231393 "-" "Opera/9.86.(Windows NT 5.1; st-ZA) Presto/2.9.161 Version/11.00"
+166.60.236.124 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 401 36016 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.1)"
+182.165.168.77 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 302 189413 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+145.224.140.46 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 400 338590 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0)"
+sshd[7257]: Session opened for patriciayork from 10.51.28.252 port 45631 ssh2
+208.15.83.121 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 500 472369 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/51.0.845.0 Safari/536.1"
+sshd[6264]: Failed password for patricktaylor from 10.39.51.25 port 63478 ssh2
+115.194.218.8 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 200 49762 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.45.2 (KHTML, like Gecko) Version/4.0 Safari/533.45.2"
+sshd[7486]: Failed password for kelleybrad from 192.168.47.67 port 40226 ssh2
+DB_PORT=redis://localhost:6379
+50.253.128.64 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 302 12189 "-" "Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/27.0.865.0 Safari/531.1"

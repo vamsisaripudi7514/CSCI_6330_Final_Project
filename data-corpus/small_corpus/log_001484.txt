@@ -1,0 +1,35 @@
+DB_HOST=srv-87.dickerson.com
+sshd[4745]: Accepted password for wstewart from 172.22.123.86 port 20188 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwbkRpREczR3RzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.g2d0PXXtQ4X-R4ufYab-GTYGFxH7Z6J7ylftJ9ioxvk'
+189.109.233.152 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 500 430947 "-" "Opera/9.73.(Windows NT 4.0; an-ES) Presto/2.9.179 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"db slow query","user":"matthew75","trace":"ZyTPPfQZhUVo"}
+17.234.243.194 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 400 296846 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/59.0.874.0 Safari/533.1"
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"db slow query","user":"wardpaul","trace":"dqzw9Ge9o31N"}
+69.139.188.50 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 302 164488 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/47.0.853.0 Safari/532.1"
+186.3.174.181 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 400 245434 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/25.0.889.0 Safari/532.2"
+DB_HOST=3503
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"token refreshed","user":"tinawhite","trace":"5XsUrhTnmjAd"}
+183.73.244.6 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 403 348907 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.0)"
+111.141.137.35 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 204 168471 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/535.11.5 (KHTML, like Gecko) Version/5.0.5 Safari/535.11.5"
+sshd[3413]: Accepted password for christophermitchell from 192.168.28.32 port 36725 ssh2
+sshd[1271]: Session opened for xprice from 192.168.2.179 port 30871 ssh2
+FEATURE_X_ENABLED=email-34.lane-reilly.org
+FEATURE_X_ENABLED=DEBUG
+sshd[6541]: Session closed for kaylanash from 10.12.223.4 port 63061 ssh2
+sshd[5006]: Accepted password for pjohnson from 192.168.68.34 port 33566 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"db slow query","user":"vmartin","trace":"GkVo7wKov50H"}
+LOG_LEVEL=29262
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"token refreshed","user":"trevorshort","trace":"haQqv4psVrF0"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"cache miss","user":"ttodd","trace":"ughfv3spHmab"}
+LOG_LEVEL=23466
+API_TIMEOUT=65217
+DB_HOST=3916
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"token refreshed","user":"laura05","trace":"KzrRStzAelsl"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"zcole","trace":"eoiMBFn2FZjU"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"cache miss","user":"micheleconrad","trace":"ZCzijdVLxq6t"} password=rR3>QI}M6(G09C/G
+sshd[3244]: Session closed for samuelbrown from 172.23.250.47 port 11239 ssh2 password=jU9)+0IDr=6
+198.70.249.219 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 204 344557 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/22.0.815.0 Safari/531.2"
+sshd[1069]: Session closed for tcruz from 172.21.114.131 port 57181 ssh2
+sshd[5864]: Accepted password for candice51 from 172.20.146.113 port 56686 ssh2
+sshd[3434]: Session opened for parksmelissa from 10.246.246.76 port 21167 ssh2

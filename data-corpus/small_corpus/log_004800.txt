@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"lindsayclark","trace":"8jGvjx8gpnX5"}
+61.57.211.125 - - [07/Sep/2025:18:24:57 +0000] "POST /assets/app.js HTTP/1.1" 403 10781 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_2 rv:5.0; fil-PH) AppleWebKit/532.24.2 (KHTML, like Gecko) Version/4.0.3 Safari/532.24.2"
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"yvonne00","trace":"svQzLVZYdopn"}
+69.221.172.176 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/v1/users HTTP/1.1" 404 222362 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_0; rv:1.9.4.20) Gecko/8727-08-12 18:32:59.884369 Firefox/6.0"
+106.88.120.55 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 403 438035 "-" "Opera/9.11.(Windows NT 6.2; ug-CN) Presto/2.9.172 Version/10.00"
+sshd[4434]: Session opened for rebecca23 from 192.168.244.116 port 56077 ssh2
+sshd[1161]: Accepted password for brettford from 192.168.192.13 port 13641 ssh2
+REDIS_URL=64631
+API_TIMEOUT=redis://localhost:6379
+DB_PORT=2228
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"notify","msg":"token refreshed","user":"keithdonovan","trace":"tFqeOWxwze6Z"} API_KEY=AIza29KAqIbwdzU0rwptP47-T0yZh5xbaj1ToxibCw
+sshd[3275]: Session closed for frazierdenise from 172.31.97.45 port 17959 ssh2
+FEATURE_X_ENABLED=26618
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"kberg","trace":"w8hSTrSXPDSx"}
+132.171.239.119 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 200 371894 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"billing","msg":"request completed","user":"johnsonedward","trace":"kwT16Kn7gaWS"}
+93.33.58.65 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 400 69437 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/29.0.858.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"gregory51","trace":"9FoRUZKvZx9t"}
+104.176.215.50 - - [07/Sep/2025:18:24:57 +0000] "POST /api/login HTTP/1.1" 200 286466 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/51.0.892.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"user session created","user":"matthewkaiser","trace":"zxM0vcp1DDS5"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"request completed","user":"zsalazar","trace":"Ps0SssjczhV0"}
+sshd[8083]: Session opened for oflores from 10.46.157.197 port 36732 ssh2
+9.173.207.231 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 204 402414 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.31.3 (KHTML, like Gecko) Version/4.0 Safari/534.31.3"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"billing","msg":"cache miss","user":"kburgess","trace":"REUkTO2Z6ekv"}
+211.65.141.111 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 400 374926 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0)"

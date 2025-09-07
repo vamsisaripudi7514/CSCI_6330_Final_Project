@@ -1,0 +1,37 @@
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"db slow query","user":"uburke","trace":"PYM6wPHBRMUH"}
+191.100.231.42 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 201 121847 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4163-06-11 08:08:27.552063 Firefox/3.8" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJZQXdvMFh0cmJqIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.hHkB0tJJ9lQgeLxv5HNikJxxTiLMGCa09Kw7CQ9xiAs'
+sshd[9798]: Session opened for ahughes from 10.199.36.41 port 26258 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJERmp2QllpSDVzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.zwSNARY6DLhhrNeX2O769A1AvyQIefFpne6DbeoJQYk'
+60.13.167.18 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 204 228924 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+sshd[3306]: Accepted password for htorres from 10.234.145.77 port 63459 ssh2
+47.105.217.119 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 204 332510 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/3.1)"
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"wjohnson","trace":"VXdKTJPQ9pdL"}
+sshd[8093]: Session opened for nicholecross from 192.168.174.223 port 41592 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"robert40","trace":"UPBFEjc09STy"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"token refreshed","user":"michael82","trace":"V2QFJRZeLvFE"}
+REDIS_URL=false
+sshd[5556]: Failed password for craigturner from 192.168.172.174 port 22601 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"db slow query","user":"johnmoore","trace":"LXm5r7tzBu5z"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"request completed","user":"oflynn","trace":"BxkkSVSM64DT"}
+6.207.15.247 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 400 35464 "-" "Opera/9.91.(Windows 95; ko-KR) Presto/2.9.178 Version/12.00"
+sshd[8173]: Failed password for dereklee from 172.28.44.106 port 21603 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJaenVyYm5yRDJQIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.UfGf1aTf4eT8erUWScECPuW_2ERs8ndqO3pUjGyYKdM'
+API_TIMEOUT=true
+API_TIMEOUT=web-55.mann.com
+DB_HOST=2509
+136.201.25.192 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 204 213863 "-" "Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/29.0.806.0 Mobile/39U313 Safari/536.0"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"cohenmichael","trace":"2Ve3xV2bzwf4"}
+sshd[6089]: Failed password for akim from 172.26.89.129 port 50040 ssh2
+83.223.123.68 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 302 120398 "-" "Mozilla/5.0 (Windows NT 5.1; so-KE; rv:1.9.1.20) Gecko/9935-01-19 11:47:21.717529 Firefox/3.6.20"
+sshd[2714]: Failed password for crobbins from 192.168.214.88 port 28663 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"request completed","user":"hannah44","trace":"ye0m4c1zCIRv"}
+DB_PORT=14782
+83.162.16.199 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 404 168375 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0; rv:1.9.2.20) Gecko/7822-02-27 20:22:19.547394 Firefox/3.8"
+sshd[8358]: Accepted password for cheyenne90 from 10.14.12.153 port 21794 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"cache miss","user":"taylorgross","trace":"VaedaL8UHv7y"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"kayla57","trace":"JLZcoiwLR1Gx"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"user session created","user":"iunderwood","trace":"QK1XDsCY9rRY"}
+REDIS_URL=true
+DB_PORT=db-13.shaw.com
+sshd[5957]: Accepted password for testes from 10.74.157.39 port 36968 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"request completed","user":"denise07","trace":"ahpCjja37R6O"}

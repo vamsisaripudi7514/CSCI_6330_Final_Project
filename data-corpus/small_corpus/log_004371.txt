@@ -1,0 +1,28 @@
+sshd[7174]: Session opened for vanessamahoney from 192.168.193.186 port 46643 ssh2
+sshd[7097]: Session opened for laurathornton from 192.168.51.133 port 13819 ssh2
+sshd[4681]: Failed password for wwilliams from 192.168.29.130 port 32940 ssh2
+sshd[3692]: Accepted password for ryanyoung from 192.168.227.164 port 17797 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"martineznicole","trace":"Oo2j7Ik8FeDT"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"db slow query","user":"jamescooley","trace":"uyoljeibMbQO"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJVSDh3bTFRNHFrIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.1-uXOfhx-TDmf0DOmmC_45ohb2nmeYy1_eS_AFDSpG4'
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"request completed","user":"michaelfields","trace":"rFWEzKJoEXAZ"}
+FEATURE_X_ENABLED=24193
+sshd[4761]: Failed password for wilsonchristopher from 192.168.184.39 port 46126 ssh2
+sshd[7364]: Session opened for jnguyen from 192.168.179.103 port 26206 ssh2
+sshd[3106]: Session closed for jessica36 from 192.168.111.165 port 38875 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"request completed","user":"charles47","trace":"isVOEQOu1jZp"}
+141.83.218.194 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 401 358707 "-" "Opera/8.36.(X11; Linux i686; vi-VN) Presto/2.9.164 Version/10.00"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"rcooper","trace":"oEYj7TcEiBWB"}
+DB_PORT=4329
+FEATURE_X_ENABLED=INFO
+sshd[7027]: Failed password for garnold from 10.120.118.244 port 14188 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"millerelizabeth","trace":"NBksGavOoxMk"}
+142.157.179.81 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 200 14599 "-" "Opera/8.35.(Windows NT 6.2; cmn-TW) Presto/2.9.186 Version/11.00"
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[7408]: Accepted password for jose04 from 172.23.69.164 port 33187 ssh2
+82.164.158.239 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 502 354184 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.46.7 (KHTML, like Gecko) Version/5.1 Safari/532.46.7"
+FEATURE_X_ENABLED=redis://localhost:6379
+46.44.134.193 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 200 362330 "-" "Opera/8.49.(Windows 98; Win 9x 4.90; vi-VN) Presto/2.9.190 Version/12.00"
+46.244.173.105 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 201 395893 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/55.0.888.0 Safari/531.2"
+sshd[5889]: Session closed for leejacqueline from 192.168.45.201 port 43987 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"xdavis","trace":"IXDyE493iZoQ"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"hvaughn","trace":"IWTSGzUQRoaW"}

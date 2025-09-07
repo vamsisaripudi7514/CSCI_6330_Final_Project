@@ -1,0 +1,27 @@
+1.169.216.12 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 400 75127 "-" "Opera/9.25.(X11; Linux x86_64; cs-CZ) Presto/2.9.177 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"brittany43","trace":"aZXOCoxsBHVF"}
+173.179.244.255 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 502 220330 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_6) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/22.0.885.0 Safari/531.1"
+97.74.203.89 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 302 357022 "-" "Opera/8.50.(Windows NT 11.0; kn-IN) Presto/2.9.185 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"cache miss","user":"james14","trace":"3EeCClhghirP"}
+sshd[3315]: Session opened for uharris from 192.168.117.73 port 15623 ssh2
+FEATURE_X_ENABLED=2572
+LOG_LEVEL=redis://localhost:6379
+124.38.163.50 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 302 83718 "-" "Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/58.0.808.0 Mobile/03W159 Safari/531.0"
+sshd[5177]: Session closed for stacy28 from 10.98.3.121 port 33896 ssh2
+149.94.1.118 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 500 377777 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/534.9.1 (KHTML, like Gecko) Version/5.1 Safari/534.9.1"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"token refreshed","user":"christina13","trace":"wVWqZeTvEaJL"}
+sshd[3982]: Session closed for jamestaylor from 10.104.156.227 port 15707 ssh2
+sshd[7189]: Session closed for kfoley from 192.168.171.1 port 21791 ssh2
+REDIS_URL=6296
+REDIS_URL=DEBUG
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"request completed","user":"danielle09","trace":"nTtViv62yeVT"}
+REDIS_URL=4772
+179.142.166.69 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 403 224388 "-" "Opera/9.91.(X11; Linux x86_64; sk-SK) Presto/2.9.172 Version/11.00"
+FEATURE_X_ENABLED=email-05.brown-stokes.com
+91.13.79.205 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 500 14902 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.1)"
+90.152.97.26 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 401 496982 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/34.0.854.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"jerry91","trace":"bvp8o4CsivEh"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"user session created","user":"jeremychan","trace":"dt9WBD6ePwnM"}
+90.141.90.18 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 404 31423 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.0)"
+145.68.31.121 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 200 60832 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_8 rv:3.0; fr-LU) AppleWebKit/535.37.4 (KHTML, like Gecko) Version/5.0.4 Safari/535.37.4"
+DB_PORT=455

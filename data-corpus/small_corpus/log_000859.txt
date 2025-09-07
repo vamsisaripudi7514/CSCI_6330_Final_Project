@@ -1,0 +1,47 @@
+28.162.203.252 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 500 209182 "-" "Opera/9.81.(Windows NT 6.2; ml-IN) Presto/2.9.184 Version/11.00"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"cache miss","user":"churchjames","trace":"fAWICwlnTIzz"}
+165.179.187.216 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 201 413660 "-" "Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/58.0.873.0 Safari/533.1"
+149.187.154.203 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 403 374698 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; sid-ET) AppleWebKit/531.1.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.1.4"
+sshd[2093]: Accepted password for xburke from 192.168.35.2 port 62597 ssh2
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"cache miss","user":"kevin80","trace":"U7Dqy9GcgVl1"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"db slow query","user":"boyerkristen","trace":"VKLYbZaBQW8G"}
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"token refreshed","user":"richardadams","trace":"WNKesJI3LUPE"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1TmpTc0FQUlN5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.hvgjpS_Iw_6TUNuAvA0lw8XylfCGNG5se7SxU00z1ik'
+DB_HOST=false
+REDIS_URL=3645
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"db slow query","user":"kimberly84","trace":"MerjwCYhPqfW"}
+211.100.245.134 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 200 81091 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/58.0.898.0 Safari/532.0" password=hZ8"EbtZ8=CDsV
+28.233.168.18 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 404 198409 "-" "Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/50.0.822.0 Mobile/56U846 Safari/536.2"
+76.255.94.174 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 201 373660 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/534.41.1 (KHTML, like Gecko) Version/5.0 Safari/534.41.1"
+sshd[2456]: Session closed for bryantrichard from 10.197.32.26 port 32230 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"nancy10","trace":"1whplLXmAuiP"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"token refreshed","user":"oparker","trace":"G92iMrzKsbqg"} password=iJ8$<`zM,Y
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"db slow query","user":"aliciafrench","trace":"W2SUC7vSWy63"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"cache miss","user":"bennettmichelle","trace":"jAQhSHcnwaqe"}
+sshd[1153]: Session opened for heidicooke from 172.24.19.46 port 10205 ssh2
+18.75.194.163 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 204 139503 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_2; rv:1.9.4.20) Gecko/6792-07-05 10:19:32.889008 Firefox/3.8"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"cache miss","user":"scottyoung","trace":"mqqs3bZzsruC"}
+109.53.250.106 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 401 76327 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/43.0.838.0 Safari/532.0"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"db slow query","user":"jason75","trace":"EdjkMlI0VmlS"} password=bN9)/JOs?YYYHPs,
+213.181.184.201 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 400 380362 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_2 rv:5.0; ro-RO) AppleWebKit/535.10.4 (KHTML, like Gecko) Version/4.1 Safari/535.10.4"
+API_TIMEOUT=redis://localhost:6379
+120.219.57.25 - - [07/Sep/2025:18:24:49 +0000] "GET /index.html HTTP/1.1" 200 427505 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; nr-ZA) AppleWebKit/534.49.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.49.2"
+sshd[5295]: Session opened for kimberly58 from 10.225.167.150 port 27475 ssh2
+42.111.85.254 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 201 195264 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/533.37.2 (KHTML, like Gecko) Version/4.0 Safari/533.37.2"
+sshd[4292]: Session closed for canderson from 10.76.233.248 port 58596 ssh2
+110.47.55.50 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 403 151706 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)"
+sshd[3974]: Accepted password for steven25 from 192.168.201.127 port 17428 ssh2
+API_TIMEOUT=24697
+API_TIMEOUT=19815
+32.178.113.191 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 400 406921 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1)"
+137.8.89.199 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 502 194928 "-" "Opera/8.57.(Windows CE; raj-IN) Presto/2.9.162 Version/11.00"
+REDIS_URL=redis://localhost:6379
+sshd[9107]: Session opened for daniel38 from 172.29.90.20 port 11547 ssh2
+7.218.22.65 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 401 99177 "-" "Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/22.0.853.0 Safari/532.2"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"user session created","user":"riverakellie","trace":"R6v9XDsjTzA3"}
+DB_HOST=true
+29.103.60.234 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 401 314453 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3 rv:4.0; lb-LU) AppleWebKit/532.16.3 (KHTML, like Gecko) Version/4.1 Safari/532.16.3"
+33.80.70.186 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 200 319653 "-" "Mozilla/5.0 (Windows NT 11.0; gv-GB; rv:1.9.0.20) Gecko/3270-04-18 13:27:36.323387 Firefox/3.6.18"
+80.141.241.71 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 502 130152 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_6 rv:5.0; es-CL) AppleWebKit/532.5.3 (KHTML, like Gecko) Version/4.0 Safari/532.5.3"
+DB_PORT=12518

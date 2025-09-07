@@ -1,0 +1,36 @@
+117.204.99.96 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 201 318523 "-" "Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/30.0.891.0 Safari/536.2"
+sshd[7492]: Failed password for qcollins from 10.71.234.202 port 51442 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"request completed","user":"russell74","trace":"oLeX3ZHSmyAA"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"kellygonzalez","trace":"7HuZ6kDsYPT7"}
+144.84.18.86 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 500 327361 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/26.0.803.0 Safari/535.2"
+sshd[9895]: Accepted password for becktammy from 192.168.84.224 port 34908 ssh2
+40.88.39.162 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 204 184104 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.0)"
+sshd[1650]: Accepted password for zhogan from 10.119.244.59 port 44068 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"lewisjames","trace":"FsbGe20kyhJt"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"user session created","user":"carpenterdavid","trace":"chrq2PQi862f"}
+139.116.249.57 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 204 482669 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/18.0.863.0 Mobile/29G409 Safari/536.0"
+API_TIMEOUT=4220
+200.236.71.58 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 204 163427 "-" "Opera/9.45.(X11; Linux i686; tk-TM) Presto/2.9.171 Version/11.00"
+138.62.63.124 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 500 489235 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.1)"
+LOG_LEVEL=38363
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"yangelizabeth","trace":"Ho0n7cN6Vmvq"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"user session created","user":"collierbrooke","trace":"1DaSzYoVQDE2"}
+102.135.69.251 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 400 131877 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.1)" API_KEY=AIzaSAbd0FwpABujvHYNQIsqsQOV6bMAvHNsHYpmsA
+DB_PORT=INFO
+API_TIMEOUT=redis://localhost:6379 API_KEY=AIza2HlCHSuAE5KFuzOQ9kE_Z5Zwhr-JRZlT362IjA
+FEATURE_X_ENABLED=DEBUG
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"db slow query","user":"romerojennifer","trace":"0bovyjqYimSj"}
+sshd[7105]: Failed password for wgreen from 172.17.221.75 port 24659 ssh2
+DB_HOST=19171
+sshd[4725]: Session closed for jennifermartinez from 172.21.39.100 port 36336 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"cache miss","user":"ihall","trace":"WjAICSIg4ouy"}
+sshd[8556]: Failed password for taylorregina from 10.11.190.9 port 57128 ssh2
+sshd[4457]: Accepted password for timothyprice from 10.76.174.82 port 61508 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"cathy94","trace":"w6HCWhNp6MgE"}
+25.93.114.154 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 403 29856 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_1; rv:1.9.5.20) Gecko/4398-10-18 06:51:35.632523 Firefox/3.8"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"request completed","user":"janetlee","trace":"weAGRO0pI7sd"}
+DB_PORT=true
+110.101.66.233 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 403 404175 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.0)"
+97.228.83.74 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 500 432738 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ar-BH) AppleWebKit/534.43.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6534.43.4"
+24.33.144.129 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 200 342004 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)"

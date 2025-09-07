@@ -1,0 +1,26 @@
+FEATURE_X_ENABLED=WARN
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"joseph81","trace":"gJNevpTNJN7w"}
+LOG_LEVEL=redis://localhost:6379
+API_TIMEOUT=WARN
+2.149.10.240 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 201 364104 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0)"
+113.112.201.28 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 302 257452 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)"
+sshd[8805]: Accepted password for zjones from 192.168.101.163 port 11738 ssh2
+196.51.6.153 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 201 352898 "-" "Mozilla/5.0 (Android 3.1; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"request completed","user":"andrepalmer","trace":"go7cJvxRcR4X"}
+61.205.33.214 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 302 370036 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.0)"
+sshd[1975]: Session closed for conradbarbara from 10.76.59.249 port 55741 ssh2
+100.148.221.42 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 204 187318 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/22.0.869.0 Safari/534.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2UmZ2RzBneEk1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.FYaZA9IS1dNSxuv1IB-GatxOmblWZu0yaUM7-P5x_6w'
+69.91.3.129 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 201 265893 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_4 rv:5.0; et-EE) AppleWebKit/533.39.3 (KHTML, like Gecko) Version/4.0.3 Safari/533.39.3"
+198.114.79.203 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 400 464434 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/18.0.873.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"db slow query","user":"greenecarol","trace":"bnWof8iZOKhU"}
+sshd[9308]: Session closed for gabriela20 from 172.18.240.213 port 55434 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"db slow query","user":"juliesolomon","trace":"S0WBDRX9ntFk"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"jasonchandler","trace":"4yMK8lMDQdxV"}
+FEATURE_X_ENABLED=24449
+117.73.74.148 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 204 216778 "-" "Mozilla/5.0 (iPad; CPU iPad OS 8_4_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/19.0.857.0 Mobile/03G438 Safari/536.0"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"request completed","user":"cowandylan","trace":"Xq5Q3zSjEo8y"}
+29.188.18.19 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 403 62180 "-" "Mozilla/5.0 (Windows NT 5.0; pap-AN; rv:1.9.2.20) Gecko/7774-11-02 04:53:02.319153 Firefox/3.8"
+202.15.58.31 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 204 220324 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_1 rv:2.0; tl-PH) AppleWebKit/532.50.7 (KHTML, like Gecko) Version/4.0 Safari/532.50.7"
+sshd[1490]: Session closed for dparker from 172.17.2.241 port 46772 ssh2
+DB_HOST=1291

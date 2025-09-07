@@ -1,0 +1,31 @@
+LOG_LEVEL=DEBUG
+sshd[2922]: Accepted password for psanders from 172.25.131.47 port 33608 ssh2
+98.170.130.67 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 400 7775 "-" "Mozilla/5.0 (Windows CE; fr-LU; rv:1.9.1.20) Gecko/3185-10-01 14:10:11.073067 Firefox/3.6.3"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"token refreshed","user":"jacqueline99","trace":"9Cjeifx4eazp"}
+sshd[7848]: Failed password for richdaniel from 192.168.113.96 port 60870 ssh2
+62.80.109.97 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 500 196649 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/532.31.4 (KHTML, like Gecko) Version/5.0.1 Safari/532.31.4"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"karen83","trace":"a1tX605LVweL"}
+sshd[9486]: Session opened for camachojordan from 10.20.175.245 port 61091 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"user session created","user":"brian53","trace":"Qwnfixs5gbKa"}
+sshd[3325]: Session opened for meyersheather from 172.26.250.113 port 49724 ssh2
+sshd[8906]: Session closed for ericsims from 172.19.95.182 port 14970 ssh2
+DB_PORT=false
+25.166.145.8 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 404 120732 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/34.0.807.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"eallen","trace":"vU9PQ91f8oaB"}
+101.159.137.253 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 500 433882 "-" "Mozilla/5.0 (Android 10; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0"
+DB_PORT=WARN
+sshd[5748]: Session closed for karen59 from 172.24.135.8 port 18419 ssh2
+sshd[1562]: Session closed for lewissarah from 172.24.90.101 port 20901 ssh2
+DB_HOST=true
+sshd[5644]: Failed password for frazierbarbara from 10.9.53.57 port 10786 ssh2
+sshd[9549]: Accepted password for sparksmarissa from 192.168.193.227 port 49884 ssh2
+sshd[1818]: Accepted password for eric06 from 192.168.14.127 port 32318 ssh2
+REDIS_URL=srv-81.klein.com
+67.36.168.226 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 400 54256 "-" "Mozilla/5.0 (Android 3.2.1; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0"
+DB_PORT=false
+sshd[6330]: Accepted password for robertward from 192.168.173.0 port 31520 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"request completed","user":"thorntonbrandon","trace":"T8bYn5EcBIxn"}
+130.58.154.144 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 200 268087 "-" "Opera/8.41.(X11; Linux x86_64; bo-IN) Presto/2.9.167 Version/12.00"
+60.60.89.29 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 502 293462 "-" "Opera/8.63.(Windows NT 11.0; fy-DE) Presto/2.9.181 Version/11.00"
+API_TIMEOUT=web-58.williams-adams.net
+DB_HOST=desktop-85.tucker-terry.net

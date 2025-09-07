@@ -1,0 +1,37 @@
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"cache miss","user":"debra98","trace":"ocQFOhyZL5IK"}
+sshd[2442]: Accepted password for nortonisaac from 192.168.221.235 port 64641 ssh2 password=bK4+`T?=t#"w
+sshd[1916]: Failed password for thomasscott from 10.0.174.207 port 13927 ssh2
+REDIS_URL=WARN
+37.218.214.209 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 403 101623 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/62.0.892.0 Safari/536.2"
+DB_PORT=redis://localhost:6379
+sshd[4349]: Accepted password for mnichols from 192.168.110.150 port 15917 ssh2
+200.116.156.82 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 201 3788 "-" "Mozilla/5.0 (Android 4.4; Mobile; rv:19.0) Gecko/19.0 Firefox/19.0"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"user session created","user":"patrickvega","trace":"ZQSsxR6ZYyHe"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"token refreshed","user":"jarnold","trace":"6R916GXcvMRR"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"db slow query","user":"joneseric","trace":"wkXLRZLO5DYY"}
+195.232.59.111 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 500 369649 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.48.4 (KHTML, like Gecko) Version/4.1 Safari/534.48.4"
+sshd[3349]: Session closed for blakepeter from 10.254.11.234 port 17851 ssh2
+sshd[4054]: Session opened for wilsonmelissa from 192.168.137.66 port 15947 ssh2
+sshd[4973]: Session opened for eric54 from 192.168.140.94 port 39175 ssh2 API_KEY=AIza83Wgvz89DvI4w5mRxwUYNxwknBgVMYR-yDP78Q
+REDIS_URL=3410
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"anthonyvasquez","trace":"WhGXUBO1jbof"}
+199.185.79.75 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 404 97577 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; te-IN) AppleWebKit/533.34.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6533.34.4"
+sshd[8275]: Session closed for cassidywarren from 192.168.249.129 port 63201 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"jessica73","trace":"bZUMQSLZOQuL"}
+API_TIMEOUT=laptop-89.dixon-fleming.org
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"simmonsscott","trace":"VDsjEf87jjz1"}
+DB_PORT=WARN
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"token refreshed","user":"herbert31","trace":"PGeyPGykJEKJ"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"user session created","user":"moorecheryl","trace":"oszAhZfugnji"}
+sshd[3009]: Session closed for amandafuller from 192.168.105.12 port 56205 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzNVpjWVdIMXAzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.er2Qjz78BPgbzZwFGCkLFqI9BUDkY_3cQKjpNwLFPwI'
+sshd[1945]: Failed password for dcarson from 10.27.148.95 port 29357 ssh2 API_KEY=AIzaVUL4dnl10G6nLEKpBXCuIF7L1yFJQjcuzu239A
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"user session created","user":"darellano","trace":"s5trT1oWcV8j"}
+106.205.103.71 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 200 478213 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.37.6 (KHTML, like Gecko) Version/5.0 Safari/531.37.6"
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"db slow query","user":"benjamin00","trace":"cnr2nRzmK3FW"}
+40.62.135.74 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 400 507324 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/23.0.865.0 Safari/532.2"
+sshd[6959]: Session opened for mluna from 172.28.126.153 port 62114 ssh2
+sshd[5829]: Failed password for sarah20 from 10.199.162.227 port 39729 ssh2
+sshd[2233]: Session opened for timothywilkinson from 192.168.48.141 port 32738 ssh2
+24.108.246.143 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 201 505617 "-" "Opera/9.64.(Windows NT 6.0; mr-IN) Presto/2.9.165 Version/11.00"
+21.131.70.230 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 302 192686 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/5.0)"

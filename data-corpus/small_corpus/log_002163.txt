@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"christopher66","trace":"RYemuWYmXcUO"}
+sshd[9569]: Session opened for vanessa67 from 192.168.221.228 port 41665 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"user session created","user":"xwright","trace":"LUYkbdmOTHUT"}
+DB_PORT=3102
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"user session created","user":"zfowler","trace":"AQc5Yhzv6OkZ"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"cache miss","user":"jasonhernandez","trace":"ljBUBQ6k8JlK"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"user session created","user":"matthew26","trace":"DCkeVZnsJIY3"}
+137.225.194.150 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 403 172514 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/6146-09-15 07:13:49.336487 Firefox/3.6.16"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"bridget83","trace":"PDRRy7IHCC1T"}
+80.230.146.248 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 201 310829 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/62.0.821.0 Safari/534.2"
+DB_PORT=4993
+sshd[4996]: Session opened for nmoreno from 10.132.155.11 port 37794 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"request completed","user":"bowmanjames","trace":"QkV0UEnjU1BM"}
+74.236.59.117 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 404 196088 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_1) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/63.0.896.0 Safari/532.0"
+123.187.184.116 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 200 155608 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/6123-01-23 09:57:04.147583 Firefox/3.6.10"
+sshd[3767]: Session closed for juanbrown from 192.168.86.161 port 59314 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"stevensalejandra","trace":"QDiiKyjvNHqZ"}
+sshd[9503]: Accepted password for joshua56 from 192.168.190.47 port 62318 ssh2
+51.55.86.127 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 204 380114 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/9313-12-22 09:11:55.953003 Firefox/9.0"
+46.127.34.172 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 201 348299 "-" "Opera/9.96.(Windows NT 4.0; sc-IT) Presto/2.9.162 Version/10.00"
+184.148.213.52 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 401 81368 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.1)"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"cache miss","user":"daniellerose","trace":"uBba87eVEnXQ"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"javery","trace":"xJgK1Dg4Fmcm"}
+DB_HOST=true
+60.99.11.19 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 500 44009 "-" "Opera/9.85.(X11; Linux x86_64; lt-LT) Presto/2.9.179 Version/10.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkcGdqOVBsbG1vIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Att_QL5hN81XqPLxnyTmBWs6E0dN3nFkl59gYFax6Pc'
+DB_HOST=redis://localhost:6379

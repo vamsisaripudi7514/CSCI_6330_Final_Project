@@ -1,0 +1,27 @@
+sshd[2126]: Failed password for fmiranda from 172.23.80.150 port 57874 ssh2
+sshd[5237]: Session opened for nicoleunderwood from 192.168.45.75 port 57674 ssh2
+sshd[9077]: Session opened for greg50 from 172.24.38.42 port 14593 ssh2
+sshd[3480]: Accepted password for grayrebecca from 172.17.106.217 port 55286 ssh2
+sshd[6753]: Session closed for nicholasmclean from 172.27.57.16 port 27540 ssh2
+API_TIMEOUT=db-60.turner-bailey.net
+sshd[3458]: Failed password for ejames from 192.168.108.101 port 49061 ssh2 API_KEY=AIzarAJKO6LIVIjBIqMWZwaXN1LMaebMhyZwDqq64g
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"user session created","user":"jyoung","trace":"jIX0iKA122NZ"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"db slow query","user":"bbrown","trace":"6yoyS6asIZmz"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"request completed","user":"aaron38","trace":"dTmBsUcOThX5"}
+83.40.149.117 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 400 88811 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_5) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/47.0.869.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"nknox","trace":"h2hYqf7Cwtzk"}
+109.136.182.79 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 401 44535 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.45.7 (KHTML, like Gecko) Version/5.0.5 Safari/531.45.7"
+API_TIMEOUT=redis://localhost:6379
+sshd[8843]: Accepted password for lisaproctor from 172.25.194.168 port 20026 ssh2
+sshd[2702]: Session opened for alexandrabrooks from 192.168.231.19 port 31817 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"ecardenas","trace":"1ccE7ytDu2SX"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"brianperry","trace":"2fCQ9wssVhB0"}
+131.44.118.58 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 403 133957 "-" "Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/35.0.838.0 Safari/531.0"
+72.79.167.33 - - [07/Sep/2025:18:24:49 +0000] "GET /index.html HTTP/1.1" 200 37714 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_8 rv:4.0; he-IL) AppleWebKit/532.4.4 (KHTML, like Gecko) Version/5.0 Safari/532.4.4"
+sshd[7159]: Session closed for vanessagarza from 10.207.97.239 port 58890 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"user session created","user":"hpreston","trace":"o7eLbyGSObJF"}
+sshd[4418]: Session closed for amy83 from 10.206.107.94 port 15578 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"thomaskimberly","trace":"Blt5PoAWmatD"}
+136.244.51.19 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 302 156395 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/56.0.817.0 Safari/536.1"
+191.215.120.210 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 404 184913 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/49.0.813.0 Safari/532.2"
+150.155.3.155 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 502 354682 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_2; rv:1.9.6.20) Gecko/7878-06-12 00:48:50.079041 Firefox/3.8"

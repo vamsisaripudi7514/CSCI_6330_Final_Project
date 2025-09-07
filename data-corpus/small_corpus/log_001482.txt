@@ -1,0 +1,27 @@
+API_TIMEOUT=true
+sshd[6711]: Failed password for michelle42 from 10.118.212.90 port 16449 ssh2
+8.107.108.159 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 400 284314 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/13.1a0926.0 Mobile/89B929 Safari/532.0"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"michaelpena","trace":"68XE7GgITCI7"}
+sshd[3952]: Session closed for smithmark from 192.168.30.85 port 34892 ssh2
+REDIS_URL=INFO
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"db slow query","user":"ayoung","trace":"52cMbbl2c9GO"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"gmosley","trace":"ZOpPXASuHWx1"}
+REDIS_URL=redis://localhost:6379
+7.204.126.209 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 401 398023 "-" "Opera/9.58.(X11; Linux i686; yi-US) Presto/2.9.165 Version/12.00"
+API_TIMEOUT=true
+147.55.137.139 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 201 298845 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_2 rv:6.0; ml-IN) AppleWebKit/535.18.1 (KHTML, like Gecko) Version/4.0 Safari/535.18.1"
+DB_HOST=DEBUG password=pZ6%U/`v
+API_TIMEOUT=redis://localhost:6379
+DB_PORT=3766
+DB_HOST=3701
+sshd[4926]: Session closed for allison00 from 172.16.188.251 port 23324 ssh2
+sshd[3412]: Accepted password for riggsandrew from 172.22.131.127 port 51740 ssh2
+sshd[2347]: Session opened for hrose from 172.28.35.27 port 28818 ssh2
+84.117.162.49 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 204 53631 "-" "Mozilla/5.0 (Android 3.0; Mobile; rv:56.0) Gecko/56.0 Firefox/56.0" password=hT4.Ux'?ji~j2H
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"token refreshed","user":"gwilliams","trace":"LJODaEU13nD5"}
+191.88.118.195 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 401 427521 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ar-SY) AppleWebKit/532.25.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6532.25.7"
+sshd[3064]: Failed password for jon09 from 172.27.225.189 port 20494 ssh2
+REDIS_URL=redis://localhost:6379
+213.239.240.216 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 200 300626 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"cache miss","user":"ashley45","trace":"PjKMWhO1pvwL"}
+92.172.159.117 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 302 243414 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ja-JP) AppleWebKit/532.48.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6532.48.6"

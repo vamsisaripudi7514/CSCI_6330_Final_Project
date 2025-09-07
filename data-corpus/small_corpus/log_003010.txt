@@ -1,0 +1,27 @@
+48.113.196.230 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 502 319585 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/534.27.6 (KHTML, like Gecko) Version/5.0.5 Safari/534.27.6"
+API_TIMEOUT=false
+DB_HOST=true Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkS0g4TWc0R3ByIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.eTpriaUaIU_NnobLj1E4yHTvbIs-BzK4QdwEeMNmOaA'
+DB_HOST=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"user session created","user":"wesleypitts","trace":"3CpaCDxZpcbS"}
+DB_PORT=redis://localhost:6379
+FEATURE_X_ENABLED=33017
+DB_PORT=false
+sshd[9424]: Session opened for albert08 from 192.168.137.232 port 12019 ssh2
+sshd[6381]: Session opened for osmith from 10.167.14.97 port 55118 ssh2
+sshd[4889]: Failed password for sherylhartman from 10.170.63.159 port 30538 ssh2
+213.91.127.171 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 404 219704 "-" "Opera/9.73.(Windows NT 5.1; tg-TJ) Presto/2.9.181 Version/10.00"
+6.220.48.169 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 404 148039 "-" "Opera/9.44.(Windows NT 11.0; zh-SG) Presto/2.9.167 Version/10.00"
+FEATURE_X_ENABLED=db-74.harris.com
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"request completed","user":"adamsaaron","trace":"A0Fj5uX215OU"}
+1.164.230.214 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 200 349059 "-" "Opera/8.36.(Windows NT 6.0; ne-NP) Presto/2.9.180 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"michael61","trace":"xw9J77UhhaEC"}
+sshd[1060]: Session closed for gilltina from 10.150.30.125 port 13929 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"petersenemily","trace":"f9Qiz3tFiYqK"}
+LOG_LEVEL=true
+sshd[5720]: Session closed for qcarr from 172.20.155.228 port 42181 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"cache miss","user":"ynichols","trace":"mVxqbiGbvK44"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"db slow query","user":"khanscott","trace":"ziWgQwMjXY1O"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"request completed","user":"iwarner","trace":"wm92Nbm8spwA"}
+153.215.154.188 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 502 104822 "-" "Opera/8.39.(X11; Linux x86_64; hr-HR) Presto/2.9.185 Version/11.00"
+API_TIMEOUT=INFO
+49.6.52.195 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 401 259086 "-" "Opera/8.53.(Windows NT 6.0; byn-ER) Presto/2.9.163 Version/11.00"

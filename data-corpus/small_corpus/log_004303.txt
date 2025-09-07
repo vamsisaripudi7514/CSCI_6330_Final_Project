@@ -1,0 +1,36 @@
+sshd[1419]: Session opened for taylorjennings from 10.46.97.76 port 44240 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"ryan70","trace":"ptsxiauMItGs"}
+36.136.92.99 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 302 423397 "-" "Opera/9.30.(X11; Linux i686; gez-ET) Presto/2.9.174 Version/10.00"
+112.1.159.91 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 401 397102 "-" "Opera/9.53.(X11; Linux x86_64; gl-ES) Presto/2.9.189 Version/11.00"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"ypowers","trace":"OgrIyIWzZbWl"}
+sshd[9963]: Session opened for bradleywilliams from 10.61.238.98 port 31795 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=10621
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"db slow query","user":"gmartinez","trace":"L7RiMrI7M8cw"}
+REDIS_URL=625
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"paulawilson","trace":"A1xmDRb0Ijo9"}
+sshd[2344]: Failed password for vmyers from 172.18.106.117 port 17749 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"request completed","user":"smithchristopher","trace":"OFCFauZSKL4b"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"token refreshed","user":"dlin","trace":"MtVVAep1z4Tf"}
+DB_PORT=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFMHVnYlgzU3NOIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.jCI0_nN0bAHLiEnrvog6Y7A1Iaw3H_qZR2GU5rk5gSk'
+51.80.75.0 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 200 342 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/19.0.894.0 Safari/533.2"
+sshd[4757]: Session closed for stewartelizabeth from 172.21.55.144 port 17442 ssh2
+DB_PORT=56740
+18.132.196.111 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 200 168029 "-" "Opera/9.55.(Windows NT 5.0; fo-FO) Presto/2.9.176 Version/10.00"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"escobaralan","trace":"jA94HITWF7jw"}
+LOG_LEVEL=WARN
+78.161.207.227 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 201 256874 "-" "Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/55.0.835.0 Safari/533.2"
+112.55.239.175 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 401 341233 "-" "Opera/8.65.(Windows NT 4.0; as-IN) Presto/2.9.170 Version/11.00"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"db slow query","user":"ihenderson","trace":"hKejwi3KA6UP"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwSHE4Uk5ja1lhIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.xqAOObxVxr6dqu-eIF8d3X87y1S9F0uur-iwz3BGfxI'
+DB_PORT=DEBUG
+8.219.118.245 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 201 398997 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_4 rv:4.0; hy-AM) AppleWebKit/534.16.1 (KHTML, like Gecko) Version/4.0.3 Safari/534.16.1"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"user session created","user":"schandler","trace":"BJ6qMa5Lfsj8"}
+sshd[7897]: Accepted password for crich from 172.23.12.82 port 28915 ssh2
+88.62.196.65 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 500 47461 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/52.0.806.0 Safari/531.2"
+22.166.133.155 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 403 135652 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/17.0.866.0 Mobile/04O484 Safari/531.0"
+35.236.95.68 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 400 472409 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.1)" API_KEY=AIzaQo87biIzq0RLNzS7xLrpInXfWYEopWU5Jq7-FA
+sshd[2452]: Failed password for chambersderek from 172.16.117.122 port 16776 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"smoore","trace":"QCfKy2559pEB"}
+sshd[4449]: Failed password for obrown from 10.142.145.176 port 40789 ssh2
+REDIS_URL=2857
+sshd[5942]: Session closed for simonchristopher from 192.168.172.100 port 64331 ssh2

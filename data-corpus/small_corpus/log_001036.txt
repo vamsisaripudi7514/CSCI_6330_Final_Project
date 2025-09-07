@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"user session created","user":"jamie81","trace":"9nCfxoV8GKNg"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"request completed","user":"antoniogray","trace":"k4Ytr5tIgQqz"}
+205.135.210.1 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 400 222863 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/5.1)"
+sshd[8674]: Session closed for jessicahill from 192.168.174.220 port 31947 ssh2
+LOG_LEVEL=INFO
+81.34.18.112 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 204 350748 "-" "Opera/9.86.(X11; Linux x86_64; kk-KZ) Presto/2.9.173 Version/10.00"
+21.233.59.132 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 401 28706 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.1)"
+LOG_LEVEL=web-94.griffin.info
+181.26.163.227 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 201 137840 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/54.0.899.0 Safari/532.0"
+174.31.45.47 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 400 22439 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3154-08-31 18:39:48.358124 Firefox/3.8"
+216.80.110.54 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 302 114878 "-" "Opera/8.43.(Windows NT 11.0; shs-CA) Presto/2.9.179 Version/11.00"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"yclark","trace":"1tvVqQQuxPiO"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"brendachavez","trace":"UB06rNnZJpot"}
+sshd[6154]: Session closed for dtorres from 10.31.107.174 port 22863 ssh2
+FEATURE_X_ENABLED=srv-06.moore.com
+API_TIMEOUT=63341
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"request completed","user":"gregorymcpherson","trace":"idQcstL1zNuX"}
+LOG_LEVEL=false
+API_TIMEOUT=redis://localhost:6379
+API_TIMEOUT=24326
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"solisemily","trace":"WakbW0lCOgKJ"}
+sshd[7888]: Failed password for bowmancindy from 192.168.85.0 port 29199 ssh2
+REDIS_URL=laptop-12.peters.com
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"request completed","user":"michelle90","trace":"oTYJnxXbesP0"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"andrea40","trace":"VbSjpreaIPIC"}
+FEATURE_X_ENABLED=WARN

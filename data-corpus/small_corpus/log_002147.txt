@@ -1,0 +1,27 @@
+54.198.194.202 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 400 104061 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/11.2h5109.0 Mobile/15F509 Safari/535.0"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"user session created","user":"haley68","trace":"3TvlN02TrEcw"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"user session created","user":"dustinwood","trace":"Ssv2sFlGb0V6"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"andrew39","trace":"ikJKn7dfyLy5"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"user session created","user":"brian43","trace":"rsLx4FIvmzWa"}
+66.96.129.117 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 403 379051 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"request completed","user":"fosternichole","trace":"Nh1D12LvH4Cu"}
+API_TIMEOUT=37374
+sshd[2495]: Session closed for melissa38 from 172.26.148.20 port 43148 ssh2
+161.207.125.93 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 500 13046 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/533.22.6 (KHTML, like Gecko) Version/5.0 Safari/533.22.6"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"shanejohnson","trace":"oEzvLhnvelgI"}
+sshd[8460]: Failed password for joseph84 from 172.29.36.166 port 62236 ssh2
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"token refreshed","user":"maloneryan","trace":"zffULL8tCqVD"}
+sshd[6280]: Accepted password for patrickrobinson from 192.168.100.255 port 28776 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"db slow query","user":"ewinglisa","trace":"SuBWtWZw4bcG"}
+sshd[9600]: Session opened for rodriguezlindsey from 172.24.254.169 port 25904 ssh2
+API_TIMEOUT=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJWR0sxMjNSUmdyIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.gvuaPJ_1dpRbBazwVO9u3x2aCnRQst1zkwgDPexaqC8'
+166.214.225.27 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 400 388284 "-" "Opera/8.22.(Windows 98; aa-ER) Presto/2.9.180 Version/11.00"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"user session created","user":"smithcandace","trace":"pxyq9ASAJxLi"}
+50.42.3.110 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 401 378476 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/3.1)"
+sshd[6507]: Session closed for javiertran from 10.101.109.178 port 47972 ssh2
+REDIS_URL=srv-35.warner.com
+sshd[2830]: Failed password for noah68 from 192.168.112.93 port 33269 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"michaelsmith","trace":"ZCdxpTGBWKSz"}
+sshd[9441]: Session opened for larsonsteven from 10.116.196.135 port 21266 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"kimberly49","trace":"FRSJd2htT7On"}

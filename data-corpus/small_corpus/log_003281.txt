@@ -1,0 +1,40 @@
+API_TIMEOUT=50605
+FEATURE_X_ENABLED=redis://localhost:6379
+API_TIMEOUT=false
+116.93.239.141 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 401 304201 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ber-MA) AppleWebKit/531.31.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6531.31.7"
+sshd[9699]: Session closed for jeremyhopkins from 192.168.45.7 port 15540 ssh2
+78.225.36.19 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 401 38093 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; st-ZA; rv:1.9.1.20) Gecko/9161-07-30 12:55:07.402496 Firefox/13.0"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"peggyhardy","trace":"GAz3NdQeS0gP"}
+sshd[8311]: Accepted password for albert27 from 10.235.63.72 port 32263 ssh2
+112.212.175.175 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 204 332095 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4; rv:1.9.5.20) Gecko/6496-11-18 15:14:33.554169 Firefox/3.8"
+77.91.215.202 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 401 206370 "-" "Mozilla/5.0 (Linux; Android 6.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/20.0.826.0 Safari/534.2"
+sshd[9184]: Session opened for darlenewade from 192.168.49.130 port 34557 ssh2
+182.152.229.93 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 500 380753 "-" "Opera/9.77.(Windows CE; xh-ZA) Presto/2.9.164 Version/11.00"
+sshd[5922]: Accepted password for ecarter from 172.26.186.142 port 29141 ssh2
+64.211.159.62 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 403 72665 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/22.0.819.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"user session created","user":"ralvarado","trace":"d2yqLjgJ51VU"}
+sshd[7581]: Accepted password for richardjones from 172.21.244.11 port 52501 ssh2
+DB_PORT=laptop-87.fields-russell.biz
+137.224.120.184 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 404 148245 "-" "Opera/9.97.(X11; Linux x86_64; sa-IN) Presto/2.9.180 Version/12.00"
+sshd[8866]: Session closed for obrown from 192.168.247.9 port 35141 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"cache miss","user":"john34","trace":"9GCtdom7mZK6"}
+2.52.28.245 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 404 198101 "-" "Opera/8.57.(Windows NT 11.0; lt-LT) Presto/2.9.162 Version/10.00"
+152.116.106.51 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 200 443935 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/4.1)"
+REDIS_URL=redis://localhost:6379
+sshd[2447]: Session closed for markscott from 172.31.68.242 port 51703 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"ilee","trace":"4FLAmVgGPqL5"}
+API_TIMEOUT=3843
+FEATURE_X_ENABLED=13871
+220.149.223.161 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 201 446341 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.1)"
+REDIS_URL=redis://localhost:6379
+DB_HOST=redis://localhost:6379
+92.61.102.47 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 404 19360 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"token refreshed","user":"janderson","trace":"vH8IdzIk5w6u"}
+DB_HOST=false
+145.47.78.116 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 404 272435 "-" "Mozilla/5.0 (Android 2.3.5; Mobile; rv:46.0) Gecko/46.0 Firefox/46.0"
+107.53.69.145 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 403 241592 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/5135-09-03 06:23:36.848846 Firefox/3.8"
+sshd[6274]: Session opened for rachelrush from 10.215.247.75 port 64998 ssh2
+DB_HOST=laptop-04.long.com
+149.24.51.66 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 500 284425 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"token refreshed","user":"mchen","trace":"5Tk39HW3Abqv"}
+216.82.11.15 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 302 162177 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/16.0.879.0 Safari/531.1"

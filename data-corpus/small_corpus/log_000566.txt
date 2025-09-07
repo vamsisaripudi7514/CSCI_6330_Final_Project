@@ -1,0 +1,33 @@
+sshd[6100]: Failed password for opace from 172.19.41.165 port 12203 ssh2
+182.49.72.14 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 200 84766 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ka-GE) AppleWebKit/533.34.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.34.4"
+143.19.14.208 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 302 398902 "-" "Opera/8.14.(X11; Linux x86_64; shs-CA) Presto/2.9.168 Version/11.00"
+sshd[5734]: Accepted password for nicholas45 from 10.182.185.31 port 35489 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"cache miss","user":"andreajones","trace":"gHINy1AAEiSS"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"user session created","user":"michaelsmith","trace":"WR7G2o2LJmQ8"}
+212.196.122.154 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 404 75952 "-" "Opera/8.96.(Windows NT 4.0; as-IN) Presto/2.9.174 Version/12.00"
+61.247.215.213 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 500 426735 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_8 rv:6.0; ayc-PE) AppleWebKit/532.37.1 (KHTML, like Gecko) Version/4.1 Safari/532.37.1"
+sshd[8356]: Session opened for jamessnyder from 192.168.71.65 port 13132 ssh2
+sshd[2725]: Accepted password for taranunez from 10.45.87.126 port 17338 ssh2
+172.21.95.184 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 403 217120 "-" "Opera/8.79.(X11; Linux i686; raj-IN) Presto/2.9.167 Version/12.00"
+150.131.1.165 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 201 300882 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"db slow query","user":"michaelramos","trace":"PWKSLcHI4Nan"}
+sshd[6676]: Accepted password for clarkjustin from 10.2.165.10 port 39701 ssh2
+156.146.47.106 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 404 328626 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/44.0.837.0 Safari/532.1"
+223.245.136.229 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 401 10511 "-" "Opera/8.18.(X11; Linux i686; cmn-TW) Presto/2.9.190 Version/11.00"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"token refreshed","user":"lance02","trace":"o2t9xQTzkucm"}
+116.228.32.105 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 201 334804 "-" "Opera/8.91.(Windows NT 6.1; iw-IL) Presto/2.9.172 Version/12.00"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"fmcintyre","trace":"eXT2RP3OpiGP"}
+sshd[7214]: Failed password for davidchang from 172.22.216.228 port 55148 ssh2
+sshd[3086]: Session opened for millermeredith from 172.23.21.181 port 62133 ssh2
+sshd[9755]: Accepted password for david49 from 10.62.242.9 port 23177 ssh2
+sshd[9520]: Failed password for nrobbins from 172.17.8.247 port 26481 ssh2
+20.121.241.52 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 201 499172 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/51.0.804.0 Safari/534.1"
+API_TIMEOUT=redis://localhost:6379
+DB_PORT=WARN
+6.174.61.224 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 502 63939 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/5.1)"
+105.186.5.25 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 201 429989 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/13.0y6687.0 Mobile/09Y491 Safari/535.1"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"user session created","user":"davispaula","trace":"Idnjoj6xUbAv"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"token refreshed","user":"hwong","trace":"Y0GPKQkRHhe8"}
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"user session created","user":"michael67","trace":"WU4M1CjE1izl"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"token refreshed","user":"danielhayden","trace":"9OUVuoW5GcU2"}

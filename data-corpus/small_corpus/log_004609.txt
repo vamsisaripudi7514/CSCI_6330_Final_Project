@@ -1,0 +1,31 @@
+118.23.2.67 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 403 362580 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"melissabrown","trace":"ISk9RX8eIMnw"}
+29.51.85.2 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 302 284333 "-" "Opera/8.44.(Windows NT 5.0; mn-MN) Presto/2.9.172 Version/11.00" API_KEY=AIzaQ_DgQhAbJP1yVTCXwkXFXhDWkdNeXFDFpJf5pg
+sshd[5908]: Session opened for bradleychavez from 172.23.1.178 port 60060 ssh2
+214.42.82.189 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 500 28593 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3; rv:1.9.2.20) Gecko/9873-12-24 23:19:41.473053 Firefox/3.8"
+sshd[3408]: Session opened for bturner from 172.23.122.12 port 14659 ssh2
+sshd[9898]: Session opened for franklinmelissa from 172.20.18.148 port 51160 ssh2
+sshd[3047]: Failed password for frankwells from 192.168.35.116 port 24991 ssh2
+193.15.157.189 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 401 16988 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/42.0.882.0 Safari/534.1" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ6cWZTd0oxc002IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ef47sEuWst1gVijrhpuvZaoBJ7yohEfBmAQ4PX8ZaWE'
+REDIS_URL=35501
+61.52.92.189 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 302 451701 "-" "Opera/9.67.(X11; Linux i686; my-MM) Presto/2.9.167 Version/10.00"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"db slow query","user":"zcoleman","trace":"hMaik0KiNRcA"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"token refreshed","user":"gary68","trace":"fFACOBzEsBst"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJWNnl1VEZRUzYwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.dW1inosRtG-nnD_UMRts1jdwuJgwAop9f0yRd5-sJkk'
+82.52.186.172 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 201 450150 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.1)" API_KEY=AIza7q2BdFBku00kniLTsxZdIstpMYi_LUSBXZqAJA
+REDIS_URL=true
+73.71.220.164 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 502 427123 "-" "Mozilla/5.0 (Android 3.2.6; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0"
+214.45.25.124 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 201 352616 "-" "Opera/8.16.(Windows NT 4.0; quz-PE) Presto/2.9.167 Version/12.00"
+sshd[1259]: Failed password for victoria77 from 10.9.210.81 port 28037 ssh2
+49.172.47.144 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 401 42593 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"lynnward","trace":"tZruplEJOqhF"}
+122.233.99.82 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 302 258375 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; xh-ZA) AppleWebKit/534.26.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6534.26.3"
+FEATURE_X_ENABLED=true
+210.242.84.250 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 302 74985 "-" "Mozilla/5.0 (Android 1.6; Mobile; rv:15.0) Gecko/15.0 Firefox/15.0"
+DB_PORT=desktop-25.burns.com
+API_TIMEOUT=4509
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"angela56","trace":"QM27ZTKPop5e"}
+206.189.247.251 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 200 59479 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_5 rv:2.0; oc-FR) AppleWebKit/531.34.1 (KHTML, like Gecko) Version/4.0.1 Safari/531.34.1"
+202.116.161.146 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 201 274577 "-" "Opera/9.99.(Windows NT 5.0; hak-TW) Presto/2.9.168 Version/10.00"
+FEATURE_X_ENABLED=45732
+sshd[1583]: Failed password for nicholaslong from 192.168.95.39 port 24453 ssh2

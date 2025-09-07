@@ -1,0 +1,41 @@
+176.84.216.136 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 502 512200 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.0)"
+FEATURE_X_ENABLED=redis://localhost:6379
+68.92.119.149 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 201 85055 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/8508-07-03 07:22:01.714783 Firefox/15.0"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"request completed","user":"weaverpaula","trace":"H4kNTNhxkNFs"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"token refreshed","user":"nadams","trace":"HDZ04wxE5Gi3"}
+79.116.108.113 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 200 501742 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/4.0)"
+DB_PORT=3824
+sshd[3519]: Session closed for jennifer94 from 10.84.244.238 port 52916 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"joshuadavila","trace":"Goh7cuUWDkPY"}
+149.54.31.142 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 201 358953 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.0)"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"cache miss","user":"egarcia","trace":"eytqrHqvbFul"}
+sshd[7851]: Session opened for njenkins from 172.21.30.98 port 48962 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJENlBROGl5U0FrIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.cwtKp420Rb6Rr3GoEHOgAei-aemSUNrMBNDdRU8nDzQ'
+DB_PORT=redis://localhost:6379 API_KEY=AIzaSBBcEK66BSkvEKnzq5DHT6uQVZV5AkXzTpwYxA
+FEATURE_X_ENABLED=29324
+sshd[1096]: Accepted password for rogerseric from 192.168.11.253 port 47642 ssh2
+40.130.26.0 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 500 76104 "-" "Mozilla/5.0 (Windows NT 5.01; ak-GH; rv:1.9.1.20) Gecko/2967-04-27 13:27:22.884171 Firefox/15.0"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"request completed","user":"barnesrobert","trace":"Z6x0JTp7qewE"}
+sshd[5921]: Session opened for joditodd from 10.59.144.5 port 36834 ssh2
+REDIS_URL=db-60.walsh.com
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"token refreshed","user":"jonescharles","trace":"3SFITFueMarE"}
+LOG_LEVEL=34223
+DB_HOST=3992
+DB_HOST=srv-79.matthews-douglas.net
+186.74.70.60 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 302 174272 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9852-11-13 22:58:30.311340 Firefox/3.6.1"
+181.190.213.155 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 401 458186 "-" "Mozilla/5.0 (Linux; Android 11) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/55.0.821.0 Safari/532.2"
+132.112.60.136 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 204 5262 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_0 rv:3.0; hak-TW) AppleWebKit/531.6.1 (KHTML, like Gecko) Version/4.0.5 Safari/531.6.1" password=oH9@l6H{URAAve
+sshd[3263]: Accepted password for connor89 from 172.26.21.81 port 24510 ssh2
+223.104.159.49 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 401 185576 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+142.112.91.229 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 404 36181 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2; rv:1.9.2.20) Gecko/2741-05-19 02:22:20.212795 Firefox/3.6.16"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"token refreshed","user":"vnolan","trace":"bDvfd8c2nGyt"}
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"mariajohnson","trace":"tTypYZyvl0Uh"}
+sshd[1546]: Session closed for zjimenez from 172.23.50.91 port 17275 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"request completed","user":"adrake","trace":"7DER6uYbHF55"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"cache miss","user":"elijahwhite","trace":"4BhZiGr9Qmt2"}
+sshd[2136]: Session closed for lisahayes from 192.168.220.140 port 10451 ssh2
+DB_HOST=10198
+FEATURE_X_ENABLED=53810
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"user session created","user":"nancy09","trace":"4jeBt1XZbI8L"}
+12.46.198.59 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 201 71581 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.0)"

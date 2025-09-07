@@ -1,0 +1,34 @@
+sshd[3313]: Accepted password for pambrown from 10.200.148.235 port 24430 ssh2
+DB_HOST=redis://localhost:6379
+API_TIMEOUT=DEBUG
+FEATURE_X_ENABLED=64948
+FEATURE_X_ENABLED=DEBUG
+LOG_LEVEL=53632
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"request completed","user":"kelseymullins","trace":"AmrekYtM1F0X"}
+22.221.108.72 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 401 444350 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1 rv:6.0; is-IS) AppleWebKit/532.31.6 (KHTML, like Gecko) Version/5.1 Safari/532.31.6"
+188.109.186.148 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 400 332536 "-" "Opera/8.13.(X11; Linux i686; mn-MN) Presto/2.9.170 Version/11.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"db slow query","user":"theresamorris","trace":"ckMG7hZz8qoR"}
+sshd[3127]: Failed password for nicole71 from 192.168.240.138 port 43918 ssh2
+DB_HOST=54836
+sshd[1329]: Session opened for teresa46 from 10.249.166.28 port 48431 ssh2
+API_TIMEOUT=redis://localhost:6379
+API_TIMEOUT=24303
+FEATURE_X_ENABLED=INFO
+1.170.220.104 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 201 463524 "-" "Opera/9.20.(X11; Linux x86_64; yi-US) Presto/2.9.170 Version/10.00"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"vlewis","trace":"N0kau0QqiRlZ"}
+37.124.126.24 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 302 352913 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/30.0.898.0 Safari/535.1"
+65.20.121.245 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 502 28905 "-" "Opera/8.61.(X11; Linux x86_64; nn-NO) Presto/2.9.189 Version/11.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"user session created","user":"ahorton","trace":"rvdiv4h1tCoR"}
+41.177.175.87 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 201 124106 "-" "Opera/9.96.(X11; Linux i686; ar-LB) Presto/2.9.179 Version/10.00"
+200.232.25.138 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 400 450756 "-" "Opera/8.87.(X11; Linux i686; ha-NG) Presto/2.9.183 Version/11.00"
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"cache miss","user":"pachecoemily","trace":"Ti1YFcQhe9iP"}
+15.146.204.236 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 500 91752 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; mi-NZ) AppleWebKit/531.36.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6531.36.1"
+sshd[7047]: Accepted password for lynnjohnson from 10.138.9.235 port 44604 ssh2
+216.105.244.208 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 404 473074 "-" "Opera/8.70.(Windows NT 6.0; zu-ZA) Presto/2.9.169 Version/11.00"
+LOG_LEVEL=313
+sshd[7776]: Session opened for ngoodwin from 10.49.253.99 port 15463 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"request completed","user":"johnsonrachel","trace":"RKB6K2sDA5kh"}
+sshd[5258]: Failed password for margaretrios from 172.27.215.201 port 13435 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"user session created","user":"phillipsshannon","trace":"hfxZ70Pa1759"}

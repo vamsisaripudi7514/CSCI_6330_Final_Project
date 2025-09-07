@@ -1,0 +1,27 @@
+165.132.5.132 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 502 234209 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0)"
+API_TIMEOUT=redis://localhost:6379
+sshd[1783]: Session opened for danielfrazier from 192.168.198.239 port 29584 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"nmiller","trace":"Eh6heB10GcUV"}
+API_TIMEOUT=redis://localhost:6379
+API_TIMEOUT=25090
+sshd[8870]: Failed password for nmoore from 172.27.233.226 port 25876 ssh2
+DB_PORT=redis://localhost:6379
+DB_HOST=331
+165.241.29.6 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 502 39138 "-" "Opera/9.78.(X11; Linux i686; am-ET) Presto/2.9.178 Version/12.00"
+LOG_LEVEL=redis://localhost:6379
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"brownjames","trace":"XaIm1osPTxB2"}
+DB_PORT=5941 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ5VEtqUm5IUzluIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.q6xS9MSnWwT8qnfo3ZSR-TChGBfQfyz3vYgqPRUUECc'
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"request completed","user":"hernandezdavid","trace":"0UP2xcihYNPt"}
+sshd[3659]: Session opened for gonzalesheather from 10.146.69.186 port 13587 ssh2
+112.5.83.154 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 200 173399 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_1 rv:5.0; mai-IN) AppleWebKit/533.23.5 (KHTML, like Gecko) Version/5.0.2 Safari/533.23.5"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"davidhill","trace":"wYcoinphnorf"}
+REDIS_URL=true
+LOG_LEVEL=62372
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"user session created","user":"kevingrant","trace":"f5hJhsadt6EX"}
+97.8.21.204 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 500 270678 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/4.1)"
+API_TIMEOUT=false
+9.40.107.178 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 403 178541 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.0)"
+FEATURE_X_ENABLED=3534
+152.212.151.64 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 201 127917 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/33.0.885.0 Mobile/93B266 Safari/535.1"

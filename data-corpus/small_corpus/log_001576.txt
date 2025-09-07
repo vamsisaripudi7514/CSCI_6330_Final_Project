@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"rhondahamilton","trace":"YtWv86hyyPdG"}
+53.1.64.206 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 201 121376 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/9.4h1319.0 Mobile/24X199 Safari/531.0"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"jbarr","trace":"EaXQbXoR3c8N"}
+sshd[2412]: Session closed for michael00 from 192.168.203.49 port 62167 ssh2
+sshd[8401]: Session opened for courtneygreen from 192.168.243.26 port 29999 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"pageannette","trace":"xuLCAM0Cabh9"}
+15.56.75.240 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 404 262295 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.1)"
+sshd[1714]: Accepted password for chester from 10.40.249.237 port 21076 ssh2 password=xO9%#c(eE9Rn>h.y
+sshd[1517]: Session closed for jgomez from 192.168.71.117 port 53483 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"db slow query","user":"graymichael","trace":"yjCKQfZkSaaU"}
+sshd[2515]: Accepted password for qedwards from 10.98.238.15 port 25092 ssh2
+sshd[8885]: Session closed for amanda88 from 192.168.47.146 port 33460 ssh2
+77.174.35.76 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 201 244421 "-" "Opera/9.35.(Windows 98; Win 9x 4.90; lv-LV) Presto/2.9.187 Version/11.00"
+API_TIMEOUT=false
+REDIS_URL=INFO
+REDIS_URL=redis://localhost:6379
+sshd[9427]: Session opened for christopher88 from 192.168.9.154 port 29572 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"user session created","user":"marissa21","trace":"jh9R5bcFZIft"}
+LOG_LEVEL=DEBUG
+129.102.22.210 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 302 354288 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_9 rv:6.0; lv-LV) AppleWebKit/532.34.6 (KHTML, like Gecko) Version/5.0.5 Safari/532.34.6"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"token refreshed","user":"margarethayes","trace":"VBipWi3DUzpZ"}
+sshd[1903]: Session opened for keithrussell from 172.26.87.211 port 33871 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyQWExbmxVS1BLIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.B093uze6ja66c3oG1Xs8MypmWXF924nIBXVTGmGjFPw'
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"user session created","user":"max03","trace":"BA6rFAfkb2oq"}
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"nicholas50","trace":"uJsysCDWxNAG"}
+FEATURE_X_ENABLED=redis://localhost:6379

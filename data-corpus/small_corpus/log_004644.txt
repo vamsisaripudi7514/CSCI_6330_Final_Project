@@ -1,0 +1,28 @@
+sshd[1239]: Accepted password for brownkevin from 192.168.16.175 port 49274 ssh2
+214.11.114.74 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 403 334123 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_4) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/55.0.889.0 Safari/536.0"
+56.13.226.242 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 401 154361 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/11.9t7389.0 Mobile/89B614 Safari/534.2"
+sshd[8373]: Session opened for eric02 from 192.168.156.138 port 35965 ssh2
+sshd[3550]: Failed password for caitlinmason from 172.21.193.172 port 40680 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"db slow query","user":"kayla63","trace":"GNSBBfgGRKQQ"}
+sshd[3241]: Session closed for karenmiller from 172.27.113.170 port 11809 ssh2
+DB_HOST=1031
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"request completed","user":"waltertiffany","trace":"Wv0jgj1HmHf8"}
+FEATURE_X_ENABLED=INFO
+DB_PORT=desktop-28.cannon-blair.net
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"request completed","user":"ismith","trace":"tO3hB6v0pPXS"}
+REDIS_URL=DEBUG
+LOG_LEVEL=false
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"cache miss","user":"kimberlygarcia","trace":"Evv1yMXOyLry"}
+sshd[9790]: Failed password for clarksherry from 192.168.181.188 port 45585 ssh2
+sshd[5591]: Session closed for qhart from 192.168.240.59 port 41544 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"kathrynfisher","trace":"0TihhUs1kiKS"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"robinrojas","trace":"jejsDKO8ZOxK"}
+API_TIMEOUT=false
+API_TIMEOUT=43498
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"user session created","user":"williammaynard","trace":"Yx1xcndOim2F"}
+LOG_LEVEL=2213
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"user session created","user":"littlemax","trace":"8XKLKCIqautx"}
+sshd[8188]: Accepted password for shannonanderson from 172.24.63.228 port 57997 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"db slow query","user":"cjohnson","trace":"1UMtmJN9m6ll"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"token refreshed","user":"dhill","trace":"aTk0GWuJoBGd"}

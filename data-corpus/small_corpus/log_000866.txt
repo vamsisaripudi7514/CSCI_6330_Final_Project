@@ -1,0 +1,27 @@
+sshd[9691]: Failed password for vwilliams from 192.168.137.106 port 25927 ssh2
+sshd[7516]: Failed password for michael61 from 10.135.9.51 port 52368 ssh2
+72.2.179.63 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 500 473681 "-" "Mozilla/5.0 (Linux; Android 4.0.4) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/28.0.876.0 Safari/536.0"
+LOG_LEVEL=lt-04.obrien-hill.info
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"token refreshed","user":"john65","trace":"oVXQUvev4DbT"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"user session created","user":"wkennedy","trace":"gVP4Bldp3pk2"}
+sshd[2274]: Session closed for williamsangela from 192.168.79.9 port 47593 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"april05","trace":"hswV28Y2bmMx"}
+sshd[5981]: Accepted password for jessica73 from 192.168.36.118 port 57889 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"cache miss","user":"llucas","trace":"fZJ3sfYUkNjO"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"fwallace","trace":"rCX65RYT20El"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"nbrown","trace":"7j2T6uIOE7Bk"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"request completed","user":"cgood","trace":"vzOgO8Xf8aEa"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"request completed","user":"sethkerr","trace":"CkmtM817dTGA"}
+144.38.32.219 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 204 194116 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9; rv:1.9.4.20) Gecko/7662-02-04 11:59:17.913055 Firefox/4.0" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4OTZodUdYblBxIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.rO845Hh3FNs7HJYvcSqLg2nzkOXucSD-GYyqibHXmnc'
+179.16.66.110 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 201 337812 "-" "Opera/9.27.(Windows CE; ig-NG) Presto/2.9.181 Version/11.00"
+FEATURE_X_ENABLED=desktop-03.taylor-brewer.com
+sshd[3623]: Session opened for stevengreen from 10.211.71.124 port 43595 ssh2
+sshd[5329]: Accepted password for nholt from 192.168.109.240 port 30242 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKcmZDRVFxWjFzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.WwrH-rjmlvbosclWb83zVToO695ZMFYnPuWyigU6r30'
+REDIS_URL=43851
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"token refreshed","user":"joseph31","trace":"Jay287uGNUgD"}
+DB_HOST=false
+sshd[5744]: Session closed for qroberson from 10.249.114.82 port 38238 ssh2
+213.224.90.198 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 404 514216 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/39.0.889.0 Safari/531.1"
+sshd[2617]: Accepted password for whitemark from 10.242.166.189 port 15231 ssh2
+sshd[7684]: Session opened for marywarren from 192.168.29.114 port 10819 ssh2
+DB_HOST=desktop-15.fitzgerald-lloyd.com

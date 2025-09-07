@@ -1,0 +1,27 @@
+144.58.247.41 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 400 228072 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/42.0.867.0 Safari/533.0"
+API_TIMEOUT=37954
+REDIS_URL=58282
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"cache miss","user":"allenvirginia","trace":"nI8bm2X0RMkq"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"token refreshed","user":"mitchell32","trace":"AzjWNLL8EHJn"}
+API_TIMEOUT=redis://localhost:6379
+LOG_LEVEL=2310
+sshd[9815]: Accepted password for johnsoncory from 10.236.231.96 port 42846 ssh2
+sshd[2393]: Accepted password for lmelendez from 172.22.35.195 port 63320 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiTmtVS1ZIZUc1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.0KDRZqBfNlR7YFTUkpIZs12msb_vZ_6ICb2pAZ8sG2M'
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"user session created","user":"kingjeffrey","trace":"N0xzXFUL0jj1"}
+168.0.34.214 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 500 518847 "-" "Opera/8.22.(X11; Linux i686; as-IN) Presto/2.9.175 Version/11.00"
+DB_HOST=redis://localhost:6379
+REDIS_URL=51653
+LOG_LEVEL=1029
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"request completed","user":"pamela23","trace":"FsjLiWuFEJLI"}
+API_TIMEOUT=3905
+sshd[7957]: Accepted password for osullivan from 172.21.110.14 port 44630 ssh2
+sshd[7292]: Accepted password for qtaylor from 10.250.76.80 port 24873 ssh2
+sshd[6038]: Failed password for kristinmedina from 10.200.73.82 port 30502 ssh2
+sshd[5522]: Accepted password for gthomas from 172.19.243.70 port 16548 ssh2
+205.158.217.242 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 200 468830 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+146.130.66.189 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 403 64292 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8 rv:5.0; lo-LA) AppleWebKit/531.8.1 (KHTML, like Gecko) Version/5.1 Safari/531.8.1"
+sshd[3929]: Session closed for murraytiffany from 10.63.252.24 port 63499 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJoU3pucGw5Q2VwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.9cUkn-dvyIpuEynsT6Zj6pVsQiMN95hIM5m9c8h_4BM'
+56.91.136.70 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 401 61476 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.0)"
+API_TIMEOUT=redis://localhost:6379
+DB_HOST=28875
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"timothy44","trace":"kjmwtIcPQWer"}

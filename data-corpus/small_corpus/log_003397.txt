@@ -1,0 +1,35 @@
+LOG_LEVEL=INFO
+sshd[1048]: Accepted password for nhuang from 10.23.244.191 port 46186 ssh2
+sshd[6501]: Session closed for tracy22 from 172.31.198.14 port 40509 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"token refreshed","user":"thomas93","trace":"s9QcDk3cvhrJ"} password=cJ5&T)rMOc
+DB_PORT=redis://localhost:6379
+DB_HOST=laptop-72.walker.com
+105.13.130.244 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 201 166739 "-" "Opera/8.71.(Windows NT 11.0; ig-NG) Presto/2.9.182 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"db slow query","user":"dmartin","trace":"DrjolBWfljoi"}
+REDIS_URL=4316
+sshd[9425]: Accepted password for pbautista from 172.31.173.191 port 30757 ssh2
+sshd[1374]: Session opened for thomas69 from 172.21.51.5 port 13447 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"amberlowe","trace":"J9RlfRBFMiiH"}
+REDIS_URL=desktop-80.browning-willis.info
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"token refreshed","user":"vcraig","trace":"ECabWXJQ2Pbc"}
+DB_HOST=db-17.williams.com
+DB_PORT=58835
+FEATURE_X_ENABLED=DEBUG
+sshd[5442]: Accepted password for vking from 172.20.76.172 port 28352 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"robert06","trace":"r17Nqony7roz"}
+114.122.149.190 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 200 487638 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/43.0.811.0 Mobile/62K775 Safari/532.1"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"sharon38","trace":"Cias0UvejdRG"} password=jA3,KKYATZ
+27.4.148.125 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 401 25241 "-" "Opera/9.63.(X11; Linux i686; hu-HU) Presto/2.9.166 Version/11.00"
+DB_HOST=58096
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"user session created","user":"sjohnson","trace":"qyPKcMBt9QfS"}
+54.69.192.214 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 502 38835 "-" "Mozilla/5.0 (Android 4.0; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0"
+REDIS_URL=true
+FEATURE_X_ENABLED=DEBUG
+API_TIMEOUT=false
+sshd[6940]: Accepted password for frankheather from 172.17.98.77 port 18601 ssh2
+REDIS_URL=redis://localhost:6379
+193.71.70.202 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 403 54636 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/51.0.893.0 Safari/534.1"
+sshd[2055]: Failed password for anitamoore from 172.23.172.40 port 28699 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKT0ZRdWFEc2hLIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.s2DIMgNNURAaxeOwodrIB3ql6S915cQrkq5mv6ZKqzk'
+FEATURE_X_ENABLED=db-49.simon.com
+sshd[9505]: Accepted password for armstrongjoshua from 192.168.100.168 port 62226 ssh2

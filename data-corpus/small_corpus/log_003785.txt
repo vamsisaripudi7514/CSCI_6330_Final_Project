@@ -1,0 +1,28 @@
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"request completed","user":"lholland","trace":"GMefuNSNN3u8"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"colelarry","trace":"uzAEcMqBKmr6"}
+190.158.38.230 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 200 210914 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/40.0.845.0 Safari/533.1"
+API_TIMEOUT=4641
+16.113.192.73 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 502 385077 "-" "Opera/9.97.(Windows CE; br-FR) Presto/2.9.168 Version/11.00"
+API_TIMEOUT=1109
+82.163.92.109 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 404 62241 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.1.1 (KHTML, like Gecko) Version/4.1 Safari/533.1.1"
+13.193.247.193 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 200 95052 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_7) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/56.0.818.0 Safari/533.2"
+FEATURE_X_ENABLED=26095
+sshd[3230]: Accepted password for benjamin43 from 192.168.161.167 port 12896 ssh2
+154.109.13.105 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 201 51361 "-" "Opera/9.86.(X11; Linux i686; cs-CZ) Presto/2.9.165 Version/11.00"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"user session created","user":"fnelson","trace":"xTRiLj6zrI26"}
+sshd[2908]: Failed password for hatfieldjennifer from 172.26.51.29 port 50351 ssh2
+REDIS_URL=3042
+REDIS_URL=srv-08.hill.com
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"katherine87","trace":"UOHawJuQvRl8"}
+LOG_LEVEL=redis://localhost:6379
+sshd[1412]: Failed password for jeffery43 from 172.31.90.7 port 15287 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"request completed","user":"yangdarlene","trace":"lVhnsr2wlYI1"}
+8.48.19.17 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 404 59303 "-" "Opera/9.69.(X11; Linux i686; bem-ZM) Presto/2.9.166 Version/12.00"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"cache miss","user":"tjones","trace":"TFfON0MJVEt2"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"token refreshed","user":"michael76","trace":"oBKGklbvPs6B"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"nicole01","trace":"fQUUpnhb8wrJ"}
+DB_HOST=31165
+211.245.202.123 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 500 441772 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.0)"
+LOG_LEVEL=srv-19.robinson.com
+DB_PORT=64248 password=zM1{*P7s}4F
+sshd[3532]: Accepted password for thomas67 from 10.164.93.80 port 18986 ssh2

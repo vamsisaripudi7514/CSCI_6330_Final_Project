@@ -1,0 +1,44 @@
+188.203.132.214 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 401 187481 "-" "Opera/8.22.(X11; Linux i686; ti-ET) Presto/2.9.181 Version/10.00"
+sshd[6003]: Session opened for jeffreymercado from 192.168.135.222 port 18192 ssh2
+sshd[6986]: Session closed for thomaslauren from 192.168.112.101 port 33775 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"danieljohnson","trace":"k84nN2YOlaEb"}
+94.229.38.11 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 400 256585 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/46.0.848.0 Safari/534.1"
+200.51.98.181 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 401 77435 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)"
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"benjaminortega","trace":"bLSXLmYMABN2"}
+FEATURE_X_ENABLED=678
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"request completed","user":"roseanthony","trace":"7BMKrcvnXnjP"}
+186.186.15.234 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 204 416871 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/41.0.853.0 Safari/535.1"
+151.65.107.88 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 204 170686 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/5794-07-01 03:57:01.320099 Firefox/3.6.9"
+sshd[9721]: Accepted password for westjason from 172.28.34.8 port 30569 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJsOXlrUlA3RkJUIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.LMuV1_V94FFYoi6I8caiCiO7xMWvxRzJws1EfRT-2tk'
+sshd[5686]: Session opened for omurray from 172.27.138.88 port 54772 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"julian39","trace":"1M8hxLwvYWMw"}
+sshd[2330]: Accepted password for nmcdowell from 172.22.88.206 port 33423 ssh2
+sshd[2568]: Failed password for ryan86 from 192.168.44.14 port 32086 ssh2
+sshd[8391]: Failed password for amber12 from 10.69.244.16 port 36241 ssh2
+67.200.156.4 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 201 366919 "-" "Opera/8.32.(Windows CE; my-MM) Presto/2.9.164 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"kayla57","trace":"n5XLPmKy8rX2"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"request completed","user":"justingarcia","trace":"KUhiWn3Rlttj"} API_KEY=AIza4m1wn5zp3ziUqTk9lYAlwg79F2cIPesUfCEsCw
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"user session created","user":"ariana63","trace":"Rm2RojMPCJiF"}
+sshd[5307]: Failed password for astevens from 172.21.38.226 port 28325 ssh2
+sshd[4320]: Accepted password for smithkenneth from 192.168.81.179 port 32707 ssh2
+sshd[4008]: Failed password for ahamilton from 10.156.51.11 port 34400 ssh2
+FEATURE_X_ENABLED=1415
+DB_HOST=16898
+197.146.206.184 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 204 306660 "-" "Opera/9.55.(X11; Linux x86_64; te-IN) Presto/2.9.183 Version/10.00"
+sshd[7224]: Session closed for johnsonamy from 192.168.169.232 port 50243 ssh2
+sshd[3340]: Failed password for harveymichelle from 172.20.38.131 port 18937 ssh2
+API_TIMEOUT=3985
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"token refreshed","user":"reynoldskevin","trace":"dpdGSgjozVEt"}
+LOG_LEVEL=true
+sshd[5809]: Session opened for sgriffith from 10.159.31.23 port 24883 ssh2
+111.230.208.148 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 404 9474 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/63.0.822.0 Safari/534.2"
+sshd[2707]: Session closed for rperkins from 172.28.128.38 port 43826 ssh2
+88.229.12.214 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 502 473183 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/8383-11-27 23:06:19.342438 Firefox/3.8"
+sshd[1625]: Accepted password for yramirez from 10.176.236.121 port 20306 ssh2
+sshd[1900]: Accepted password for rkennedy from 192.168.55.66 port 18189 ssh2
+157.143.117.100 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 404 289112 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5270-01-14 15:13:49.057816 Firefox/15.0"
+API_TIMEOUT=false
+sshd[7099]: Session closed for codysutton from 10.169.113.190 port 39055 ssh2
+DB_PORT=true
+sshd[7057]: Failed password for bfoster from 172.29.209.25 port 48045 ssh2

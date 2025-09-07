@@ -1,0 +1,35 @@
+sshd[1768]: Failed password for steven26 from 172.25.160.114 port 62108 ssh2
+43.21.9.234 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 204 360536 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"request completed","user":"andrehayes","trace":"D8QQtfYp3vsd"}
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"search","msg":"user session created","user":"moonmichelle","trace":"B7oxDID97o48"}
+sshd[8229]: Failed password for zsexton from 172.25.162.24 port 32243 ssh2
+32.130.21.150 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 500 202058 "-" "Opera/9.73.(X11; Linux x86_64; cy-GB) Presto/2.9.188 Version/10.00"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"orders","msg":"user session created","user":"allisonkrystal","trace":"Smv44RLFTNZA"}
+119.8.36.223 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 200 191063 "-" "Opera/8.59.(Windows NT 5.1; ks-IN) Presto/2.9.180 Version/11.00"
+LOG_LEVEL=true
+sshd[9907]: Failed password for francis85 from 10.164.218.156 port 20482 ssh2
+FEATURE_X_ENABLED=4277
+sshd[9839]: Failed password for vharris from 192.168.126.72 port 10947 ssh2
+sshd[2724]: Failed password for katelyn61 from 10.109.43.254 port 26267 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"orders","msg":"request completed","user":"lynn12","trace":"tTfMUcZBoikY"}
+29.188.51.114 - - [07/Sep/2025:18:24:57 +0000] "DELETE /health HTTP/1.1" 502 97790 "-" "Opera/8.74.(Windows NT 6.2; nan-TW) Presto/2.9.189 Version/12.00"
+sshd[2410]: Accepted password for lisa66 from 192.168.83.96 port 47808 ssh2
+sshd[3657]: Failed password for caitlynlopez from 192.168.134.213 port 22654 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"notify","msg":"request completed","user":"johntodd","trace":"p4tlzBwbEr8s"}
+186.230.233.7 - - [07/Sep/2025:18:24:57 +0000] "GET /index.html HTTP/1.1" 302 374368 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ve-ZA) AppleWebKit/533.11.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6533.11.2"
+REDIS_URL=true
+sshd[8981]: Failed password for wuterry from 192.168.162.43 port 42087 ssh2
+DB_PORT=srv-21.stewart-gutierrez.biz
+63.232.200.217 - - [07/Sep/2025:18:24:57 +0000] "DELETE /assets/app.js HTTP/1.1" 403 187732 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/60.0.845.0 Safari/536.1"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"db slow query","user":"joannestewart","trace":"EMD0JlsPYswa"}
+FEATURE_X_ENABLED=srv-57.ruiz.com
+86.75.39.9 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/v1/users HTTP/1.1" 403 23168 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.43.7 (KHTML, like Gecko) Version/4.0 Safari/532.43.7"
+DB_PORT=INFO
+202.57.102.90 - - [07/Sep/2025:18:24:57 +0000] "GET /health HTTP/1.1" 401 390698 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/16.0.832.0 Safari/535.1"
+sshd[6509]: Failed password for hartmanmarissa from 172.30.38.38 port 54375 ssh2
+DB_PORT=email-60.green.com
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"anthonydavid","trace":"A0r94YD97unK"}
+LOG_LEVEL=44537
+sshd[2411]: Failed password for vgarza from 192.168.209.234 port 54052 ssh2
+158.228.12.20 - - [07/Sep/2025:18:24:57 +0000] "GET /index.html HTTP/1.1" 204 90161 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.26.3 (KHTML, like Gecko) Version/5.0 Safari/534.26.3"
+DB_PORT=redis://localhost:6379

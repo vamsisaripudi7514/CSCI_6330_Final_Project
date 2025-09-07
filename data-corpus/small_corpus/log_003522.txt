@@ -1,0 +1,35 @@
+61.249.71.126 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 500 160984 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"moorechristopher","trace":"21tfyoyP4Vcq"}
+REDIS_URL=3026
+21.247.56.26 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 400 50521 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/17.3z2991.0 Mobile/03A615 Safari/534.1"
+LOG_LEVEL=redis://localhost:6379
+89.32.209.124 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 201 29042 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"gayrichard","trace":"Hr9GyfLZ5I09"}
+sshd[8323]: Session closed for stacy15 from 10.56.16.19 port 38040 ssh2
+DB_HOST=db-59.harvey.com
+160.72.46.91 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 502 2132 "-" "Opera/8.85.(Windows NT 4.0; de-BE) Presto/2.9.171 Version/11.00"
+REDIS_URL=4255
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"user session created","user":"wwhitaker","trace":"PkvDCbeUvMFN"}
+API_TIMEOUT=28638
+LOG_LEVEL=desktop-68.glover.info
+sshd[6024]: Failed password for anolan from 10.172.206.58 port 53491 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"kennethallen","trace":"sV9a48sydpga"}
+sshd[7852]: Session closed for greenmaureen from 192.168.142.28 port 30515 ssh2
+sshd[2835]: Failed password for candace27 from 172.16.8.127 port 26917 ssh2
+API_TIMEOUT=DEBUG
+sshd[1814]: Session closed for roblesamy from 10.244.141.38 port 58295 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"user session created","user":"tamaramontgomery","trace":"QmxGt4UX89ZE"}
+sshd[9492]: Session closed for shelbykhan from 10.67.116.218 port 22234 ssh2
+REDIS_URL=redis://localhost:6379
+API_TIMEOUT=2193
+REDIS_URL=37782
+API_TIMEOUT=35205
+API_TIMEOUT=lt-40.powers-taylor.com
+sshd[3294]: Session opened for mitchelllaura from 10.62.159.3 port 36789 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"user session created","user":"kelly94","trace":"ZX05wr7ATulx"}
+112.113.68.67 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 502 333251 "-" "Opera/9.21.(X11; Linux x86_64; en-AG) Presto/2.9.189 Version/12.00"
+169.126.192.128 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 204 159755 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/16.0g8977.0 Mobile/98A932 Safari/531.2"
+API_TIMEOUT=139
+sshd[6079]: Accepted password for randybrown from 192.168.255.151 port 49071 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ5NWxNSUwxQ09QIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.b9j7-8HSf9cvte4Nq08bW9TlSbRyDp5ITIDirYBeAY0'
+DB_PORT=true

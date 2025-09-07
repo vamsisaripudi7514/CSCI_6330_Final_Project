@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"derek92","trace":"ORa9Os9Xy8Zi"}
+FEATURE_X_ENABLED=INFO
+sshd[1175]: Accepted password for valdezerin from 172.20.40.148 port 59181 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJPQklsTmlkY0pBIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.DJ6zskfiB72PerViERwNPTNGE_MZWR0tBZIsTBNQHFU'
+DB_PORT=false
+LOG_LEVEL=redis://localhost:6379
+sshd[3290]: Session closed for diana53 from 10.80.225.248 port 34285 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5UzhTbGtpMTBjIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.fCv9-yTRhJkEs4h69mPFV0sjRLIoXJ8J6CbjOiRDAXk'
+sshd[5736]: Session closed for linda48 from 172.24.18.24 port 63915 ssh2
+169.230.205.35 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 302 51952 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/56.0.830.0 Safari/534.1"
+sshd[3543]: Session closed for simmonsjoel from 172.22.134.184 port 28542 ssh2
+DB_PORT=false
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"db slow query","user":"david31","trace":"J9RCsbXIRcv7"}
+sshd[7355]: Session closed for christinafriedman from 192.168.242.122 port 25875 ssh2
+LOG_LEVEL=srv-35.wilkins-stark.info
+sshd[1915]: Session opened for toddroberson from 192.168.245.124 port 28153 ssh2
+API_TIMEOUT=email-01.obrien.info
+sshd[9755]: Session closed for jacob30 from 172.24.116.59 port 61088 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"cjackson","trace":"cJ1K1FIXJvMR"}
+123.177.95.25 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 403 193819 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_4 rv:3.0; crh-UA) AppleWebKit/532.28.5 (KHTML, like Gecko) Version/4.0 Safari/532.28.5"
+94.225.7.199 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 302 309317 "-" "Opera/9.73.(Windows NT 6.2; mai-IN) Presto/2.9.186 Version/11.00"
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"riverajennifer","trace":"u2hLgKfIMDsW"}
+sshd[7765]: Failed password for brandonmullins from 172.16.198.137 port 28427 ssh2
+DB_PORT=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"jeffrey02","trace":"Duo4W7T0DxW5"}
+sshd[1874]: Failed password for john04 from 172.22.8.174 port 43598 ssh2

@@ -1,0 +1,34 @@
+sshd[3290]: Accepted password for davismeghan from 172.27.48.200 port 19001 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"jdavis","trace":"0dUZm1bZL89y"}
+DB_PORT=laptop-68.pennington.com
+LOG_LEVEL=514
+167.38.177.191 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 401 108611 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/9625-07-31 14:57:10.765015 Firefox/3.8"
+sshd[6432]: Session closed for mariabarron from 192.168.115.211 port 14154 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"antoniogoodman","trace":"77roOf1l6ruE"}
+132.29.88.22 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 302 386640 "-" "Opera/8.76.(X11; Linux i686; kw-GB) Presto/2.9.188 Version/10.00"
+214.217.8.145 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 401 182341 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/56.0.842.0 Mobile/87T282 Safari/532.0"
+117.26.205.136 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 502 310977 "-" "Mozilla/5.0 (Android 8.0.0; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0" API_KEY=AIzasCmg3usfiCngkxklIgAZXahGhCss7XogcukOcQ
+sshd[3253]: Session closed for judithgrimes from 192.168.157.27 port 37166 ssh2
+86.168.143.145 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 502 345097 "-" "Opera/9.39.(Windows 95; de-BE) Presto/2.9.183 Version/10.00"
+sshd[9961]: Session opened for williamsalyssa from 192.168.134.230 port 21777 ssh2
+175.53.193.93 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 403 446880 "-" "Opera/8.50.(X11; Linux x86_64; tg-TJ) Presto/2.9.173 Version/12.00"
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"cache miss","user":"hinestiffany","trace":"lgdhnfEGD5UY"} password=vV1$Y=Il1p
+sshd[8455]: Failed password for deckerwilliam from 10.170.227.160 port 57742 ssh2
+API_TIMEOUT=50175
+187.57.22.241 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 500 156663 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 rv:6.0; ig-NG) AppleWebKit/531.28.1 (KHTML, like Gecko) Version/4.0.3 Safari/531.28.1"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"bwatson","trace":"RuZpC44zsxmK"}
+sshd[9900]: Session opened for grichards from 172.28.32.183 port 11901 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"zhammond","trace":"kVvetuBEpK5s"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"lcampbell","trace":"hvq2s3OVJqS7"}
+sshd[7832]: Session opened for davidcummings from 172.18.38.67 port 47563 ssh2
+186.219.121.124 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 201 293054 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; rv:1.9.4.20) Gecko/7921-07-20 18:40:13.145935 Firefox/3.8"
+37.2.84.11 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 204 164894 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/20.0.830.0 Safari/533.1"
+DB_HOST=49155
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"smithnicole","trace":"kZNIKJJn9bRY"}
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"user session created","user":"dustin87","trace":"Pbdw7evOIqdu"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyUlBqUmRzWWpaIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.QXaQG7nn27XD4FAEeC7vWN9k_wFD3ip5KWePXkMiU4g'
+87.187.192.252 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 201 147157 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"ggilbert","trace":"nkXHrFbi1EUm"} password=kY8`jk~Mar
+3.126.230.151 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 201 470187 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.0)"
+sshd[7270]: Failed password for johnnymills from 172.19.178.179 port 28086 ssh2

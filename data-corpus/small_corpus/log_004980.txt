@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"orders","msg":"user session created","user":"andersonlisa","trace":"8kMqOe4DGMYl"}
+88.247.150.231 - - [07/Sep/2025:18:24:57 +0000] "PUT /index.html HTTP/1.1" 502 109575 "-" "Opera/9.58.(Windows CE; ja-JP) Presto/2.9.184 Version/11.00"
+REDIS_URL=4127
+81.2.70.220 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 401 351592 "-" "Mozilla/5.0 (Linux; Android 5.0.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/16.0.897.0 Safari/531.1"
+sshd[7758]: Session closed for benjamin37 from 192.168.9.245 port 19489 ssh2
+API_TIMEOUT=redis://localhost:6379
+30.18.228.134 - - [07/Sep/2025:18:24:57 +0000] "DELETE /api/v1/users HTTP/1.1" 400 262063 "-" "Opera/9.45.(Windows NT 6.2; pap-CW) Presto/2.9.162 Version/11.00"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"orders","msg":"token refreshed","user":"juanmiller","trace":"wQBUNDXr9BpD"}
+DB_HOST=redis://localhost:6379
+sshd[6968]: Failed password for whorton from 10.54.133.221 port 47157 ssh2
+150.32.196.40 - - [07/Sep/2025:18:24:57 +0000] "PUT /assets/app.js HTTP/1.1" 500 387864 "-" "Opera/9.28.(X11; Linux x86_64; my-MM) Presto/2.9.177 Version/11.00"
+218.38.20.139 - - [07/Sep/2025:18:24:57 +0000] "DELETE /api/login HTTP/1.1" 500 423427 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/50.0.898.0 Safari/534.2"
+DB_HOST=true
+119.141.68.182 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 400 2936 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/6571-07-02 17:39:03.794617 Firefox/3.6.18"
+sshd[4434]: Accepted password for jesus15 from 10.8.45.14 port 15908 ssh2
+DB_HOST=redis://localhost:6379
+sshd[7397]: Session opened for honeal from 172.21.61.111 port 48089 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"qward","trace":"rSwDMBS4LMcU"}
+108.76.155.27 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 404 401083 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; bn-BD) AppleWebKit/531.30.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.30.2"
+211.217.136.72 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 201 99238 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.15.1 (KHTML, like Gecko) Version/5.0.5 Safari/532.15.1"
+DB_PORT=4208
+14.156.64.113 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 302 312357 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/63.0.865.0 Safari/535.1"
+API_TIMEOUT=true
+sshd[7550]: Session opened for mitchellcourtney from 10.22.218.61 port 56812 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"auth","msg":"db slow query","user":"kingarthur","trace":"MgNlCTUtRbLG"}

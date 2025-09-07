@@ -1,0 +1,27 @@
+DB_HOST=INFO
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"xhill","trace":"VhfJqpNWZyEw"}
+201.52.85.153 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 302 51092 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1 rv:5.0; ber-MA) AppleWebKit/531.47.3 (KHTML, like Gecko) Version/5.0.3 Safari/531.47.3"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"dunnkathleen","trace":"zNCHD56vlTHF"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"peter64","trace":"ItXC11i3xJr3"}
+87.131.62.68 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 200 50032 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/61.0.856.0 Safari/534.2"
+152.176.171.124 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 400 416876 "-" "Opera/9.72.(X11; Linux i686; se-NO) Presto/2.9.161 Version/12.00"
+85.29.158.255 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 500 251948 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.1)"
+FEATURE_X_ENABLED=true
+sshd[3196]: Accepted password for frederickjoseph from 192.168.234.242 port 10605 ssh2
+38.153.92.80 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 200 188216 "-" "Opera/9.79.(Windows NT 5.1; li-BE) Presto/2.9.163 Version/11.00"
+DB_HOST=4537
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"request completed","user":"ericyoung","trace":"gyItt3k0hTsu"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"user session created","user":"vjones","trace":"O7A4fDmWxpVy"}
+sshd[1760]: Accepted password for henrywalsh from 10.140.207.137 port 58638 ssh2
+sshd[6387]: Session closed for tuckertimothy from 172.28.97.6 port 16098 ssh2
+sshd[3337]: Session closed for morgangriffith from 192.168.89.220 port 59621 ssh2
+110.54.235.7 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 200 210118 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_7; rv:1.9.2.20) Gecko/7852-12-26 23:55:08.564362 Firefox/12.0"
+API_TIMEOUT=3402
+91.55.179.114 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 502 355437 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/45.0.888.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"user session created","user":"hadams","trace":"mpiYHX7eUUl0"}
+125.170.245.156 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 302 68017 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.1)"
+DB_PORT=desktop-56.edwards.com
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"shannon16","trace":"2dtqoNaLhGpi"}
+sshd[6706]: Session opened for jason76 from 192.168.70.111 port 27241 ssh2
+sshd[5254]: Accepted password for gary55 from 172.28.230.57 port 42273 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"cache miss","user":"rileyrachel","trace":"DFdmM3E1GDDc"}

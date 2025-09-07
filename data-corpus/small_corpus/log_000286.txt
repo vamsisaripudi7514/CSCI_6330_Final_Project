@@ -1,0 +1,28 @@
+125.195.64.73 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 500 98268 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7 rv:2.0; bg-BG) AppleWebKit/531.48.1 (KHTML, like Gecko) Version/4.0.1 Safari/531.48.1"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"simonsamuel","trace":"oOsQhKfDQOmS"}
+sshd[3488]: Failed password for jeffrey27 from 172.24.198.10 port 48847 ssh2
+sshd[1463]: Session opened for timothy92 from 192.168.175.237 port 31957 ssh2
+sshd[4872]: Session closed for umcmillan from 172.20.158.213 port 54959 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"request completed","user":"rharris","trace":"3W3WzX02V36i"}
+DB_HOST=451
+92.205.69.108 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 502 266835 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/4.0)"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"dclements","trace":"WYJGdtKPzSkw"}
+sshd[5053]: Accepted password for brooke42 from 10.233.205.166 port 56132 ssh2
+sshd[6490]: Failed password for ramirezdenise from 10.62.33.27 port 62608 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"gdudley","trace":"2ietUGvQEveC"}
+161.153.96.164 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 403 67710 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4 rv:4.0; gv-GB) AppleWebKit/534.23.7 (KHTML, like Gecko) Version/5.0.5 Safari/534.23.7"
+LOG_LEVEL=redis://localhost:6379
+LOG_LEVEL=true
+DB_HOST=DEBUG
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"token refreshed","user":"johntaylor","trace":"1I87zhP92WV8"}
+sshd[9690]: Accepted password for smithanna from 172.17.212.227 port 33671 ssh2
+197.216.30.8 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 500 481992 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/27.0.837.0 Safari/532.1" password=oN5<bd*PXF
+4.29.209.236 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 201 181908 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.1)"
+189.45.79.199 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 404 281766 "-" "Opera/8.61.(X11; Linux x86_64; mai-IN) Presto/2.9.173 Version/11.00"
+77.119.216.204 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 404 54928 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/30.0.821.0 Mobile/40T063 Safari/532.1"
+202.137.16.82 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 400 335260 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/13.9k1816.0 Mobile/65N884 Safari/534.1"
+DB_HOST=600
+75.155.93.30 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 204 291419 "-" "Opera/8.84.(Windows NT 4.0; ff-SN) Presto/2.9.182 Version/11.00"
+FEATURE_X_ENABLED=true

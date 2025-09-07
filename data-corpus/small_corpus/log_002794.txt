@@ -1,0 +1,28 @@
+sshd[3537]: Session opened for hcannon from 192.168.149.83 port 11568 ssh2
+sshd[8024]: Accepted password for winterstimothy from 172.21.186.76 port 11133 ssh2
+API_TIMEOUT=15798
+15.247.131.88 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 204 82499 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.0)"
+11.51.153.222 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 204 20088 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.0)"
+sshd[6210]: Session opened for lawrence89 from 172.24.155.185 port 48443 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"token refreshed","user":"tcastro","trace":"QmnBUxp3Ddfb"}
+sshd[4438]: Session opened for jessica04 from 172.30.19.178 port 43962 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"loricasey","trace":"Xag76otFGvSu"}
+REDIS_URL=38913
+199.239.146.108 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 200 509712 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.1)"
+sshd[6921]: Session closed for uross from 192.168.215.20 port 31476 ssh2 API_KEY=AIzazScFLagbZVE6t5yKE19CHwnac-SX6ot_EtetLw
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"token refreshed","user":"ricardo29","trace":"o3TqkXA78A35"}
+56.86.213.33 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 204 491746 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0)" password=vA6`LFeVn5(
+LOG_LEVEL=redis://localhost:6379
+111.148.172.42 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 200 298846 "-" "Opera/9.17.(X11; Linux x86_64; yo-NG) Presto/2.9.162 Version/12.00"
+sshd[2702]: Failed password for jamesrobinson from 172.29.27.32 port 39632 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"amybutler","trace":"aapTtAoFjNVs"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"cache miss","user":"blackwelllaura","trace":"hhVpMB8k12T2"}
+DB_PORT=42037
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"cache miss","user":"russell88","trace":"IvLHYe7R5s3E"}
+sshd[5671]: Accepted password for bowersmiranda from 192.168.56.179 port 13019 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"db slow query","user":"carpenterashley","trace":"8Sfx3TW2VVJ3"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"token refreshed","user":"brianna09","trace":"PE7ILmGdFGY0"}
+DB_PORT=16123
+REDIS_URL=false
+sshd[2557]: Accepted password for tmorris from 192.168.168.194 port 31365 ssh2
+75.0.39.205 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 404 123217 "-" "Mozilla/5.0 (Android 2.0.1; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0"

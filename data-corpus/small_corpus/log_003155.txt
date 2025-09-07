@@ -1,0 +1,41 @@
+REDIS_URL=redis://localhost:6379
+155.244.254.108 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 502 471157 "-" "Mozilla/5.0 (Android 11; Mobile; rv:66.0) Gecko/66.0 Firefox/66.0"
+41.150.33.183 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 204 190764 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/19.0.803.0 Mobile/40I771 Safari/532.2"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"danderson","trace":"qsW23yyPswrK"} password=pD0)9fyDA<)
+9.61.42.69 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 201 339460 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/40.0.844.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"steeleelizabeth","trace":"jkgXFEB9aPKv"}
+sshd[9870]: Failed password for cgordon from 172.28.247.151 port 38938 ssh2
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"browntyler","trace":"KAfKgfQIxQrS"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"token refreshed","user":"anthonysmith","trace":"YEm349gU8Obw"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"townsendbrittney","trace":"TgZRFKCVBhWD"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"james82","trace":"T28HIyzZQwx0"}
+143.25.148.195 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 403 74389 "-" "Mozilla/5.0 (Windows NT 11.0; sc-IT; rv:1.9.0.20) Gecko/3210-05-29 02:19:44.250534 Firefox/4.0"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"user session created","user":"branchjessica","trace":"xiWbOOtShSdV"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"token refreshed","user":"lewisjulie","trace":"XgYQ6gL7r2X6"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"crawfordcraig","trace":"rXQFXU8glQK5"}
+191.190.149.173 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 201 38554 "-" "Mozilla/5.0 (Windows NT 6.2; tg-TJ; rv:1.9.2.20) Gecko/7457-07-04 05:16:07.971771 Firefox/3.6.4"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"retrying upstream","user":"mhenry","trace":"psfQwFPKZUFg"}
+159.152.109.8 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 200 288334 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_2; rv:1.9.2.20) Gecko/6860-02-01 20:42:01.730774 Firefox/3.6.4"
+186.81.167.105 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 404 350666 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/37.0.826.0 Mobile/05K374 Safari/534.2"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"denisealexander","trace":"8rPKE5xlUAI4"}
+LOG_LEVEL=1112
+193.111.252.62 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 502 497426 "-" "Opera/9.63.(Windows 95; br-FR) Presto/2.9.176 Version/12.00"
+85.203.195.236 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 200 181277 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2169-12-04 05:05:11.306323 Firefox/3.6.14"
+85.128.202.165 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 500 456431 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/13.3c0143.0 Mobile/89U127 Safari/534.0"
+135.108.81.160 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 502 513524 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_2; rv:1.9.6.20) Gecko/4956-02-02 21:43:28.352020 Firefox/3.8"
+API_TIMEOUT=DEBUG
+195.175.226.234 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 200 371307 "-" "Opera/8.39.(X11; Linux i686; se-NO) Presto/2.9.170 Version/10.00"
+API_TIMEOUT=laptop-36.walker.net
+112.209.132.215 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 204 41425 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_3; rv:1.9.4.20) Gecko/8949-08-26 22:12:16.307434 Firefox/3.6.17" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2dkc1ek9MRWdpIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.oOiIyTUbpYOMFiTnt1Dc2PxFpZ9ztbhlh5jY48KftbQ'
+REDIS_URL=false
+DB_HOST=WARN
+199.182.28.128 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 403 224859 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxemdqdW10d3JNIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.62w20v_wR46GTMkmfeRFfwGkowx5b9lGQdKEvsWRA1o'
+REDIS_URL=16017
+15.39.123.78 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 401 107634 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.1)"
+210.75.114.71 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 400 477100 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.23.1 (KHTML, like Gecko) Version/4.0.5 Safari/531.23.1"
+28.157.89.14 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 401 287629 "-" "Opera/8.24.(X11; Linux x86_64; sl-SI) Presto/2.9.186 Version/12.00"
+118.61.236.156 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 200 112344 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/60.0.878.0 Mobile/31Z312 Safari/535.1"
+REDIS_URL=4977
+DB_HOST=61301
+sshd[2577]: Session closed for orollins from 10.86.65.87 port 27745 ssh2

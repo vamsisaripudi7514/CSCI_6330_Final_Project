@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"devans","trace":"WXxHqWhxFNra"}
+REDIS_URL=59718
+FEATURE_X_ENABLED=20449
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"rcampbell","trace":"sf0pZCrXPoFE"}
+11.199.24.251 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 500 205088 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"request completed","user":"johnhogan","trace":"D9TkIcXd6H3M"}
+sshd[5894]: Session opened for julierussell from 192.168.222.196 port 59931 ssh2
+DB_PORT=redis://localhost:6379
+API_TIMEOUT=1644
+sshd[9505]: Accepted password for ashley98 from 10.122.205.96 port 47144 ssh2
+sshd[2691]: Session opened for william39 from 172.21.203.64 port 44792 ssh2
+sshd[4405]: Accepted password for iperez from 192.168.161.82 port 49823 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"user session created","user":"johnsonrobert","trace":"HPtSYqbV6UBQ"}
+REDIS_URL=40598
+sshd[4009]: Session opened for lisa73 from 172.16.157.87 port 38779 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"cache miss","user":"pennystevenson","trace":"URoOpBo3c6Ib"}
+REDIS_URL=redis://localhost:6379
+FEATURE_X_ENABLED=WARN
+7.59.144.202 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 401 237589 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"cache miss","user":"rhonda96","trace":"fcvMNMDbEckz"}
+213.163.206.84 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 403 470236 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.0)"
+DB_HOST=DEBUG
+FEATURE_X_ENABLED=2734
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"user session created","user":"rebecca14","trace":"tlkUdGvMF138"}
+FEATURE_X_ENABLED=redis://localhost:6379

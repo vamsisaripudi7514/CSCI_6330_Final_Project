@@ -1,0 +1,25 @@
+161.128.182.233 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 200 306798 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/19.0.825.0 Mobile/05W166 Safari/531.2"
+sshd[5618]: Accepted password for margaretpark from 192.168.79.195 port 42046 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"user session created","user":"agreen","trace":"uZlPutawzx2Z"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"cache miss","user":"ddavies","trace":"Q960MeinTQxP"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"hannah72","trace":"sJ10tzojfzWd"}
+DB_PORT=redis://localhost:6379
+LOG_LEVEL=desktop-89.johnson-king.com
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"request completed","user":"joshuaanderson","trace":"k8a5EDn1RtNZ"}
+sshd[4561]: Session closed for millerlisa from 172.25.190.225 port 41910 ssh2 password=yC2#g+i_\>.m#6,e
+sshd[7473]: Accepted password for marissa92 from 172.20.55.4 port 24101 ssh2
+sshd[2772]: Session closed for bwood from 10.163.90.55 port 51603 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"db slow query","user":"ewalton","trace":"R9zF3TpWgk5E"}
+30.59.198.181 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 302 287602 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.48.6 (KHTML, like Gecko) Version/4.0.5 Safari/532.48.6"
+89.221.171.172 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 302 411634 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/21.0.857.0 Safari/532.0"
+99.149.30.192 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 500 191373 "-" "Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/33.0.893.0 Safari/534.2"
+DB_PORT=303
+sshd[4584]: Failed password for ralph51 from 10.130.132.137 port 19664 ssh2
+API_TIMEOUT=3943
+sshd[7939]: Failed password for gabrieljones from 10.117.64.119 port 61408 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"jonathan46","trace":"Z9v6APTFCHgR"}
+sshd[6138]: Failed password for perezmichelle from 192.168.37.195 port 20843 ssh2
+sshd[1720]: Session opened for nsims from 192.168.207.165 port 35136 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"chadhart","trace":"dCjDZQEtTQLO"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"request completed","user":"jacob44","trace":"tOQLmv5ydFdX"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"vmullen","trace":"e1Es1BEq6f5B"}

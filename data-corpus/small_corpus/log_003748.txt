@@ -1,0 +1,28 @@
+DB_PORT=7571
+sshd[6174]: Failed password for amy00 from 192.168.12.158 port 56056 ssh2
+sshd[8606]: Session closed for ipatton from 172.28.103.77 port 42558 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"veronicapowell","trace":"lPvsRyvXOo2i"}
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"suemartinez","trace":"OQjwDstpHkZv"}
+sshd[8483]: Accepted password for chad63 from 172.26.195.106 port 15323 ssh2
+2.169.109.161 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 502 211368 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_8 rv:4.0; os-RU) AppleWebKit/532.38.2 (KHTML, like Gecko) Version/5.0.3 Safari/532.38.2"
+sshd[8023]: Session closed for gstone from 172.20.156.225 port 14373 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"dharris","trace":"13NQK4tGdNyh"}
+95.110.196.143 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 502 295579 "-" "Opera/8.41.(Windows NT 5.0; am-ET) Presto/2.9.187 Version/12.00"
+DB_PORT=31268
+sshd[9636]: Accepted password for mark33 from 192.168.248.192 port 45067 ssh2
+API_TIMEOUT=redis://localhost:6379
+LOG_LEVEL=redis://localhost:6379
+sshd[4924]: Session closed for mvelez from 192.168.141.17 port 64577 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"token refreshed","user":"bgonzalez","trace":"0o31QL5dvLng"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5THBxNWJScjhlIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.tUeiFP0dh14X3Io9rC2dB7kekO9fV2JDUuGP0mkQf5c'
+sshd[5915]: Session opened for brenda56 from 10.46.185.48 port 59830 ssh2
+84.46.160.127 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 204 132724 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/4.1)"
+sshd[4342]: Accepted password for seanmooney from 10.171.233.80 port 19600 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"cache miss","user":"lindseywade","trace":"OAPhrbWAmk8H"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"user session created","user":"robin27","trace":"hsXdIBOb3ONV"}
+FEATURE_X_ENABLED=WARN
+DB_PORT=redis://localhost:6379
+184.40.240.160 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 400 432483 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.1)"
+DB_HOST=true
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"barnesvirginia","trace":"CEY2Iq0qFTBB"}

@@ -1,0 +1,29 @@
+sshd[2037]: Failed password for davisdebbie from 192.168.95.106 port 44081 ssh2
+FEATURE_X_ENABLED=web-72.saunders.com
+sshd[7430]: Accepted password for thomaseric from 192.168.39.192 port 24896 ssh2
+sshd[7841]: Accepted password for znelson from 192.168.210.249 port 59394 ssh2
+167.112.187.27 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 400 169829 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/532.5.3 (KHTML, like Gecko) Version/4.1 Safari/532.5.3"
+83.169.197.156 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 502 324831 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; ia-FR; rv:1.9.1.20) Gecko/8967-03-24 16:50:27.567017 Firefox/14.0"
+193.99.127.58 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 403 52868 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4; rv:1.9.5.20) Gecko/4667-05-19 19:25:35.875854 Firefox/3.8"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"request completed","user":"riosjennifer","trace":"cqlg4Q8A9BUn"}
+DB_PORT=desktop-56.thompson.com
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"matthew05","trace":"qU81VNjKSTEN"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"cache miss","user":"zross","trace":"1EWbfcVNa2ft"}
+186.32.45.124 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 302 176338 "-" "Opera/9.48.(Windows CE; fr-CA) Presto/2.9.175 Version/11.00"
+sshd[1878]: Session closed for brandonbutler from 192.168.63.2 port 20875 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"user session created","user":"racosta","trace":"R0vkfPkYF55s"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"user session created","user":"stacymartinez","trace":"CDUdkLQU46C3"}
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"robinsonmark","trace":"px2cIkV3PrL9"}
+49.171.135.239 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 204 466507 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8 rv:5.0; es-NI) AppleWebKit/534.36.1 (KHTML, like Gecko) Version/4.0 Safari/534.36.1"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"cache miss","user":"hernandezrodney","trace":"Y7PW17rwWkP2"}
+sshd[8942]: Accepted password for butlerchristina from 10.217.191.100 port 52261 ssh2
+sshd[7253]: Session closed for benjaminwalsh from 10.108.154.26 port 58994 ssh2
+LOG_LEVEL=DEBUG
+160.225.104.25 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 500 45514 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/54.0.854.0 Safari/532.0"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"cache miss","user":"gillespiekaren","trace":"monztndNJ2JJ"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[6237]: Session opened for drobinson from 192.168.86.158 port 37127 ssh2
+163.103.160.25 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 200 353811 "-" "Opera/9.39.(X11; Linux i686; tl-PH) Presto/2.9.185 Version/10.00"
+DB_PORT=2110
+REDIS_URL=12396

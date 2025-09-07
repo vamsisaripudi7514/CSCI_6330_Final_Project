@@ -1,0 +1,41 @@
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"user session created","user":"evansamber","trace":"W5yMDQXAWSRn"}
+65.158.209.163 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 502 413375 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_5 rv:5.0; as-IN) AppleWebKit/531.42.5 (KHTML, like Gecko) Version/5.1 Safari/531.42.5"
+sshd[4787]: Session closed for awilson from 192.168.37.28 port 33691 ssh2
+sshd[8932]: Session opened for tara57 from 172.19.154.200 port 36765 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"cache miss","user":"shannondavidson","trace":"AqTt2CjLSqG9"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"user session created","user":"smithashley","trace":"0OxPdJ29wN72"}
+FEATURE_X_ENABLED=WARN
+DB_HOST=false
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"token refreshed","user":"malonemichael","trace":"GrqWqdentNmJ"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"token refreshed","user":"zeaton","trace":"urhJw4CpaGVf"}
+199.123.178.214 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 204 160456 "-" "Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/50.0.876.0 Mobile/48K864 Safari/532.1"
+FEATURE_X_ENABLED=2299
+3.211.93.24 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 204 190239 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_7 rv:4.0; ky-KG) AppleWebKit/535.50.5 (KHTML, like Gecko) Version/4.0 Safari/535.50.5"
+67.242.125.93 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 403 125001 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"cache miss","user":"sortiz","trace":"6ZbXDCViW5IG"}
+21.62.136.186 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 401 441233 "-" "Opera/8.49.(Windows 98; ru-RU) Presto/2.9.180 Version/10.00"
+147.124.157.159 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 201 400086 "-" "Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/47.0.823.0 Mobile/23A711 Safari/536.0"
+87.43.151.64 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 403 431361 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/32.0.840.0 Safari/532.2" API_KEY=AIzawLI2gzphkIrPxWZp7jk2J8VXkQZoOvlGqSr0QA
+FEATURE_X_ENABLED=redis://localhost:6379
+18.1.177.129 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 500 227094 "-" "Opera/8.65.(X11; Linux x86_64; sr-RS) Presto/2.9.176 Version/12.00"
+sshd[7518]: Session opened for lgalloway from 10.126.2.185 port 54575 ssh2
+110.144.152.7 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 401 96398 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/9.4b4289.0 Mobile/61T433 Safari/532.2"
+sshd[2176]: Session closed for julie47 from 172.27.127.235 port 39731 ssh2
+DB_HOST=24543
+LOG_LEVEL=web-06.ward-lee.info
+DB_HOST=false
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"request completed","user":"jacksonrebecca","trace":"O5CMHOl9qu9r"}
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"balvarez","trace":"Loah7UkwbUUJ"}
+sshd[9053]: Failed password for brian28 from 10.148.88.44 port 41937 ssh2
+FEATURE_X_ENABLED=276
+DB_PORT=redis://localhost:6379
+DB_PORT=4147
+sshd[7931]: Session closed for anneboyer from 192.168.177.37 port 57613 ssh2
+sshd[4996]: Accepted password for smithrobert from 10.196.202.196 port 50007 ssh2
+160.63.160.253 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 403 108751 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/10.2q9161.0 Mobile/68F081 Safari/535.1"
+DB_PORT=true
+DB_PORT=WARN
+104.255.173.134 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 502 97341 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/3.0)"
+DB_HOST=INFO
+API_TIMEOUT=web-05.williamson.biz API_KEY=AIzaJp5olPfxgSliiUwG1Rswgujs2Uizo5KcIfscyQ

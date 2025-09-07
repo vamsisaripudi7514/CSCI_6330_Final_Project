@@ -1,0 +1,44 @@
+sshd[9341]: Session closed for stephanieanthony from 172.26.73.111 port 42565 ssh2 password=tK8+Tn6HKOk?4!na
+sshd[7746]: Session opened for andradecarolyn from 172.23.142.255 port 43924 ssh2
+sshd[7186]: Session opened for ilutz from 10.216.6.197 port 54431 ssh2
+sshd[6479]: Failed password for uroy from 10.212.232.127 port 38060 ssh2
+sshd[7911]: Accepted password for daniellestewart from 172.27.238.74 port 28191 ssh2
+DB_PORT=redis://localhost:6379
+LOG_LEVEL=1191
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"request completed","user":"russell49","trace":"UtjN1mF9Wnwz"}
+95.136.209.196 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 403 293729 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_2 rv:6.0; fur-IT) AppleWebKit/533.20.4 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.4"
+sshd[2839]: Accepted password for ann90 from 10.244.1.35 port 39695 ssh2
+DB_PORT=63072
+sshd[5214]: Failed password for hoodheather from 172.20.243.130 port 44229 ssh2
+API_TIMEOUT=false
+2.228.93.94 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 204 30914 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0cU1GMXdvUTBmIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.s9LBQsiKPPz1jhEXEuJ7asNYo1Sdsip52GihWFn1Pgw'
+65.68.17.79 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 403 448660 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.2.1 (KHTML, like Gecko) Version/5.0.5 Safari/534.2.1"
+198.195.2.197 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 302 239097 "-" "Mozilla/5.0 (Windows CE; as-IN; rv:1.9.2.20) Gecko/3849-10-22 21:46:28.880806 Firefox/3.6.14"
+4.9.6.25 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 502 284366 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/13.0.846.0 Safari/535.2"
+FEATURE_X_ENABLED=srv-33.brown-chambers.com
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"retrying upstream","user":"james87","trace":"blSKMR9txJLx"}
+sshd[6397]: Session opened for afoster from 192.168.211.119 port 51460 ssh2
+sshd[7246]: Accepted password for bpowell from 192.168.39.6 port 30456 ssh2
+sshd[4167]: Accepted password for sethsweeney from 192.168.44.102 port 13207 ssh2
+sshd[8956]: Accepted password for brittanyhill from 192.168.112.155 port 29402 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"db slow query","user":"mcdonaldandrea","trace":"jCnKMAfypRnE"}
+sshd[5373]: Failed password for kristinrichmond from 10.218.71.15 port 31823 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"mark85","trace":"zgoMsZSOy6W4"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"hgarcia","trace":"ZheS00ktYdHj"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"bethanymartinez","trace":"Ud4tcJCxsCoi"}
+LOG_LEVEL=web-60.dawson.com
+FEATURE_X_ENABLED=DEBUG
+sshd[1170]: Accepted password for jessicalucas from 10.144.210.112 port 49808 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"db slow query","user":"bradley89","trace":"ETkAHwhcIxjS"}
+sshd[3967]: Failed password for brooke72 from 192.168.10.73 port 20108 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"ybartlett","trace":"TJPNyDiZiVge"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"request completed","user":"elizabeth78","trace":"0TN6QtYk3yG8"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"petersonchelsea","trace":"hMkLtt7sHYRo"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"cache miss","user":"ssmith","trace":"hJR1Q91EjPXv"}
+DB_PORT=3651
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"token refreshed","user":"uallen","trace":"wSay9V8SfCs1"}
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"token refreshed","user":"amylowery","trace":"iFGQW7EQm7UZ"}
+61.172.53.204 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 404 247809 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/53.0.837.0 Safari/535.0"
+80.100.157.240 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 200 310334 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3 rv:3.0; lij-IT) AppleWebKit/533.3.3 (KHTML, like Gecko) Version/5.0.1 Safari/533.3.3"

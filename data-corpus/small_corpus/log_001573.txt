@@ -1,0 +1,35 @@
+sshd[2237]: Session closed for nguyenbrandon from 172.20.238.69 port 64995 ssh2
+109.158.35.146 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 302 362248 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_0 rv:6.0; ml-IN) AppleWebKit/532.42.2 (KHTML, like Gecko) Version/4.1 Safari/532.42.2"
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"token refreshed","user":"singletonjack","trace":"LrPLb2DAktbw"}
+LOG_LEVEL=true
+216.146.111.181 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 502 309565 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ur-IN) AppleWebKit/534.6.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6534.6.7"
+REDIS_URL=DEBUG
+45.19.90.233 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 502 54563 "-" "Mozilla/5.0 (Windows NT 11.0; szl-PL; rv:1.9.0.20) Gecko/7098-04-15 12:54:03.128510 Firefox/3.6.17"
+REDIS_URL=redis://localhost:6379
+sshd[3357]: Session opened for dana67 from 10.228.46.142 port 41263 ssh2
+41.37.115.205 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 500 134589 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"db slow query","user":"nmclaughlin","trace":"Vb9ZJRhP8Ctz"}
+DB_PORT=true Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJxMEN3MmpGRlNEIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.R6tVFv4KaajPD-ihMeIfQtKPbhtgZrBb6fjAR-oA-oA'
+sshd[8869]: Failed password for nromero from 172.31.138.185 port 37925 ssh2
+77.113.151.191 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 401 188126 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/5.1)"
+80.1.184.76 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 403 89240 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_6 rv:5.0; kw-GB) AppleWebKit/532.22.4 (KHTML, like Gecko) Version/4.1 Safari/532.22.4"
+FEATURE_X_ENABLED=laptop-48.perkins.org
+FEATURE_X_ENABLED=27744
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"katherinewagner","trace":"neLmqf70HDui"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"request completed","user":"torresandrea","trace":"XVxfzwOStH8Q"}
+sshd[9973]: Session closed for unelson from 172.18.136.218 port 14497 ssh2
+23.201.134.92 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 401 69422 "-" "Mozilla/5.0 (Linux; Android 3.2.4) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/15.0.852.0 Safari/532.2"
+sshd[3711]: Failed password for kimberly32 from 10.130.204.89 port 49633 ssh2
+sshd[6616]: Session closed for frankdavis from 10.62.155.96 port 46812 ssh2
+DB_HOST=redis://localhost:6379
+221.192.228.66 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 403 361940 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_3_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/59.0.842.0 Mobile/01L725 Safari/532.1"
+FEATURE_X_ENABLED=desktop-20.carrillo.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtUUNIODUza1FMIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.YYqnW6FoYzsNURB7f6UxHzx1OkncGyD3PVgWm-w7HP8'
+36.58.94.179 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 204 9113 "-" "Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/23.0.850.0 Safari/531.2"
+sshd[9823]: Failed password for moorechad from 10.239.101.234 port 64063 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"zjohnson","trace":"hzmUYOkoe2LF"}
+37.253.138.49 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 401 109107 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/533.7.6 (KHTML, like Gecko) Version/4.1 Safari/533.7.6"
+DB_PORT=3924
+DB_PORT=false API_KEY=AIzauAB7FRarcBhq77Ba1KzCmV04W2C8yBi0G45htQ
+DB_HOST=4543
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"request completed","user":"jacksonaaron","trace":"Lh1VZARGPjEi"}

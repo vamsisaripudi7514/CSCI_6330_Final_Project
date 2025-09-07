@@ -1,0 +1,33 @@
+sshd[1668]: Session closed for kochjason from 192.168.90.180 port 37508 ssh2
+41.199.221.97 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 404 146534 "-" "Mozilla/5.0 (Windows NT 5.01) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/50.0.843.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"brandon76","trace":"p3SbuYRXTifQ"}
+DB_PORT=DEBUG
+DB_PORT=false
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"db slow query","user":"donald89","trace":"mxuSGK1I3s32"}
+195.181.142.240 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 502 74154 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_9) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/33.0.849.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"request completed","user":"twalker","trace":"uq4RZa4DW5E9"}
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"cache miss","user":"owenbrandon","trace":"ZgBIUELzAIMn"}
+42.251.111.60 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 204 253335 "-" "Mozilla/5.0 (Windows 98; st-ZA; rv:1.9.2.20) Gecko/8374-09-04 22:12:26.018372 Firefox/3.8"
+216.180.147.62 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 404 302318 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3; rv:1.9.3.20) Gecko/4958-02-26 16:50:17.659195 Firefox/3.8"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"scottlatoya","trace":"wHQGwUbrPTye"}
+210.57.255.158 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 204 56744 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/5.1)" password=dN0?.3zgz@
+sshd[7801]: Session closed for uchang from 10.240.252.77 port 61642 ssh2
+146.151.162.78 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 400 262412 "-" "Opera/9.67.(X11; Linux i686; csb-PL) Presto/2.9.184 Version/12.00"
+REDIS_URL=WARN
+165.79.20.190 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 401 28993 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/17.0.883.0 Mobile/41H188 Safari/531.1"
+42.252.115.38 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 500 430741 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/55.0.849.0 Safari/532.2"
+API_TIMEOUT=21368
+sshd[9864]: Failed password for aaron02 from 172.20.163.104 port 10442 ssh2
+REDIS_URL=INFO
+sshd[8903]: Accepted password for lisahumphrey from 172.26.23.89 port 39154 ssh2
+sshd[4554]: Session closed for gabriellejohnson from 10.94.243.181 port 54063 ssh2
+99.128.71.147 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 200 413859 "-" "Opera/8.94.(X11; Linux x86_64; bem-ZM) Presto/2.9.163 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"request completed","user":"cookmatthew","trace":"NwdbT1stPtH4"}
+sshd[5826]: Accepted password for dcastillo from 10.25.196.209 port 15626 ssh2
+REDIS_URL=redis://localhost:6379
+118.149.184.150 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 204 103298 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3818-05-18 19:33:57.802414 Firefox/3.6.12"
+DB_PORT=1695
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"vruiz","trace":"YdluF3dhSN5K"}
+157.210.238.33 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 204 304535 "-" "Opera/8.61.(Windows NT 5.0; tcy-IN) Presto/2.9.169 Version/12.00"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"alexisnguyen","trace":"w13oWpxtlpMa"}

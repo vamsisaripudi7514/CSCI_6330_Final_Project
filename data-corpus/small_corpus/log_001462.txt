@@ -1,0 +1,37 @@
+sshd[6793]: Failed password for keith39 from 192.168.183.201 port 59121 ssh2
+REDIS_URL=redis://localhost:6379
+sshd[9173]: Session opened for valdezmarvin from 10.182.57.208 port 54578 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"db slow query","user":"jason44","trace":"AyP1UcSuQ1Aw"}
+47.244.40.25 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 502 472803 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.1)"
+sshd[2457]: Failed password for susankrause from 10.169.94.236 port 14578 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"request completed","user":"kellymary","trace":"zYX4ZHvg5uxx"}
+sshd[6073]: Accepted password for simpsonamanda from 172.22.244.162 port 42018 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"cache miss","user":"yfuller","trace":"XWPaFTcX8RIb"}
+148.231.88.15 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 200 94547 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_3 rv:2.0; fy-DE) AppleWebKit/534.33.6 (KHTML, like Gecko) Version/5.0.3 Safari/534.33.6"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"request completed","user":"david83","trace":"Z53hTl3NGIlx"}
+171.82.172.45 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 500 122121 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/16.6m4287.0 Mobile/88E498 Safari/532.0"
+91.63.153.200 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 400 224456 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.1)"
+14.84.97.78 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 204 6357 "-" "Mozilla/5.0 (Windows NT 10.0; lv-LV; rv:1.9.2.20) Gecko/3707-04-30 15:20:34.694733 Firefox/3.8"
+DB_HOST=INFO
+sshd[2382]: Failed password for jkerr from 10.252.70.200 port 35827 ssh2
+DB_HOST=WARN
+206.110.203.112 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 404 32020 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6 rv:4.0; hi-IN) AppleWebKit/535.14.4 (KHTML, like Gecko) Version/4.0.3 Safari/535.14.4"
+sshd[3924]: Session opened for brandonnguyen from 172.16.14.124 port 58145 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"token refreshed","user":"xgarcia","trace":"sQrKajvSBzSP"} password=jO3!<h1o
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"request completed","user":"thomasnicole","trace":"NRucohjAOofx"}
+114.116.111.86 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 201 340993 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; so-ET) AppleWebKit/532.27.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.27.3"
+50.155.201.65 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 401 10063 "-" "Opera/8.58.(X11; Linux i686; quz-PE) Presto/2.9.186 Version/11.00"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"db slow query","user":"ilewis","trace":"xRLv6ecOE12E"}
+sshd[8370]: Session opened for darinthompson from 172.19.12.210 port 23403 ssh2
+25.15.209.3 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 302 24818 "-" "Opera/8.67.(X11; Linux i686; ar-TD) Presto/2.9.168 Version/11.00"
+DB_HOST=DEBUG
+202.18.87.49 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 500 484361 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.1)"
+65.76.67.5 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 201 281085 "-" "Opera/8.38.(Windows NT 6.0; kk-KZ) Presto/2.9.176 Version/11.00"
+DB_PORT=WARN
+DB_HOST=true
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"cache miss","user":"nhaley","trace":"li95Z6b4Gprl"}
+105.151.25.96 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 502 163614 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/40.0.806.0 Safari/536.2"
+DB_HOST=false
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"wmiller","trace":"btG8DDueFggm"}
+170.132.159.150 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 302 369225 "-" "Opera/8.16.(Windows NT 6.0; mt-MT) Presto/2.9.182 Version/12.00"

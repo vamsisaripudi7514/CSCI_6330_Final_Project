@@ -1,0 +1,28 @@
+143.50.103.255 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 302 34110 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/44.0.828.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"db slow query","user":"juliemcfarland","trace":"UZGnyVzPCKT9"}
+DB_PORT=true
+DB_HOST=true
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"lopezrobert","trace":"O5CpEt3BMhUl"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrdUJmR1VkQVRBIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.e_27q5UwDDWLYIJEdOU_0LFjugAIdhThFvdKZW2IiF8'
+LOG_LEVEL=lt-20.kelley.com
+sshd[9344]: Session opened for adampotter from 10.240.120.3 port 57021 ssh2
+22.54.243.164 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 400 507597 "-" "Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/19.0.828.0 Safari/533.0"
+DB_HOST=true
+114.198.232.108 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 404 507507 "-" "Mozilla/5.0 (Windows 95; nb-NO; rv:1.9.2.20) Gecko/4274-04-13 16:59:21.962357 Firefox/15.0"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"request completed","user":"alanlester","trace":"xvYSztlklWG0"}
+sshd[4670]: Session closed for kimberlyfernandez from 192.168.253.140 port 10807 ssh2
+182.129.31.36 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 401 35277 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/17.0.840.0 Safari/532.2"
+API_TIMEOUT=24081
+sshd[5336]: Session opened for tylerwashington from 192.168.201.112 port 56267 ssh2
+DB_HOST=true
+sshd[8084]: Session opened for jeffrey09 from 192.168.18.85 port 51335 ssh2
+219.72.4.88 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 204 334491 "-" "Mozilla/5.0 (Windows CE; raj-IN; rv:1.9.1.20) Gecko/7864-04-04 17:27:44.730042 Firefox/3.6.1"
+DB_PORT=WARN
+172.255.192.100 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 200 272669 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)"
+sshd[3823]: Session opened for bmontgomery from 10.23.83.132 port 50970 ssh2
+sshd[6467]: Session opened for alyssa19 from 10.135.84.196 port 64943 ssh2
+LOG_LEVEL=64024
+sshd[1549]: Accepted password for sroberts from 192.168.200.192 port 17201 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"request completed","user":"mrobbins","trace":"KNBj6Av2eSkX"}
+LOG_LEVEL=redis://localhost:6379
+sshd[6142]: Accepted password for lisa31 from 192.168.188.93 port 46991 ssh2
+REDIS_URL=web-29.johnson.net

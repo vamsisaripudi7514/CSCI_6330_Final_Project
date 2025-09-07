@@ -1,0 +1,25 @@
+FEATURE_X_ENABLED=email-77.moss.net
+LOG_LEVEL=DEBUG
+sshd[4045]: Failed password for taylor46 from 10.1.50.249 port 31560 ssh2
+170.46.121.172 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 401 183321 "-" "Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/15.9x4511.0 Mobile/73L812 Safari/536.0"
+sshd[4855]: Failed password for bakerjared from 192.168.200.77 port 50698 ssh2
+25.79.1.111 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 400 267846 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/23.0.800.0 Safari/534.0"
+API_TIMEOUT=true
+sshd[6487]: Failed password for brandonmartinez from 172.21.91.56 port 20794 ssh2
+sshd[8640]: Accepted password for rodriguezbenjamin from 172.18.144.138 port 32625 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"cache miss","user":"rogersalicia","trace":"Aq7vZeNyFztM"}
+sshd[1560]: Session closed for sheila56 from 192.168.251.215 port 43360 ssh2
+REDIS_URL=834
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"jason04","trace":"1uMMBP9HDqHY"}
+204.215.150.66 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 200 372480 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; rw-RW) AppleWebKit/533.2.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6533.2.3"
+176.19.9.245 - - [07/Sep/2025:18:24:49 +0000] "GET /index.html HTTP/1.1" 502 247306 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/17.0.834.0 Safari/535.0"
+REDIS_URL=1574
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"linda41","trace":"MnlYE2DnhvDl"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"cache miss","user":"teresa38","trace":"Ngju8xtotiPM"} password=dA3,>y"=u+2_3
+39.38.186.127 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 201 283867 "-" "Opera/9.24.(X11; Linux i686; dv-MV) Presto/2.9.180 Version/12.00"
+sshd[1832]: Session opened for lisapatrick from 10.58.158.40 port 25643 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"jmccarthy","trace":"pURmJHmnK8Lp"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"user session created","user":"jclarke","trace":"5yea28VA2acM"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJSemQwbFN5Sm80IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.PJuSJ2Rdirw8JK4MZ0btye5_R9QZkHPNuDdF7RukfSQ'
+99.7.188.168 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 400 338135 "-" "Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/19.0.846.0 Mobile/89C213 Safari/531.1"
+DB_PORT=3264
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"jimmyponce","trace":"tbQVuicTqjYs"}

@@ -1,0 +1,42 @@
+107.53.75.5 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 401 192649 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/53.0.809.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"user session created","user":"weberangela","trace":"bOkeqJ2UlF4Q"}
+sshd[4688]: Failed password for matthewsmith from 192.168.87.64 port 47836 ssh2
+sshd[5765]: Session closed for julie03 from 172.25.66.212 port 14917 ssh2
+sshd[9244]: Accepted password for andersonsherri from 192.168.225.217 port 28799 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"pross","trace":"8vzIvgEgytMd"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"joshuawood","trace":"64Xbfm0FD7h1"}
+sshd[4233]: Session closed for poolelauren from 172.25.227.59 port 30581 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJCZHFabmFnWXhKIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.MfxCg15BfI7fpnS7nk73_OdlAAcXvot8LIt8gnO39mg'
+sshd[1525]: Session opened for jason31 from 172.18.32.128 port 26329 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"request completed","user":"stephenchoi","trace":"2uoSRFWV1YVp"}
+LOG_LEVEL=redis://localhost:6379
+DB_PORT=721
+74.34.136.127 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 401 341060 "-" "Mozilla/5.0 (Android 3.2.2; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"qstrong","trace":"U8OUqkKgFfjA"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"request completed","user":"smithlisa","trace":"H9jarzqfgaJq"}
+10.2.91.0 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 403 95629 "-" "Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/45.0.880.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"kimberly88","trace":"YBwLwrTbEjuY"}
+REDIS_URL=23764
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"robin12","trace":"Dp6qI5zy4cZT"}
+LOG_LEVEL=redis://localhost:6379
+156.75.199.113 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 302 408123 "-" "Opera/8.98.(X11; Linux x86_64; bs-BA) Presto/2.9.166 Version/11.00"
+21.79.47.255 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 201 261924 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:4.0; cy-GB) AppleWebKit/532.21.2 (KHTML, like Gecko) Version/4.0.3 Safari/532.21.2"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"user session created","user":"juarezpatricia","trace":"KT0MAOxoqeNA"}
+FEATURE_X_ENABLED=redis://localhost:6379
+83.3.71.37 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 401 289275 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/48.0.887.0 Safari/531.2"
+FEATURE_X_ENABLED=41993
+FEATURE_X_ENABLED=23085
+DB_PORT=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"request completed","user":"johnvazquez","trace":"6xdmYLF8Cb0r"}
+DB_PORT=3346
+195.2.167.193 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 204 463142 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.16.7 (KHTML, like Gecko) Version/4.0.5 Safari/533.16.7"
+DB_HOST=38403
+sshd[5083]: Accepted password for jamesjones from 172.28.110.2 port 48334 ssh2
+158.10.49.15 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 404 313458 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0 rv:2.0; lb-LU) AppleWebKit/531.5.4 (KHTML, like Gecko) Version/4.0.5 Safari/531.5.4"
+REDIS_URL=4834
+104.92.195.13 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 404 476420 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/3062-02-21 20:32:48.106949 Firefox/3.8"
+FEATURE_X_ENABLED=true
+REDIS_URL=10888
+99.28.69.139 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 201 13785 "-" "Opera/8.81.(X11; Linux i686; nan-TW) Presto/2.9.179 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"shelbyhartman","trace":"rOBW9XHSvZGW"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"feliciagomez","trace":"ZBZ9WBGwwKTm"}
+DB_HOST=false

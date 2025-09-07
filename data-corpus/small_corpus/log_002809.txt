@@ -1,0 +1,25 @@
+sshd[8221]: Session opened for kennethking from 10.185.132.138 port 10400 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"lpreston","trace":"3ZDyYp2YJlxB"}
+168.123.50.52 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 404 372005 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.0)"
+sshd[3256]: Session closed for garciakenneth from 192.168.174.144 port 51581 ssh2
+LOG_LEVEL=10681
+86.233.133.62 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 200 521435 "-" "Opera/9.43.(Windows 95; fy-NL) Presto/2.9.189 Version/12.00"
+sshd[6901]: Session opened for smalone from 10.200.199.11 port 27848 ssh2
+LOG_LEVEL=20039
+LOG_LEVEL=INFO
+FEATURE_X_ENABLED=755
+API_TIMEOUT=44961
+FEATURE_X_ENABLED=9696
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"request completed","user":"brian12","trace":"0myrVB6pJvyf"}
+102.69.135.204 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 401 176612 "-" "Opera/8.79.(Windows NT 6.0; ig-NG) Presto/2.9.168 Version/10.00"
+sshd[3070]: Session closed for saraholiver from 172.25.228.201 port 32776 ssh2
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"cache miss","user":"cnunez","trace":"yGEARjcMNX7J"}
+91.8.75.35 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 200 28917 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.1)"
+126.139.48.255 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 302 101954 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/4061-09-22 10:47:18.856964 Firefox/10.0"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"token refreshed","user":"hbrewer","trace":"7f4uGrXNUyLW"}
+216.190.230.79 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 500 434446 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.1)"
+188.108.41.157 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 403 148239 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/3.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"kwatkins","trace":"9nzE5dT45c52"}
+213.30.100.27 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 403 388054 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/50.0.808.0 Safari/535.1"
+12.90.64.200 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 201 355853 "-" "Opera/8.79.(Windows NT 5.1; nr-ZA) Presto/2.9.173 Version/12.00"

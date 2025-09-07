@@ -1,0 +1,26 @@
+DB_PORT=3161
+FEATURE_X_ENABLED=34483
+DB_PORT=37196
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"charles32","trace":"Sa6xUl2JtxL8"}
+API_TIMEOUT=WARN
+17.181.134.165 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 401 222763 "-" "Opera/8.62.(Windows NT 6.2; kk-KZ) Presto/2.9.163 Version/12.00"
+LOG_LEVEL=web-87.jenkins.com
+106.46.213.1 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 302 365552 "-" "Mozilla/5.0 (Android 5.1.1; Mobile; rv:66.0) Gecko/66.0 Firefox/66.0"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"db slow query","user":"forbeskaren","trace":"fe1qvswdKE5n"}
+sshd[4082]: Session opened for dawn09 from 10.124.62.68 port 26353 ssh2
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"cache miss","user":"grahamkathryn","trace":"vaIfWLFW5B4x"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[9090]: Failed password for laurie02 from 172.25.120.127 port 62022 ssh2
+LOG_LEVEL=redis://localhost:6379
+206.14.223.35 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 502 267627 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/15.0s4384.0 Mobile/00R107 Safari/533.2"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"cache miss","user":"yvonne82","trace":"PZAtgTFLL6u9"}
+sshd[3472]: Session opened for bonniehoffman from 172.23.73.76 port 36856 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"token refreshed","user":"abigailgarner","trace":"sNaPo29kBe5O"}
+sshd[1387]: Session opened for richardsbrandy from 172.16.52.205 port 13030 ssh2
+213.5.55.212 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 502 120820 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/45.0.874.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"user session created","user":"christopher71","trace":"AnaryDZzJPHT"}
+155.121.211.6 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 201 474780 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0)" password=fL2}@t"l%
+sshd[4163]: Failed password for susan58 from 192.168.199.163 port 38943 ssh2
+sshd[1610]: Failed password for patrickmedina from 192.168.49.156 port 24231 ssh2
+75.43.214.69 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 403 126853 "-" "Mozilla/5.0 (Windows NT 5.0; unm-US; rv:1.9.1.20) Gecko/7031-11-14 23:05:52.385315 Firefox/3.6.6"

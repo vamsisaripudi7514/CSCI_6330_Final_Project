@@ -1,0 +1,35 @@
+sshd[4888]: Session opened for opage from 10.54.112.86 port 36200 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"wmurillo","trace":"WOJad06Z3Yfl"}
+sshd[1257]: Session closed for philip77 from 172.27.252.193 port 35345 ssh2
+sshd[2449]: Session closed for mcbridetimothy from 10.177.35.135 port 50328 ssh2
+109.224.82.217 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 204 4671 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6; rv:1.9.4.20) Gecko/7452-10-01 06:34:19.238342 Firefox/3.8"
+192.56.57.203 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 302 233939 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_4) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/51.0.834.0 Safari/536.2"
+27.184.111.140 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 201 346546 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/5538-03-02 14:29:52.618484 Firefox/12.0"
+40.21.232.8 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 502 485911 "-" "Opera/8.11.(X11; Linux i686; fa-IR) Presto/2.9.177 Version/11.00"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"randylittle","trace":"gcosWcgmBmcr"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"db slow query","user":"theresa19","trace":"JL1hEfmW1BfE"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJGU0VPVjVCbXBpIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.pAoj8wdg2_8akbH2v3z4EpOrr3uG72Znct-Xoc8W0zs'
+API_TIMEOUT=6246
+sshd[5830]: Session closed for ginamunoz from 192.168.201.133 port 22473 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"request completed","user":"shermanallen","trace":"76JKZUhDPvDJ"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"user session created","user":"theresajordan","trace":"Wy0DTlyKqzU2"}
+101.118.73.141 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 204 220620 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/19.0.809.0 Mobile/75V116 Safari/531.0"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"bhardy","trace":"8lNbgjduPMcl"}
+FEATURE_X_ENABLED=11414
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"wardlisa","trace":"fdZ8IaMyNsMD"}
+37.8.189.252 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 500 336113 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/11.8q0323.0 Mobile/58N377 Safari/534.1"
+172.68.133.197 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 201 372439 "-" "Opera/9.81.(Windows NT 5.01; mn-MN) Presto/2.9.163 Version/10.00"
+DB_HOST=redis://localhost:6379
+sshd[5881]: Session closed for robert09 from 192.168.251.55 port 21161 ssh2
+197.195.208.131 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 500 338322 "-" "Mozilla/5.0 (Android 3.1; Mobile; rv:18.0) Gecko/18.0 Firefox/18.0"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"tglass","trace":"91Cwfw0XBZ3h"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"kenneth35","trace":"10XEQMjABiD3"}
+API_TIMEOUT=email-94.stewart.com
+sshd[9447]: Session opened for eroth from 172.17.209.238 port 56517 ssh2
+203.22.19.212 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 201 3378 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_5; rv:1.9.2.20) Gecko/2695-04-02 21:53:02.829750 Firefox/3.8"
+DB_PORT=708
+sshd[1732]: Accepted password for lorirowland from 192.168.129.165 port 47901 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"token refreshed","user":"tpearson","trace":"7GrObuJ5YJqv"}
+sshd[3632]: Accepted password for blake80 from 172.26.10.162 port 44785 ssh2
+DB_HOST=WARN
+sshd[7003]: Session closed for wagnerkyle from 172.18.123.117 port 43474 ssh2
+DB_PORT=3516

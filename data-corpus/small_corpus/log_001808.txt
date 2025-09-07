@@ -1,0 +1,27 @@
+DB_HOST=redis://localhost:6379
+FEATURE_X_ENABLED=WARN
+sshd[8180]: Session opened for ashleysummers from 172.29.82.203 port 33584 ssh2
+sshd[5328]: Session closed for austinwheeler from 10.119.192.37 port 32396 ssh2
+DB_HOST=false
+sshd[4474]: Failed password for millerlori from 10.185.57.128 port 47716 ssh2
+104.160.159.1 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 403 522296 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; mt-MT) AppleWebKit/535.33.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.33.5"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"greenediana","trace":"tiFgc06odaY8"} password=lI9"#i(a
+API_TIMEOUT=INFO
+106.163.126.26 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 500 66351 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; cv-RU) AppleWebKit/535.16.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6535.16.5"
+API_TIMEOUT=1470
+sshd[7692]: Session opened for mcolon from 192.168.8.33 port 21573 ssh2
+112.104.233.74 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 403 214084 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.0)"
+sshd[7167]: Session closed for mwilson from 192.168.128.4 port 14043 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"request completed","user":"nthompson","trace":"lBzXBA6DmsNb"}
+sshd[4358]: Session closed for qjennings from 10.205.55.172 port 34680 ssh2
+sshd[8538]: Session closed for bstevens from 172.29.93.237 port 30999 ssh2
+sshd[3188]: Session closed for moonsheryl from 172.31.78.254 port 39078 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"token refreshed","user":"justinbrooks","trace":"S7VkbblkMN7N"}
+121.39.22.208 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 200 452740 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/535.19.7 (KHTML, like Gecko) Version/4.0.2 Safari/535.19.7"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"user session created","user":"bbarr","trace":"T7CidZwDLPvj"}
+163.223.242.241 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 204 408089 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/8500-02-02 02:39:34.283905 Firefox/3.8"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"cache miss","user":"xschneider","trace":"jjGzl9uQxpSU"}
+sshd[2419]: Accepted password for jenkinsashley from 192.168.235.143 port 40961 ssh2
+73.75.153.221 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 201 289555 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"cache miss","user":"sethcampos","trace":"KnsE061cVyV4"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"justin93","trace":"eMrzCpIRdlO6"}

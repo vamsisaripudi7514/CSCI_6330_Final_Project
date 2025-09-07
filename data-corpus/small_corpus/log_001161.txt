@@ -1,0 +1,38 @@
+84.152.203.201 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 401 506378 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4923-03-17 16:06:34.886703 Firefox/12.0"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"cache miss","user":"rodgersalexandra","trace":"TVmVROKCnOVY"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"rcooper","trace":"CHetlnn5Kzjx"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"token refreshed","user":"lopezsharon","trace":"iFLNR2LCX4Mr"}
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"user session created","user":"cestrada","trace":"5PlImINMACtp"}
+FEATURE_X_ENABLED=redis://localhost:6379
+152.197.228.240 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 500 117525 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/26.0.843.0 Safari/531.1" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJNZ01mSXZZa2lMIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Uwu86Go0b3fFHE2DA-6x1e6tpZGkDOZSAoD6q5LyEXQ'
+sshd[8470]: Session opened for josegutierrez from 10.28.5.206 port 60467 ssh2
+sshd[6715]: Session closed for stevencarter from 172.27.117.219 port 47077 ssh2
+sshd[5165]: Accepted password for jeffery90 from 172.30.137.150 port 29755 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"request completed","user":"sherryhinton","trace":"Lgi1Rss0b7HK"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"db slow query","user":"denise87","trace":"sAbkPStZPp2A"}
+LOG_LEVEL=DEBUG password=bG6%ly)V/k
+DB_HOST=true
+sshd[1804]: Failed password for romeroalexander from 10.46.99.243 port 52531 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiRFVVR1lnZkhTIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.l2xq8UKPt3UT9s6gvXTAAbbhYIRofBNNNK7J4YEIgSw'
+REDIS_URL=false
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"user session created","user":"zachary06","trace":"XSFwH7Vxj9M1"}
+72.194.239.58 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 200 181654 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"token refreshed","user":"jenniferowen","trace":"1OnkXLHqaEgv"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"user session created","user":"timothyfisher","trace":"7BB5ptPpCrfe"}
+sshd[1284]: Session opened for ruizeric from 192.168.217.236 port 13386 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"token refreshed","user":"yolandasmith","trace":"ZYmRktweppv9"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"request completed","user":"theresaalvarez","trace":"KjhtHrcCO8Q1"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"william00","trace":"3vg2wQeThxLC"}
+107.230.118.159 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 204 178771 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.0)"
+sshd[3141]: Failed password for ucole from 10.34.27.199 port 31015 ssh2
+DB_HOST=37422
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"request completed","user":"richardstimothy","trace":"P5wUxl8rjAaN"}
+126.30.183.83 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 200 242822 "-" "Opera/8.20.(X11; Linux x86_64; nb-NO) Presto/2.9.167 Version/11.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"cache miss","user":"gloriamyers","trace":"nCDI9f4lKArc"}
+56.140.217.29 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 204 380023 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_5 rv:4.0; fil-PH) AppleWebKit/534.40.5 (KHTML, like Gecko) Version/5.0.2 Safari/534.40.5"
+78.204.198.91 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 200 59966 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/8575-01-24 20:04:28.979523 Firefox/3.8"
+DB_HOST=lt-14.mills.com
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"cache miss","user":"ryan82","trace":"5yxhnrqk7jZv"}
+sshd[5362]: Failed password for sarah10 from 10.183.151.102 port 26174 ssh2
+API_TIMEOUT=lt-47.wilkins.net

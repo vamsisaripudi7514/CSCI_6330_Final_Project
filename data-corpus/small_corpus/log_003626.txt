@@ -1,0 +1,29 @@
+216.82.13.99 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 302 374607 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_9 rv:3.0; my-MM) AppleWebKit/533.2.3 (KHTML, like Gecko) Version/5.0 Safari/533.2.3"
+sshd[8203]: Failed password for martinezaaron from 10.137.130.37 port 47890 ssh2
+216.84.153.135 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 500 161555 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.0)"
+sshd[6792]: Session closed for lisa71 from 192.168.167.10 port 60900 ssh2
+DB_PORT=false
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"request completed","user":"katiewest","trace":"yw3qimkAnVb8"}
+86.129.121.124 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 302 55138 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.19.2 (KHTML, like Gecko) Version/4.1 Safari/535.19.2"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"erica41","trace":"jsJcf0ojIOR9"}
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"jeremy18","trace":"rP8H46nGGebZ"}
+sshd[4004]: Session opened for kgraves from 172.16.176.111 port 47001 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"user session created","user":"smarks","trace":"zCVgUHDK6Hr6"}
+REDIS_URL=redis://localhost:6379
+LOG_LEVEL=redis://localhost:6379
+4.193.137.87 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 404 482819 "-" "Mozilla/5.0 (Windows NT 6.0; ko-KR; rv:1.9.1.20) Gecko/7238-08-15 20:55:45.826508 Firefox/3.8"
+FEATURE_X_ENABLED=49029
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"elizabeth92","trace":"Oq37798ndAhp"}
+sshd[9995]: Accepted password for hilldean from 10.81.144.26 port 47777 ssh2
+DB_HOST=WARN
+7.68.229.103 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 201 58013 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.1)"
+sshd[8645]: Session opened for fnorton from 172.31.74.8 port 57137 ssh2
+73.55.247.58 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 404 245261 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/22.0.825.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"token refreshed","user":"rdickson","trace":"FLsyaXo5PovP"}
+REDIS_URL=false
+LOG_LEVEL=db-84.bailey-smith.com
+sshd[3059]: Failed password for ypowers from 192.168.159.133 port 31712 ssh2
+157.62.225.18 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 401 417133 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_3 rv:6.0; gu-IN) AppleWebKit/531.8.6 (KHTML, like Gecko) Version/4.0 Safari/531.8.6"
+DB_PORT=web-78.hamilton-soto.org
+193.61.17.62 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 403 179985 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.27.5 (KHTML, like Gecko) Version/5.1 Safari/535.27.5"
