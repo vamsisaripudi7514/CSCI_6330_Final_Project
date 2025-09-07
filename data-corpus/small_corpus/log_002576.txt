@@ -1,0 +1,28 @@
+sshd[1145]: Session closed for zpatterson from 192.168.241.170 port 57519 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"brittanykelley","trace":"jODu0fAoWRoR"}
+sshd[5786]: Failed password for twashington from 10.113.131.30 port 31838 ssh2
+184.64.106.207 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 200 391181 "-" "Mozilla/5.0 (Linux; Android 10) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/36.0.808.0 Safari/531.1"
+REDIS_URL=false
+199.174.72.197 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 403 47816 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.0)"
+DB_HOST=lt-31.rhodes.com
+sshd[9497]: Accepted password for amynixon from 192.168.183.16 port 58076 ssh2
+46.60.255.61 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 404 450 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_8) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/24.0.801.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"collinscameron","trace":"HVPX0UB3OJma"}
+FEATURE_X_ENABLED=lt-84.cox-hammond.com
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"autumn79","trace":"xQ6wm8Osp7Gg"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"cache miss","user":"anthonylove","trace":"7APzPDgnHTKh"}
+sshd[5160]: Session closed for austin81 from 10.240.39.32 port 39577 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"cache miss","user":"qcervantes","trace":"TFOYwdYZmnmz"}
+sshd[5154]: Session opened for cbenson from 10.102.204.189 port 61372 ssh2
+LOG_LEVEL=38747
+137.212.0.25 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 502 153810 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_4) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/56.0.841.0 Safari/535.0"
+FEATURE_X_ENABLED=46626
+API_TIMEOUT=redis://localhost:6379 password=lW1#dbLe
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=12308
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"request completed","user":"eric52","trace":"5Pw97CxVu0gq"}
+181.121.35.97 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 502 305797 "-" "Opera/9.20.(X11; Linux x86_64; am-ET) Presto/2.9.179 Version/12.00"
+DB_HOST=false
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"ohobbs","trace":"SKCeP6OYx2uG"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"request completed","user":"jamesburke","trace":"1MjmzF6r1Xj7"}

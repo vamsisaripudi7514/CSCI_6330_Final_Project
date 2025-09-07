@@ -1,0 +1,32 @@
+sshd[1754]: Accepted password for rodriguezjohn from 10.86.213.11 port 19788 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"user session created","user":"rthomas","trace":"Ex6WV0xvPkVT"}
+sshd[7889]: Accepted password for teresa93 from 10.120.169.214 port 48297 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"token refreshed","user":"zmartinez","trace":"U2BenK41WaCl"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"retrying upstream","user":"michelle83","trace":"u2z5reKDlVkF"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"keith09","trace":"FIZEvz8B26U5"}
+sshd[9844]: Session opened for jeffreyterry from 192.168.133.75 port 43376 ssh2
+REDIS_URL=laptop-82.knight-hammond.com
+75.126.79.241 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 400 172792 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/16.0.859.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"request completed","user":"flopez","trace":"MDU54SWNiFEO"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"db slow query","user":"robertsrita","trace":"K64zJOOCoRDF"}
+sshd[6932]: Accepted password for anthony46 from 10.16.214.159 port 18931 ssh2
+API_TIMEOUT=WARN
+FEATURE_X_ENABLED=redis://localhost:6379
+9.111.186.74 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 502 211528 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/47.0.818.0 Safari/533.2"
+REDIS_URL=redis://localhost:6379
+sshd[2283]: Accepted password for dcastaneda from 172.28.163.141 port 55092 ssh2
+DB_PORT=31238
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"retrying upstream","user":"kingram","trace":"AQq4a7lqC150"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"cache miss","user":"gonzalezchristopher","trace":"QsBiJhNMxGAO"}
+DB_PORT=WARN
+sshd[1121]: Accepted password for vmckay from 192.168.239.120 port 22043 ssh2
+FEATURE_X_ENABLED=4217
+sshd[8060]: Session closed for bellyvette from 172.28.154.75 port 27735 ssh2 password=uL6@T~W}%lR.
+DB_PORT=INFO
+89.17.89.25 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 404 301188 "-" "Mozilla/5.0 (Windows NT 5.0; nr-ZA; rv:1.9.2.20) Gecko/5758-12-08 08:03:47.590973 Firefox/3.6.10"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"user session created","user":"stonekaitlyn","trace":"Tspd81l7Tyfb"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"token refreshed","user":"sean47","trace":"wJDx8nGo9gLV"}
+FEATURE_X_ENABLED=DEBUG
+2.232.78.133 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 401 310097 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_8) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/56.0.870.0 Safari/534.0"
+125.127.7.9 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 500 37591 "-" "Opera/9.95.(Windows NT 6.2; af-ZA) Presto/2.9.183 Version/12.00"

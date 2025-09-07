@@ -1,0 +1,42 @@
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"billing","msg":"cache miss","user":"clarkryan","trace":"gljcoMTKrK9i"}
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"db slow query","user":"joylin","trace":"Qvc6Jf9BSZ1i"}
+FEATURE_X_ENABLED=DEBUG
+sshd[6924]: Accepted password for karnold from 172.21.105.162 port 46486 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"orders","msg":"token refreshed","user":"spencersimmons","trace":"D5zFwVDat29X"}
+sshd[2593]: Session closed for johnsonmark from 10.26.163.208 port 23539 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"vasquezclaudia","trace":"2RYQ8eWDKjgN"}
+sshd[8551]: Session closed for dfernandez from 172.17.139.1 port 64720 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"orders","msg":"cache miss","user":"wsavage","trace":"0HMDru7VrCV0"}
+sshd[8642]: Session closed for mroberts from 192.168.38.81 port 27068 ssh2
+DB_PORT=WARN
+sshd[1341]: Session opened for alexis57 from 192.168.76.197 port 11595 ssh2
+69.205.95.179 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 401 257925 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/28.0.862.0 Safari/531.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJpeEFlbk8zQ1plIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.NZyd1RBJUnaRleosZt4d9ZHEchP553_t23ABBAjq4S0'
+184.43.202.149 - - [07/Sep/2025:18:24:57 +0000] "POST /api/login HTTP/1.1" 204 438891 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.1)"
+57.133.131.153 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 403 266192 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ro-RO) AppleWebKit/533.34.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6533.34.4"
+112.105.207.154 - - [07/Sep/2025:18:24:57 +0000] "POST /index.html HTTP/1.1" 403 136620 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1 rv:6.0; ur-IN) AppleWebKit/535.3.2 (KHTML, like Gecko) Version/5.0.4 Safari/535.3.2"
+95.157.61.51 - - [07/Sep/2025:18:24:57 +0000] "GET /download/report.csv HTTP/1.1" 200 153425 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/5.1)"
+DB_PORT=true
+186.8.137.117 - - [07/Sep/2025:18:24:57 +0000] "DELETE /download/report.csv HTTP/1.1" 302 478554 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/25.0.862.0 Mobile/55U878 Safari/533.2"
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"auth","msg":"db slow query","user":"christopher83","trace":"zLIDzGTDBQAm"}
+FEATURE_X_ENABLED=45639
+DB_PORT=4448
+DB_PORT=desktop-67.hodges.com
+LOG_LEVEL=redis://localhost:6379
+132.195.149.194 - - [07/Sep/2025:18:24:57 +0000] "PUT /download/report.csv HTTP/1.1" 401 345901 "-" "Opera/8.87.(Windows NT 5.0; pt-BR) Presto/2.9.170 Version/12.00"
+REDIS_URL=3915
+sshd[4941]: Session opened for rodriguezdouglas from 192.168.20.216 port 35489 ssh2
+sshd[8620]: Accepted password for brownconnor from 172.29.172.205 port 57950 ssh2
+API_TIMEOUT=4124
+sshd[2738]: Session opened for taylorbrian from 192.168.27.179 port 36746 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"tcunningham","trace":"IXRNMTys987g"}
+sshd[8845]: Failed password for david21 from 172.30.202.10 port 43550 ssh2
+REDIS_URL=redis://localhost:6379
+27.149.224.30 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 204 483348 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/29.0.895.0 Safari/534.1"
+sshd[8455]: Session closed for dyerphilip from 172.16.68.6 port 16750 ssh2
+sshd[8823]: Session closed for ngarcia from 192.168.48.142 port 39721 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"notify","msg":"user session created","user":"travisjohnson","trace":"j8R0KKuILPfQ"}
+sshd[7300]: Accepted password for williamspaige from 10.192.13.141 port 15585 ssh2
+sshd[7524]: Accepted password for ddoyle from 172.17.250.42 port 64535 ssh2
+sshd[3257]: Accepted password for annhahn from 10.90.163.47 port 36205 ssh2

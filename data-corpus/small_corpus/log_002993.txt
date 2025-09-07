@@ -1,0 +1,32 @@
+DB_PORT=64973
+sshd[7819]: Accepted password for alexanderrodriguez from 172.20.33.95 port 49896 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"token refreshed","user":"josephorozco","trace":"Duc8ERboBjzM"}
+166.192.199.218 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 403 19420 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/34.0.817.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"token refreshed","user":"benjaminhartman","trace":"Pb7pXIfd94h1"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3QmpKUXUzRm16IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.dWTXpxz4erNNzDJYPpqf86KVVhJb2G1Se2S94z_kJrA'
+FEATURE_X_ENABLED=laptop-53.gallegos.com
+LOG_LEVEL=redis://localhost:6379
+sshd[3429]: Failed password for martin59 from 172.20.158.158 port 14319 ssh2
+179.0.236.176 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 404 85113 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.13.6 (KHTML, like Gecko) Version/5.0.1 Safari/531.13.6"
+36.66.79.141 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 204 109574 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/59.0.809.0 Safari/532.2"
+11.195.90.79 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 302 354144 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.1)"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"db slow query","user":"pmartin","trace":"ZmvgHTYV7W6o"}
+sshd[1562]: Accepted password for doughertyjames from 172.18.148.95 port 50277 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"jesse22","trace":"yVPEHrT46XUu"}
+LOG_LEVEL=DEBUG
+211.81.217.18 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 302 338519 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_8) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/38.0.800.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"alexander12","trace":"hPyAnx7xcvBa"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"retrying upstream","user":"heather63","trace":"SUAzOOllRVvs"}
+215.178.78.75 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 200 304756 "-" "Mozilla/5.0 (Windows CE; gv-GB; rv:1.9.1.20) Gecko/7500-02-25 08:00:28.269592 Firefox/9.0"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"xtaylor","trace":"Cu63SovsLOPL"}
+REDIS_URL=srv-95.bell-clark.com
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"ujenkins","trace":"GFsYxH53DjIV"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"db slow query","user":"teresa64","trace":"Lh4m79Kxo4d2"}
+138.200.226.73 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 403 373183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/20.0.854.0 Safari/534.0"
+95.27.26.81 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 302 157149 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/54.0.802.0 Safari/531.0"
+sshd[2358]: Accepted password for aaronlewis from 192.168.43.136 port 32373 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"bterry","trace":"N4V7WfIrWsl6"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"williamsmegan","trace":"Ge8F6UF1St2U"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"amcmillan","trace":"YjMkhnYVItvT"}
+sshd[7662]: Session opened for hdickerson from 10.30.74.208 port 36905 ssh2
+94.101.192.90 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 400 437898 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/25.0.810.0 Safari/536.1"
+DB_HOST=true

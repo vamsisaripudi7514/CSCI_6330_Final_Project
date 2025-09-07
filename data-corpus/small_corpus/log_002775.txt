@@ -1,0 +1,26 @@
+sshd[9481]: Failed password for denise25 from 10.175.45.221 port 13295 ssh2
+REDIS_URL=redis://localhost:6379
+DB_HOST=2707
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"db slow query","user":"david21","trace":"oB24rg2qFPfX"}
+sshd[5695]: Failed password for brandonjones from 10.200.153.61 port 57155 ssh2
+sshd[6578]: Session opened for toddgina from 10.237.50.85 port 29585 ssh2
+DB_PORT=INFO
+REDIS_URL=redis://localhost:6379
+173.61.165.36 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 502 512676 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; kk-KZ) AppleWebKit/535.34.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.34.4"
+31.230.53.9 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 502 352673 "-" "Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/12.2n7705.0 Mobile/12S641 Safari/534.1"
+91.45.167.77 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 400 342680 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.4.2 (KHTML, like Gecko) Version/5.0.1 Safari/531.4.2"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"db slow query","user":"anthony92","trace":"6btbHZACKNlC"} API_KEY=AIza1EYJT0OxU9yC7ZA3gXkNoFb50bP2qsq-8SDPxA
+DB_HOST=44029
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"cache miss","user":"allison92","trace":"fFlW3ehzE9YI"}
+120.248.85.146 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 302 187002 "-" "Mozilla/5.0 (Windows NT 4.0; eo-US; rv:1.9.2.20) Gecko/6387-06-20 17:02:17.789398 Firefox/3.6.18"
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"johnsonashley","trace":"wvpQuCitsEBF"}
+LOG_LEVEL=false
+FEATURE_X_ENABLED=33298
+64.50.65.164 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 302 498005 "-" "Opera/8.84.(Windows NT 6.1; he-IL) Presto/2.9.190 Version/11.00"
+69.24.73.141 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 302 243169 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/5.1)"
+sshd[2134]: Session opened for gbullock from 192.168.28.78 port 45819 ssh2
+sshd[1218]: Failed password for qmiller from 172.21.15.207 port 29499 ssh2
+sshd[2034]: Session opened for qjohnson from 10.185.168.17 port 43641 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"db slow query","user":"othomas","trace":"o7SE5PQRVLEJ"}
+56.9.153.75 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 400 280461 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; or-IN) AppleWebKit/533.31.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6533.31.7"

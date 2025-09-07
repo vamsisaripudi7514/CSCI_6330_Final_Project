@@ -1,0 +1,25 @@
+DB_HOST=2019
+sshd[4975]: Session closed for richardsonsteven from 10.77.166.254 port 19517 ssh2
+68.166.255.82 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 403 85667 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/55.0.859.0 Safari/533.2"
+33.215.44.75 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 403 407456 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ru-RU) AppleWebKit/531.31.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6531.31.3"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"igray","trace":"RnWOm3a31JOg"}
+220.226.2.20 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 500 515033 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.0)"
+sshd[1718]: Failed password for gmayo from 192.168.131.26 port 61306 ssh2
+sshd[7349]: Session opened for woodsjohn from 172.18.215.60 port 46189 ssh2 password=rS3=rA'4DHBT&Y
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"cache miss","user":"michael35","trace":"7dqu6p10kb3o"}
+sshd[9438]: Failed password for wendymckay from 10.89.194.52 port 38276 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"db slow query","user":"wwilliams","trace":"QbF6PyhuY2J8"}
+sshd[8982]: Accepted password for jennifercooley from 172.28.63.120 port 32680 ssh2
+sshd[9617]: Accepted password for fmorrison from 192.168.187.9 port 37149 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"token refreshed","user":"leejustin","trace":"3YkzsvsqwA9C"}
+222.242.195.206 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 403 513806 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.1)"
+REDIS_URL=1700
+REDIS_URL=18088
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"user session created","user":"gsanders","trace":"SZ4sfgXPVLur"}
+sshd[5291]: Accepted password for juanmartin from 192.168.74.132 port 47861 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"lewisbrent","trace":"PkajD9CXFeg0"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"request completed","user":"kimberlyscott","trace":"oMCF9PzG39Ra"}
+103.182.129.61 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 201 154021 "-" "Mozilla/5.0 (Linux; Android 12) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/20.0.821.0 Safari/536.1"
+204.38.20.161 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 403 90467 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/5.0)"
+sshd[9670]: Failed password for vstevenson from 172.17.50.243 port 23949 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJMV1d0aVZFTHMwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.q5sujXq4dXtfJ4GvL0enD6BxzbRGZsXVrPWEn9tDj90'

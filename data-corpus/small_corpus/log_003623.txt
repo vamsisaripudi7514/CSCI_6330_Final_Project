@@ -1,0 +1,37 @@
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"request completed","user":"zhenry","trace":"SUwMYkUGqZMZ"}
+LOG_LEVEL=INFO
+sshd[4451]: Session opened for fpatton from 172.23.4.119 port 54504 ssh2
+sshd[3319]: Accepted password for ebutler from 10.136.83.129 port 59280 ssh2
+sshd[2623]: Failed password for valeriemorgan from 192.168.226.102 port 14857 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"user session created","user":"samanthaknox","trace":"bFIx4mo1YPgt"}
+147.207.90.211 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 502 226621 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.0)"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"allenhamilton","trace":"zOGmJc9yM9sO"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"cache miss","user":"jrodriguez","trace":"xgY9oR4ynW1d"}
+120.29.210.70 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 500 209741 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/31.0.896.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"db slow query","user":"npeck","trace":"3KPvDXcfILZJ"}
+124.201.52.176 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 404 209917 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/535.13.5 (KHTML, like Gecko) Version/5.0 Safari/535.13.5"
+REDIS_URL=1600
+41.171.178.158 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 500 276872 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/48.0.865.0 Safari/536.1"
+sshd[3354]: Session closed for juanrose from 172.19.181.80 port 46391 ssh2 password=hZ5,hl(7T(A/MT
+DB_PORT=false
+188.141.188.12 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 401 444082 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.1)"
+sshd[5944]: Failed password for kelleyjennifer from 192.168.62.99 port 51173 ssh2
+LOG_LEVEL=false
+159.1.151.101 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 502 509309 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.1)"
+21.110.145.252 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 500 283110 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; tg-TJ) AppleWebKit/532.14.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.14.5"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"cache miss","user":"gromero","trace":"ezJtDnXEUehi"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"user session created","user":"seanmoran","trace":"RN1Thlkv4WZ3"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"db slow query","user":"thompsontiffany","trace":"b7Azl4ybTqvJ"}
+sshd[9352]: Session opened for hesterashley from 172.18.169.47 port 48591 ssh2
+5.99.146.146 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 204 520320 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_5) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/48.0.814.0 Safari/534.1"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"wendy80","trace":"Z7c83QOt3xc5"}
+sshd[3304]: Accepted password for kromero from 192.168.33.75 port 42355 ssh2
+sshd[6691]: Session opened for gregory11 from 192.168.94.43 port 38763 ssh2
+DB_HOST=5984
+API_TIMEOUT=redis://localhost:6379
+102.1.60.238 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 401 450611 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/531.36.1 (KHTML, like Gecko) Version/4.0.2 Safari/531.36.1"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"cache miss","user":"grantseth","trace":"ewzJMyjwBlXN"}
+sshd[7402]: Session closed for shawn06 from 172.26.171.6 port 36703 ssh2
+150.93.205.76 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 500 453943 "-" "Opera/8.61.(Windows NT 6.2; pl-PL) Presto/2.9.162 Version/11.00"
+DB_PORT=34826

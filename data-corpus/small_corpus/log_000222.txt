@@ -1,0 +1,37 @@
+sshd[2573]: Accepted password for thomasprice from 10.248.201.214 port 36631 ssh2
+sshd[4680]: Accepted password for mstark from 10.93.205.70 port 37651 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"request completed","user":"icampbell","trace":"Iy3eRbigp2bT"}
+161.125.6.69 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 502 300871 "-" "Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/34.0.841.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"user session created","user":"theresamercer","trace":"eSrzaWRWJjqS"}
+74.4.132.215 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 400 485341 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/25.0.887.0 Safari/532.1"
+sshd[2849]: Session opened for victoroliver from 192.168.117.36 port 53950 ssh2
+sshd[8032]: Session closed for smithjennifer from 172.26.57.149 port 35264 ssh2
+DB_PORT=true
+sshd[2876]: Accepted password for tammyjackson from 192.168.105.70 port 54282 ssh2
+API_TIMEOUT=db-61.jackson-stewart.com
+69.14.214.63 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 403 350832 "-" "Opera/8.48.(Windows NT 6.0; ro-RO) Presto/2.9.178 Version/11.00"
+17.3.210.241 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 201 382543 "-" "Mozilla/5.0 (Linux; Android 6.0.1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/14.0.889.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"user session created","user":"barnesbrett","trace":"brvOGfzQ5E1l"}
+56.84.142.73 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 400 67810 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.0)"
+194.97.195.161 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 401 307209 "-" "Mozilla/5.0 (Windows NT 5.01; th-TH; rv:1.9.0.20) Gecko/7855-05-23 05:41:25.438110 Firefox/9.0"
+sshd[8833]: Failed password for john39 from 10.233.45.219 port 24894 ssh2
+API_TIMEOUT=24032
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"leslie48","trace":"bSp92Hthdg8R"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"ortizbrian","trace":"LlS4rqY2qbTV"}
+136.100.88.66 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 204 363682 "-" "Opera/8.55.(X11; Linux x86_64; quz-PE) Presto/2.9.161 Version/11.00"
+76.41.88.218 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 400 429612 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/10.8d4528.0 Mobile/22Z053 Safari/534.2"
+32.122.20.227 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 500 88217 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.1)"
+sshd[5827]: Accepted password for mnicholson from 172.17.128.64 port 24377 ssh2
+58.18.169.67 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 404 89498 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.0)"
+LOG_LEVEL=4996
+40.191.102.167 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 404 492831 "-" "Opera/8.84.(X11; Linux x86_64; eo-US) Presto/2.9.172 Version/12.00"
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"marcus90","trace":"5d45SwDdVoBx"}
+sshd[6176]: Failed password for chelseaturner from 172.31.230.60 port 41337 ssh2 password=fH1%PSA4
+LOG_LEVEL=email-98.hughes.com
+LOG_LEVEL=INFO
+128.207.205.221 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 200 95061 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/36.0.855.0 Safari/534.0"
+26.87.85.229 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 201 202626 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.0)"
+DB_PORT=54587
+204.240.182.71 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 403 85075 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"cache miss","user":"jmanning","trace":"1lbWY96LftTo"}

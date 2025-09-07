@@ -1,0 +1,25 @@
+192.38.92.93 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 500 397890 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/5.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"cache miss","user":"brianbridges","trace":"LvGAALyUipJE"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"user session created","user":"kevans","trace":"D74HDMko2eBL"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"vmorrison","trace":"dbZL9iTsUaTu"}
+sshd[4538]: Session opened for candice04 from 172.19.222.167 port 28171 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"request completed","user":"markali","trace":"hugojNpWFMhq"}
+220.47.6.175 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 403 151868 "-" "Opera/9.90.(Windows NT 6.2; eo-US) Presto/2.9.164 Version/12.00"
+214.8.35.91 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 201 484924 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.1)"
+sshd[9358]: Accepted password for kevin48 from 172.31.236.229 port 12511 ssh2
+sshd[9886]: Accepted password for urich from 172.29.129.49 port 51836 ssh2
+FEATURE_X_ENABLED=web-26.murphy.com
+131.198.124.169 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 400 73569 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_5 rv:3.0; sl-SI) AppleWebKit/533.2.3 (KHTML, like Gecko) Version/5.0 Safari/533.2.3"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"cache miss","user":"patrickkristen","trace":"wuvcI3Jss6YK"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"request completed","user":"william00","trace":"oTzEbcgPL9QX"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"token refreshed","user":"kellywagner","trace":"CR15PeHbWwGh"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"request completed","user":"ksparks","trace":"3XF0kWxOsOAU"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"swansonmargaret","trace":"OkSpS85ypcgo"}
+FEATURE_X_ENABLED=WARN Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJWbDNIQ0lGUEk1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.H0li1SXgN2SA6yuRMGMm8roMpCTZIUImuFqah5bxheo'
+sshd[5038]: Accepted password for hwheeler from 10.195.235.100 port 51684 ssh2
+sshd[3502]: Failed password for hollyfox from 10.130.7.18 port 54504 ssh2
+DB_HOST=INFO
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"cache miss","user":"egutierrez","trace":"z29bKVeck1Y1"}
+18.223.146.84 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 404 155911 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/3.0)"
+sshd[6078]: Failed password for breannamitchell from 192.168.190.102 port 45666 ssh2

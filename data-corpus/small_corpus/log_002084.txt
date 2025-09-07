@@ -1,0 +1,27 @@
+sshd[4212]: Session closed for uwise from 10.163.143.147 port 21636 ssh2
+API_TIMEOUT=INFO
+82.252.73.209 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 201 149146 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"crystal64","trace":"zBD8SoMYoY0Z"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"user session created","user":"ashley40","trace":"u5fyZs3FY5y3"}
+sshd[9356]: Accepted password for ewingkenneth from 10.172.17.46 port 46058 ssh2
+183.192.176.41 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 403 408753 "-" "Opera/9.20.(Windows NT 5.1; el-CY) Presto/2.9.166 Version/12.00"
+45.123.234.8 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 401 300397 "-" "Opera/9.52.(X11; Linux x86_64; kok-IN) Presto/2.9.188 Version/12.00"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"ericrogers","trace":"A1I6CrB5xkwQ"}
+46.241.113.127 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 201 506533 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.45.6 (KHTML, like Gecko) Version/4.0 Safari/533.45.6"
+sshd[7749]: Failed password for mercadobradley from 192.168.128.2 port 50367 ssh2
+25.62.19.162 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 204 452138 "-" "Opera/8.85.(Windows 98; Win 9x 4.90; el-CY) Presto/2.9.181 Version/11.00"
+sshd[6281]: Failed password for campbelldiane from 10.212.11.209 port 32263 ssh2
+DB_PORT=redis://localhost:6379
+206.16.92.218 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 502 163364 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/29.0.890.0 Mobile/26B851 Safari/534.1"
+sshd[9430]: Session closed for laurenyang from 192.168.236.185 port 62361 ssh2
+sshd[3195]: Accepted password for ivanbell from 10.201.246.176 port 61340 ssh2
+140.20.108.10 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 403 451438 "-" "Opera/9.31.(Windows NT 6.2; es-AR) Presto/2.9.160 Version/12.00"
+sshd[5880]: Failed password for cassandrawilson from 172.31.193.35 port 56602 ssh2
+sshd[6012]: Failed password for sarah83 from 10.154.151.193 port 61538 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"user session created","user":"charleslee","trace":"lKoGJBN9rxgG"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"xhernandez","trace":"oV3iqdfHz93E"}
+DB_PORT=4798
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"db slow query","user":"jonathanleblanc","trace":"2ESnIRrYGiRv"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"heidi61","trace":"BP4nLQ2p7V9B"}
+17.33.146.44 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 400 113701 "-" "Opera/9.63.(X11; Linux x86_64; mni-IN) Presto/2.9.164 Version/10.00"
+LOG_LEVEL=redis://localhost:6379

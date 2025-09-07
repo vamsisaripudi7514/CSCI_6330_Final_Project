@@ -1,0 +1,28 @@
+sshd[3838]: Accepted password for eadams from 10.231.240.45 port 17603 ssh2 API_KEY=AIzaSnvh176G8WnSy3_SS3McZX_opL4nAZtNno1fAA
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"user session created","user":"luke21","trace":"qBx1dR2QY9OQ"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"token refreshed","user":"lcline","trace":"U5KCoYuS95SP"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"benjaminbrown","trace":"yeLey5vHrJSM"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"user session created","user":"henry57","trace":"J8D1uwQm5EIp"}
+69.32.36.17 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 400 439230 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/14.0.842.0 Safari/534.1"
+sshd[6352]: Session opened for jennifer95 from 172.28.92.247 port 53233 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"db slow query","user":"upruitt","trace":"AddAqPS8k0bc"}
+sshd[4042]: Session closed for sfriedman from 10.212.160.162 port 35882 ssh2
+DB_PORT=1871
+144.188.125.230 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 200 27364 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5 rv:4.0; fa-IR) AppleWebKit/531.16.6 (KHTML, like Gecko) Version/5.1 Safari/531.16.6"
+sshd[2661]: Session opened for sandrafloyd from 172.18.136.50 port 10450 ssh2
+sshd[4244]: Accepted password for lcarson from 172.31.237.249 port 33308 ssh2
+sshd[7587]: Accepted password for ctrujillo from 172.25.107.101 port 26980 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"user session created","user":"uanderson","trace":"NdsGcQoHYQ0u"}
+48.148.85.67 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 404 225129 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/17.2s6297.0 Mobile/67G849 Safari/534.2"
+sshd[9248]: Failed password for cynthiabrock from 10.72.124.219 port 17034 ssh2 password=gW2#AV)s"
+sshd[8451]: Accepted password for lholden from 172.22.124.166 port 43132 ssh2 password=eI0@HCm1qBu'auXw
+sshd[5477]: Session opened for ingramian from 172.22.67.194 port 23126 ssh2
+25.246.98.197 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 502 381740 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/32.0.863.0 Safari/536.2"
+112.203.56.180 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 204 160704 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/26.0.889.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"matthew87","trace":"kIwaGcPhIkpH"}
+sshd[2896]: Session closed for shardy from 172.23.21.52 port 37435 ssh2
+DB_PORT=false
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"kyle15","trace":"R2sR7krdG8Rq"}
+DB_PORT=1156
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"ulamb","trace":"xBU70Wn4IVXz"}
+38.220.57.18 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 401 306744 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/535.6.2 (KHTML, like Gecko) Version/4.0.5 Safari/535.6.2"

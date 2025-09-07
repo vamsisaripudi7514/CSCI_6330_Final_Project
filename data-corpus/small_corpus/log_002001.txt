@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"db slow query","user":"hallcassandra","trace":"kFzzBHgFghiC"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"user session created","user":"andrewserica","trace":"BuzPL8LfjmrC"}
+sshd[8712]: Session opened for ujohnson from 192.168.82.244 port 46916 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"brittany46","trace":"k7CVfDrumHR2"}
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"cache miss","user":"halljennifer","trace":"ra9sSnASt3RZ"}
+34.29.196.145 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 201 348940 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_8 rv:2.0; li-NL) AppleWebKit/535.12.6 (KHTML, like Gecko) Version/5.0.2 Safari/535.12.6"
+sshd[6256]: Failed password for acastro from 192.168.178.241 port 57778 ssh2
+REDIS_URL=DEBUG
+165.242.101.239 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 500 456693 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; sq-ML) AppleWebKit/535.27.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.27.4"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"epotts","trace":"pyZnfxT37u6b"}
+41.153.152.217 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 502 434986 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.0.824.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"luis68","trace":"Lk2Oz3vx1CBH"}
+139.69.109.175 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 200 472035 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"db slow query","user":"kevin97","trace":"y09VMp2EW8s7"}
+172.235.236.174 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 201 101515 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; tcy-IN) AppleWebKit/532.12.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.12.3"
+sshd[9989]: Session opened for qmaddox from 10.74.33.209 port 53735 ssh2
+API_TIMEOUT=INFO
+LOG_LEVEL=33115
+LOG_LEVEL=srv-51.sutton.biz
+53.89.253.164 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 200 116320 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.0)"
+61.34.75.38 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 200 330327 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"cache miss","user":"brian09","trace":"0GOgstp6cxgl"}
+sshd[6328]: Session closed for gramirez from 172.22.58.81 port 41702 ssh2
+sshd[1899]: Session closed for benjamindarius from 192.168.101.195 port 45950 ssh2
+REDIS_URL=lt-06.griffith.com

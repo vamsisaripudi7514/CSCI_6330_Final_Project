@@ -1,0 +1,27 @@
+LOG_LEVEL=10555
+sshd[1248]: Session opened for karenvalencia from 10.187.239.153 port 64136 ssh2
+sshd[8014]: Session closed for pachecobrian from 172.16.222.216 port 37080 ssh2
+LOG_LEVEL=false
+REDIS_URL=email-58.sanchez-smith.com
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"search","msg":"token refreshed","user":"palmerjacob","trace":"33t2bBSWxs6K"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"cache miss","user":"campbellkayla","trace":"QXnbydZ90ipl"}
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"auth","msg":"db slow query","user":"aellis","trace":"Gdhqgysc3rMk"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkR0lBYWJ5YTZSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Tm0cNfTO0LIdIdugJrKz2FOBYx07DKyRe8TBkpq1sn8'
+185.173.143.219 - - [07/Sep/2025:18:24:57 +0000] "POST /api/login HTTP/1.1" 200 45045 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRbFg5REI5V0pBIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.SWTkycUWlaFhPb5ljJIpjt8WbIlrFi5NwwmSLigLDIw'
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"request completed","user":"tim56","trace":"yXOBgx7bBLNx"}
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"notify","msg":"user session created","user":"sharon08","trace":"LSA7hqbje3sf"}
+sshd[4824]: Failed password for charlesgregory from 192.168.50.97 port 59949 ssh2
+85.171.94.74 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 400 404741 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/5.0)"
+API_TIMEOUT=false
+sshd[3314]: Failed password for jrobinson from 192.168.35.188 port 62759 ssh2
+sshd[2030]: Failed password for sharon09 from 172.17.219.235 port 43496 ssh2
+24.143.242.2 - - [07/Sep/2025:18:24:57 +0000] "POST /health HTTP/1.1" 502 337875 "-" "Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/18.0.890.0 Mobile/38B522 Safari/535.2"
+FEATURE_X_ENABLED=WARN
+LOG_LEVEL=24279
+109.22.227.139 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 201 266120 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/12.2b3163.0 Mobile/82I999 Safari/534.1"
+sshd[7610]: Failed password for sarahrichards from 172.25.56.217 port 63139 ssh2
+92.164.235.219 - - [07/Sep/2025:18:24:57 +0000] "PUT /assets/app.js HTTP/1.1" 404 51256 "-" "Mozilla/5.0 (Windows NT 4.0; sa-IN; rv:1.9.2.20) Gecko/7096-11-14 16:12:50.897675 Firefox/3.8"
+LOG_LEVEL=srv-56.moody-miller.com
+131.127.62.82 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 200 284037 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/16.9e7717.0 Mobile/53S234 Safari/533.1"
+sshd[9820]: Accepted password for juliemcpherson from 172.20.51.177 port 29611 ssh2

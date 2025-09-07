@@ -1,0 +1,28 @@
+219.33.141.50 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 201 85419 "-" "Mozilla/5.0 (Linux; Android 3.2.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/23.0.897.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"ojackson","trace":"oeHN0g9KjZwu"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"idavis","trace":"SbuzlOH04o7D"}
+53.45.8.127 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 204 449908 "-" "Opera/8.23.(Windows NT 10.0; kk-KZ) Presto/2.9.186 Version/10.00"
+sshd[3772]: Session closed for angela94 from 172.19.74.167 port 19155 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"bowens","trace":"01p6u92FuwRW"}
+sshd[4106]: Session closed for rward from 10.19.170.74 port 33875 ssh2
+sshd[5463]: Session opened for zunigagregory from 10.165.170.213 port 52308 ssh2
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"cache miss","user":"abaker","trace":"YbnVuvjURH5O"}
+41.27.116.55 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 403 280708 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_1; rv:1.9.4.20) Gecko/7118-05-27 21:07:28.353149 Firefox/11.0"
+API_TIMEOUT=true
+sshd[1259]: Session opened for esmith from 10.174.219.233 port 21760 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"retrying upstream","user":"toni84","trace":"uUohN9h3cw18"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"request completed","user":"matthew31","trace":"5OxG05S8I7yk"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"token refreshed","user":"tonya46","trace":"qZfqSSBE1Caa"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"cache miss","user":"obeck","trace":"xsaeVUjjUJhk"}
+sshd[3345]: Accepted password for shelia85 from 10.80.25.20 port 32151 ssh2
+sshd[8176]: Accepted password for brhodes from 172.25.125.84 port 39898 ssh2
+87.199.102.214 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 302 15875 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/7054-10-26 16:58:12.064545 Firefox/3.6.15"
+sshd[5182]: Session opened for veronica05 from 192.168.186.26 port 53749 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"request completed","user":"bblackwell","trace":"xAV2c8nRkI7L"}
+sshd[8910]: Failed password for zgarrett from 10.109.118.14 port 12095 ssh2
+120.115.245.253 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 502 475113 "-" "Mozilla/5.0 (Android 1.1; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0"
+144.221.223.178 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 500 231206 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_6) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/19.0.855.0 Safari/531.0"
+API_TIMEOUT=INFO
+sshd[7765]: Accepted password for christinajenkins from 10.109.173.124 port 11864 ssh2
+DB_HOST=1167

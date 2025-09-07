@@ -1,0 +1,26 @@
+FEATURE_X_ENABLED=WARN
+sshd[4062]: Failed password for aburch from 172.31.67.157 port 18336 ssh2
+139.150.102.227 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 500 109616 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.0)"
+208.99.168.133 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 500 121616 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.0)"
+209.23.133.67 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 404 198733 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.42.7 (KHTML, like Gecko) Version/5.0 Safari/531.42.7"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"cache miss","user":"thomasmonroe","trace":"h0mfxlnJHTbx"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"cache miss","user":"susanorozco","trace":"nQrsrffPTDbO"}
+149.38.49.134 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 403 70662 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.0)"
+DB_PORT=lt-38.daniels-martinez.com
+sshd[3453]: Session opened for cody33 from 172.16.81.118 port 38041 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"db slow query","user":"mackjulie","trace":"niQ6HbUqytOm"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"request completed","user":"jwilliams","trace":"KgePY7yJqm83"} password=hW1@+iOuh
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[9996]: Session closed for matthew27 from 10.12.135.145 port 48382 ssh2
+FEATURE_X_ENABLED=true
+92.34.16.77 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 204 406366 "-" "Opera/8.91.(Windows NT 5.2; tg-TJ) Presto/2.9.168 Version/10.00"
+API_TIMEOUT=DEBUG
+138.98.155.45 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 400 164713 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_2 rv:6.0; aa-ER) AppleWebKit/532.38.7 (KHTML, like Gecko) Version/5.1 Safari/532.38.7"
+162.4.187.255 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 401 230743 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1 rv:6.0; lzh-TW) AppleWebKit/533.30.3 (KHTML, like Gecko) Version/4.0.3 Safari/533.30.3"
+21.124.2.192 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 400 76254 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"user session created","user":"hmoran","trace":"i36jna7GFRKE"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"token refreshed","user":"shortjames","trace":"EwJ1zqaZsekv"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"maria48","trace":"OuHaDyqdqbgg"}
+API_TIMEOUT=true
+11.148.246.117 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 201 172822 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/3610-01-26 23:34:43.043633 Firefox/3.6.14"
+191.215.180.246 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 403 397535 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_0 rv:5.0; nr-ZA) AppleWebKit/531.24.6 (KHTML, like Gecko) Version/4.0.2 Safari/531.24.6"

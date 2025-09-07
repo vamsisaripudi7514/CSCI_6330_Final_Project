@@ -1,0 +1,29 @@
+sshd[1576]: Accepted password for perezeddie from 172.26.52.200 port 56772 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"user session created","user":"chavezemily","trace":"ec4U6xARkmdY"}
+sshd[2813]: Accepted password for taylor81 from 172.22.139.185 port 55117 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"anne03","trace":"3TkisZ1Ft93N"}
+sshd[1015]: Failed password for xwallace from 192.168.55.135 port 23285 ssh2
+sshd[1362]: Accepted password for gilbertjason from 10.199.56.194 port 51843 ssh2
+LOG_LEVEL=false
+14.99.225.130 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 201 233521 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/533.33.4 (KHTML, like Gecko) Version/4.0.1 Safari/533.33.4"
+37.203.85.9 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 200 77176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_9) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/58.0.865.0 Safari/533.2"
+sshd[6323]: Failed password for aryan from 10.251.66.251 port 20068 ssh2
+52.149.90.203 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 401 386593 "-" "Opera/9.59.(X11; Linux i686; hy-AM) Presto/2.9.184 Version/10.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJSMzU1eHRydzhSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.kVOS9ewFAXuKBLePgKlxWU1c91OAVdRPd7ejgfTJ2sk'
+sshd[4879]: Session closed for nathanjones from 10.125.185.172 port 58702 ssh2
+195.192.100.22 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 200 482563 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.19.1 (KHTML, like Gecko) Version/5.0 Safari/534.19.1"
+sshd[9260]: Failed password for barnesbrad from 10.50.83.17 port 54678 ssh2
+API_TIMEOUT=srv-77.smith.com
+56.181.118.103 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 200 455143 "-" "Opera/8.57.(Windows 98; lt-LT) Presto/2.9.189 Version/12.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZENhNHRFZGozIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Aa7eGpTYrfMC22rU1Bhx9ZDtsWFYFGuJR_u0bA8AiPI'
+sshd[9359]: Session closed for timothy24 from 192.168.102.73 port 12103 ssh2
+104.226.155.50 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 404 158932 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.1)"
+85.74.250.25 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 302 369623 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1 rv:5.0; cs-CZ) AppleWebKit/531.6.1 (KHTML, like Gecko) Version/5.0.1 Safari/531.6.1"
+126.96.69.133 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 502 241206 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_1; rv:1.9.4.20) Gecko/8712-02-26 23:17:42.636932 Firefox/12.0"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"user session created","user":"frogers","trace":"0YAl90FMr4De"}
+78.245.204.54 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 403 380875 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0 rv:2.0; kk-KZ) AppleWebKit/531.1.2 (KHTML, like Gecko) Version/4.0 Safari/531.1.2"
+88.53.211.214 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 404 133680 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+DB_HOST=redis://localhost:6379
+222.232.27.155 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 204 466271 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/49.0.823.0 Mobile/22G078 Safari/535.2"
+101.107.224.33 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 500 470228 "-" "Opera/9.24.(Windows 98; sr-RS) Presto/2.9.161 Version/11.00"
+28.87.63.198 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 404 84105 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.0.821.0 Safari/535.2"
+sshd[8973]: Session closed for cfreeman from 172.22.43.188 port 61052 ssh2
+DB_PORT=3587

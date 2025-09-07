@@ -1,0 +1,27 @@
+DB_HOST=INFO
+API_TIMEOUT=219
+LOG_LEVEL=email-96.wells-jennings.com
+sshd[1211]: Session closed for wlawrence from 10.196.38.134 port 13805 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"request completed","user":"smorris","trace":"kc3iAVa6Tlby"}
+13.155.171.85 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 302 400844 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/14.0.838.0 Safari/531.1"
+22.240.225.71 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 403 230129 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"jonessarah","trace":"AeVM7acSNoNT"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtZU9odFIxUlE5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.VBl3q_AU694BZ7NYNWDQk3viiHIOJdYxq5wDq7owawI'
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"token refreshed","user":"sheliamartin","trace":"lwpyKCaq2ke4"}
+sshd[3797]: Failed password for meghanosborne from 172.19.250.114 port 39417 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"cannoncarrie","trace":"Jem1ObtJqHGT"}
+200.64.185.214 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 204 396573 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_5 rv:4.0; bg-BG) AppleWebKit/534.13.6 (KHTML, like Gecko) Version/5.0 Safari/534.13.6"
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"reyesjames","trace":"fowwekFLuj9Q"}
+135.235.48.172 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 204 196329 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"robert25","trace":"G2nPg4k9hhQa"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"cache miss","user":"patrickmcdaniel","trace":"hqopBN8lhnEf"}
+sshd[4761]: Failed password for ortizkevin from 172.16.147.162 port 26636 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"user session created","user":"tristan50","trace":"fGn0E8Q0VsqZ"}
+67.188.153.0 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 502 518078 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4665-05-24 02:11:56.191330 Firefox/3.8"
+REDIS_URL=true
+sshd[7935]: Failed password for susancook from 192.168.253.60 port 36358 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"moodymonica","trace":"P34IbriOWxe1"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"db slow query","user":"kbecker","trace":"xiLYRYBoaQWV"}
+DB_PORT=laptop-35.bell.com
+106.102.14.201 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 200 71637 "-" "Opera/9.50.(X11; Linux x86_64; unm-US) Presto/2.9.179 Version/12.00"
+sshd[9793]: Accepted password for rmorrow from 172.19.128.84 port 48049 ssh2

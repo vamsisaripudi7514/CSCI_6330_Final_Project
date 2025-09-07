@@ -1,0 +1,36 @@
+DB_HOST=redis://localhost:6379
+DB_PORT=false
+sshd[1652]: Failed password for ivelez from 10.73.101.63 port 24519 ssh2 password=dS9~|a(JkTw
+sshd[8256]: Session opened for dylan94 from 10.241.3.113 port 26441 ssh2
+sshd[6389]: Session opened for michaeldavis from 192.168.35.120 port 14297 ssh2
+FEATURE_X_ENABLED=WARN
+192.115.255.112 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 500 200625 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.1)"
+LOG_LEVEL=WARN
+sshd[6813]: Accepted password for bakertimothy from 172.20.134.139 port 53131 ssh2 API_KEY=AIza0FCz-qYOW6Ve-wQ6sKAvMuM-7ACyfMDL16b2Ig
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"shelby91","trace":"VmfGgCE5KPjw"}
+REDIS_URL=srv-95.washington.net Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFRVBsbkpWb0QyIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.IfDOnGoO14WbF8jTHithYDEzxyrWeChL3wVmzwd3_CI'
+REDIS_URL=srv-98.lamb.net API_KEY=AIzaKeeouFNKfGOJSMXyPK5mtTThh3u-k7_lK3Sfrw
+API_TIMEOUT=redis://localhost:6379
+sshd[7059]: Failed password for elizabeth86 from 172.24.22.137 port 58937 ssh2
+DB_HOST=2336
+sshd[4394]: Failed password for marcohicks from 10.217.171.169 port 51567 ssh2
+REDIS_URL=true
+DB_PORT=1967
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"db slow query","user":"dennisfischer","trace":"rPipEb35alkP"}
+68.214.22.187 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 403 316776 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/17.5z6337.0 Mobile/71P865 Safari/534.1"
+sshd[8653]: Session closed for taylorsamantha from 172.27.66.245 port 19675 ssh2
+DB_HOST=true Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5SDJOZVBuOVlMIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.MIVQW5YFXb0xi1LUV6ukEAxZ7NNGoDPRG0hLR45QHjI'
+sshd[8009]: Session closed for georgedanielle from 10.82.188.71 port 42684 ssh2
+sshd[3465]: Session opened for wanda94 from 10.142.146.210 port 43586 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"request completed","user":"dgilbert","trace":"5gNT5CXwThGg"}
+220.18.167.52 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 404 154996 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.45.5 (KHTML, like Gecko) Version/5.0 Safari/531.45.5"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"token refreshed","user":"mark98","trace":"0deAqxDPbEZV"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"matthewscott","trace":"O0uDqVJXOGNa"}
+sshd[6339]: Session closed for xpowell from 192.168.179.32 port 49746 ssh2
+LOG_LEVEL=32223
+28.35.171.30 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 404 379161 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0)"
+REDIS_URL=3126
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"dolson","trace":"XjREgJArXacT"}
+sshd[9553]: Session closed for alyssa79 from 192.168.173.198 port 54460 ssh2
+5.116.145.136 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 201 234078 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_1 rv:3.0; hi-IN) AppleWebKit/532.3.2 (KHTML, like Gecko) Version/5.1 Safari/532.3.2"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"hgreen","trace":"zs6r3i7WW3ve"}

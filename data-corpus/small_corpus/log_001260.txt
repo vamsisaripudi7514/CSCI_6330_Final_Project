@@ -1,0 +1,31 @@
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"request completed","user":"christopherrandolph","trace":"EDcMoUwxiF34"}
+154.152.226.15 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 502 215763 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.0)"
+211.233.23.123 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 401 59647 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"eric85","trace":"P43BALmE9Fpj"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"db slow query","user":"ffloyd","trace":"dLnnyYS714Ln"}
+208.25.144.62 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 302 269739 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.0)" API_KEY=AIzalCoAw26BGkxK5kxBSF5tA9lHKcsL2SHEq4Yi4w
+LOG_LEVEL=redis://localhost:6379
+sshd[9605]: Failed password for rogerlong from 172.17.1.178 port 29735 ssh2
+204.219.107.4 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 201 65499 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/531.29.1 (KHTML, like Gecko) Version/5.0.4 Safari/531.29.1"
+DB_HOST=14738
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"db slow query","user":"teresa93","trace":"Zwd2hkvGSXu6"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"taylorlinda","trace":"R2vuBfUxKHGI"}
+103.241.55.169 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 401 208653 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; nds-NL; rv:1.9.1.20) Gecko/2662-08-07 21:51:31.403015 Firefox/3.8"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"token refreshed","user":"christinerogers","trace":"oESePauciNxc"}
+201.143.133.72 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 302 26153 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/22.0.848.0 Safari/531.2"
+sshd[4888]: Session opened for frussell from 192.168.168.38 port 21023 ssh2
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"itorres","trace":"eGdu96oy8Yf9"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"sellerskara","trace":"uCZtTpxC5kGE"}
+sshd[7751]: Accepted password for danielnicole from 192.168.119.118 port 25401 ssh2
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"kennethbrown","trace":"c2vOf2jm7ouX"}
+sshd[7324]: Session opened for fvaughan from 10.186.12.172 port 30051 ssh2
+179.253.238.154 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 302 124863 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_6) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/26.0.826.0 Safari/536.1"
+sshd[2918]: Accepted password for harrismichael from 10.238.159.80 port 46211 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"db slow query","user":"gary62","trace":"3mKRC2xXfIWe"}
+sshd[2877]: Session opened for mcguirescott from 192.168.89.12 port 59713 ssh2
+sshd[9691]: Failed password for millsjoseph from 192.168.1.162 port 27087 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"lauriearroyo","trace":"PV49r3S37Euq"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"user session created","user":"bosborne","trace":"7g8A2njUtOyS"}

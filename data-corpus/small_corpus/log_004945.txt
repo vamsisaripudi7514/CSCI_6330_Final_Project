@@ -1,0 +1,25 @@
+164.61.91.187 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/login HTTP/1.1" 200 391603 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1; rv:1.9.5.20) Gecko/7382-12-15 09:13:57.036255 Firefox/3.8"
+58.161.118.102 - - [07/Sep/2025:18:24:57 +0000] "GET /health HTTP/1.1" 403 334867 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/55.0.844.0 Mobile/71E994 Safari/532.1"
+146.143.206.191 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 201 163408 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/24.0.800.0 Safari/535.0"
+sshd[4478]: Accepted password for unichols from 192.168.78.52 port 18725 ssh2
+125.57.186.131 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 404 55669 "-" "Mozilla/5.0 (Android 11; Mobile; rv:27.0) Gecko/27.0 Firefox/27.0"
+sshd[6678]: Failed password for aliciajohnston from 10.106.6.83 port 19002 ssh2
+sshd[6213]: Session opened for andrewacosta from 10.80.252.14 port 25726 ssh2
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"billing","msg":"db slow query","user":"iwilson","trace":"5FldHAunWb5V"}
+DB_HOST=redis://localhost:6379
+sshd[7036]: Accepted password for danielhenry from 192.168.95.137 port 53431 ssh2
+REDIS_URL=59464
+109.2.84.130 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 200 273413 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/16.1w5312.0 Mobile/87C823 Safari/534.1"
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"cache miss","user":"jonathan48","trace":"BWe9AFaupga7"}
+sshd[5921]: Session closed for cynthiagoodwin from 192.168.9.197 port 45099 ssh2
+sshd[6231]: Failed password for schultzkeith from 10.153.2.241 port 10694 ssh2
+FEATURE_X_ENABLED=32672
+REDIS_URL=true
+REDIS_URL=30043
+API_TIMEOUT=true
+sshd[3178]: Accepted password for joseph86 from 172.23.165.85 port 64539 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4UkJZVndPaHVWIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.eNn82MnrAtfrZO5Z2oDAUm8Ag8ZVscEa3vXNe5_A9zE'
+sshd[1580]: Session opened for ricky78 from 172.28.207.112 port 50460 ssh2
+144.139.86.93 - - [07/Sep/2025:18:24:57 +0000] "DELETE /download/report.csv HTTP/1.1" 502 3188 "-" "Opera/9.84.(X11; Linux x86_64; sv-SE) Presto/2.9.183 Version/10.00"
+sshd[5063]: Session closed for voneal from 172.31.117.199 port 60443 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"misty95","trace":"cmcSori8tsxS"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwRUhRZGZXOHR5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ae4ReR3hywfvHTB0RKd9HnXTyYv3SW-hkepXzwu1vG0'

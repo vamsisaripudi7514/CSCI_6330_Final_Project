@@ -1,0 +1,27 @@
+sshd[7174]: Session closed for mcguirejasmine from 10.164.137.93 port 21868 ssh2
+DB_HOST=true
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"request completed","user":"aprilramirez","trace":"mNtqH4vEGhx7"}
+sshd[3783]: Session closed for michaelclements from 192.168.137.171 port 52975 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"db slow query","user":"littleangela","trace":"egBXDL1c3gJK"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"db slow query","user":"jordan87","trace":"nLoLkz4qMJx7"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"db slow query","user":"allenmichelle","trace":"Y6QMQq7ZUHug"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"nicholas83","trace":"9xi567mmbcfp"}
+179.121.65.108 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 401 254428 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; bs-BA) AppleWebKit/534.26.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.26.6"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"cache miss","user":"jeremycohen","trace":"FvvckXIXZpJL"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"user session created","user":"zstone","trace":"qPh2taXzqZWG"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"user session created","user":"hendersonsandra","trace":"gBb7OSAyAkvN"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"notify","msg":"cache miss","user":"yolanda00","trace":"P2q4ShqIpedo"}
+sshd[2493]: Failed password for phernandez from 192.168.94.134 port 26569 ssh2
+sshd[6136]: Session opened for jesse80 from 192.168.83.51 port 24878 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"request completed","user":"gravescheryl","trace":"xZLEe7yEvoXP"}
+REDIS_URL=WARN
+sshd[4913]: Failed password for mary02 from 10.70.55.156 port 28507 ssh2
+sshd[2699]: Failed password for tylermann from 192.168.56.90 port 27835 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"user session created","user":"michael49","trace":"hSyZAeJenIMF"}
+79.194.148.156 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 200 36454 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; fur-IT) AppleWebKit/531.43.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6531.43.3"
+135.62.219.250 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 404 162868 "-" "Mozilla/5.0 (Android 4.4.2; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0" API_KEY=AIzajWgnJT-9Zw7Jh-l_lgXDkLk8kjrEg_lm7Nj4_w
+43.255.28.247 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 502 507730 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/31.0.886.0 Safari/532.1"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"request completed","user":"vthomas","trace":"zZzZPVb65pkO"}
+30.61.23.215 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 502 326019 "-" "Mozilla/5.0 (Windows NT 11.0; ne-NP; rv:1.9.2.20) Gecko/9064-06-12 23:11:58.792358 Firefox/7.0"
+sshd[4412]: Accepted password for johnsonseth from 172.16.193.76 port 11277 ssh2
+API_TIMEOUT=32524 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJuNFF2cU94dTdzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.RWlN-_yXVcHnFZMDM2EuVsV9MKT3UzHHRw1bgTMvcEA'

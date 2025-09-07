@@ -1,0 +1,28 @@
+sshd[3204]: Session closed for andersonbrett from 10.73.12.254 port 22992 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"tonyibarra","trace":"zI5jrEQiAYc4"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"request completed","user":"xlee","trace":"IGgjyRKXTTfq"}
+sshd[1871]: Session opened for michael67 from 10.155.141.161 port 23879 ssh2
+sshd[9019]: Session opened for charles09 from 10.213.138.89 port 35437 ssh2
+188.202.107.177 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 403 349129 "-" "Opera/8.87.(X11; Linux i686; ik-CA) Presto/2.9.184 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"cache miss","user":"kevin31","trace":"IW2xN1U8uYzx"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"db slow query","user":"dcastro","trace":"XJFRa08ldoYL"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"db slow query","user":"manuel23","trace":"G76DAsXnWjVW"}
+API_TIMEOUT=WARN
+LOG_LEVEL=redis://localhost:6379
+sshd[6851]: Failed password for tcarr from 10.96.123.63 port 14976 ssh2
+sshd[1579]: Session opened for jeffersonteresa from 172.21.181.221 port 14029 ssh2
+DB_PORT=redis://localhost:6379 password=rQ5>N`%3yZxTz
+sshd[3851]: Session closed for robert48 from 10.45.122.203 port 62277 ssh2
+sshd[4509]: Failed password for kwhite from 172.16.129.24 port 41262 ssh2
+DB_HOST=false
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"token refreshed","user":"benjamin89","trace":"9ya7pSYMqamy"}
+118.87.141.87 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 502 517021 "-" "Opera/8.47.(Windows NT 6.2; the-NP) Presto/2.9.170 Version/10.00"
+API_TIMEOUT=45788 password=mJ7).8e`5A<cV.
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"susan04","trace":"sfYbkbVYcvQA"}
+63.136.89.167 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 400 490082 "-" "Mozilla/5.0 (Windows NT 5.0; szl-PL; rv:1.9.0.20) Gecko/8114-05-29 18:18:28.416687 Firefox/4.0"
+sshd[5013]: Accepted password for ggray from 172.25.20.109 port 10352 ssh2
+82.57.170.129 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 500 229572 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/19.0.800.0 Mobile/35L572 Safari/535.0"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"knightjacqueline","trace":"TgQoAfaFpgbL"}
+REDIS_URL=2168
+142.128.191.201 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 201 95488 "-" "Opera/8.16.(Windows NT 4.0; wae-CH) Presto/2.9.184 Version/12.00"
+64.202.207.128 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 204 87695 "-" "Opera/9.12.(Windows 98; Win 9x 4.90; es-CO) Presto/2.9.174 Version/12.00"

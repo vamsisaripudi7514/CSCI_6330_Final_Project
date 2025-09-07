@@ -1,0 +1,39 @@
+REDIS_URL=WARN
+sshd[5192]: Failed password for allenalexis from 192.168.218.107 port 54687 ssh2
+sshd[9470]: Failed password for phillip91 from 172.19.155.57 port 25038 ssh2
+sshd[7913]: Session opened for carolynbush from 10.227.180.76 port 60691 ssh2
+sshd[2005]: Session opened for christopherburch from 192.168.163.229 port 44086 ssh2
+14.163.167.137 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 302 47125 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4494-02-17 00:13:46.202011 Firefox/9.0"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"request completed","user":"traceymcdonald","trace":"V5rWauGcv4oK"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"cache miss","user":"kyle32","trace":"bEr1KQUp96n1"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"carrillocharles","trace":"GCqSgtbU6wEN"}
+LOG_LEVEL=redis://localhost:6379
+sshd[7133]: Session closed for brendafrey from 10.85.93.198 port 59163 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"russell94","trace":"IYajBD74Gh0D"}
+8.109.185.171 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 200 242666 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/4.1)"
+sshd[8197]: Accepted password for robertfritz from 10.195.163.83 port 23297 ssh2
+154.220.23.33 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 400 13185 "-" "Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/62.0.804.0 Mobile/72T379 Safari/531.1"
+sshd[8640]: Failed password for robin07 from 192.168.81.210 port 56829 ssh2
+25.10.164.173 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 204 5234 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/63.0.814.0 Safari/536.1"
+sshd[5706]: Failed password for anthonysmith from 192.168.247.91 port 54399 ssh2
+DB_HOST=false
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"token refreshed","user":"lambertmadeline","trace":"WSLGHJlBqYN8"}
+76.22.155.145 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 302 321000 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_1 rv:4.0; ln-CD) AppleWebKit/531.34.4 (KHTML, like Gecko) Version/5.1 Safari/531.34.4"
+sshd[4576]: Session closed for mbutler from 10.211.192.97 port 17427 ssh2
+105.239.3.71 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 500 492248 "-" "Mozilla/5.0 (Windows NT 6.1; ta-IN; rv:1.9.0.20) Gecko/6355-12-19 16:44:51.748291 Firefox/3.6.15"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"db slow query","user":"andersonjaime","trace":"kXD7MnRovp0X"}
+195.75.8.168 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 401 101763 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)"
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"user session created","user":"brownkevin","trace":"1Qq2jLGOC3CO"}
+sshd[1571]: Session closed for daviserica from 192.168.198.202 port 37473 ssh2
+sshd[8531]: Session closed for daviscynthia from 10.150.52.104 port 20553 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"calebpeters","trace":"13Ohz5OJsMWu"}
+REDIS_URL=4844
+sshd[8303]: Session opened for orobinson from 192.168.165.24 port 36832 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"token refreshed","user":"navarrojason","trace":"OsijEMvDS0IM"}
+sshd[4221]: Accepted password for barrettchristopher from 10.155.99.73 port 59053 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"cache miss","user":"patrickfarmer","trace":"KDgkaeKJ8eO9"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"qhenderson","trace":"q4U6alcdrN3d"}
+sshd[9736]: Accepted password for gutierrezstephanie from 10.46.80.55 port 14235 ssh2
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"tmeza","trace":"FliG9MmTliYD"}

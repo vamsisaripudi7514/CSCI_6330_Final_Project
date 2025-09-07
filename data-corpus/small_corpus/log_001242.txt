@@ -1,0 +1,32 @@
+API_TIMEOUT=WARN
+78.187.24.248 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 502 230637 "-" "Opera/8.36.(Windows NT 5.0; unm-US) Presto/2.9.173 Version/10.00"
+155.62.70.169 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 502 321838 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2 rv:3.0; eu-FR) AppleWebKit/531.19.4 (KHTML, like Gecko) Version/5.0 Safari/531.19.4"
+31.164.94.122 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 302 296611 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.13.3 (KHTML, like Gecko) Version/4.0.2 Safari/531.13.3"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"db slow query","user":"kimkenneth","trace":"tMXKWC0hz9KE"}
+API_TIMEOUT=lt-00.keller.com
+FEATURE_X_ENABLED=redis://localhost:6379
+36.210.115.215 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 400 471107 "-" "Opera/9.72.(X11; Linux i686; hi-IN) Presto/2.9.171 Version/12.00"
+LOG_LEVEL=2795
+sshd[9982]: Accepted password for matthewwillis from 172.24.21.213 port 42626 ssh2
+API_TIMEOUT=60666
+sshd[4414]: Session closed for nicholscarlos from 192.168.152.186 port 15802 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"request completed","user":"lbennett","trace":"FhkafqYb7dCr"}
+REDIS_URL=DEBUG
+sshd[1281]: Session closed for ydaniels from 10.248.1.63 port 57414 ssh2
+DB_PORT=lt-96.watson-adkins.com
+sshd[4358]: Session opened for hernandezderrick from 172.27.61.229 port 18322 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"request completed","user":"mdalton","trace":"kfnW6v00yHiP"}
+sshd[5333]: Accepted password for cheryl29 from 192.168.115.160 port 33703 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"user session created","user":"esmith","trace":"Vvk6dOYz6oXS"}
+DB_PORT=59489
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"cache miss","user":"nmadden","trace":"1h44fywcJctf"}
+REDIS_URL=WARN
+sshd[4895]: Accepted password for jonesbethany from 192.168.126.52 port 30803 ssh2
+DB_PORT=25814
+49.135.34.203 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 400 144050 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.13.7 (KHTML, like Gecko) Version/4.0.5 Safari/531.13.7"
+sshd[2785]: Accepted password for jordanchristopher from 192.168.219.69 port 23093 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"danielle13","trace":"GaAQJxmcH8V9"}
+178.222.210.59 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 302 292853 "-" "Opera/9.22.(Windows NT 5.0; ha-NG) Presto/2.9.186 Version/12.00"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"jason50","trace":"rNGEgsNHtQet"}
+FEATURE_X_ENABLED=40926
+sshd[3530]: Accepted password for emma44 from 10.127.230.154 port 25729 ssh2

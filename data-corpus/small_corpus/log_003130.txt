@@ -1,0 +1,26 @@
+sshd[6428]: Session closed for penaantonio from 10.104.21.142 port 32197 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"kendragraves","trace":"8exzdYgjyyfx"} API_KEY=AIzaufwmLY5rbv2OLSybarj3Ir6j1c4tmB4umhslkQ
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"glovermelanie","trace":"c80xwTnxIm84"} API_KEY=AIza29KAqIbwdzU0rwptP47-T0yZh5xbaj1ToxibCw
+REDIS_URL=redis://localhost:6379
+sshd[6292]: Failed password for oadams from 172.30.239.143 port 46865 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwNmEyN21GY1RIIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.eay7RyS46t-Yqy5IzYM1F7unebXU8h4BDlkVHB534p0'
+sshd[1613]: Session closed for garciastacey from 172.22.123.83 port 58268 ssh2
+DB_PORT=40202
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"rachaelmartin","trace":"dNWEOOd8PrLW"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkczdVRHVaOHpZIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.DzCniMOuJfOX-_Gp4WxyQHpLumP3_74ylwSIDWGWihY'
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"user session created","user":"nmurphy","trace":"66HtKMqHcFyH"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"deankristen","trace":"pxRsQgExEybt"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"user session created","user":"zcooper","trace":"YumFX3Zx9YyO"}
+sshd[2262]: Session closed for johnsonriley from 172.31.159.57 port 31458 ssh2
+API_TIMEOUT=redis://localhost:6379
+37.67.73.103 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 500 212799 "-" "Opera/9.88.(Windows NT 11.0; de-CH) Presto/2.9.162 Version/10.00"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"elivingston","trace":"HrJXG75aM89h"}
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"user session created","user":"david30","trace":"ZPoRlBnA6So2"}
+sshd[9261]: Failed password for georgeramirez from 10.122.103.155 port 48605 ssh2
+FEATURE_X_ENABLED=web-90.robinson.com
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"christopher00","trace":"cUDFZbDrRiVD"}
+17.130.130.190 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 403 469275 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/14.0.880.0 Safari/534.1"
+REDIS_URL=3797
+DB_HOST=34968
+80.231.69.196 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 502 296311 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)"
+84.39.251.148 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 404 31881 "-" "Mozilla/5.0 (Linux; Android 2.2.2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/42.0.835.0 Safari/535.0"

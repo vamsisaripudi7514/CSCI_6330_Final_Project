@@ -1,0 +1,48 @@
+sshd[2713]: Session opened for tammygarrett from 10.50.147.189 port 34470 ssh2
+DB_HOST=44438
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"user session created","user":"brandisosa","trace":"CHGBijpRu2o2"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"higginsmartin","trace":"5PjTJA7IFSLQ"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"user session created","user":"kathydowns","trace":"6JOLydNKYTp3"}
+sshd[6845]: Session closed for benderkyle from 172.30.115.138 port 45833 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"cache miss","user":"barkerkimberly","trace":"jVGcX42gMqRa"}
+sshd[8195]: Accepted password for nwelch from 192.168.181.224 port 39742 ssh2
+187.248.79.38 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 401 398171 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+sshd[1885]: Session opened for andradeblake from 172.26.112.151 port 34445 ssh2
+DB_PORT=email-74.lynch-mitchell.com
+FEATURE_X_ENABLED=redis://localhost:6379
+48.50.239.238 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 401 298978 "-" "Mozilla/5.0 (iPad; CPU iPad OS 8_4_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/39.0.873.0 Mobile/32J154 Safari/534.2"
+REDIS_URL=1230
+sshd[7240]: Session opened for markbright from 192.168.199.204 port 57019 ssh2
+sshd[5610]: Session closed for erinkane from 10.177.255.235 port 24079 ssh2
+LOG_LEVEL=1879
+11.185.17.192 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 403 218874 "-" "Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/60.0.874.0 Mobile/12Q126 Safari/536.1"
+sshd[3185]: Failed password for coreyjohnson from 192.168.182.93 port 55867 ssh2
+104.21.119.41 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 404 58508 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9186-06-15 10:52:06.128479 Firefox/3.6.1"
+126.86.156.212 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 200 207166 "-" "Opera/8.47.(X11; Linux i686; el-CY) Presto/2.9.181 Version/12.00"
+207.251.253.29 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 201 380558 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5; rv:1.9.4.20) Gecko/5446-02-23 12:30:04.340698 Firefox/3.8"
+LOG_LEVEL=false
+sshd[1379]: Accepted password for ywells from 172.17.241.163 port 20584 ssh2
+214.211.188.127 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 200 460858 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/19.0.824.0 Safari/534.1"
+sshd[9750]: Session opened for walterrussell from 10.35.181.193 port 16773 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"user session created","user":"hayessandra","trace":"SL5Da1sN0Hmu"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"db slow query","user":"castrolisa","trace":"dnzeZZLojGGZ"}
+REDIS_URL=1222
+REDIS_URL=62060
+LOG_LEVEL=redis://localhost:6379
+sshd[2640]: Failed password for gmalone from 10.40.124.84 port 40172 ssh2
+85.69.130.234 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 400 372928 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; nr-ZA) AppleWebKit/532.34.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.34.3"
+sshd[7193]: Failed password for charlotte88 from 192.168.136.114 port 24278 ssh2
+sshd[6129]: Session opened for richard74 from 172.22.213.226 port 63474 ssh2
+145.61.76.121 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 302 454531 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_6 rv:3.0; uk-UA) AppleWebKit/533.45.6 (KHTML, like Gecko) Version/4.0 Safari/533.45.6"
+sshd[5514]: Accepted password for ujuarez from 10.231.97.171 port 49658 ssh2
+93.149.218.50 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 400 59188 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_1 rv:5.0; quz-PE) AppleWebKit/531.25.1 (KHTML, like Gecko) Version/4.1 Safari/531.25.1"
+17.43.36.239 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 502 384725 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_9) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/40.0.800.0 Safari/534.2"
+LOG_LEVEL=true
+DB_HOST=14156
+API_TIMEOUT=WARN
+143.142.249.77 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 200 100109 "-" "Opera/9.50.(Windows NT 10.0; ayc-PE) Presto/2.9.162 Version/10.00"
+LOG_LEVEL=redis://localhost:6379
+DB_HOST=true
+API_TIMEOUT=33477
+REDIS_URL=881
+37.21.47.214 - - [07/Sep/2025:18:24:48 +0000] "PUT /index.html HTTP/1.1" 400 470287 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; lt-LT) AppleWebKit/535.44.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6535.44.1"

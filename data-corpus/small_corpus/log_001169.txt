@@ -1,0 +1,35 @@
+15.65.63.181 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 200 31163 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3055-01-26 10:55:14.384239 Firefox/3.8"
+sshd[1831]: Session closed for jamesethan from 10.101.67.55 port 47649 ssh2
+sshd[1404]: Session opened for woodcalvin from 172.28.174.71 port 57051 ssh2
+sshd[7539]: Accepted password for ronald59 from 192.168.24.45 port 27817 ssh2
+sshd[3148]: Accepted password for vmullins from 172.22.17.18 port 33012 ssh2
+sshd[8158]: Failed password for marylindsey from 172.23.49.251 port 54779 ssh2
+sshd[7378]: Session opened for gbaker from 10.28.193.250 port 62132 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"curtisho","trace":"TMlrUShBVtFP"}
+DB_HOST=DEBUG
+sshd[8916]: Session closed for pattypeterson from 172.31.146.72 port 62722 ssh2
+sshd[1592]: Accepted password for abigailcummings from 10.4.107.153 port 17493 ssh2
+API_TIMEOUT=db-46.acosta.com
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"db slow query","user":"john49","trace":"7XRggoWRHRTz"}
+DB_PORT=12603
+111.254.76.169 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 400 368841 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.0)"
+sshd[3586]: Failed password for jasonholloway from 192.168.236.105 port 40381 ssh2
+LOG_LEVEL=551
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"request completed","user":"williamsmatthew","trace":"BcR6FNKHyMAL"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"token refreshed","user":"bsilva","trace":"OAPh8C6rycd7"}
+sshd[4888]: Accepted password for vspencer from 192.168.59.155 port 45236 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"cache miss","user":"andrewsjeff","trace":"PLsb8UUGn92J"}
+API_TIMEOUT=email-49.howard.com
+FEATURE_X_ENABLED=email-46.gross.com
+62.118.197.61 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 404 110298 "-" "Opera/9.90.(X11; Linux i686; ber-MA) Presto/2.9.188 Version/11.00"
+API_TIMEOUT=42626
+sshd[2373]: Failed password for monica94 from 10.165.201.25 port 51482 ssh2
+184.225.189.56 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 204 386423 "-" "Opera/8.71.(Windows NT 11.0; fur-IT) Presto/2.9.189 Version/11.00"
+sshd[7284]: Accepted password for chadrodriguez from 192.168.134.201 port 41905 ssh2
+FEATURE_X_ENABLED=3803
+210.27.236.180 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 401 466283 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.0)"
+sshd[8064]: Failed password for nsharp from 10.11.113.86 port 28064 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"cache miss","user":"reginald80","trace":"07ZzXE3dBH1R"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"token refreshed","user":"cruzallen","trace":"oqUlCx77yOm0"}
+DB_HOST=srv-42.pittman.info

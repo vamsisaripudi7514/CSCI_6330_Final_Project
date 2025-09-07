@@ -1,0 +1,25 @@
+sshd[3594]: Session opened for craig71 from 10.13.9.65 port 11046 ssh2
+sshd[6266]: Failed password for johnsantos from 10.208.143.96 port 22971 ssh2
+sshd[5120]: Failed password for jermaine31 from 172.18.23.168 port 57364 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"request completed","user":"dave51","trace":"qMVRXlCd2PV1"}
+sshd[9585]: Failed password for duncanbrian from 192.168.173.110 port 26109 ssh2
+116.148.208.155 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 201 76487 "-" "Opera/8.47.(Windows NT 5.0; pl-PL) Presto/2.9.173 Version/11.00"
+FEATURE_X_ENABLED=2301
+sshd[3662]: Session opened for woodsjeffrey from 10.169.37.32 port 54214 ssh2
+DB_PORT=true
+sshd[7840]: Session opened for awatson from 192.168.35.123 port 49296 ssh2
+DB_PORT=3665
+LOG_LEVEL=redis://localhost:6379
+LOG_LEVEL=desktop-50.hunter.net
+sshd[9922]: Accepted password for jfox from 192.168.27.96 port 46388 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"cache miss","user":"zholloway","trace":"qrNExduL8MLN"}
+sshd[1828]: Session closed for hthompson from 192.168.98.102 port 19735 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"cache miss","user":"lindsaymiranda","trace":"YZXhrAquE1pL"}
+116.8.158.162 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 401 318641 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/8949-10-30 21:41:57.150055 Firefox/3.6.7"
+sshd[6744]: Accepted password for donald77 from 192.168.219.150 port 32637 ssh2
+REDIS_URL=true
+sshd[8609]: Session opened for sarah54 from 192.168.174.123 port 22880 ssh2
+31.100.235.78 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 500 522004 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"db slow query","user":"christineberry","trace":"FaFeFDDiBrz6"}
+LOG_LEVEL=redis://localhost:6379
+DB_PORT=4298

@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"request completed","user":"ozuniga","trace":"2Yr0PIj6wRZS"}
+DB_HOST=768
+217.246.56.255 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 502 211181 "-" "Mozilla/5.0 (Android 4.0.1; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0"
+4.115.58.168 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 400 453103 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5 rv:3.0; yue-HK) AppleWebKit/532.26.5 (KHTML, like Gecko) Version/4.1 Safari/532.26.5"
+sshd[7882]: Session opened for hmeyer from 192.168.18.244 port 37851 ssh2
+sshd[7013]: Session closed for michele91 from 192.168.170.61 port 20622 ssh2
+sshd[3260]: Failed password for psilva from 192.168.7.120 port 21679 ssh2 API_KEY=AIzakMH7Qkoyu85i9PBjOO4SZN_G4to7XDO3DdvA3A
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"brownrobert","trace":"ev7i7f33qDBP"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"stewartnoah","trace":"ilyzBTUcFMmL"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"db slow query","user":"uarnold","trace":"nCSKzbqqXicf"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"db slow query","user":"johnsmith","trace":"Wc736I900PCz"}
+sshd[2575]: Session closed for rsmith from 172.24.161.79 port 26311 ssh2
+110.123.111.8 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 302 66968 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.1)"
+REDIS_URL=2327
+sshd[3910]: Session closed for lori10 from 172.20.30.156 port 58055 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"cache miss","user":"melissa71","trace":"uejwfCOM2MEk"}
+LOG_LEVEL=db-78.blair.com
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"db slow query","user":"jcallahan","trace":"8ZxTz3U6fOXc"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"janderson","trace":"vAaGsqqOMr3p"}
+sshd[3110]: Session closed for jaredwolfe from 192.168.231.119 port 43024 ssh2
+sshd[5527]: Accepted password for jessica33 from 192.168.77.195 port 25677 ssh2
+30.152.100.167 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 401 225247 "-" "Mozilla/5.0 (Windows NT 5.01; de-CH; rv:1.9.2.20) Gecko/3597-11-11 23:54:28.699524 Firefox/12.0"
+REDIS_URL=3589
+219.222.6.234 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 200 372154 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)"
+sshd[7903]: Session closed for njackson from 172.19.91.227 port 13880 ssh2
+sshd[9963]: Session closed for odombenjamin from 10.243.234.192 port 12501 ssh2

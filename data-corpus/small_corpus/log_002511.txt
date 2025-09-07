@@ -1,0 +1,37 @@
+REDIS_URL=DEBUG
+REDIS_URL=INFO
+API_TIMEOUT=true
+API_TIMEOUT=db-86.patel-barrett.org Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJTWXVJOW5XeUY2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.uzV_b8fnZftJUKGJUw229Rhas8Ujsu0k25DJFJ7JqVo'
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"request completed","user":"ericgonzalez","trace":"P0d5VTNVQpYm"}
+sshd[6599]: Session closed for stewartelizabeth from 172.23.55.137 port 64441 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"user session created","user":"vrodriguez","trace":"X9GuUYt3gRax"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"user session created","user":"dana90","trace":"I7ULqDHZJYG6"}
+sshd[5507]: Session opened for renee71 from 192.168.193.47 port 25663 ssh2
+DB_PORT=redis://localhost:6379
+114.199.21.144 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 401 443982 "-" "Opera/8.59.(Windows NT 6.2; gv-GB) Presto/2.9.172 Version/10.00"
+sshd[5555]: Session closed for fredvillegas from 10.63.167.127 port 43087 ssh2
+API_TIMEOUT=2341
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"user session created","user":"ryan78","trace":"24Wnp9xUeJQL"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"token refreshed","user":"jimenezamy","trace":"56vM0aieWRQu"}
+sshd[2463]: Accepted password for crystalhorn from 10.253.247.102 port 50246 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"williamsbradley","trace":"P3F7ONigkb4j"}
+192.215.2.184 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 302 270175 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_2; rv:1.9.4.20) Gecko/6097-10-26 02:20:00.876816 Firefox/3.8"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"token refreshed","user":"robin74","trace":"DakdERwdn6xr"}
+sshd[7888]: Failed password for phillipbright from 192.168.252.58 port 28355 ssh2
+120.245.2.125 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 201 274333 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxc1B0b0U4UUd3IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.i6zcO60WiN_KmcMPK4MsvQpUFBH1wELjlIHotMKoj74'
+FEATURE_X_ENABLED=true
+66.44.61.60 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 404 186035 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; es-AR) AppleWebKit/533.19.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6533.19.7"
+DB_PORT=redis://localhost:6379
+LOG_LEVEL=true
+73.67.185.131 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 404 61547 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.41.2 (KHTML, like Gecko) Version/5.0.4 Safari/533.41.2"
+sshd[1838]: Session opened for cochranjeanne from 10.61.181.25 port 44182 ssh2
+sshd[8255]: Accepted password for changronald from 172.17.252.210 port 61387 ssh2
+sshd[7598]: Session closed for joneskelly from 192.168.239.108 port 58525 ssh2
+192.239.68.179 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 200 220749 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/20.0.817.0 Mobile/54M408 Safari/536.1"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"user session created","user":"vmcclain","trace":"IfZlDXqmIN8p"}
+149.222.132.224 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 500 368460 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.32.7 (KHTML, like Gecko) Version/4.0.2 Safari/531.32.7"
+105.172.0.174 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 403 31371 "-" "Opera/8.10.(Windows NT 5.2; ts-ZA) Presto/2.9.175 Version/11.00"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"cache miss","user":"collinstracy","trace":"oNgUcYwpXbII"}
+sshd[3799]: Session opened for sjones from 192.168.35.192 port 50923 ssh2
+DB_PORT=57908
+LOG_LEVEL=WARN password=hM2/Liy$IqKaD.

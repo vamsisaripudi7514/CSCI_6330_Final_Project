@@ -1,0 +1,27 @@
+API_TIMEOUT=redis://localhost:6379
+198.124.113.50 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 400 138473 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/49.0.874.0 Mobile/96T081 Safari/532.2"
+6.84.118.211 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 500 405738 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/42.0.822.0 Safari/535.1"
+FEATURE_X_ENABLED=WARN
+15.255.204.120 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 404 6682 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/3717-02-04 19:15:46.843224 Firefox/3.6.20"
+sshd[4729]: Accepted password for justin77 from 10.95.113.247 port 18174 ssh2
+REDIS_URL=28356
+sshd[6370]: Failed password for davisperry from 10.112.237.76 port 37624 ssh2
+DB_PORT=web-99.holder.com
+FEATURE_X_ENABLED=9419
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"db slow query","user":"rmichael","trace":"aNc8YidFDtrj"}
+LOG_LEVEL=true
+sshd[4522]: Session opened for sergio67 from 192.168.59.26 port 12312 ssh2
+128.48.60.106 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 404 378260 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_5 rv:4.0; ff-SN) AppleWebKit/532.44.7 (KHTML, like Gecko) Version/5.0 Safari/532.44.7"
+sshd[5576]: Failed password for sherry37 from 172.20.188.96 port 50598 ssh2
+sshd[2895]: Session opened for iclarke from 10.11.155.69 port 37432 ssh2
+sshd[9115]: Accepted password for terri83 from 192.168.19.110 port 12616 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"db slow query","user":"fdavis","trace":"IFwzzt4sKulE"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"db slow query","user":"vmiranda","trace":"R3vSYEAXDznt"}
+99.127.124.90 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 403 81600 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.1)" password=yY8(S*`&
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"request completed","user":"caitlin95","trace":"cOdmwH4k8Wbu"}
+213.19.30.241 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 500 3618 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.0)"
+DB_PORT=srv-77.castaneda-weiss.info
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"mthomas","trace":"myPjBLAvkBVy"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"token refreshed","user":"ronaldrodriguez","trace":"l5ZteW69rtei"}
+35.240.46.240 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 302 364727 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.1)"

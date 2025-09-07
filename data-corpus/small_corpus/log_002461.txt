@@ -1,0 +1,25 @@
+sshd[2248]: Failed password for rmiller from 192.168.227.151 port 43913 ssh2
+sshd[9217]: Accepted password for kboyle from 10.181.164.255 port 44744 ssh2
+DB_PORT=web-73.hernandez.net
+sshd[2437]: Session closed for bakerjeremy from 192.168.135.17 port 48110 ssh2
+55.88.153.186 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 200 84700 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0 rv:6.0; hy-AM) AppleWebKit/535.49.1 (KHTML, like Gecko) Version/5.0 Safari/535.49.1"
+176.122.245.214 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 400 495779 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/56.0.896.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"djones","trace":"qs05iEhKkL1A"}
+DB_PORT=lt-40.perry.org
+134.193.211.152 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 200 392056 "-" "Opera/9.77.(X11; Linux i686; doi-IN) Presto/2.9.163 Version/12.00"
+77.250.132.191 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 302 503844 "-" "Mozilla/5.0 (Linux; Android 12) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/60.0.837.0 Safari/534.2"
+REDIS_URL=2553
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"db slow query","user":"david42","trace":"paDZ219AFuO4"}
+109.53.1.2 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 401 79790 "-" "Mozilla/5.0 (iPad; CPU iPad OS 8_4_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/15.2t3351.0 Mobile/33L720 Safari/531.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJaUXJVRHRlZVkyIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.EBPQ0cX5dXQEmmOmxSXRF9HQQVbSlhWnpLSBC-XoMmE'
+FEATURE_X_ENABLED=DEBUG
+192.0.166.225 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 502 107834 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.36.6 (KHTML, like Gecko) Version/4.0.2 Safari/533.36.6"
+FEATURE_X_ENABLED=21479
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"cache miss","user":"david42","trace":"QwKV7N7PV7JN"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"cameronsanchez","trace":"DGT0vuF1fmUI"}
+sshd[9980]: Failed password for wendyfischer from 192.168.245.112 port 28117 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"hamiltontonya","trace":"uB6IQFsAYW7P"}
+101.111.115.219 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 401 185349 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/25.0.842.0 Safari/536.2"
+sshd[2139]: Session closed for trice from 172.28.4.164 port 57640 ssh2
+sshd[8306]: Session closed for aphelps from 192.168.155.201 port 31714 ssh2
+DB_PORT=email-27.parker.com
+LOG_LEVEL=redis://localhost:6379

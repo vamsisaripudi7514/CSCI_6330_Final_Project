@@ -1,0 +1,26 @@
+sshd[5108]: Accepted password for teresabray from 192.168.183.243 port 22919 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"khernandez","trace":"596ZjRv9TGHZ"}
+FEATURE_X_ENABLED=INFO
+sshd[3663]: Session closed for wbowman from 10.22.168.111 port 12240 ssh2
+sshd[3344]: Session opened for mandersen from 172.23.191.167 port 50139 ssh2
+sshd[4601]: Session closed for sheilajones from 10.150.105.142 port 28433 ssh2
+sshd[1123]: Session opened for renee30 from 192.168.236.174 port 12561 ssh2
+DB_HOST=web-35.johnson-johnson.net
+sshd[3980]: Session opened for skaufman from 192.168.34.54 port 34144 ssh2
+151.121.39.121 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 502 189244 "-" "Mozilla/5.0 (Android 4.2.2; Mobile; rv:28.0) Gecko/28.0 Firefox/28.0"
+FEATURE_X_ENABLED=2652
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"deanbecky","trace":"S1QJLnJbHvAg"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"token refreshed","user":"rhonda93","trace":"nQwzNXM0vKID"}
+91.122.65.156 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 200 24579 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/58.0.833.0 Safari/533.0"
+136.196.185.183 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 302 11915 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"rjuarez","trace":"Vqf6AmCrZ3oL"}
+sshd[8259]: Failed password for jeanne20 from 10.214.10.131 port 55894 ssh2
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"db slow query","user":"lucas61","trace":"uFTKyfhgb97Y"}
+145.189.238.144 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 400 301108 "-" "Opera/9.27.(Windows NT 6.2; ga-IE) Presto/2.9.164 Version/10.00"
+sshd[7663]: Accepted password for gbrooks from 192.168.200.67 port 18803 ssh2
+sshd[9353]: Accepted password for lnewman from 192.168.81.146 port 64340 ssh2
+5.176.52.108 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 500 147144 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.1)"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"request completed","user":"dylanwood","trace":"G7VBQqoRdkex"}
+sshd[6180]: Accepted password for keiththomas from 172.24.253.220 port 33070 ssh2
+LOG_LEVEL=57507

@@ -1,0 +1,25 @@
+DB_HOST=5943
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"request completed","user":"tanyamartinez","trace":"z5sMkHJGIqiz"}
+3.101.130.94 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 302 505818 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/20.0.887.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"cache miss","user":"johnmendoza","trace":"qVAYx6rzedqe"}
+REDIS_URL=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"carrollcolleen","trace":"Sz9NMO8yRzF0"}
+53.74.199.244 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 400 412151 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.21.2 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.2"
+65.119.93.12 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 204 128688 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/32.0.863.0 Safari/534.1"
+sshd[8033]: Session opened for jennifer53 from 192.168.248.64 port 18031 ssh2 password=dT6"w_whs5tLFvP
+FEATURE_X_ENABLED=1419
+API_TIMEOUT=29064
+sshd[4102]: Accepted password for max98 from 10.223.10.67 port 35622 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"cache miss","user":"yvonne40","trace":"RkTYBLDYpoWl"}
+211.69.100.149 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 404 177262 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/3.1)"
+REDIS_URL=INFO
+150.187.168.130 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 302 185162 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/25.0.833.0 Safari/532.1"
+183.250.251.192 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 502 461005 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+DB_PORT=redis://localhost:6379
+API_TIMEOUT=WARN
+DB_PORT=1164
+174.86.209.98 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 201 480896 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/7453-01-05 07:45:51.407501 Firefox/3.8"
+sshd[1542]: Session closed for lauracole from 10.92.42.133 port 32660 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"cache miss","user":"dawngarcia","trace":"0hbeXOMzAAkl"}
+40.83.24.0 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 204 128272 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; en-AG; rv:1.9.0.20) Gecko/4496-12-09 00:01:03.757950 Firefox/15.0"
+73.171.114.237 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 201 171542 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/56.0.867.0 Safari/532.2"

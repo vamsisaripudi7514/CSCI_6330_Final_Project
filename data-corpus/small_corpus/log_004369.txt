@@ -1,0 +1,28 @@
+16.11.85.108 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 400 522691 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8 rv:4.0; byn-ER) AppleWebKit/532.4.1 (KHTML, like Gecko) Version/5.1 Safari/532.4.1"
+API_TIMEOUT=true
+48.64.107.179 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 302 102841 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/12.9n7451.0 Mobile/07A087 Safari/535.2"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"user session created","user":"zwinters","trace":"RTKwR0Lvwuow"}
+sshd[1782]: Session opened for sarah96 from 192.168.72.119 port 57781 ssh2
+REDIS_URL=true
+DB_PORT=redis://localhost:6379
+134.119.4.251 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 200 265115 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/13.5p6766.0 Mobile/86U427 Safari/531.1"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"db slow query","user":"jacoblee","trace":"yO75hMj0QR5s"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"db slow query","user":"justinterry","trace":"Uueq7t5JvRdE"}
+sshd[8705]: Accepted password for amyhill from 192.168.49.140 port 55581 ssh2
+LOG_LEVEL=43749
+sshd[3145]: Session opened for lopezmason from 172.27.240.166 port 11991 ssh2
+DB_HOST=55056
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"db slow query","user":"jchristensen","trace":"oCEb5xDZNwbd"}
+sshd[7436]: Session opened for robertsoncynthia from 192.168.140.152 port 32565 ssh2
+sshd[8471]: Session opened for christine95 from 172.17.176.220 port 59249 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"db slow query","user":"anthonyferrell","trace":"wZVhlQDCq1Is"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"cache miss","user":"danielsjessica","trace":"TXBMcGRAfKvH"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"cache miss","user":"guerreroamy","trace":"hTq1ZaisI7gD"}
+sshd[5910]: Session opened for morrisjamie from 10.81.152.220 port 52894 ssh2
+133.125.180.21 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 201 493915 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; wa-BE; rv:1.9.0.20) Gecko/6747-06-18 13:14:41.330444 Firefox/3.6.18"
+sshd[3026]: Session opened for adrianandrade from 10.219.212.179 port 48715 ssh2
+API_TIMEOUT=INFO
+DB_HOST=DEBUG
+94.30.41.126 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 401 423998 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_7) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/38.0.814.0 Safari/535.1"
+DB_PORT=db-69.powers-harding.com
+sshd[7726]: Session closed for wsimmons from 172.31.94.107 port 24104 ssh2

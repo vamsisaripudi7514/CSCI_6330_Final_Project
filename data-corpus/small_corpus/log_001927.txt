@@ -1,0 +1,31 @@
+sshd[5318]: Session closed for vthomas from 192.168.50.177 port 38134 ssh2
+FEATURE_X_ENABLED=INFO
+sshd[8764]: Session opened for torresariel from 192.168.173.69 port 12278 ssh2 password=pS7?Se\uu8pq
+sshd[3655]: Session closed for robertlee from 192.168.41.85 port 55729 ssh2
+REDIS_URL=redis://localhost:6379
+FEATURE_X_ENABLED=false
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"user session created","user":"matthewtaylor","trace":"ag8a3mdd5FjV"}
+DB_HOST=3114
+sshd[6320]: Accepted password for crystal08 from 192.168.66.96 port 27806 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"cache miss","user":"amywoods","trace":"4kSznpIrTmk9"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"retrying upstream","user":"nbaldwin","trace":"sehhKwW1CuHc"}
+DB_HOST=514
+sshd[2072]: Accepted password for jamesallen from 10.250.78.186 port 63838 ssh2
+sshd[3096]: Session opened for qoliver from 172.23.171.206 port 13043 ssh2
+sshd[7520]: Session opened for cdavis from 10.32.149.66 port 39709 ssh2
+150.200.219.82 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 204 448256 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/535.14.1 (KHTML, like Gecko) Version/4.0.4 Safari/535.14.1"
+LOG_LEVEL=18435
+DB_HOST=36165
+FEATURE_X_ENABLED=false
+sshd[5058]: Failed password for villegasjason from 172.17.172.183 port 52615 ssh2
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"breanna83","trace":"MFqx3zi8TzE7"} API_KEY=AIzaHyy98_oYW_V7qrhbClpLWP3uzUNTLOCANOUPWw
+sshd[2759]: Failed password for cholt from 192.168.75.152 port 59488 ssh2
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"xaviercampbell","trace":"tK1zMub8P073"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"request completed","user":"lisacopeland","trace":"wORv5T3WGijE"}
+sshd[9054]: Accepted password for fletcherjennifer from 172.25.27.28 port 37169 ssh2
+sshd[2540]: Session closed for hstevens from 172.27.119.0 port 42152 ssh2
+75.245.85.99 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 502 138883 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; uk-UA) AppleWebKit/531.40.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6531.40.3"
+sshd[6293]: Accepted password for xclark from 10.32.123.20 port 39841 ssh2
+87.169.18.187 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 201 52937 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)"

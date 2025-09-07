@@ -1,0 +1,28 @@
+API_TIMEOUT=web-76.nelson.info
+sshd[1993]: Accepted password for benjamin37 from 192.168.188.4 port 47474 ssh2
+sshd[5606]: Failed password for msantana from 10.171.177.88 port 46044 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnRkNJSnh6eGpTIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.9pWEeXwJ8O9KOnMCpJsn1qHsM-9t1xSFugnhKqzkRRM'
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"cache miss","user":"carrie15","trace":"Ziakrt3BvKyS"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"cache miss","user":"zspencer","trace":"VxEfFZBzkngn"}
+FEATURE_X_ENABLED=false
+sshd[2032]: Accepted password for fsmith from 10.33.53.233 port 52535 ssh2
+DB_PORT=156
+119.55.15.177 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 500 235729 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.0)"
+sshd[6832]: Failed password for thompsonjames from 172.20.167.210 port 55123 ssh2
+42.64.54.18 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 502 332360 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4331-01-29 16:05:00.337143 Firefox/3.6.20"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"cache miss","user":"ipeterson","trace":"s2aku1qZxiJ4"}
+sshd[3958]: Accepted password for omurphy from 10.233.144.74 port 54468 ssh2
+DB_HOST=3357
+API_TIMEOUT=3004
+REDIS_URL=DEBUG
+97.213.73.209 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 200 374165 "-" "Opera/9.60.(X11; Linux x86_64; lt-LT) Presto/2.9.184 Version/12.00" password=yC2#g+i_\>.m#6,e
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"kimberly09","trace":"Xcvc7YdwsIoo"}
+119.17.222.184 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 201 374558 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.3.5 (KHTML, like Gecko) Version/5.1 Safari/531.3.5"
+sshd[2703]: Session closed for ashleyanderson from 192.168.100.41 port 40644 ssh2
+28.136.170.177 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 500 154141 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.16.5 (KHTML, like Gecko) Version/5.1 Safari/531.16.5"
+166.89.159.68 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 204 293444 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"request completed","user":"nvasquez","trace":"mMkdUYc0FfK3"}
+API_TIMEOUT=WARN
+62.171.64.135 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 201 205658 "-" "Opera/8.18.(Windows NT 6.0; ik-CA) Presto/2.9.165 Version/11.00"
+sshd[7726]: Session closed for youngbrandon from 10.229.198.203 port 45623 ssh2
+217.30.49.252 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 500 242835 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/28.0.886.0 Mobile/19A228 Safari/531.2"
+DB_HOST=23156

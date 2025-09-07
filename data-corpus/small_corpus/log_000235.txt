@@ -1,0 +1,26 @@
+FEATURE_X_ENABLED=51484
+sshd[8625]: Failed password for robin54 from 192.168.176.145 port 30633 ssh2
+17.202.186.120 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 200 254290 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_7) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/51.0.814.0 Safari/533.0"
+sshd[6406]: Accepted password for jennifermartinez from 10.115.238.237 port 35180 ssh2 password=yQ6#H.d?C?qh{6
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"token refreshed","user":"cynthia91","trace":"cokP6SfpY2U2"}
+181.23.255.10 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 500 162023 "-" "Opera/8.56.(Windows 98; Win 9x 4.90; wal-ET) Presto/2.9.176 Version/12.00" password=nY5.sv/MQJIS5>Y)
+sshd[4781]: Failed password for pamela82 from 192.168.153.127 port 46724 ssh2
+sshd[7000]: Session opened for andrewwilson from 172.30.174.85 port 12576 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"request completed","user":"chelseaadams","trace":"STUHiQiZ4trR"}
+122.143.199.247 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 403 442366 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/44.0.851.0 Safari/533.2"
+sshd[8960]: Session opened for angelaburke from 172.26.78.66 port 13587 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"request completed","user":"meghansnyder","trace":"ZW4yrgx1g94h"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"request completed","user":"jenniferross","trace":"oQT3kVUKxdeb"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"imoore","trace":"WZhnKKORi7TI"}
+111.212.230.199 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 404 122525 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/23.0.820.0 Mobile/73H175 Safari/533.1"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"tanyajenkins","trace":"rY7ZNfz2fdSW"}
+sshd[3325]: Failed password for alvarezstacy from 10.225.244.123 port 16018 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1bGhCMVptSnY4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.h_-jnH5_78M7CInKtoNklVCfaeCBB-TD3eygHKwrbIg'
+sshd[9850]: Failed password for fullernicholas from 10.99.102.244 port 15819 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"token refreshed","user":"christopher89","trace":"PNPtSThN2KD8"}
+63.12.194.79 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 302 11426 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.1)"
+45.93.46.87 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 400 420530 "-" "Mozilla/5.0 (Windows NT 11.0; mag-IN; rv:1.9.0.20) Gecko/7371-05-28 21:28:12.794159 Firefox/3.8"
+36.17.124.147 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 404 524148 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6460-09-29 02:32:35.945831 Firefox/3.6.12"
+sshd[1020]: Accepted password for stephencampbell from 192.168.34.229 port 29768 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"retrying upstream","user":"amyclark","trace":"Qwy8jPObObNJ"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"db slow query","user":"douglasmichael","trace":"XxjPSQKnNDix"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"db slow query","user":"wwashington","trace":"wASUDNTg4WBC"}

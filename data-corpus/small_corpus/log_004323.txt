@@ -1,0 +1,26 @@
+220.249.41.125 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 404 361433 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_8; rv:1.9.2.20) Gecko/4290-03-24 18:54:35.468262 Firefox/3.8"
+sshd[5590]: Failed password for yhill from 192.168.55.164 port 16098 ssh2
+sshd[1477]: Session opened for gonzalezronald from 172.17.70.171 port 53530 ssh2
+41.32.134.251 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 500 325647 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.1)"
+193.4.194.50 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 302 57023 "-" "Mozilla/5.0 (Windows NT 10.0; tn-ZA; rv:1.9.2.20) Gecko/8622-03-07 16:13:29.024872 Firefox/3.6.16"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"user session created","user":"natashagallagher","trace":"dw7sJuSBArKZ"}
+sshd[7333]: Session closed for sbutler from 10.255.38.96 port 34137 ssh2
+API_TIMEOUT=23272
+sshd[7946]: Session closed for keithbarbara from 192.168.200.11 port 63747 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"uharvey","trace":"xERNOZPVXYE7"}
+REDIS_URL=email-62.cooke.com
+DB_HOST=612
+DB_PORT=30593
+DB_HOST=redis://localhost:6379
+sshd[6851]: Accepted password for mthomas from 10.166.16.175 port 13890 ssh2
+sshd[9475]: Session closed for mcole from 10.10.88.233 port 11538 ssh2
+sshd[3144]: Session opened for awheeler from 192.168.77.99 port 30072 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"barbara15","trace":"qB4HX8AWjvRB"}
+75.145.215.156 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 401 442687 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.1)"
+152.153.37.150 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 500 49402 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; uk-UA) AppleWebKit/531.24.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.24.5"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"request completed","user":"shill","trace":"m6K4QyyZDbVV"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"user session created","user":"michael59","trace":"GFUuLs2hgBud"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"vhumphrey","trace":"XqRIeijqkOWd"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"request completed","user":"eflores","trace":"hUT1OIl9mQEF"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrWTR5TXR4UjV2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.uVuzs3i4PF5G50bxhu7ug-tTQsnyD3CixxksXk2M_mY'
+DB_HOST=543
+sshd[9741]: Session closed for mcmahonamanda from 10.181.238.171 port 22619 ssh2

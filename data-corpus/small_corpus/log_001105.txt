@@ -1,0 +1,32 @@
+213.172.237.209 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 502 385750 "-" "Opera/8.39.(X11; Linux i686; mr-IN) Presto/2.9.186 Version/11.00"
+LOG_LEVEL=47044
+API_TIMEOUT=redis://localhost:6379
+sshd[5957]: Failed password for ogomez from 192.168.72.156 port 43410 ssh2
+sshd[7176]: Session opened for thomasalexis from 172.18.28.5 port 43566 ssh2
+DB_PORT=false
+DB_PORT=desktop-67.odonnell-montes.com
+sshd[8484]: Failed password for njones from 192.168.51.114 port 43500 ssh2
+sshd[3407]: Failed password for kevinberry from 10.69.55.79 port 38907 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"user session created","user":"mdaniels","trace":"7uGNwSXHjFLm"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"uwalton","trace":"WfPSeQNIsLi4"}
+39.54.45.80 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 404 261996 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/4.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"user session created","user":"samuel43","trace":"4ZDiz8NgCQxw"}
+124.83.180.229 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 502 92554 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/60.0.814.0 Safari/533.2"
+FEATURE_X_ENABLED=email-20.hoffman.net
+DB_HOST=srv-97.harris.com
+sshd[7657]: Session opened for hallrobert from 192.168.106.180 port 29102 ssh2 API_KEY=AIzaUB7pMFPLQWJ0Fen9vcPDt0aEXQqVm5xzwksP3w
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"cache miss","user":"swebb","trace":"chlzWianBEzl"}
+50.212.125.13 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 204 60303 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/9835-02-22 17:01:03.010864 Firefox/13.0"
+sshd[1769]: Session opened for elizabeth00 from 10.242.128.47 port 22517 ssh2
+sshd[9915]: Session closed for torresdawn from 172.17.158.238 port 22418 ssh2
+sshd[1560]: Session opened for esanchez from 172.21.94.240 port 40019 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"user session created","user":"gmoore","trace":"fLiPBoNUowWA"}
+sshd[6984]: Accepted password for daniel27 from 172.24.94.14 port 40594 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"request completed","user":"kwhite","trace":"bt0IGFsToBF9"}
+207.219.72.203 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 401 480762 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/9.8l1067.0 Mobile/33A714 Safari/531.2"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"josephrose","trace":"pMd8XFHZNwHH"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"kellyanthony","trace":"f5Lt1jJZtPqN"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"dominguezjames","trace":"QpjlCMNi734j"}
+sshd[8884]: Session closed for timothy25 from 10.203.37.225 port 39614 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"retrying upstream","user":"bwright","trace":"Dn2uA3iPcxeY"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"request completed","user":"scottmills","trace":"sJwmsUxHgHNk"}

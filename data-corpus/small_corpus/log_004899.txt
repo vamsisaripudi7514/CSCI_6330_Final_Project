@@ -1,0 +1,33 @@
+35.131.108.153 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 400 433362 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5658-06-30 01:04:46.108276 Firefox/5.0"
+sshd[5844]: Session closed for rbullock from 10.205.43.119 port 31353 ssh2
+sshd[7635]: Failed password for jessica81 from 192.168.163.200 port 43367 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"notify","msg":"db slow query","user":"andrewprice","trace":"58vmKh0JZXzb"}
+API_TIMEOUT=true
+128.134.167.126 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 400 485625 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/59.0.896.0 Safari/531.1"
+70.135.132.161 - - [07/Sep/2025:18:24:57 +0000] "DELETE /health HTTP/1.1" 302 467018 "-" "Mozilla/5.0 (Android 3.2.1; Mobile; rv:37.0) Gecko/37.0 Firefox/37.0"
+sshd[1158]: Failed password for jonathanlozano from 10.134.75.189 port 59023 ssh2
+FEATURE_X_ENABLED=26451
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"kelly78","trace":"HPe0VV27g41q"}
+98.102.90.211 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 500 520543 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_1; rv:1.9.5.20) Gecko/2025-04-22 11:06:24.664327 Firefox/3.8"
+REDIS_URL=8476
+DB_PORT=false
+FEATURE_X_ENABLED=false
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"search","msg":"cache miss","user":"andrew07","trace":"rKhh5dYYHgUC"}
+DB_HOST=DEBUG
+API_TIMEOUT=srv-15.mata-peters.info
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"guerrerokyle","trace":"RhqOr7nwrmoU"}
+REDIS_URL=true
+182.172.240.251 - - [07/Sep/2025:18:24:57 +0000] "DELETE /download/report.csv HTTP/1.1" 401 309759 "-" "Mozilla/5.0 (Android 4.1; Mobile; rv:5.0) Gecko/5.0 Firefox/5.0"
+sshd[9240]: Session closed for aprilfarmer from 192.168.105.188 port 47090 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"billing","msg":"db slow query","user":"gutierrezanthony","trace":"iKnucErxdfCf"}
+DB_HOST=false
+API_TIMEOUT=redis://localhost:6379
+DB_PORT=4748
+sshd[4889]: Session opened for bhooper from 192.168.174.54 port 15432 ssh2
+sshd[2407]: Accepted password for gregoryrich from 192.168.165.8 port 51454 ssh2
+DB_HOST=4766
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"request completed","user":"tony53","trace":"IR7VhMDWeMki"}
+171.208.209.29 - - [07/Sep/2025:18:24:57 +0000] "POST /health HTTP/1.1" 302 474974 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/531.13.6 (KHTML, like Gecko) Version/4.1 Safari/531.13.6"
+113.99.60.218 - - [07/Sep/2025:18:24:57 +0000] "PUT /download/report.csv HTTP/1.1" 404 345440 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.20.6 (KHTML, like Gecko) Version/4.1 Safari/531.20.6"

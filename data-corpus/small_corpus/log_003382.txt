@@ -1,0 +1,33 @@
+DB_PORT=true
+219.167.0.68 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 401 395405 "-" "Opera/9.31.(X11; Linux i686; lb-LU) Presto/2.9.174 Version/12.00"
+REDIS_URL=1095
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"user session created","user":"dbeck","trace":"0Gyjoct24RJt"}
+17.140.161.135 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 400 428086 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_2 rv:4.0; ig-NG) AppleWebKit/534.25.3 (KHTML, like Gecko) Version/5.0.1 Safari/534.25.3"
+REDIS_URL=20580 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJWWGNRS1NWdTlFIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.7FUNI5REXzDELJXOTqPs9vtLRIc2-0OpOfcJ69r5cW8'
+160.90.137.29 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 401 478139 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9402-07-07 10:48:37.890350 Firefox/3.6.20"
+195.179.99.35 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 401 449 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ha-NG) AppleWebKit/531.44.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6531.44.4"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"sheila75","trace":"tIkxg3vPcUd3"}
+DB_PORT=web-31.cummings.com
+39.157.101.17 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 400 209920 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/60.0.855.0 Safari/536.1"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"token refreshed","user":"campbellabigail","trace":"kWBXM24OrtsX"}
+sshd[5681]: Accepted password for april53 from 172.18.131.124 port 44586 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"user session created","user":"ugilbert","trace":"GOIP22sLPWB4"}
+REDIS_URL=web-57.mann.org
+LOG_LEVEL=true
+215.98.236.190 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 404 332564 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1 rv:5.0; be-BY) AppleWebKit/533.8.6 (KHTML, like Gecko) Version/4.0.1 Safari/533.8.6"
+174.141.139.163 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 500 132357 "-" "Opera/8.28.(Windows NT 5.2; bo-IN) Presto/2.9.166 Version/12.00"
+12.249.76.115 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 403 85474 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; lv-LV) AppleWebKit/533.3.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.3.7"
+LOG_LEVEL=25308
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"cache miss","user":"marygarrett","trace":"Rsr3LXDgvJbP"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJIVlhnZ1RpWlBLIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.7h9edO1MVNbXcA7j15F0D17tSp6gJPuwNFOMfmHlJLs'
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"retrying upstream","user":"nathanielmartin","trace":"4RSBKos5Ajms"}
+sshd[2724]: Session opened for kennethtaylor from 10.73.192.201 port 15744 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"cache miss","user":"matthew73","trace":"W68IXN7FGvdJ"}
+70.3.234.126 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 403 33131 "-" "Opera/9.74.(X11; Linux x86_64; tcy-IN) Presto/2.9.164 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"zwilliams","trace":"8Q443uUmwu7S"}
+DB_HOST=3985
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"davidgutierrez","trace":"QXNj9vbs0F0j"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"cache miss","user":"shahjoe","trace":"T0xivZjo8kTW"}
+51.72.231.1 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 502 144718 "-" "Opera/8.48.(X11; Linux x86_64; af-ZA) Presto/2.9.165 Version/10.00"
+sshd[3396]: Session opened for iancraig from 192.168.63.231 port 24221 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"user session created","user":"brittanymiller","trace":"Au0xBvy7cROK"}
+23.120.70.251 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 400 355474 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/13.0.861.0 Safari/533.0"

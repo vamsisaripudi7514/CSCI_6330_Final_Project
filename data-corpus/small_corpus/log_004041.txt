@@ -1,0 +1,43 @@
+77.65.67.171 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 200 145180 "-" "Opera/8.39.(Windows 95; tig-ER) Presto/2.9.162 Version/12.00"
+83.208.155.38 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 500 103537 "-" "Mozilla/5.0 (Windows NT 6.0; dz-BT; rv:1.9.1.20) Gecko/8835-02-20 21:50:39.547119 Firefox/3.8"
+LOG_LEVEL=4305
+FEATURE_X_ENABLED=3586
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"frankfrench","trace":"e1aHpUp7mspw"}
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"ldaniels","trace":"EeLie0FFKNMF"}
+sshd[7927]: Session closed for rebeccavillanueva from 10.40.244.185 port 12512 ssh2
+sshd[6623]: Session opened for sierra31 from 192.168.157.210 port 60703 ssh2
+FEATURE_X_ENABLED=false
+185.42.79.72 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 400 439126 "-" "Opera/9.94.(Windows 98; Win 9x 4.90; brx-IN) Presto/2.9.178 Version/11.00"
+sshd[8061]: Session closed for davidanthony from 172.19.44.0 port 32976 ssh2
+sshd[5639]: Session opened for webstersarah from 10.45.60.23 port 54557 ssh2
+API_TIMEOUT=false
+27.176.154.136 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 404 422291 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/43.0.831.0 Mobile/54G822 Safari/536.1"
+158.160.198.94 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 502 176706 "-" "Opera/8.81.(X11; Linux x86_64; ia-FR) Presto/2.9.183 Version/12.00"
+sshd[9313]: Failed password for marcgibson from 10.235.139.22 port 22359 ssh2 password=fC2#fn"`
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"jennifer40","trace":"NZhQQbErVdjX"}
+134.78.116.168 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 502 217608 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_6; rv:1.9.3.20) Gecko/2551-10-13 20:56:13.298748 Firefox/8.0"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"philip45","trace":"alRNbR4qw0bK"}
+sshd[8374]: Failed password for jamescaldwell from 172.20.82.205 port 45985 ssh2
+33.167.228.165 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 404 103317 "-" "Opera/9.55.(Windows NT 6.1; et-EE) Presto/2.9.163 Version/11.00"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"samantha51","trace":"6olOtEIqHgZZ"}
+FEATURE_X_ENABLED=9269
+DB_PORT=22819
+sshd[4812]: Failed password for michaelgraham from 10.80.229.71 port 57598 ssh2
+sshd[6542]: Session opened for ssullivan from 172.22.112.79 port 46205 ssh2
+104.58.153.209 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 200 353750 "-" "Mozilla/5.0 (Android 3.0; Mobile; rv:8.0) Gecko/8.0 Firefox/8.0"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"user session created","user":"anthony43","trace":"cdsLyafnwjD5"}
+sshd[2451]: Accepted password for seanramos from 10.143.180.132 port 34630 ssh2
+API_TIMEOUT=4170
+85.188.228.55 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 204 154709 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.0)"
+128.183.244.220 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 200 384337 "-" "Opera/9.90.(X11; Linux i686; mhr-RU) Presto/2.9.188 Version/10.00"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"db slow query","user":"vjackson","trace":"sIEWulMwGdrT"}
+REDIS_URL=31536
+DB_PORT=4938
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"user session created","user":"eoconnor","trace":"3SohQvByLh7W"}
+sshd[2768]: Session opened for zgraham from 192.168.118.141 port 46863 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"xpowell","trace":"iQjmCBmIuj35"}
+sshd[2732]: Session opened for catherineespinoza from 172.31.179.239 port 12265 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"cache miss","user":"danielleandrews","trace":"zhpvYFFWimi0"}

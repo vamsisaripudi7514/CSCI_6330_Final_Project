@@ -1,0 +1,30 @@
+sshd[5072]: Failed password for joshuaallen from 192.168.235.30 port 20164 ssh2
+sshd[9993]: Failed password for daniellewright from 10.56.254.143 port 19943 ssh2
+sshd[4242]: Accepted password for tchoi from 172.25.215.213 port 46546 ssh2
+sshd[7705]: Failed password for melissa82 from 172.16.221.250 port 29812 ssh2
+37.158.147.236 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 200 81789 "-" "Opera/8.98.(Windows NT 5.2; nl-AW) Presto/2.9.171 Version/10.00"
+DB_PORT=redis://localhost:6379
+199.106.2.66 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 502 60660 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/5.1)"
+API_TIMEOUT=false
+sshd[3415]: Session opened for epeterson from 192.168.101.151 port 17818 ssh2
+REDIS_URL=47918
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"user session created","user":"schmidtjason","trace":"ImbCANJqvUcy"}
+148.233.30.177 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 400 302568 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 2_2_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/11.5d8332.0 Mobile/88J098 Safari/536.0"
+sshd[4027]: Session opened for vincent67 from 192.168.14.79 port 51320 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"cache miss","user":"parkerraymond","trace":"WNYahDBDt92x"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"gloveranthony","trace":"f7NmrACmplnk"}
+95.49.26.77 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 403 378428 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.37.4 (KHTML, like Gecko) Version/4.1 Safari/535.37.4"
+99.128.18.232 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 403 280472 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7 rv:2.0; hu-HU) AppleWebKit/535.6.5 (KHTML, like Gecko) Version/5.0.3 Safari/535.6.5"
+sshd[8525]: Accepted password for colleenpierce from 192.168.71.192 port 63620 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+63.200.174.94 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 201 224682 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/535.3.5 (KHTML, like Gecko) Version/5.0 Safari/535.3.5"
+LOG_LEVEL=true
+sshd[6789]: Session closed for alexanderharper from 172.23.3.3 port 43985 ssh2
+146.130.30.24 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 200 430400 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.26.2 (KHTML, like Gecko) Version/4.1 Safari/533.26.2"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"cache miss","user":"whiteian","trace":"okAsJYQFAGqd"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"user session created","user":"charlesgraham","trace":"WhwQicuiGgUh"}
+LOG_LEVEL=3573
+26.52.211.163 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 200 329643 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.23.1 (KHTML, like Gecko) Version/4.0.1 Safari/535.23.1"
+DB_HOST=false

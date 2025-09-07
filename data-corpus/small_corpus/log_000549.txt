@@ -1,0 +1,38 @@
+FEATURE_X_ENABLED=43513
+DB_HOST=DEBUG
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"user session created","user":"snyderadam","trace":"6y6QtajlSgyp"}
+DB_PORT=web-40.barnett-ryan.net
+89.118.225.89 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 404 223989 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.1)"
+204.89.217.5 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 400 239397 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"thomasmason","trace":"BNpbS0uZgPXp"}
+7.199.98.244 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 204 484081 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.1)"
+FEATURE_X_ENABLED=INFO
+sshd[4293]: Session closed for leslie80 from 10.238.50.94 port 25118 ssh2
+105.237.109.153 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 302 103509 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/58.0.823.0 Safari/536.1"
+sshd[8833]: Failed password for harrisjessica from 10.200.170.85 port 13749 ssh2
+122.226.22.4 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 400 275652 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_9 rv:5.0; az-IN) AppleWebKit/532.3.3 (KHTML, like Gecko) Version/4.0.3 Safari/532.3.3"
+sshd[3219]: Accepted password for smithkathryn from 172.26.63.173 port 24919 ssh2
+121.54.177.82 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 201 19751 "-" "Opera/9.89.(Windows NT 6.0; mhr-RU) Presto/2.9.175 Version/11.00"
+FEATURE_X_ENABLED=srv-15.lee.com
+126.250.30.22 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 200 510121 "-" "Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/18.7p9583.0 Mobile/62J384 Safari/535.0"
+132.101.206.193 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 403 199235 "-" "Opera/9.86.(X11; Linux x86_64; ik-CA) Presto/2.9.186 Version/12.00"
+sshd[8554]: Session opened for katie16 from 172.17.135.42 port 63207 ssh2
+REDIS_URL=web-69.gray.com
+DB_PORT=true
+REDIS_URL=3855
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"cache miss","user":"wilsonyvonne","trace":"Nk626DyzSwAq"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"williamhebert","trace":"qW3Gxlj3qZyg"} password=xH3|2~A!%z
+sshd[6085]: Failed password for timothyevans from 192.168.165.62 port 46875 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"db slow query","user":"gbarr","trace":"WGD7NVDVdREJ"}
+sshd[6570]: Session opened for mark01 from 10.16.154.202 port 46065 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"token refreshed","user":"wellseric","trace":"0jxUY5dpoIx7"}
+145.28.85.81 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 502 298641 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/11.0g9512.0 Mobile/63L806 Safari/534.0"
+REDIS_URL=false
+49.103.109.198 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 403 141126 "-" "Opera/9.74.(X11; Linux x86_64; bs-BA) Presto/2.9.173 Version/12.00"
+203.188.89.126 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 502 25004 "-" "Mozilla/5.0 (Windows NT 5.1; wal-ET; rv:1.9.1.20) Gecko/8503-08-26 03:36:10.450500 Firefox/3.6.5"
+97.217.119.193 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 404 31807 "-" "Mozilla/5.0 (Windows NT 5.2; ln-CD; rv:1.9.2.20) Gecko/8213-12-05 16:59:48.424591 Firefox/3.6.10"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"token refreshed","user":"teresa57","trace":"NRt11TmCfzuw"}
+sshd[6989]: Failed password for angelavance from 10.20.146.237 port 10137 ssh2
+57.148.16.29 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 401 477528 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/52.0.824.0 Safari/536.1"
+API_TIMEOUT=lt-99.roberson.biz
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"user session created","user":"david49","trace":"x2Pm9zy4R7dc"}

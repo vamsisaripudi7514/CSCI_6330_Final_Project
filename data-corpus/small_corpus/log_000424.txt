@@ -1,0 +1,26 @@
+143.123.208.106 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 404 273434 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/4046-12-15 18:16:18.471596 Firefox/3.8"
+92.184.30.0 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 404 325232 "-" "Opera/8.97.(Windows CE; ff-SN) Presto/2.9.185 Version/11.00"
+92.249.95.87 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 302 68046 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"rhodesjack","trace":"haL66m3BXeI0"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"user session created","user":"josephmiller","trace":"4xAvX0qwn6tk"}
+sshd[1013]: Session closed for hgraves from 10.247.50.29 port 58726 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"cache miss","user":"jenniferbaldwin","trace":"4PISj5rsyyIn"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"token refreshed","user":"qanderson","trace":"n7zKVohr7RjX"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"notify","msg":"request completed","user":"pamelahenry","trace":"a2v38Xptlfnl"}
+DB_PORT=3936
+sshd[4974]: Session opened for olsenchad from 172.17.23.85 port 16899 ssh2 API_KEY=AIzaj0ft9nmC8ol8r4tXT2Gji4dUvmqgmswfy4jfpA
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"db slow query","user":"vazquezbrooke","trace":"v2V2hIfpoHl0"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"user session created","user":"dillonbrady","trace":"YiT8r7tV8lsO"}
+sshd[4591]: Session closed for lindarivas from 172.29.13.189 port 38257 ssh2
+LOG_LEVEL=DEBUG
+85.217.5.55 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 204 329416 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; cs-CZ) AppleWebKit/533.15.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6533.15.2"
+FEATURE_X_ENABLED=62688
+LOG_LEVEL=WARN
+sshd[3309]: Failed password for jimenezdillon from 172.18.151.226 port 46239 ssh2
+DB_PORT=63240
+129.63.194.59 - - [07/Sep/2025:18:24:48 +0000] "POST /health HTTP/1.1" 403 286127 "-" "Opera/9.21.(Windows NT 6.0; fil-PH) Presto/2.9.189 Version/10.00"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"katelyn48","trace":"osjmz0t0sAXb"}
+201.148.111.53 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 204 502064 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/7810-12-31 02:05:44.475281 Firefox/3.8"
+33.50.180.217 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 302 182291 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/8548-01-12 16:42:57.078796 Firefox/3.6.13"
+sshd[1854]: Session opened for richard30 from 192.168.91.226 port 21447 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"db slow query","user":"anthony96","trace":"8FZb4IOA8K7P"}

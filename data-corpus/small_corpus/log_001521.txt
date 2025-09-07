@@ -1,0 +1,40 @@
+API_TIMEOUT=true
+129.250.146.81 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 502 483877 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/534.37.1 (KHTML, like Gecko) Version/5.0.3 Safari/534.37.1"
+sshd[6242]: Session closed for ygriffin from 192.168.96.180 port 64744 ssh2
+DB_PORT=redis://localhost:6379
+DB_HOST=true
+FEATURE_X_ENABLED=false
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"cache miss","user":"cjohnston","trace":"SoMdr9c7xMT3"}
+164.42.150.141 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 403 347491 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.14.2 (KHTML, like Gecko) Version/5.0.4 Safari/535.14.2"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"cache miss","user":"robinsonchristine","trace":"1cCwI1R1qjgR"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"cache miss","user":"victoria41","trace":"Y4SJEKWdAb87"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"request completed","user":"hallabigail","trace":"LvBuGyOujyoa"}
+DB_HOST=desktop-30.lopez.com
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"user session created","user":"robertwaters","trace":"y4xyMy6NnrUD"}
+API_TIMEOUT=314
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"token refreshed","user":"rhodesryan","trace":"QfjnL8ZGc8Xi"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"joneschristopher","trace":"VpdDhksmswPj"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"cache miss","user":"sarah59","trace":"8bLgelPmWEvD"}
+DB_PORT=false
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"db slow query","user":"stephen24","trace":"y5hINTzMH0zU"}
+144.114.218.247 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 403 243420 "-" "Opera/9.23.(Windows NT 6.1; da-DK) Presto/2.9.182 Version/11.00"
+sshd[2433]: Failed password for harpertina from 172.18.124.34 port 35193 ssh2
+FEATURE_X_ENABLED=42541
+DB_PORT=INFO
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"request completed","user":"perezmaria","trace":"FubcSlwCD0EV"}
+212.236.41.59 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 403 502289 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/44.0.833.0 Safari/535.0"
+DB_PORT=DEBUG
+sshd[3945]: Session opened for kellymartin from 10.17.4.0 port 29314 ssh2
+DB_PORT=61961
+34.234.223.104 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 200 459680 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2; rv:1.9.4.20) Gecko/7291-11-30 14:53:35.751526 Firefox/6.0"
+FEATURE_X_ENABLED=redis://localhost:6379
+99.163.105.222 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 400 231308 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+DB_PORT=DEBUG
+sshd[5908]: Failed password for kelleymackenzie from 10.27.249.163 port 12741 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"cache miss","user":"walterlori","trace":"l0FSPKzuARI9"}
+204.86.251.76 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 404 65502 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/45.0.826.0 Safari/534.1"
+sshd[3988]: Session closed for frankblake from 192.168.83.2 port 57967 ssh2
+sshd[1508]: Session opened for ucampbell from 192.168.27.148 port 30369 ssh2
+DB_HOST=web-83.coleman.info API_KEY=AIzaZ6ExpHZksy2kdPYCh-1XXqzM5oRdrbpdMAFAWw
+180.147.169.119 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 500 6116 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.0)"

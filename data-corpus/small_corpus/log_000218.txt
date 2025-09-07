@@ -1,0 +1,31 @@
+REDIS_URL=DEBUG
+API_TIMEOUT=redis://localhost:6379
+sshd[3895]: Accepted password for pburns from 172.17.90.219 port 36713 ssh2
+REDIS_URL=INFO
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"token refreshed","user":"scotthughes","trace":"m2azgtpZlGG8"}
+sshd[1640]: Session closed for timothyoliver from 172.23.193.37 port 49302 ssh2
+147.0.159.192 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 502 382398 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_2; rv:1.9.4.20) Gecko/7396-02-15 14:46:59.731262 Firefox/3.8"
+222.95.106.57 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 404 37594 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)"
+sshd[9109]: Accepted password for andrew19 from 172.23.233.194 port 16302 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"db slow query","user":"tylerarcher","trace":"I9Nd49yTI5HD"}
+164.98.153.191 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 201 74702 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_0 rv:2.0; tg-TJ) AppleWebKit/532.32.4 (KHTML, like Gecko) Version/5.1 Safari/532.32.4"
+API_TIMEOUT=INFO
+REDIS_URL=INFO
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"cache miss","user":"ablankenship","trace":"KV5DUWYFmo8G"} API_KEY=AIza_XQj__gcdB58TktbCHao1YXhojYHo18JnuNIMw
+39.7.46.62 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 302 86628 "-" "Opera/8.51.(Windows CE; wal-ET) Presto/2.9.172 Version/10.00"
+LOG_LEVEL=srv-42.donaldson.com
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"request completed","user":"leahmckinney","trace":"c5S3RJyxIylS"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"user session created","user":"leonard42","trace":"FHeNot2k5fe5"}
+sshd[8679]: Session closed for joshuabowman from 192.168.237.203 port 30633 ssh2
+DB_PORT=WARN
+sshd[2146]: Session closed for campbellteresa from 192.168.17.68 port 39910 ssh2
+106.175.203.219 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 302 78580 "-" "Mozilla/5.0 (Windows NT 5.0; ky-KG; rv:1.9.1.20) Gecko/9720-06-21 04:48:49.743530 Firefox/13.0"
+FEATURE_X_ENABLED=DEBUG
+99.125.140.5 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 200 119888 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/28.0.892.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"cochranjames","trace":"6yHrh2CjFnrd"}
+REDIS_URL=1057
+94.208.115.102 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 200 477679 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9; rv:1.9.6.20) Gecko/4650-05-23 22:42:55.483063 Firefox/3.6.2"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"user session created","user":"debbiescott","trace":"mcLjjeWon4Db"}
+sshd[4548]: Accepted password for deannamiller from 10.107.223.252 port 52487 ssh2
+DB_HOST=srv-43.thomas.com
+DB_PORT=51587

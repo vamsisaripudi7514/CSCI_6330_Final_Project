@@ -1,0 +1,42 @@
+DB_HOST=2015
+sshd[2622]: Accepted password for marissakent from 172.22.117.64 port 27754 ssh2
+LOG_LEVEL=true Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJaeURWVEVITGNVIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Rfkh7j1g6k9ygBrOzP6Xe2wRLNWQQrfIF3ILbgEophE'
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"cache miss","user":"vangroger","trace":"ayjXlCQ9SZ6L"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"vwelch","trace":"ZtgrqhYwfHpD"}
+sshd[4091]: Session opened for joseph01 from 192.168.38.92 port 37502 ssh2
+143.111.66.115 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 400 122319 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/16.5z4224.0 Mobile/53S268 Safari/535.0"
+DB_HOST=41856
+LOG_LEVEL=2744
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"rpennington","trace":"tWkID7mT0G7W"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"ashleywatkins","trace":"B1sjTEO8ibla"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"request completed","user":"garypeterson","trace":"8WlqjTa0TszI"}
+185.160.160.101 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 302 131149 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_0; rv:1.9.3.20) Gecko/2233-03-23 10:35:20.983593 Firefox/3.6.19"
+REDIS_URL=49188
+sshd[5383]: Session closed for candaceblair from 172.30.96.209 port 27580 ssh2
+sshd[8289]: Session opened for kimberly17 from 192.168.191.245 port 26354 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"cache miss","user":"qshaw","trace":"YzzafrBFY1M4"}
+sshd[8175]: Session opened for adambaker from 10.108.14.5 port 60674 ssh2 API_KEY=AIzaQg_MS0r6QhNbjVNDu_KJ22EkP8c_gqNH95F2fw
+DB_PORT=srv-60.baker-liu.com
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"erikajensen","trace":"uu9QloXm8yst"}
+FEATURE_X_ENABLED=email-33.bright-baker.com
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"stephanie48","trace":"jBuikXfmLt3h"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"db slow query","user":"carlos80","trace":"kyguyYFjF9ZQ"}
+LOG_LEVEL=email-14.diaz.info
+sshd[6458]: Session opened for amandaadams from 192.168.103.114 port 23912 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"user session created","user":"barkerkimberly","trace":"jHnkFFVfQkxQ"}
+sshd[6746]: Accepted password for bcunningham from 192.168.82.19 port 32647 ssh2
+LOG_LEVEL=1362
+REDIS_URL=false
+sshd[4021]: Session closed for jared60 from 192.168.246.111 port 60808 ssh2
+sshd[8097]: Session opened for hinesbrent from 192.168.38.231 port 28542 ssh2
+99.182.1.235 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 502 64094 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/7753-12-20 02:46:14.436493 Firefox/15.0"
+38.145.67.70 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 404 250148 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; mi-NZ) AppleWebKit/534.25.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6534.25.3"
+REDIS_URL=3916
+API_TIMEOUT=48910
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"michaelobrien","trace":"6CefaWA356sj"}
+FEATURE_X_ENABLED=redis://localhost:6379
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"db slow query","user":"havila","trace":"iLrAzd5qQf4Z"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"yvonne24","trace":"7MCMJNettkdl"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"emalone","trace":"eO7IXvzNrSPg"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"db slow query","user":"vasquezjacob","trace":"AGOSi2GbvWsC"} API_KEY=AIzanESBeJXSC_VTVe1Ba0guBaVDTHgRtHrc0mbRoA

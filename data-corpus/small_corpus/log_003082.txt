@@ -1,0 +1,48 @@
+sshd[9980]: Failed password for jthompson from 192.168.164.23 port 39693 ssh2
+LOG_LEVEL=false
+LOG_LEVEL=WARN
+DB_HOST=redis://localhost:6379
+176.0.184.116 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 502 295096 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/8866-01-11 20:34:25.729279 Firefox/3.6.12"
+84.32.123.1 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 502 134419 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)"
+151.94.93.7 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 404 43933 "-" "Opera/9.94.(X11; Linux x86_64; raj-IN) Presto/2.9.174 Version/11.00"
+API_TIMEOUT=60627
+133.67.213.109 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 502 86336 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/25.0.804.0 Safari/532.2"
+47.21.15.74 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 204 193170 "-" "Opera/8.47.(X11; Linux x86_64; km-KH) Presto/2.9.179 Version/12.00"
+DB_HOST=INFO
+REDIS_URL=52631
+LOG_LEVEL=redis://localhost:6379
+138.126.116.21 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 302 64412 "-" "Opera/8.64.(Windows 95; byn-ER) Presto/2.9.160 Version/10.00"
+FEATURE_X_ENABLED=2741
+REDIS_URL=52746
+REDIS_URL=DEBUG
+74.184.193.130 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 201 82915 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/48.0.859.0 Mobile/21S662 Safari/536.0"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"user session created","user":"walkerjoseph","trace":"Mvwdzn89ZRbp"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"cache miss","user":"penasarah","trace":"5tKJBngfYdis"}
+sshd[6002]: Accepted password for marysaunders from 192.168.61.145 port 21243 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"user session created","user":"james31","trace":"rRaD80XUcXe1"}
+LOG_LEVEL=false
+sshd[8058]: Failed password for kathleen38 from 10.2.143.147 port 17602 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"cunninghamjerry","trace":"5j2rpDOfmmVA"}
+sshd[3484]: Session opened for stephensontravis from 172.26.29.7 port 21147 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"hstewart","trace":"8qOhhgItoTXQ"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"jeffreymorgan","trace":"McDqceogNL4A"}
+DB_HOST=43006
+REDIS_URL=db-30.carey.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJPdXExa2F3Y212IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.-F8tbq6f2rzR2I7CCaKUm_DxARV0MdIgsN40dyOAZT0'
+sshd[1109]: Failed password for brownbradley from 10.153.78.43 port 14639 ssh2
+16.136.239.33 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 401 425228 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ast-ES) AppleWebKit/535.14.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6535.14.2"
+LOG_LEVEL=redis://localhost:6379
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"user session created","user":"gina85","trace":"mzP47aCrjiPH"}
+API_TIMEOUT=redis://localhost:6379
+115.103.78.20 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 200 313063 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/5.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"cache miss","user":"rachel53","trace":"76V4RLQwjDBu"}
+76.210.198.93 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 400 226902 "-" "Opera/9.46.(Windows 98; bn-IN) Presto/2.9.164 Version/12.00" password=eQ0."Vi|%|Wh}|
+sshd[3404]: Session closed for uarcher from 192.168.112.55 port 23495 ssh2
+172.76.14.28 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 502 448445 "-" "Opera/8.24.(Windows NT 6.0; iu-CA) Presto/2.9.163 Version/10.00"
+sshd[2810]: Failed password for william36 from 10.213.4.105 port 52914 ssh2
+DB_HOST=39395
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"karen28","trace":"ebSEyw021ToI"}
+DB_HOST=email-61.cantrell-rush.info
+sshd[4304]: Failed password for millerscott from 192.168.252.125 port 37732 ssh2
+sshd[2617]: Session closed for anthony94 from 172.17.44.120 port 54694 ssh2

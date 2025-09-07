@@ -1,0 +1,29 @@
+155.167.255.42 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 502 443764 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/3775-02-12 23:13:22.082787 Firefox/8.0"
+REDIS_URL=3912
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"request completed","user":"yallison","trace":"dsGftjZjrxOX"}
+API_TIMEOUT=INFO
+FEATURE_X_ENABLED=db-79.fernandez-allen.com
+LOG_LEVEL=redis://localhost:6379
+API_TIMEOUT=1273
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"retrying upstream","user":"edeleon","trace":"miPT9CBJXDtF"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"user session created","user":"scottstephen","trace":"F6xjZo4om9wq"}
+123.130.226.138 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 204 346359 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"morgandeleon","trace":"l5AzL2rBaGPK"}
+119.129.42.227 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 500 311488 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_1 rv:4.0; hak-TW) AppleWebKit/534.17.2 (KHTML, like Gecko) Version/4.1 Safari/534.17.2"
+sshd[3137]: Session closed for ijones from 172.19.75.216 port 14024 ssh2
+sshd[9398]: Session opened for ishields from 10.212.8.6 port 57982 ssh2
+sshd[5314]: Session closed for raymond31 from 10.8.38.156 port 59994 ssh2
+sshd[9572]: Session opened for christinemartin from 172.19.77.102 port 20031 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"carlos56","trace":"5vD0cHjtub4Y"}
+LOG_LEVEL=26243
+175.193.130.126 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 201 198112 "-" "Opera/8.68.(X11; Linux x86_64; lg-UG) Presto/2.9.189 Version/10.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKaEZMcTBHQzdxIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.UVgEiE1_uAL5J8V6AWkEMN4_jlFc5fSi6TGcviC6tvw'
+sshd[6197]: Session closed for fritzdana from 10.72.38.36 port 16931 ssh2
+REDIS_URL=15601
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"request completed","user":"osalinas","trace":"lqryEp6O9a0W"}
+DB_PORT=62865
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"cache miss","user":"gabriella38","trace":"EbGklBvYevV5"}
+sshd[1563]: Session opened for ravenmora from 192.168.78.5 port 63714 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"db slow query","user":"johnsonsamantha","trace":"lSICj0pKtT0O"} password=pY0%yKTT~/mpXIV
+sshd[1950]: Failed password for xjohnson from 172.27.45.94 port 39347 ssh2
+3.228.140.148 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 302 423660 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2762-06-27 06:18:01.217602 Firefox/3.6.14"

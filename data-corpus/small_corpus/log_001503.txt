@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"ashleyfoster","trace":"zCqKvAqedDDp"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"cache miss","user":"richardsherman","trace":"SMSbh3QhrpeY"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"jwaller","trace":"TXiUiDvKcRDC"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"request completed","user":"suttonheather","trace":"FhfdoJ5lD6a3"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjek5zVXNaR1dlIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.pGtb212ikQtv8e2mda2xmGBne-xqPXIAwYQ4p0m2J6A'
+214.81.18.204 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 200 515087 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.1)"
+DB_PORT=true
+DB_HOST=true
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"flemingdenise","trace":"5B1WDoMTpSB5"}
+LOG_LEVEL=INFO
+74.195.71.12 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 201 101833 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"token refreshed","user":"lisalindsey","trace":"QZtmyn0V5Pmi"}
+sshd[6046]: Session closed for jacobrodriguez from 192.168.120.10 port 21598 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"user session created","user":"benjaminjefferson","trace":"lbshiarO4xKh"}
+sshd[3260]: Accepted password for corey65 from 192.168.11.24 port 19201 ssh2
+sshd[9917]: Session closed for shelbyschwartz from 10.116.2.189 port 43776 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"user session created","user":"smithchristopher","trace":"w0fiIIoTElkh"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"cache miss","user":"randolphashley","trace":"0w4TjEj7oczG"}
+sshd[3605]: Failed password for zcarpenter from 10.39.217.168 port 55144 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"malonekatie","trace":"izatLcKGBTWR"}
+165.233.213.39 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 404 337834 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ug-CN) AppleWebKit/532.45.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.45.4"
+sshd[8304]: Session closed for hyates from 192.168.21.129 port 35946 ssh2
+sshd[4292]: Session opened for leslielozano from 172.24.169.150 port 48755 ssh2
+75.60.47.137 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 201 285460 "-" "Opera/9.36.(X11; Linux x86_64; sc-IT) Presto/2.9.170 Version/11.00"
+151.136.166.38 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 400 213009 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/3.1)"
+REDIS_URL=DEBUG

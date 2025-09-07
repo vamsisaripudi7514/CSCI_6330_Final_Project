@@ -1,0 +1,25 @@
+25.33.130.27 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 302 285635 "-" "Opera/8.61.(Windows NT 5.0; ug-CN) Presto/2.9.182 Version/11.00"
+sshd[7029]: Accepted password for kathleen03 from 172.16.235.115 port 36661 ssh2
+sshd[6243]: Failed password for jane53 from 172.16.183.76 port 37757 ssh2
+FEATURE_X_ENABLED=28171
+110.153.160.144 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 500 57567 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)"
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"xhenderson","trace":"DBgfToeqTIn6"}
+FEATURE_X_ENABLED=10054
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"omatthews","trace":"iSrvJCxPXgxh"}
+216.105.210.87 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 400 219151 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/24.0.869.0 Safari/534.0"
+84.32.175.7 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 502 72058 "-" "Opera/8.70.(X11; Linux x86_64; ru-RU) Presto/2.9.175 Version/11.00"
+12.5.255.94 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 201 18543 "-" "Opera/8.35.(X11; Linux i686; nb-NO) Presto/2.9.171 Version/12.00"
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"cache miss","user":"ipatterson","trace":"7vzvSWFU0AWx"}
+FEATURE_X_ENABLED=redis://localhost:6379
+REDIS_URL=55095
+REDIS_URL=true
+sshd[6403]: Session closed for bryan24 from 192.168.52.162 port 25249 ssh2
+sshd[7280]: Failed password for sgreen from 172.23.27.192 port 21519 ssh2
+FEATURE_X_ENABLED=laptop-53.jones.com
+API_TIMEOUT=redis://localhost:6379
+123.15.67.193 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 500 329704 "-" "Opera/8.12.(Windows NT 6.2; st-ZA) Presto/2.9.187 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"kaitlyn48","trace":"On8zFYQTVfLJ"}
+API_TIMEOUT=redis://localhost:6379
+120.253.152.56 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 204 55428 "-" "Mozilla/5.0 (Windows NT 6.2; mag-IN; rv:1.9.1.20) Gecko/8610-05-23 08:05:05.551300 Firefox/3.6.1"

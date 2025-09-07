@@ -1,0 +1,48 @@
+sshd[4965]: Accepted password for wpatterson from 172.17.215.126 port 38147 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"request completed","user":"paulbrown","trace":"U89dRHx3cWsy"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"elizabeth67","trace":"ZmRblwAIhxKy"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"xbryant","trace":"pNEFFcGQdxeN"}
+DB_HOST=true
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"request completed","user":"sharonramirez","trace":"DyjByVWLohxm"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"jhuber","trace":"B9kLS8mmAgO0"}
+139.184.55.182 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 400 94415 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_9) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/41.0.810.0 Safari/533.0" API_KEY=AIzaY2NNQtumfrvIwjGj3B1-YYhdP2eBeGnkwYmzaw
+DB_HOST=59614
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"valdezemily","trace":"qfKQnL24fD7E"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJLRG15bjdYQzhoIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5RwzAZTCh8iVEgWARH3qMaP--WnfNmKEbaD3hClKnqw'
+sshd[4094]: Session closed for cynthia50 from 192.168.223.5 port 57261 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"cache miss","user":"stevengross","trace":"i6S744BovZzs"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"darrenjohnson","trace":"2V0ena8dJf2v"}
+API_TIMEOUT=48311
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"amandahoward","trace":"WKlfre2S1KPc"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"hugheskimberly","trace":"TWD5cjvOuYmt"}
+API_TIMEOUT=2412
+sshd[9172]: Session closed for dbailey from 192.168.109.175 port 31662 ssh2
+sshd[3558]: Session opened for kevinli from 192.168.97.243 port 41269 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"request completed","user":"jillianrivera","trace":"9gq0Ub1QEjbY"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"cache miss","user":"paul70","trace":"LO9eqqO9DmZ0"}
+sshd[3059]: Session opened for wadekarl from 10.53.171.61 port 61168 ssh2
+DB_PORT=false
+sshd[9902]: Failed password for margaretroth from 10.31.197.51 port 44266 ssh2
+17.42.76.161 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 401 120531 "-" "Opera/8.13.(Windows NT 5.1; lo-LA) Presto/2.9.179 Version/12.00"
+129.231.92.104 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 404 168193 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ps-AF) AppleWebKit/534.42.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6534.42.3"
+82.183.119.236 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 502 97860 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/41.0.838.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"user session created","user":"josephsanchez","trace":"I3OobUjfDFRn"}
+sshd[5928]: Accepted password for rstevens from 10.104.125.105 port 61357 ssh2
+155.141.57.179 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 404 258548 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_6; rv:1.9.3.20) Gecko/8268-06-25 01:39:48.355072 Firefox/3.8"
+sshd[9856]: Session opened for qlowery from 172.25.8.137 port 28634 ssh2
+176.180.208.14 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 302 109039 "-" "Mozilla/5.0 (Linux; Android 4.4.4) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/44.0.819.0 Safari/531.2"
+166.71.162.90 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 500 251705 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4749-05-25 06:51:26.768890 Firefox/7.0"
+105.20.102.230 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 500 488109 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/17.4b0702.0 Mobile/49T109 Safari/531.0"
+223.143.69.181 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 502 13264 "-" "Mozilla/5.0 (Linux; Android 8.0.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/20.0.807.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"db slow query","user":"vrose","trace":"f3ASEAyZQz7g"}
+FEATURE_X_ENABLED=false
+33.113.18.147 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 204 3902 "-" "Mozilla/5.0 (Android 4.1.1; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0"
+122.53.56.116 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 502 7753 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.1)"
+DB_PORT=DEBUG
+sshd[1124]: Session opened for davidguzman from 192.168.191.243 port 42155 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"michelle86","trace":"TKDVY8CDI5hL"}
+FEATURE_X_ENABLED=db-24.buchanan-martin.com
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"user session created","user":"john49","trace":"gkJLEVEm4uPR"}
+FEATURE_X_ENABLED=WARN
+sshd[4169]: Accepted password for whood from 172.19.78.150 port 12692 ssh2
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"db slow query","user":"andreagarcia","trace":"80EzOSoQvpw0"}

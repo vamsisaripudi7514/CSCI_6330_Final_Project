@@ -1,0 +1,29 @@
+sshd[7323]: Accepted password for rdixon from 172.16.221.219 port 60117 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"db slow query","user":"rebekah48","trace":"egFs7N1xoH6C"}
+LOG_LEVEL=27920
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"db slow query","user":"walkerdaniel","trace":"RxybJbbDNoRE"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"kristin84","trace":"6OeNITgUdX5j"}
+FEATURE_X_ENABLED=52485
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"cache miss","user":"rcarrillo","trace":"XaBEUVRj1mQJ"}
+FEATURE_X_ENABLED=2186
+API_TIMEOUT=2545
+FEATURE_X_ENABLED=46184
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"retrying upstream","user":"donaldnielsen","trace":"5F2A7QcP0irL"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"user session created","user":"johnstonsarah","trace":"9bkxMQyXIfBB"}
+175.189.21.151 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 400 287282 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.1)"
+192.84.132.128 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 302 12625 "-" "Opera/9.81.(X11; Linux i686; yo-NG) Presto/2.9.189 Version/12.00"
+LOG_LEVEL=58762
+LOG_LEVEL=3695
+LOG_LEVEL=56492
+64.139.120.106 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 204 64176 "-" "Opera/9.58.(X11; Linux x86_64; mni-IN) Presto/2.9.182 Version/12.00"
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"cache miss","user":"jclark","trace":"24j6k9e9EdQw"}
+223.21.82.11 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 404 383205 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.48.7 (KHTML, like Gecko) Version/5.0.1 Safari/534.48.7"
+sshd[5442]: Session closed for emily58 from 172.17.42.96 port 14224 ssh2
+REDIS_URL=4662
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"user session created","user":"jamie54","trace":"X3yADMdhAH7S"}
+91.241.2.105 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 400 245515 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9; rv:1.9.5.20) Gecko/4234-07-03 00:11:25.357285 Firefox/3.8"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"request completed","user":"hunterlaura","trace":"qW45DRfgV5Kw"}
+REDIS_URL=1746
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"sballard","trace":"EVvw9BHQi4u2"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"request completed","user":"jaclyn25","trace":"49JWvPueBIQD"}

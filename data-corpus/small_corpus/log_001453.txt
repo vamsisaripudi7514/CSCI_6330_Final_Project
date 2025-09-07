@@ -1,0 +1,37 @@
+sshd[1461]: Session opened for sarah16 from 10.139.49.6 port 37346 ssh2
+sshd[1963]: Session opened for kathleendavis from 172.24.233.205 port 34524 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"brennanandrew","trace":"7lAd4qUZhAcp"}
+23.26.183.107 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 502 307600 "-" "Mozilla/5.0 (Windows NT 6.0; pt-BR; rv:1.9.1.20) Gecko/3781-05-14 08:32:16.123398 Firefox/13.0"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"jamesdowns","trace":"GPGq6SRj0Zvs"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJncVlVN3B5WDFXIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Z1m5ojbfkiEwtrGVmrKwBjdxKXpInO7jlxGAT_bT7_E'
+REDIS_URL=27100
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"zjones","trace":"aAS7vmm1aGfj"}
+sshd[6592]: Accepted password for tstanley from 192.168.238.190 port 21091 ssh2
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"db slow query","user":"michelle93","trace":"NfCtaJnpShzk"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"token refreshed","user":"philipodom","trace":"kmIbjeUKgZ2I"}
+FEATURE_X_ENABLED=lt-34.hernandez.org
+145.131.209.173 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 400 6063 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; sl-SI) AppleWebKit/534.41.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6534.41.5"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"wponce","trace":"1mF1aLiYQDRY"}
+61.247.95.204 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 403 481700 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/60.0.842.0 Safari/536.1"
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"roberta59","trace":"8v0eizySORT7"}
+DB_HOST=db-58.gray.com
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"request completed","user":"stephaniebailey","trace":"NDVQ0aUYdIGK"}
+131.181.208.44 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 204 87806 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2 rv:2.0; mhr-RU) AppleWebKit/531.15.2 (KHTML, like Gecko) Version/4.1 Safari/531.15.2"
+55.90.208.11 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 204 366112 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)"
+sshd[1372]: Failed password for alexis01 from 192.168.119.133 port 33333 ssh2
+DB_HOST=4801
+180.68.95.4 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 502 262334 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/58.0.866.0 Safari/532.2"
+194.234.120.212 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 400 352077 "-" "Opera/8.53.(X11; Linux x86_64; ht-HT) Presto/2.9.176 Version/12.00"
+13.102.101.250 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 302 277434 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3; rv:1.9.2.20) Gecko/4591-12-31 20:52:40.946243 Firefox/3.6.19"
+API_TIMEOUT=srv-71.fuentes.net
+sshd[1021]: Failed password for ahernandez from 192.168.89.187 port 45220 ssh2
+89.251.16.74 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 502 300021 "-" "Opera/8.90.(Windows NT 6.1; hsb-DE) Presto/2.9.187 Version/10.00"
+sshd[6615]: Session closed for graynicole from 10.114.197.212 port 11030 ssh2
+API_TIMEOUT=redis://localhost:6379
+54.176.88.202 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 204 513839 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5 rv:5.0; sid-ET) AppleWebKit/531.34.4 (KHTML, like Gecko) Version/4.0 Safari/531.34.4"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"token refreshed","user":"sherrymiller","trace":"C1f1UCxRYcnP"}
+sshd[1678]: Accepted password for mitchellmegan from 172.16.186.234 port 55371 ssh2
+sshd[3743]: Accepted password for allencasey from 10.246.240.248 port 32882 ssh2
+sshd[3074]: Failed password for codyclark from 172.22.142.246 port 49802 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"user session created","user":"sdiaz","trace":"ZytNRUtfzl7P"}

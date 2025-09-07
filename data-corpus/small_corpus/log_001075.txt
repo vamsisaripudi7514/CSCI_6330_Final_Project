@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"user session created","user":"sharon25","trace":"EgChu9ioWYw4"}
+REDIS_URL=redis://localhost:6379
+212.243.46.51 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 502 328618 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/46.0.833.0 Safari/533.0"
+116.43.224.210 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 400 474532 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/14.0.803.0 Safari/531.0"
+API_TIMEOUT=DEBUG
+sshd[2191]: Session closed for thomas86 from 172.17.168.29 port 47968 ssh2
+132.140.71.254 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 401 405687 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/7885-08-11 22:38:59.822388 Firefox/3.8"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"user session created","user":"vboyd","trace":"GsQBbWHPju2E"}
+sshd[3896]: Failed password for croberts from 172.27.161.3 port 54878 ssh2
+4.136.212.234 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 500 232137 "-" "Opera/8.36.(X11; Linux x86_64; nb-NO) Presto/2.9.167 Version/12.00"
+sshd[4411]: Failed password for andrewhernandez from 192.168.63.186 port 24929 ssh2
+sshd[3404]: Session opened for sanchezjohn from 192.168.130.50 port 20945 ssh2
+sshd[8954]: Session opened for johnstonbrian from 192.168.95.74 port 23993 ssh2
+sshd[3389]: Failed password for daltonchristopher from 10.106.165.202 port 58533 ssh2
+93.70.129.126 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 403 495496 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_5) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/30.0.874.0 Safari/536.1"
+206.188.15.11 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 403 413286 "-" "Opera/8.61.(Windows NT 10.0; en-IE) Presto/2.9.190 Version/11.00"
+DB_HOST=laptop-56.duncan.com
+197.194.23.102 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 404 126337 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/13.0.818.0 Mobile/72C915 Safari/532.1"
+LOG_LEVEL=3265
+123.121.56.141 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 500 266373 "-" "Opera/9.45.(X11; Linux x86_64; lb-LU) Presto/2.9.173 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"user session created","user":"karenfields","trace":"KQt8pcsQ6MOb"}
+141.101.102.9 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 204 429739 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/3.1)"
+sshd[1488]: Failed password for austinmeza from 172.19.146.66 port 44559 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"owalter","trace":"i6acnHfkVpOF"}
+REDIS_URL=false
+sshd[2997]: Failed password for krystalvelez from 10.96.243.136 port 13676 ssh2

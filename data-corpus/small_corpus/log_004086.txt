@@ -1,0 +1,34 @@
+sshd[7997]: Failed password for zperez from 172.27.42.100 port 17115 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"loriperry","trace":"j55b71l83r3h"}
+124.158.180.58 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 201 58395 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4 rv:4.0; mn-MN) AppleWebKit/533.27.5 (KHTML, like Gecko) Version/4.0.3 Safari/533.27.5"
+API_TIMEOUT=DEBUG
+221.223.163.56 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 401 420608 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"user session created","user":"anthonyburgess","trace":"l54xoXHtCNZU"}
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"user session created","user":"kennethmartinez","trace":"PKqotZVmYPtp"}
+sshd[9646]: Session opened for lovekenneth from 192.168.210.179 port 30342 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"farmermelinda","trace":"iNdJquHeiGcV"}
+sshd[7342]: Session opened for larias from 10.59.250.226 port 16987 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"cache miss","user":"tylersmith","trace":"k9TtfU7MJ3yh"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"user session created","user":"mathewsrichard","trace":"R5r6ZraCeObd"}
+sshd[8029]: Session opened for mwest from 172.16.227.11 port 12267 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzNnNueVYwWTI0IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.fY5IJLaQW2HdUSgFNKQ-pQesyr1PZY4EDDzmQbSfXKQ'
+142.174.4.193 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 500 102247 "-" "Opera/9.77.(Windows 98; Win 9x 4.90; ha-NG) Presto/2.9.166 Version/11.00"
+154.245.33.197 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 500 455795 "-" "Opera/9.22.(X11; Linux x86_64; fil-PH) Presto/2.9.160 Version/11.00"
+DB_HOST=45903
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"token refreshed","user":"jbradford","trace":"VKxjuHfy2p0m"}
+DB_PORT=redis://localhost:6379
+FEATURE_X_ENABLED=INFO
+sshd[3551]: Session opened for ushields from 10.17.47.111 port 36079 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"cache miss","user":"martinkelly","trace":"bZ8aJtPHF3FG"}
+sshd[9182]: Failed password for victorperez from 172.28.62.97 port 29530 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"user session created","user":"phillipskarl","trace":"mYL47MzCzJ9W"}
+DB_HOST=64375
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"db slow query","user":"edwardskaren","trace":"T3qiK8hj2vtv"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"user session created","user":"davenportcassandra","trace":"Ka9SlLHTpem6"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"griffithbilly","trace":"AvLoPqRQynnr"}
+47.136.33.96 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 500 278201 "-" "Opera/9.96.(Windows NT 5.01; bg-BG) Presto/2.9.181 Version/11.00"
+165.98.32.187 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 401 313441 "-" "Opera/8.17.(X11; Linux x86_64; fi-FI) Presto/2.9.186 Version/11.00"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"andresdavis","trace":"PVkXkUftvbip"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"request completed","user":"glovermaria","trace":"rIDGLtdq1VlR"}
+DB_HOST=53637

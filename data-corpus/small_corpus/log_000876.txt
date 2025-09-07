@@ -1,0 +1,31 @@
+176.236.186.17 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 200 505602 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/3.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"user session created","user":"dgarcia","trace":"Qhci3kNI5dv0"}
+sshd[8932]: Session closed for wendy10 from 10.72.55.11 port 42126 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"request completed","user":"anitafranklin","trace":"TQkqf7zQCAZq"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"cache miss","user":"rachelbaker","trace":"PWeE8IfKDNlA"}
+sshd[4203]: Failed password for cervanteschristopher from 10.31.5.232 port 42079 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"nsullivan","trace":"WnKZUO90KmVO"}
+sshd[9893]: Session opened for padillaaaron from 172.20.132.143 port 37350 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"vadams","trace":"GR3oiCXasrsB"}
+sshd[6282]: Session opened for hamiltonsteven from 172.16.241.20 port 30771 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"user session created","user":"ywilson","trace":"1kx8JNqxVi0m"}
+sshd[2810]: Session closed for nicole64 from 10.5.33.48 port 18199 ssh2
+sshd[5038]: Session opened for marshalldavid from 10.95.44.155 port 31279 ssh2
+212.181.155.105 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 204 339048 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/17.0.827.0 Mobile/23D984 Safari/535.2"
+REDIS_URL=48283
+sshd[5709]: Accepted password for rickyjones from 172.21.16.12 port 19041 ssh2
+sshd[9806]: Session opened for xfrey from 192.168.185.111 port 62896 ssh2
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"cache miss","user":"joneslouis","trace":"oSrNZkse7ntK"}
+sshd[8569]: Failed password for snydermackenzie from 192.168.191.38 port 47482 ssh2
+17.104.253.130 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 502 58006 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/17.5m1152.0 Mobile/63V629 Safari/536.0"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"request completed","user":"guerreroyvonne","trace":"s0Y2ZHWPDgvw"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"marcus98","trace":"dgfuYFsV5E0u"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"request completed","user":"luisbaker","trace":"Ifb6mGoxV473"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"mhouston","trace":"93a40EvNWRmD"}
+65.183.158.180 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 400 214585 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_3 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/61.0.891.0 Mobile/05T595 Safari/531.2"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"token refreshed","user":"joannbuckley","trace":"C4hP5UdAJ5FF"}
+74.247.187.118 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 502 389643 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/3.1)"
+146.155.113.219 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 200 209009 "-" "Opera/8.89.(Windows NT 11.0; az-AZ) Presto/2.9.176 Version/10.00"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"jodirobinson","trace":"IBMEYpAnM3Qr"}
+DB_PORT=INFO

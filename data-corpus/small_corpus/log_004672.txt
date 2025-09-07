@@ -1,0 +1,28 @@
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"db slow query","user":"morrisonhoward","trace":"q3oxFDLw3t1k"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"dlyons","trace":"AL5nrng2wQuM"} API_KEY=AIzab0eRATswWAx86Q7Nku9kWUNRbuNTnL8tt0R7OQ
+58.0.252.231 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 401 103734 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+REDIS_URL=52451 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUMjM4OTMxUjRtIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ceH1b7URssyE430sWdSu2ONHQmZ4a08GYXKz8ydYaR8'
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"token refreshed","user":"frederickgeorge","trace":"9MKyHTsTj7FT"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"michaelsantos","trace":"o6hLDrUvaRX1"}
+API_TIMEOUT=redis://localhost:6379
+65.131.195.113 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 200 41935 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/3.0)"
+LOG_LEVEL=false
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[2679]: Session opened for bensonandrea from 172.19.164.194 port 50556 ssh2
+sshd[6259]: Session opened for ann91 from 10.141.73.67 port 20827 ssh2
+48.186.192.61 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 403 190541 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2289-01-05 17:04:54.901720 Firefox/3.8"
+78.116.175.192 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 404 518014 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ayc-PE) AppleWebKit/533.47.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6533.47.2"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"db slow query","user":"wilsonmichael","trace":"h2LQZux6g1k6"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"myersjeffrey","trace":"VfGRpPrKXgb9"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"request completed","user":"guzmanmark","trace":"bl7luqrWTSTz"}
+REDIS_URL=redis://localhost:6379
+REDIS_URL=DEBUG
+13.34.113.112 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 500 239678 "-" "Opera/9.71.(Windows NT 4.0; zu-ZA) Presto/2.9.183 Version/10.00"
+REDIS_URL=48839 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDYUN3blpCVjF5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Wrsd9JuSez9ZWgDzWCzwZJWnsGzmzNUPFwruayVd07w'
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"thomasraymond","trace":"ympbWVYo6SXD"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"gregorymoore","trace":"6upkNiPXeEmr"}
+REDIS_URL=INFO
+sshd[9634]: Session opened for diazsusan from 172.19.164.103 port 13777 ssh2
+148.222.206.45 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 404 445988 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.32.4 (KHTML, like Gecko) Version/4.0.5 Safari/532.32.4"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"token refreshed","user":"adrian48","trace":"odI7mGNNJOf1"}
+sshd[2907]: Session closed for smurphy from 10.38.134.185 port 30437 ssh2

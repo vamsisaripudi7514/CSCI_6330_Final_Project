@@ -1,0 +1,38 @@
+LOG_LEVEL=web-69.hart.com
+sshd[1334]: Session opened for harveyjerome from 172.24.192.24 port 62742 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"monicayoung","trace":"F5nug4QmA9Cl"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"wbrown","trace":"70FJ8jTjy9Uu"}
+sshd[1888]: Session closed for jeremy13 from 192.168.36.43 port 11513 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"zwhite","trace":"etUntNkgIYMc"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFU0VGUGtuNmJOIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.1eFmuJ9hpmue_2qjaQTs6Z9WcbuRZWCSUYNFV2wpLtk'
+REDIS_URL=web-69.morales-wall.biz
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"request completed","user":"jill38","trace":"s5QbgApeFdHY"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"user session created","user":"hthomas","trace":"xzE1ZcCp4bXs"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1QXF2ajhjVU5iIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.cIvytlJovkH2q9OdZknWBw2WhzeSURqnhL8dI-Elg70'
+sshd[8836]: Session opened for denise57 from 172.20.227.98 port 33575 ssh2
+sshd[8158]: Accepted password for joseph62 from 10.140.28.192 port 55659 ssh2
+API_TIMEOUT=WARN
+DB_HOST=INFO
+139.113.82.226 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 401 23853 "-" "Mozilla/5.0 (Android 4.4.3; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"thomas09","trace":"EIjZhZwNBgyo"}
+182.82.165.140 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 204 444792 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/33.0.891.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"db slow query","user":"ccampbell","trace":"LvcguzSTI8nN"}
+sshd[5924]: Accepted password for kingamber from 172.18.136.24 port 56602 ssh2
+sshd[5234]: Session opened for hcain from 10.55.145.216 port 14070 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"token refreshed","user":"harrischristina","trace":"WxQcrlMQq7gL"}
+DB_PORT=1930
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"token refreshed","user":"qbaird","trace":"b3Vnc0mkNAf5"}
+137.253.218.22 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 204 102898 "-" "Mozilla/5.0 (Windows NT 6.0; sr-RS; rv:1.9.0.20) Gecko/3980-07-18 04:16:31.333717 Firefox/6.0"
+sshd[9998]: Session closed for victoria59 from 10.185.20.140 port 30726 ssh2
+13.183.101.51 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 401 365114 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_8; rv:1.9.4.20) Gecko/2164-01-26 17:47:47.332794 Firefox/3.6.3"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"db slow query","user":"kgallagher","trace":"VAirnHQaT7Le"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"token refreshed","user":"ericlevine","trace":"5WSSKBpieDre"}
+4.186.29.92 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 403 441048 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.1)"
+sshd[6516]: Accepted password for jesse17 from 10.216.193.11 port 54490 ssh2
+API_TIMEOUT=3052
+sshd[5660]: Session closed for pirwin from 192.168.61.132 port 52359 ssh2
+170.50.138.81 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 404 9008 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/48.0.870.0 Safari/536.0"
+sshd[8744]: Session closed for rnovak from 192.168.198.234 port 11426 ssh2
+209.82.184.156 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 403 478126 "-" "Opera/8.93.(Windows NT 6.2; yo-NG) Presto/2.9.186 Version/11.00"
+DB_PORT=true
+sshd[7811]: Session closed for blewis from 192.168.157.209 port 30721 ssh2
+213.24.100.170 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 502 477974 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.0)"
+sshd[9107]: Accepted password for jacobsjose from 10.226.184.122 port 28862 ssh2

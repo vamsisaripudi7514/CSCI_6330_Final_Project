@@ -1,0 +1,36 @@
+sshd[1588]: Session opened for pbuck from 192.168.14.2 port 31795 ssh2
+sshd[7149]: Session opened for brandon48 from 172.17.247.135 port 64629 ssh2
+sshd[7565]: Failed password for brittneymccarthy from 10.35.237.177 port 28700 ssh2
+39.234.249.47 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 302 47887 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"user session created","user":"jerry42","trace":"gPBjJGtrIox3"}
+sshd[2079]: Failed password for fpena from 172.31.121.73 port 29613 ssh2
+114.217.100.191 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 204 413938 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"linda54","trace":"N1AfLVp6baic"}
+162.157.193.189 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 404 108765 "-" "Opera/8.21.(X11; Linux x86_64; lzh-TW) Presto/2.9.170 Version/11.00"
+sshd[1383]: Accepted password for justin30 from 172.17.103.36 port 58331 ssh2
+104.89.212.154 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 400 37216 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)"
+DB_HOST=51311
+sshd[7645]: Session closed for brianwalker from 172.22.32.169 port 38631 ssh2
+129.6.99.196 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 500 99222 "-" "Opera/8.39.(X11; Linux x86_64; eo-US) Presto/2.9.164 Version/10.00"
+sshd[5513]: Failed password for joy24 from 10.7.63.203 port 51536 ssh2
+API_TIMEOUT=2913 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRRHFyOTAwYUVLIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.3zLaZwA2a6STXQYOU7R0erMcPOz1mTvZCM_vJ8Ymu4o'
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"token refreshed","user":"debraklein","trace":"hjDeMHed7LX8"}
+sshd[7671]: Session opened for miguelsherman from 192.168.189.201 port 30792 ssh2
+sshd[7987]: Failed password for meagansparks from 10.49.236.185 port 33216 ssh2
+sshd[1950]: Failed password for yangbrian from 172.24.196.26 port 30086 ssh2 password=bJ8/,`By4@tU
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"user session created","user":"hkelly","trace":"xyL6famxksU7"}
+132.50.209.166 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 400 237946 "-" "Opera/9.21.(X11; Linux i686; mn-MN) Presto/2.9.186 Version/10.00"
+sshd[9892]: Accepted password for jamesmiller from 192.168.84.17 port 30860 ssh2
+13.223.106.220 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 200 275267 "-" "Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/35.0.803.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"db slow query","user":"btorres","trace":"5mrFa4h2zXY0"}
+91.215.208.128 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 500 142993 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"request completed","user":"zacharyhooper","trace":"EQAPUfKEnaht"}
+117.125.34.184 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 502 504095 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.1)"
+164.140.43.81 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 404 316294 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.0)"
+sshd[5251]: Session closed for chadanthony from 10.35.222.172 port 54996 ssh2
+FEATURE_X_ENABLED=laptop-14.jones.com
+189.64.45.19 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 302 114311 "-" "Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/46.0.814.0 Mobile/20A190 Safari/536.1"
+15.82.179.143 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 403 130205 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/4.1)"
+21.25.43.253 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 302 115613 "-" "Mozilla/5.0 (Android 11; Mobile; rv:18.0) Gecko/18.0 Firefox/18.0"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"db slow query","user":"johnbarrera","trace":"KIsqOILM7GZm"}
+REDIS_URL=web-48.washington.com

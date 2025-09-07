@@ -1,0 +1,27 @@
+9.7.155.23 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 302 235524 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/16.5d2801.0 Mobile/08G961 Safari/533.2"
+sshd[2987]: Session closed for heather53 from 172.22.140.128 port 27512 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"lawrencetate","trace":"LrqKrZ4GEzSX"}
+API_TIMEOUT=lt-93.greene.com
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"notify","msg":"token refreshed","user":"currypeter","trace":"7CKOyBcg3FxY"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"williamguzman","trace":"8FeWxenKAMso"}
+REDIS_URL=4043
+210.74.241.9 - - [07/Sep/2025:18:24:57 +0000] "POST /health HTTP/1.1" 201 86680 "-" "Mozilla/5.0 (Linux; Android 4.0.3) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/63.0.805.0 Safari/535.0"
+215.112.34.42 - - [07/Sep/2025:18:24:57 +0000] "DELETE /health HTTP/1.1" 204 20875 "-" "Opera/9.68.(X11; Linux i686; sa-IN) Presto/2.9.180 Version/12.00"
+DB_PORT=4409
+DB_PORT=true
+52.25.116.51 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 401 62645 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.0)"
+203.72.89.198 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 500 270038 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/60.0.897.0 Safari/532.2"
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"notify","msg":"cache miss","user":"sarah46","trace":"rX3b8rvbKKVu"}
+LOG_LEVEL=lt-09.brown.biz
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"notify","msg":"cache miss","user":"kellynelson","trace":"4tz7ISSv0FaE"}
+DB_PORT=true
+139.134.227.163 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 302 359735 "-" "Opera/8.98.(X11; Linux x86_64; gv-GB) Presto/2.9.175 Version/11.00"
+LOG_LEVEL=DEBUG
+DB_HOST=2064
+sshd[3490]: Session closed for zmitchell from 172.18.23.126 port 24012 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"user session created","user":"seththomas","trace":"OLvJzRnC2CJy"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"orders","msg":"cache miss","user":"tony26","trace":"Dgt4uFxR5dDg"}
+sshd[9908]: Failed password for qvillegas from 172.31.222.184 port 50661 ssh2
+sshd[2179]: Session closed for reevesmakayla from 172.19.91.218 port 40496 ssh2

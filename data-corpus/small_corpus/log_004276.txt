@@ -1,0 +1,38 @@
+DB_PORT=redis://localhost:6379
+110.128.142.154 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 502 433094 "-" "Opera/8.20.(Windows NT 6.0; nso-ZA) Presto/2.9.168 Version/10.00"
+68.232.164.20 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 403 157283 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_0 rv:3.0; pa-IN) AppleWebKit/531.48.4 (KHTML, like Gecko) Version/5.0 Safari/531.48.4"
+sshd[6999]: Accepted password for ejohnson from 172.18.116.219 port 39195 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"request completed","user":"davidburns","trace":"X3JSgKJHAr2r"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"request completed","user":"asmith","trace":"1U1NQ9mWY8kp"}
+sshd[4879]: Session closed for xgarrison from 10.170.57.243 port 59010 ssh2
+API_TIMEOUT=2939
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"db slow query","user":"popestephanie","trace":"ifncVpGrKjN8"}
+sshd[9768]: Session opened for fergusonheidi from 192.168.60.60 port 60038 ssh2
+sshd[6162]: Failed password for xcarroll from 192.168.231.234 port 45822 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"request completed","user":"wongkaren","trace":"caATTfMfyycq"}
+179.203.70.143 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 404 119315 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/5878-11-01 01:59:20.839996 Firefox/10.0"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"retrying upstream","user":"oliviastevens","trace":"Whzz1DtAF3Hh"}
+191.4.145.133 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 500 306372 "-" "Opera/8.79.(X11; Linux x86_64; an-ES) Presto/2.9.163 Version/12.00"
+REDIS_URL=redis://localhost:6379
+FEATURE_X_ENABLED=true
+216.135.160.2 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 204 360502 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; hu-HU) AppleWebKit/534.28.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6534.28.4"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"token refreshed","user":"hudsonerika","trace":"kUJjkgqaEr5i"}
+147.105.136.168 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 502 434971 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/5.1)"
+sshd[2995]: Accepted password for crystal35 from 192.168.255.10 port 44998 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"martha08","trace":"ka5gJv20DjxJ"} API_KEY=AIzawygAIQOaxyMU0J1IZ6DbpHmNMROyz_qRp5AyJg
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"cache miss","user":"cynthiachristensen","trace":"qGPt6QNMPUs3"}
+68.41.55.95 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 204 189466 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/5417-02-27 17:05:06.753220 Firefox/3.6.19"
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"barnettandrea","trace":"WUdgymPsxCbT"}
+sshd[7096]: Accepted password for meaganrobertson from 10.202.108.151 port 37247 ssh2
+sshd[2021]: Failed password for lauren20 from 192.168.117.147 port 10119 ssh2
+129.178.141.196 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 400 43502 "-" "Opera/9.78.(Windows NT 5.0; mk-MK) Presto/2.9.162 Version/12.00"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"moralesjoel","trace":"UMgNUP5GYSkd"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"walkerisabella","trace":"BpT1YdYF2PMa"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"request completed","user":"nathanhess","trace":"Ed9OFkdY5Qc7"}
+sshd[5888]: Session closed for munozlonnie from 192.168.136.239 port 13100 ssh2
+195.170.227.128 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 404 261129 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/3913-11-07 16:53:15.665009 Firefox/8.0"
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"db slow query","user":"andrew47","trace":"4aooOcHUarJP"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"james35","trace":"0WRxhBViv0aO"}
+LOG_LEVEL=email-19.daniel.org

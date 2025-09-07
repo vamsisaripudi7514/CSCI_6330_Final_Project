@@ -1,0 +1,28 @@
+FEATURE_X_ENABLED=email-78.serrano.com
+LOG_LEVEL=redis://localhost:6379
+102.219.79.143 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 401 26689 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/45.0.815.0 Safari/533.1"
+sshd[9029]: Session closed for sholland from 10.66.189.210 port 29121 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"db slow query","user":"kimberly41","trace":"Ib7iFLBO1dql"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"hernandezandrea","trace":"z4K9iAmVbc10"}
+sshd[2999]: Session closed for mejiadaniel from 192.168.159.157 port 31206 ssh2
+sshd[3980]: Accepted password for smithterri from 172.31.162.173 port 28390 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJadmk4VWxXQjBDIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.8eGSWoRffgcCK_x0yTRbDiZT_bRUPEgSn7rtcDWkmRk'
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"cache miss","user":"hogantimothy","trace":"OOB5yAvBjfTb"}
+LOG_LEVEL=redis://localhost:6379
+sshd[8046]: Session closed for sharonnavarro from 192.168.16.160 port 20204 ssh2
+sshd[3225]: Session opened for lwiley from 10.201.84.105 port 23893 ssh2
+200.214.152.78 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 404 77676 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; fil-PH) AppleWebKit/533.37.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6533.37.1"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"db slow query","user":"ifloyd","trace":"QJNeJEMYv6OV"}
+DB_PORT=DEBUG
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"qhawkins","trace":"KTCjC5TJAjHW"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnVFp5WnBRaUJUIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.T_tdIllrcX2aUdQbEIPdnkQjp02RjAgy-f2dnY5Efb4'
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"db slow query","user":"nicholsebony","trace":"SdMtIrcTOBpX"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"user session created","user":"sanchezjohn","trace":"49jEjTaibDWD"}
+113.126.196.73 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 404 252618 "-" "Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/62.0.805.0 Safari/534.1"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"token refreshed","user":"jacobsraymond","trace":"olbXbftOujml"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"wblanchard","trace":"5iuF6oSCCmgp"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"cache miss","user":"matthew49","trace":"Hl4PcTTULyNH"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"cache miss","user":"rose17","trace":"9KbUIw6vti6N"}
+sshd[9339]: Session closed for justin74 from 10.181.132.239 port 14600 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"mgallegos","trace":"QeHwNJqqZ8Xj"}
+45.180.128.179 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 204 501496 "-" "Opera/9.60.(X11; Linux x86_64; sv-FI) Presto/2.9.185 Version/10.00"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"cache miss","user":"younglisa","trace":"ToTegz2eYTh5"}

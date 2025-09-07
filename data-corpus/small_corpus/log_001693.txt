@@ -1,0 +1,36 @@
+155.210.161.132 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 502 345101 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.16.4 (KHTML, like Gecko) Version/4.1 Safari/531.16.4"
+sshd[6818]: Session closed for tsnyder from 192.168.5.236 port 40257 ssh2
+222.76.136.143 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 403 228553 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/3.1)"
+189.127.83.100 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 403 300451 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ik-CA) AppleWebKit/533.15.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6533.15.4"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"token refreshed","user":"martinezjohn","trace":"i8IHjkYHMNhV"}
+63.115.167.170 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 500 205981 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_3; rv:1.9.4.20) Gecko/8104-09-25 09:41:59.374969 Firefox/3.6.8"
+sshd[6027]: Session opened for rdavis from 192.168.189.160 port 48319 ssh2
+FEATURE_X_ENABLED=56256
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"user session created","user":"mcook","trace":"qsUXi2IGvAJk"}
+82.4.218.219 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 200 88378 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/21.0.819.0 Mobile/73K911 Safari/533.0"
+146.224.109.242 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 403 356129 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:3.0; rw-RW) AppleWebKit/531.46.7 (KHTML, like Gecko) Version/5.0 Safari/531.46.7"
+112.30.250.6 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 400 8634 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/53.0.840.0 Safari/533.1"
+sshd[8545]: Accepted password for dzavala from 10.74.7.160 port 35397 ssh2
+sshd[1384]: Accepted password for victoria75 from 10.208.116.157 port 13783 ssh2
+sshd[8160]: Session opened for kgill from 192.168.236.85 port 56186 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"request completed","user":"hperez","trace":"6djRI2sn95ha"}
+sshd[4460]: Failed password for hughesmichael from 192.168.159.57 port 32468 ssh2
+FEATURE_X_ENABLED=40425
+DB_HOST=true password=hJ5<KW*Cl>
+107.172.209.30 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 302 362204 "-" "Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/5.0.2 Safari/532.33.2"
+181.201.10.97 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 404 402792 "-" "Mozilla/5.0 (Android 3.2.1; Mobile; rv:63.0) Gecko/63.0 Firefox/63.0"
+FEATURE_X_ENABLED=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJaYXk1NTJ1bzEzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.8vpMBN7lXGMZJvZBxb0tOqLXQ99YtcACeqnCW91Jpiw'
+195.171.71.192 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 400 310421 "-" "Opera/8.82.(Windows NT 11.0; ha-NG) Presto/2.9.160 Version/10.00"
+sshd[3419]: Session opened for jessicawerner from 192.168.82.184 port 20352 ssh2
+113.112.170.208 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 401 264708 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/3.0)"
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"cache miss","user":"jwagner","trace":"3WC2z6KoWBtI"}
+REDIS_URL=srv-02.little.com
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"request completed","user":"melinda28","trace":"QSEElZVaUYRG"}
+171.135.205.26 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 502 521933 "-" "Opera/9.17.(X11; Linux i686; quz-PE) Presto/2.9.188 Version/12.00"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"token refreshed","user":"robinsonrebecca","trace":"7O7yxRLSeH0d"}
+LOG_LEVEL=true
+DB_HOST=true
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"token refreshed","user":"tiffany00","trace":"shUY6nW8M54S"}

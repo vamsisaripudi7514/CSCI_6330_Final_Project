@@ -1,0 +1,39 @@
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"agarcia","trace":"8shxZuw9eHHL"}
+DB_HOST=1528
+109.52.59.185 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 502 488398 "-" "Mozilla/5.0 (Android 4.0.4; Mobile; rv:59.0) Gecko/59.0 Firefox/59.0"
+LOG_LEVEL=21436
+69.108.84.42 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 200 333403 "-" "Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/39.0.861.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"request completed","user":"robertsontimothy","trace":"RDfhdd695qn4"}
+221.138.181.178 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 302 485820 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)" API_KEY=AIzaBQjfjq0S60DjvYDcQGdTvjWvj4l416HXOl5Puw
+sshd[3214]: Failed password for mjones from 192.168.9.129 port 18097 ssh2
+96.233.107.31 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 401 203642 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_4 rv:5.0; ast-ES) AppleWebKit/533.2.3 (KHTML, like Gecko) Version/5.0.2 Safari/533.2.3" API_KEY=AIzaYY60mzWZ_30qLZVUS5Ns6-A6MuaxNxvqXg3Jwg
+sshd[1320]: Session opened for terry25 from 172.16.225.147 port 18240 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"auth","msg":"request completed","user":"kdean","trace":"GdqptzibkwMG"} password=mT7|$2%A7=6
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"user session created","user":"chayes","trace":"NAnSBEmku6Nt"}
+DB_PORT=2976
+4.78.229.250 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 201 67641 "-" "Opera/9.84.(X11; Linux i686; nn-NO) Presto/2.9.175 Version/10.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJOR2ZJY2NMczFiIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.-DB8qnBal57vuxisvczPPiGgGEGvjVMZxmI00keolIU'
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"cache miss","user":"brian24","trace":"NFlbIxdxy6uE"} API_KEY=AIzapuNF8sjQ22ZGUf_3enJiaTJk3OnhTtqpC5HM7w
+REDIS_URL=WARN password=hM2{GkyD
+API_TIMEOUT=redis://localhost:6379
+DB_PORT=40871
+sshd[8683]: Accepted password for zmoore from 192.168.18.133 port 29061 ssh2
+sshd[1233]: Session opened for kyle62 from 192.168.157.254 port 64852 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"request completed","user":"matthewbell","trace":"g4HWHWHyGdWj"}
+sshd[2412]: Session closed for zmcdonald from 172.26.251.2 port 31064 ssh2
+sshd[8290]: Failed password for erica73 from 172.26.97.41 port 19478 ssh2
+113.164.63.84 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 204 494190 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"request completed","user":"joneserika","trace":"Hu8xgCetA7Ba"}
+REDIS_URL=redis://localhost:6379
+FEATURE_X_ENABLED=web-08.harmon.org
+69.87.152.134 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 204 337392 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; sv-FI) AppleWebKit/534.26.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.26.5"
+22.190.134.233 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 401 151943 "-" "Opera/8.36.(Windows 95; sw-TZ) Presto/2.9.183 Version/10.00"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"retrying upstream","user":"randall19","trace":"mMw23sXG5J5K"}
+sshd[7826]: Accepted password for jonathan64 from 172.19.29.14 port 26157 ssh2
+sshd[2474]: Session opened for hlara from 10.183.5.65 port 55807 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"db slow query","user":"fergusondavid","trace":"itXAXglqhFVR"}
+API_TIMEOUT=false
+sshd[3206]: Accepted password for apriljackson from 172.26.114.230 port 37894 ssh2
+API_TIMEOUT=2974
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"request completed","user":"terry72","trace":"lhESWnzcN32n"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"cache miss","user":"chaneyphyllis","trace":"UuhqulYBK4jO"}
+12.163.232.59 - - [07/Sep/2025:18:24:49 +0000] "DELETE /download/report.csv HTTP/1.1" 200 519086 "-" "Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/57.0.868.0 Mobile/13S996 Safari/536.1"

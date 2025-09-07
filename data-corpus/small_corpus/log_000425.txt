@@ -1,0 +1,26 @@
+FEATURE_X_ENABLED=true
+DB_HOST=2272
+11.14.115.176 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 302 325267 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"request completed","user":"jack01","trace":"ARLenPG1HQSw"}
+153.124.112.223 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 404 324426 "-" "Mozilla/5.0 (Windows 95; ln-CD; rv:1.9.2.20) Gecko/6668-12-11 06:11:29.035828 Firefox/7.0"
+DB_HOST=email-67.cox.org Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtQktkb21xNXpSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.EBowALtQxbgwFopcZZ1xTcxFSt6EZ8goZWw6wji-v-0'
+LOG_LEVEL=1531
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"request completed","user":"john30","trace":"AZqepPyFPKO7"}
+REDIS_URL=53559
+sshd[7234]: Accepted password for fernandezpaula from 10.14.59.226 port 40276 ssh2
+sshd[4613]: Session opened for melissabonilla from 192.168.128.22 port 36398 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"djuarez","trace":"28mgHaleTXZ3"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"cache miss","user":"davidsavage","trace":"uBB642OyTpgF"}
+sshd[4939]: Session opened for ashley94 from 192.168.235.30 port 46426 ssh2
+DB_HOST=lt-27.edwards-baker.info
+DB_PORT=email-22.castro-davila.com
+DB_HOST=35638
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"user session created","user":"sandra68","trace":"mcdBzw00Ymox"}
+DB_PORT=11372
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"user session created","user":"steelejames","trace":"hhgVzaNg4sw6"}
+12.20.12.192 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 400 100864 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1 rv:5.0; pt-BR) AppleWebKit/535.41.3 (KHTML, like Gecko) Version/4.0.1 Safari/535.41.3"
+REDIS_URL=431
+sshd[1793]: Accepted password for belindabrown from 172.23.57.24 port 55106 ssh2
+DB_PORT=redis://localhost:6379
+196.58.128.111 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 403 201364 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/26.0.834.0 Safari/533.1"
+sshd[8442]: Failed password for taylorlorraine from 192.168.178.30 port 32317 ssh2

@@ -1,0 +1,47 @@
+172.232.96.82 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 400 79533 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.1)"
+FEATURE_X_ENABLED=DEBUG
+sshd[7988]: Session closed for nicholaspotts from 192.168.24.220 port 31405 ssh2
+DB_HOST=INFO
+sshd[2600]: Session closed for laura95 from 172.31.73.94 port 16077 ssh2
+REDIS_URL=INFO
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"user session created","user":"emilyowens","trace":"ptriMhmuxSzO"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"flynnandrea","trace":"TqPHzB6YBlGo"}
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"user session created","user":"lindseyshields","trace":"1kIfINmjLdcF"}
+FEATURE_X_ENABLED=INFO
+sshd[3888]: Session opened for wattsscott from 192.168.175.119 port 60151 ssh2
+LOG_LEVEL=1894
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"wjohnson","trace":"FtSH8ES8BOvA"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"cache miss","user":"keithwilliams","trace":"tRzJkkNNUXzT"}
+7.233.30.162 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 500 489057 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"db slow query","user":"kristabass","trace":"09ZG249Kiyi4"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"db slow query","user":"dennissherry","trace":"Kf7gRWA9An0u"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"fieldskathleen","trace":"PHyARbwgY6gZ"}
+sshd[7652]: Session opened for llittle from 192.168.71.121 port 13954 ssh2
+DB_PORT=DEBUG
+71.229.27.167 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 302 424699 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.50.1 (KHTML, like Gecko) Version/4.1 Safari/535.50.1"
+sshd[1491]: Failed password for sking from 10.193.20.155 port 50001 ssh2
+48.183.116.188 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 401 171771 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)"
+sshd[3025]: Failed password for sloanjennifer from 172.26.220.15 port 39038 ssh2
+98.80.230.87 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 200 445977 "-" "Opera/8.53.(Windows NT 11.0; ml-IN) Presto/2.9.181 Version/12.00"
+sshd[3859]: Accepted password for heathermartinez from 172.28.43.83 port 38348 ssh2
+FEATURE_X_ENABLED=INFO
+204.189.144.163 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 204 125632 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_9 rv:4.0; sa-IN) AppleWebKit/534.43.7 (KHTML, like Gecko) Version/4.0.2 Safari/534.43.7"
+101.113.211.164 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 400 17433 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.0)"
+78.96.100.114 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 502 132886 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ckb-IQ) AppleWebKit/531.4.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6531.4.5"
+REDIS_URL=2939
+API_TIMEOUT=1854
+51.86.23.51 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 502 168212 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/38.0.825.0 Safari/534.2"
+194.180.180.105 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 302 170608 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.0)"
+sshd[6932]: Failed password for shawnhall from 10.165.72.125 port 14504 ssh2
+sshd[6402]: Session closed for acharles from 172.16.109.113 port 34435 ssh2
+sshd[5634]: Session opened for bobby94 from 172.27.238.202 port 53409 ssh2
+sshd[1979]: Session closed for sarah15 from 172.16.209.233 port 58742 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"dylancollins","trace":"aF1N7nOe3B76"}
+92.1.208.45 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 502 228060 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_7; rv:1.9.4.20) Gecko/6755-11-05 08:23:21.260956 Firefox/3.6.7"
+sshd[1841]: Session opened for igarcia from 192.168.102.231 port 32364 ssh2
+DB_HOST=srv-02.medina.com
+API_TIMEOUT=redis://localhost:6379
+DB_HOST=352
+API_TIMEOUT=db-40.blair.info
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"jennifer06","trace":"vP1m34Ba3fT9"}

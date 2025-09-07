@@ -1,0 +1,25 @@
+DB_HOST=57703
+DB_PORT=false
+141.8.65.205 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 500 460707 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+28.216.64.9 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 401 251588 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_8 rv:3.0; km-KH) AppleWebKit/535.9.7 (KHTML, like Gecko) Version/5.0.2 Safari/535.9.7"
+sshd[9730]: Failed password for nhall from 192.168.76.43 port 44961 ssh2
+sshd[7021]: Accepted password for jon90 from 10.12.190.254 port 20808 ssh2
+168.136.17.76 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 200 157106 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/11.9a5482.0 Mobile/73Y049 Safari/535.1"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"joseph73","trace":"Xqm2AhBcoY52"}
+sshd[6897]: Session opened for watsonrachel from 172.29.38.42 port 22977 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[5998]: Failed password for fgonzalez from 172.25.29.104 port 46670 ssh2
+DB_PORT=WARN
+DB_HOST=redis://localhost:6379
+sshd[2351]: Accepted password for john51 from 172.25.27.69 port 27492 ssh2
+sshd[5900]: Session closed for jortega from 172.28.156.51 port 44927 ssh2
+LOG_LEVEL=email-23.jones-keller.org
+REDIS_URL=redis://localhost:6379
+200.179.54.203 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 400 173889 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.1.1 (KHTML, like Gecko) Version/5.1 Safari/531.1.1"
+sshd[7443]: Failed password for christophersharp from 10.30.161.64 port 39586 ssh2
+DB_HOST=3032
+FEATURE_X_ENABLED=WARN
+sshd[4143]: Session opened for cochranelizabeth from 10.20.86.165 port 10483 ssh2
+LOG_LEVEL=3073
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"request completed","user":"alyssa47","trace":"snjKWD3gOtb8"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"cache miss","user":"gdavis","trace":"ZyMcV8cXpeAI"}

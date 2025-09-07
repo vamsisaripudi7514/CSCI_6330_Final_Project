@@ -1,0 +1,25 @@
+DB_PORT=true
+sshd[8306]: Failed password for nathan78 from 172.20.111.225 port 39870 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"qwashington","trace":"cwDtMAC8ffKX"}
+FEATURE_X_ENABLED=web-24.williams.info
+DB_HOST=redis://localhost:6379
+DB_PORT=27959
+LOG_LEVEL=183
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"kaufmanstanley","trace":"yr1tE3i0p5vb"}
+DB_HOST=4159
+sshd[9945]: Session closed for steven00 from 172.30.8.100 port 64678 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"dball","trace":"vJLcTloLWSjA"}
+86.237.1.155 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 201 384348 "-" "Mozilla/5.0 (iPad; CPU iPad OS 8_4_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/14.0f8099.0 Mobile/40E280 Safari/536.0"
+sshd[5340]: Session opened for poncedavid from 10.135.123.128 port 29401 ssh2
+219.136.73.248 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 302 467836 "-" "Opera/8.50.(Windows NT 5.01; ss-ZA) Presto/2.9.162 Version/11.00"
+DB_PORT=false
+129.154.110.91 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 502 79038 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/5.1)"
+102.151.229.228 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 401 326836 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_3 rv:5.0; ne-NP) AppleWebKit/532.3.2 (KHTML, like Gecko) Version/4.1 Safari/532.3.2"
+sshd[7712]: Accepted password for richard80 from 192.168.37.7 port 63805 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"cache miss","user":"timothy17","trace":"JFyjQ79RoUKQ"}
+46.176.242.144 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 201 332600 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.0)"
+REDIS_URL=INFO
+sshd[5521]: Session closed for dbarnes from 192.168.240.192 port 55252 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"cookkenneth","trace":"qObxFC9lf9Rm"}
+114.59.78.48 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 401 55332 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/15.0.825.0 Safari/536.2" password=pJ7*eY=DW
+73.155.162.130 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 404 347691 "-" "Opera/8.21.(Windows 95; af-ZA) Presto/2.9.160 Version/11.00"

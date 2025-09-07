@@ -1,0 +1,36 @@
+153.8.89.40 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 302 450990 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/17.4k9340.0 Mobile/30V655 Safari/534.0"
+sshd[9251]: Session opened for veronicakemp from 10.0.81.151 port 46523 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"cache miss","user":"jaredmorrison","trace":"vemDI5RHTY0a"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"cache miss","user":"tylerandrea","trace":"PMqU9ZqUFGHp"}
+16.118.28.46 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 302 296406 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4; rv:1.9.6.20) Gecko/3292-09-16 12:26:48.127014 Firefox/3.6.9"
+95.196.60.142 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 401 334591 "-" "Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/45.0.897.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"request completed","user":"jedwards","trace":"P0eIJ0iYCLwZ"}
+sshd[9394]: Session closed for christopher65 from 172.26.198.126 port 11614 ssh2
+3.126.22.79 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 502 131220 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8; rv:1.9.4.20) Gecko/9257-08-26 06:50:16.147675 Firefox/9.0"
+sshd[3063]: Failed password for bkerr from 172.23.152.174 port 51739 ssh2
+196.125.96.152 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 502 454828 "-" "Opera/9.15.(X11; Linux i686; is-IS) Presto/2.9.168 Version/10.00"
+sshd[8370]: Accepted password for ctorres from 192.168.251.238 port 28336 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"user session created","user":"frenchjake","trace":"6eTeK6t23abR"}
+sshd[3166]: Failed password for qsmith from 172.17.236.54 port 25352 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"fowlerfrancisco","trace":"PiAxP2fwYnLX"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"request completed","user":"cpollard","trace":"JqmL0ozJKubu"}
+sshd[7643]: Accepted password for kpage from 172.29.214.167 port 21499 ssh2
+sshd[8575]: Session closed for tinakramer from 192.168.61.224 port 12765 ssh2
+sshd[1924]: Session opened for ljohnson from 192.168.101.67 port 32185 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"request completed","user":"brendalamb","trace":"EQnhjuHt4wRY"} API_KEY=AIza_tfIyczfwKplgOR4hfoizzOG5XWrsSnMkgG4Zw
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"db slow query","user":"elizabeth58","trace":"16tn6eB6y0lm"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"erin13","trace":"rfkdgnW5SKrU"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"mmitchell","trace":"Qrf9qeXh8kiT"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"cache miss","user":"charleshale","trace":"tnDrrHwH1YOM"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"db slow query","user":"stephanie22","trace":"DpM4uoJ0YvYx"}
+API_TIMEOUT=31259
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"vmcintosh","trace":"qVcv6DZRkh3T"}
+sshd[7425]: Accepted password for shawn90 from 10.128.189.131 port 29374 ssh2
+208.178.45.166 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 502 144528 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/534.18.1 (KHTML, like Gecko) Version/4.1 Safari/534.18.1"
+sshd[1414]: Accepted password for tjohnson from 10.127.77.197 port 33977 ssh2
+sshd[6523]: Accepted password for ybenson from 192.168.197.89 port 61817 ssh2
+168.1.115.111 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 403 47840 "-" "Opera/8.48.(Windows NT 5.0; ha-NG) Presto/2.9.181 Version/12.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"cache miss","user":"michael48","trace":"g5lUiJi8ZnrG"}
+DB_PORT=srv-83.rodriguez.org
+FEATURE_X_ENABLED=redis://localhost:6379

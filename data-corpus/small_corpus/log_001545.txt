@@ -1,0 +1,25 @@
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"db slow query","user":"jessica01","trace":"637th7UQdHDB"}
+sshd[1432]: Failed password for mmeyer from 192.168.241.41 port 16723 ssh2
+129.138.143.73 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 201 517278 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; si-LK) AppleWebKit/533.47.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.47.5" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJweHJnUHM4VVM2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ThnPzCmW0SzXNAqb8l8JnxvjPW-f7mEJInLtb8F7jh0'
+DB_HOST=laptop-37.edwards-hamilton.org
+sshd[8120]: Session opened for sbryant from 172.26.44.110 port 26390 ssh2
+123.17.166.191 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 401 49080 "-" "Opera/8.17.(Windows NT 11.0; tig-ER) Presto/2.9.183 Version/10.00"
+LOG_LEVEL=redis://localhost:6379
+DB_PORT=false
+105.102.233.180 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 404 166312 "-" "Opera/8.20.(Windows NT 6.2; nn-NO) Presto/2.9.181 Version/11.00"
+sshd[1487]: Accepted password for trangel from 172.25.167.153 port 28461 ssh2
+sshd[9188]: Session closed for jackmclaughlin from 10.80.82.27 port 37871 ssh2
+100.146.112.255 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 401 169521 "-" "Opera/8.40.(Windows NT 6.2; sc-IT) Presto/2.9.175 Version/10.00"
+LOG_LEVEL=10633
+sshd[3738]: Session opened for joshuabryant from 10.203.218.55 port 39648 ssh2
+sshd[8464]: Session opened for stevendavis from 10.151.195.2 port 18640 ssh2
+76.236.20.122 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 404 152902 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.43.7 (KHTML, like Gecko) Version/5.1 Safari/531.43.7"
+DB_PORT=true
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"francisstone","trace":"pl55vmz4uHBr"}
+sshd[4630]: Accepted password for valeriepayne from 192.168.24.130 port 47831 ssh2
+140.96.130.127 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 400 500977 "-" "Opera/9.39.(Windows 95; kl-GL) Presto/2.9.180 Version/12.00"
+57.152.46.111 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 204 427610 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/43.0.878.0 Safari/531.2"
+sshd[7364]: Session closed for gary27 from 192.168.111.159 port 11511 ssh2
+30.49.50.43 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 204 470119 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; yo-NG) AppleWebKit/533.36.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.36.6"
+46.43.209.5 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 401 321131 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/10.1z7753.0 Mobile/90K048 Safari/532.2"

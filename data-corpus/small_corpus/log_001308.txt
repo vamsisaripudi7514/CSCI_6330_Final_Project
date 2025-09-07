@@ -1,0 +1,41 @@
+sshd[9449]: Session opened for lponce from 10.52.233.211 port 29673 ssh2
+DB_PORT=2165
+FEATURE_X_ENABLED=4781
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"cory19","trace":"NgnGiBshiKlF"}
+57.130.162.106 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 200 128051 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.11.1 (KHTML, like Gecko) Version/4.0.5 Safari/534.11.1"
+174.39.89.196 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 204 182263 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0)"
+162.70.73.75 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 403 251435 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.1)"
+sshd[3733]: Accepted password for stewartchristopher from 172.28.209.97 port 47984 ssh2
+sshd[3470]: Accepted password for stewartkelly from 172.17.250.229 port 22862 ssh2
+sshd[9826]: Session closed for kristine06 from 192.168.70.87 port 11718 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRYXJHWlo0Q3RPIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.x3fJ067fcjb3JZMFYvrHPCt1f6bSP8pYFX9GBWCmVaE'
+sshd[1735]: Accepted password for rachel98 from 172.31.20.103 port 11541 ssh2
+API_TIMEOUT=WARN Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJGRVYzY1c0RGI1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.W0ZtzdX-6_bl5007qm9qb1iLhI3HsdE62ZthpuZ4HtE'
+48.177.24.28 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 401 214065 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/14.5k4055.0 Mobile/45U359 Safari/532.0"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"julie74","trace":"sSn0OG5fnRIu"}
+52.252.0.73 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 204 82101 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; bs-BA) AppleWebKit/531.34.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6531.34.4"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"cache miss","user":"qmayo","trace":"WFnV92JI3UZm"}
+API_TIMEOUT=laptop-26.johnson.com
+DB_HOST=DEBUG
+sshd[7276]: Failed password for fjohnson from 192.168.227.147 port 45816 ssh2
+103.122.122.63 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 204 118166 "-" "Opera/8.12.(Windows NT 6.0; de-AT) Presto/2.9.163 Version/12.00"
+137.76.36.168 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 404 95426 "-" "Opera/8.44.(X11; Linux x86_64; am-ET) Presto/2.9.166 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"retrying upstream","user":"ylozano","trace":"EDl8SPVHglx2"}
+205.202.26.102 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 204 507381 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.1)"
+sshd[4892]: Failed password for andrea04 from 10.167.91.146 port 37642 ssh2
+FEATURE_X_ENABLED=54157
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"user session created","user":"jcollins","trace":"D4RNtYDQiSBu"}
+147.181.227.43 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 401 207092 "-" "Mozilla/5.0 (Windows NT 5.2; nl-NL; rv:1.9.0.20) Gecko/5373-12-02 13:14:06.030289 Firefox/6.0"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"user session created","user":"marshpam","trace":"wRn8flmOdvK0"}
+LOG_LEVEL=41300
+188.52.229.106 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 200 400923 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_3) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/60.0.820.0 Safari/532.0"
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"db slow query","user":"rebecca89","trace":"bHlPsWywew7B"}
+sshd[1019]: Session closed for msaunders from 10.228.72.253 port 22566 ssh2
+sshd[2095]: Session closed for aaronkaiser from 192.168.102.115 port 48622 ssh2
+sshd[7421]: Session opened for lynnreese from 10.8.102.228 port 53594 ssh2
+sshd[1838]: Session opened for jamesrodgers from 172.27.78.9 port 36725 ssh2
+107.200.114.250 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 401 263434 "-" "Opera/9.81.(X11; Linux i686; fa-IR) Presto/2.9.172 Version/12.00"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"cache miss","user":"phillipslogan","trace":"RORP7jZbOa3e"}
+141.98.19.150 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 502 142150 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/5216-09-16 20:42:54.658646 Firefox/10.0"
+168.75.123.226 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 400 399062 "-" "Opera/8.10.(X11; Linux x86_64; yi-US) Presto/2.9.188 Version/12.00"
+FEATURE_X_ENABLED=19445

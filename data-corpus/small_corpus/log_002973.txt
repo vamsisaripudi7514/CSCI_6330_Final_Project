@@ -1,0 +1,44 @@
+DB_PORT=desktop-00.boone.org
+sshd[3765]: Session closed for jaredroberts from 192.168.107.28 port 42104 ssh2
+FEATURE_X_ENABLED=INFO
+sshd[5826]: Failed password for justinacosta from 10.197.223.96 port 39530 ssh2
+50.160.133.160 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 500 117869 "-" "Opera/9.83.(Windows NT 4.0; lg-UG) Presto/2.9.179 Version/12.00"
+sshd[9768]: Session opened for xbaker from 192.168.112.116 port 36959 ssh2
+206.157.135.222 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 400 412200 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/13.6c4081.0 Mobile/48B471 Safari/535.2"
+sshd[4181]: Session closed for harrisonjeffrey from 192.168.57.12 port 59006 ssh2
+sshd[3127]: Session opened for lori15 from 10.21.13.41 port 49936 ssh2
+sshd[1338]: Accepted password for heatherhale from 172.20.102.197 port 34680 ssh2
+169.224.77.214 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 403 417806 "-" "Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/13.8p0294.0 Mobile/25A035 Safari/535.2"
+LOG_LEVEL=3328
+sshd[9964]: Session closed for kimberlylopez from 10.103.125.41 port 22811 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+API_TIMEOUT=23388
+28.155.37.126 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 502 292486 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+sshd[7698]: Session closed for pgreen from 192.168.200.115 port 28960 ssh2
+sshd[9941]: Failed password for amandamartin from 10.240.173.48 port 11544 ssh2
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"token refreshed","user":"shawn42","trace":"Np3Xh2Dsms2B"}
+LOG_LEVEL=57082
+sshd[8676]: Session opened for jonathanmoreno from 192.168.94.21 port 12236 ssh2 password=rH4>3ePm6#
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"user session created","user":"deannaward","trace":"X777d4Qv9YEg"}
+sshd[7667]: Session closed for whitejaclyn from 192.168.49.215 port 32597 ssh2
+174.204.183.113 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 201 98934 "-" "Opera/9.91.(X11; Linux x86_64; bn-IN) Presto/2.9.167 Version/12.00"
+REDIS_URL=email-30.olson-middleton.com
+REDIS_URL=11843
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"gsnow","trace":"9pXTN11YjFWk"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"token refreshed","user":"paula14","trace":"KjbowlWgpmcA"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"cache miss","user":"michaelmoreno","trace":"Spvj6wjLEYuA"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"cache miss","user":"dayanthony","trace":"DUv0CBNny3a9"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"db slow query","user":"williamsjason","trace":"tLVofQEAvNQS"}
+sshd[9396]: Session opened for hdavis from 10.218.128.11 port 27141 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"db slow query","user":"qjones","trace":"AGQ7JyUdXgUZ"}
+REDIS_URL=2835
+REDIS_URL=6620
+sshd[8584]: Failed password for molinadanielle from 192.168.0.120 port 11128 ssh2
+161.124.22.58 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 500 358521 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/5.0)"
+sshd[7215]: Session closed for rtorres from 10.105.13.113 port 53694 ssh2
+153.60.155.80 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 403 28272 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_3 rv:2.0; ka-GE) AppleWebKit/534.13.2 (KHTML, like Gecko) Version/4.0.2 Safari/534.13.2"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"db slow query","user":"fbanks","trace":"i4RVwxSUmxcn"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"request completed","user":"jimenezandrew","trace":"uzufWWuE4IHM"}
+sshd[5917]: Session closed for qoneill from 192.168.247.26 port 58674 ssh2

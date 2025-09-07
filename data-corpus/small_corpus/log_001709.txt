@@ -1,0 +1,26 @@
+sshd[7755]: Session opened for callahanchristopher from 172.28.113.216 port 63683 ssh2
+21.199.25.182 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 401 349055 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; de-AT) AppleWebKit/531.49.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6531.49.3"
+156.163.30.102 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 404 512634 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_7) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/14.0.855.0 Safari/534.0"
+82.180.140.117 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 201 313274 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_9 rv:5.0; az-IN) AppleWebKit/534.48.5 (KHTML, like Gecko) Version/5.0.4 Safari/534.48.5"
+sshd[2939]: Session opened for mkaiser from 172.21.15.25 port 63928 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"stevensstephanie","trace":"Ko3CKEtkL7Mc"}
+API_TIMEOUT=1778
+6.145.181.71 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 200 70460 "-" "Opera/9.25.(X11; Linux x86_64; bhb-IN) Presto/2.9.174 Version/12.00"
+201.87.218.91 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 404 99885 "-" "Opera/8.99.(Windows NT 11.0; sid-ET) Presto/2.9.184 Version/12.00"
+DB_PORT=INFO
+200.52.30.43 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 404 452042 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/3.0)"
+156.35.124.13 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 403 285938 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/3.0)"
+REDIS_URL=31847
+FEATURE_X_ENABLED=56538
+147.163.184.250 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 500 306562 "-" "Opera/9.39.(Windows NT 5.0; gv-GB) Presto/2.9.180 Version/11.00"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"tphillips","trace":"fFdofepZITtF"}
+sshd[9519]: Session closed for bmorrison from 192.168.62.59 port 44577 ssh2
+18.88.129.153 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 200 123059 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/3.1)"
+LOG_LEVEL=redis://localhost:6379
+DB_HOST=24706
+DB_PORT=11724
+sshd[5373]: Failed password for alyssabryant from 10.178.70.222 port 64542 ssh2
+REDIS_URL=WARN
+sshd[1922]: Session closed for mclayton from 192.168.241.29 port 48104 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"marilyn59","trace":"qtpmdXE8oJN8"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"bchristensen","trace":"8S99VviKYQpY"}

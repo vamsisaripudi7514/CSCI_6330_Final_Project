@@ -1,0 +1,27 @@
+sshd[7660]: Session opened for gthomas from 172.21.2.177 port 33180 ssh2
+LOG_LEVEL=4427
+DB_PORT=srv-78.hopkins.com
+217.7.158.165 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 500 156525 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/535.30.4 (KHTML, like Gecko) Version/5.0 Safari/535.30.4"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"user session created","user":"lryan","trace":"vfOOyzE3eCAZ"}
+182.254.8.97 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 302 411014 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_2_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/57.0.884.0 Mobile/62S388 Safari/532.2"
+REDIS_URL=false
+LOG_LEVEL=1120
+sshd[6985]: Session opened for joshua58 from 172.16.147.190 port 33145 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"cache miss","user":"desireegalloway","trace":"wZ3RCZ93R4M8"}
+42.115.219.26 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 204 519150 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4; rv:1.9.2.20) Gecko/2366-11-07 00:40:43.713165 Firefox/3.6.20"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"token refreshed","user":"crystal63","trace":"WhXLbvCaDKt2"}
+LOG_LEVEL=db-16.rosales-garcia.com
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"token refreshed","user":"xhernandez","trace":"617XTVkd5pqs"}
+REDIS_URL=382
+DB_PORT=590
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"georgeelliott","trace":"XAAMcvW56OnY"}
+API_TIMEOUT=redis://localhost:6379
+sshd[2817]: Failed password for lmyers from 192.168.1.95 port 16336 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"request completed","user":"shaffermatthew","trace":"wWNx7MWHwGlO"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"martin99","trace":"Gw0nXQmlb6K4"}
+46.143.211.43 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 200 143026 "-" "Mozilla/5.0 (Android 3.2.3; Mobile; rv:14.0) Gecko/14.0 Firefox/14.0"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"request completed","user":"blynch","trace":"CQh6R8htGCKP"}
+REDIS_URL=WARN
+sshd[1392]: Failed password for terrihayes from 192.168.143.29 port 64595 ssh2
+118.148.209.115 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 200 357430 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.0)"
+DB_PORT=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHZXpuWmRpTjR2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ns4HXVytQyfgDBuanJTjac5vf4HknEH5aZshjZtkDHs'

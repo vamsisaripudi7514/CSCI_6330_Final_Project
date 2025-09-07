@@ -1,0 +1,37 @@
+DB_HOST=3484
+134.0.235.217 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 403 5255 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.1)"
+63.82.28.77 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 400 413612 "-" "Opera/8.54.(X11; Linux x86_64; os-RU) Presto/2.9.161 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"db slow query","user":"elizabeth50","trace":"HZnkqNw1y0XT"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"millermariah","trace":"xdZXlxHQj81s"}
+150.35.226.244 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 401 91153 "-" "Mozilla/5.0 (Windows NT 5.01) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/32.0.836.0 Safari/531.0"
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"danielkelly","trace":"bvmMFusrJbNu"}
+REDIS_URL=redis://localhost:6379
+10.132.241.98 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 404 502815 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/3.0)"
+sshd[1659]: Session opened for joshua57 from 192.168.211.40 port 11597 ssh2
+153.217.34.202 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 401 361401 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/13.0.897.0 Safari/534.1"
+sshd[8525]: Accepted password for manningbethany from 192.168.184.249 port 40384 ssh2
+37.218.220.219 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 400 132584 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; sc-IT) AppleWebKit/533.27.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6533.27.2"
+21.61.113.86 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 404 312439 "-" "Mozilla/5.0 (Android 7.1; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"token refreshed","user":"keithespinoza","trace":"hwUSvALf12vt"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"db slow query","user":"yvonnereynolds","trace":"hTaCQAauJbZM"}
+sshd[9072]: Failed password for jeffrey64 from 192.168.179.81 port 23959 ssh2
+FEATURE_X_ENABLED=DEBUG
+122.209.250.27 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 204 107802 "-" "Opera/9.44.(X11; Linux i686; pap-AW) Presto/2.9.183 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"helliott","trace":"ljthTXEl3dfq"}
+sshd[8125]: Failed password for hannahmclean from 10.89.63.228 port 37408 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"scott35","trace":"x2AWTybcTlUt"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"request completed","user":"martinezcarol","trace":"7BlAa2XVdFJl"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[6433]: Session opened for charles02 from 172.31.5.110 port 53535 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"token refreshed","user":"michael99","trace":"oydby8bdN0dh"}
+222.110.181.151 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 302 52247 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.1)"
+26.88.211.58 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 502 348934 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_4) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/28.0.858.0 Safari/536.2"
+sshd[9302]: Session closed for richardsscott from 192.168.86.11 port 34213 ssh2
+134.241.32.26 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 403 368296 "-" "Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/32.0.895.0 Safari/533.2" password=mT4'U%eMb_P/}C?
+2.40.111.69 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 204 460116 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.36.2 (KHTML, like Gecko) Version/5.1 Safari/532.36.2"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"token refreshed","user":"dwilliams","trace":"N0oepap11bSG"}
+sshd[9241]: Accepted password for heatherbrown from 192.168.129.179 port 23194 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"db slow query","user":"sextonsteven","trace":"x0xEBZHISoWb"}
+REDIS_URL=31392
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"token refreshed","user":"mcbridebreanna","trace":"fFpFMh3uA8GC"}

@@ -1,0 +1,25 @@
+71.218.6.90 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 204 467632 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.1)"
+API_TIMEOUT=email-87.patel.com
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"ibenitez","trace":"nytRh1l6GWP5"}
+82.136.8.175 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 400 511842 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.16.6 (KHTML, like Gecko) Version/5.0.1 Safari/533.16.6"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"user session created","user":"zcampbell","trace":"KPsSPabRF2ym"}
+sshd[5765]: Accepted password for wthomas from 10.81.99.127 port 50080 ssh2
+sshd[6652]: Session closed for jcole from 10.166.162.39 port 49619 ssh2
+DB_PORT=INFO
+88.210.222.237 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 502 464881 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/30.0.881.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"user session created","user":"woodwardapril","trace":"qMZ0PBLnO2oe"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"request completed","user":"jorge28","trace":"PuKx6xW0tfEZ"}
+API_TIMEOUT=51328
+205.8.38.181 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 302 19815 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"db slow query","user":"elopez","trace":"WoPkpFR6ktZV"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"joseph18","trace":"NK1YlGCJsagX"} password=lQ5%w3dHgX
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"yvonneross","trace":"oCaq3Uaxd0Wc"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"cache miss","user":"garzarobert","trace":"F75I8cocopDL"}
+sshd[9836]: Session opened for kochchristopher from 192.168.50.139 port 47591 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"db slow query","user":"maurice02","trace":"AIvsNzUDljSW"}
+DB_PORT=redis://localhost:6379
+113.241.171.12 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 400 135229 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.31.6 (KHTML, like Gecko) Version/5.0.1 Safari/534.31.6"
+DB_HOST=DEBUG password=vR9/SkIqhW1oNe7
+DB_HOST=email-52.smith.info Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ6TEpVUVE0SnlXIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.SeSrmRdpmaE_U7dVa_1iVrtomFdksux8cheOxcY_p38'
+sshd[9269]: Accepted password for smithsusan from 10.19.178.157 port 47023 ssh2
+LOG_LEVEL=DEBUG

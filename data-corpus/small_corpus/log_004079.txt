@@ -1,0 +1,25 @@
+146.106.137.32 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 500 92197 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/51.0.812.0 Mobile/50Q234 Safari/533.1"
+217.127.220.132 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 400 495945 "-" "Opera/9.56.(Windows CE; nb-NO) Presto/2.9.190 Version/11.00"
+DB_PORT=desktop-39.lopez.com
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"qmoore","trace":"qz2LyUiGVk1j"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"bryan22","trace":"mjh34UM9Wbou"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"db slow query","user":"spencerronald","trace":"MXN6CEk2EoE7"}
+192.57.99.157 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 201 367432 "-" "Opera/9.45.(X11; Linux x86_64; tt-RU) Presto/2.9.163 Version/12.00"
+122.135.137.163 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 403 177107 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.6.1 (KHTML, like Gecko) Version/4.1 Safari/534.6.1"
+REDIS_URL=db-58.hill.com
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"lbrown","trace":"dGgI5kQpviXh"}
+DB_PORT=WARN
+158.9.31.26 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 403 497164 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/21.0.820.0 Safari/533.2"
+109.180.205.234 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 403 391655 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.1)"
+FEATURE_X_ENABLED=false
+136.213.220.206 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 403 375212 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/3.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"user session created","user":"christine06","trace":"lJC6Uwr43TIQ"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"user session created","user":"michael83","trace":"daJR22sX6U4N"} API_KEY=AIzafNNfQNH2n5q3sA-tbepXZDnM98mXmzR0QiL4fg
+API_TIMEOUT=redis://localhost:6379
+117.120.221.122 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 302 65963 "-" "Opera/9.11.(X11; Linux i686; aa-ET) Presto/2.9.179 Version/11.00"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"db slow query","user":"alexander45","trace":"u164fqEgvk6k"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1RVcyYWU4d2lLIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.9DkJqkGu2XWT7JOp7fwKTyoSvlCvfoBkGNN6lBvFIzc'
+DB_PORT=web-45.ray-myers.net
+174.116.13.234 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 502 522331 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_4) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/55.0.810.0 Safari/536.1"
+109.82.238.16 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 204 200341 "-" "Opera/9.46.(Windows CE; si-LK) Presto/2.9.186 Version/12.00"
+152.142.248.243 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 302 453962 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.1)"
+sshd[4981]: Session closed for denise67 from 172.27.100.55 port 27876 ssh2

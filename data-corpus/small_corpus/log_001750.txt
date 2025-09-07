@@ -1,0 +1,42 @@
+211.108.199.151 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 204 223731 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/41.0.832.0 Safari/531.0"
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"db slow query","user":"caleb81","trace":"Ea69mEuOzQWq"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"request completed","user":"ruthlopez","trace":"AlqGpDO7cjV5"}
+30.199.243.119 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 400 405631 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/29.0.893.0 Mobile/81N971 Safari/536.1"
+34.194.116.140 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 500 129071 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"kevin39","trace":"37UjKhJhGMl6"}
+sshd[7871]: Session closed for michellerobbins from 172.29.29.5 port 21217 ssh2
+84.69.55.23 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 404 6343 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/19.0.868.0 Mobile/00G199 Safari/534.0"
+LOG_LEVEL=6596
+sshd[9997]: Accepted password for larryjones from 10.30.158.114 port 43522 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ6S1h3aWo1Z0I4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.c85rTI6Yyp35pS_TCc66ME7mLtxI50xg2akEjr0xTWE'
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"cache miss","user":"gibbstim","trace":"02f8TgUPVg26"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"rschroeder","trace":"zKlVHwyCrpiM"}
+sshd[3263]: Session opened for tylerleblanc from 10.249.198.143 port 20644 ssh2
+API_TIMEOUT=3802
+165.176.191.143 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 204 470022 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/4.0)"
+sshd[3353]: Session opened for wardtimothy from 172.31.215.169 port 43417 ssh2
+LOG_LEVEL=19254
+sshd[4970]: Session closed for henryoscar from 10.82.126.198 port 37799 ssh2
+49.224.235.37 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 204 421189 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_5) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/44.0.876.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"esmith","trace":"SWIG02le7hbS"}
+sshd[3398]: Session opened for umartin from 192.168.79.86 port 32827 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"user session created","user":"jsimon","trace":"gvq0k7oIDdxn"}
+220.255.48.50 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 201 370820 "-" "Opera/9.69.(Windows 98; ber-DZ) Presto/2.9.176 Version/11.00"
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"reyespeggy","trace":"FrFlNQ55VfGW"}
+138.55.255.93 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 200 236389 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_8) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/15.0.819.0 Safari/535.0"
+sshd[4329]: Session opened for cdavis from 10.105.172.156 port 22416 ssh2
+sshd[8046]: Accepted password for georgereed from 10.128.184.254 port 38061 ssh2
+124.193.60.195 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 204 114611 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; fo-FO) AppleWebKit/532.8.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.8.2"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"joseph82","trace":"wAPlzJtx4Yi0"}
+30.154.247.63 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 201 195981 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_9 rv:6.0; wae-CH) AppleWebKit/531.50.1 (KHTML, like Gecko) Version/4.0.5 Safari/531.50.1"
+sshd[9872]: Session opened for alexis25 from 192.168.63.144 port 33229 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"request completed","user":"matthewcardenas","trace":"cgzBBuDA95ll"}
+REDIS_URL=2866
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"billy12","trace":"KAxuT3euMCcC"}
+sshd[1801]: Session opened for aaronbaker from 172.16.17.177 port 45049 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"bsimpson","trace":"kD37pvJxW45r"}
+sshd[9491]: Session opened for sgentry from 172.31.152.194 port 60246 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"db slow query","user":"jose75","trace":"RRwe9CWUfc5f"} API_KEY=AIza9JyjSeM7EVEsOtZo8jgryIPtZwj-EXuIGu0UNA
+REDIS_URL=redis://localhost:6379
+sshd[7257]: Accepted password for edawson from 172.20.11.77 port 22253 ssh2

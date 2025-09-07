@@ -1,0 +1,43 @@
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"db slow query","user":"jacobbooth","trace":"kktEEFFmlthf"}
+208.171.175.233 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 404 189375 "-" "Opera/9.65.(Windows NT 6.0; bn-BD) Presto/2.9.166 Version/12.00"
+LOG_LEVEL=12155
+57.198.163.71 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 201 284846 "-" "Opera/9.21.(Windows 98; Win 9x 4.90; mag-IN) Presto/2.9.171 Version/10.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtZnFSMEE1ZjM0IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ._IHUUdmtF8RzM5jjVFckKch0JDyTLJhsPAOrjf6CJ38'
+198.127.48.198 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 400 400842 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3 rv:4.0; szl-PL) AppleWebKit/534.1.6 (KHTML, like Gecko) Version/5.1 Safari/534.1.6"
+sshd[8608]: Session opened for jonesbrian from 172.31.85.239 port 63821 ssh2
+188.127.93.158 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 200 281656 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"cache miss","user":"johnwhite","trace":"guRusSq5afas"}
+sshd[1188]: Session closed for zmarquez from 10.223.44.83 port 15029 ssh2
+sshd[4145]: Session opened for fhoward from 192.168.195.149 port 17115 ssh2
+sshd[8741]: Failed password for marcanderson from 10.186.11.117 port 30239 ssh2
+LOG_LEVEL=INFO
+DB_PORT=DEBUG
+sshd[6048]: Session closed for breannaatkins from 10.240.6.19 port 38691 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"request completed","user":"blairashley","trace":"rFQFkyPGk7f0"}
+REDIS_URL=2382
+sshd[9625]: Failed password for amymiller from 192.168.45.195 port 48495 ssh2
+sshd[3415]: Failed password for mckenziedavidson from 10.119.124.149 port 28511 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"db slow query","user":"kfrazier","trace":"EFtLY5DsyU2U"}
+28.77.189.93 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 401 44395 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_1 rv:4.0; ca-AD) AppleWebKit/534.16.3 (KHTML, like Gecko) Version/4.0.1 Safari/534.16.3"
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"user session created","user":"michael16","trace":"t7kox0kAU4VA"}
+150.168.93.36 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 403 63860 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/24.0.806.0 Safari/533.0"
+LOG_LEVEL=email-17.henson.com
+LOG_LEVEL=lt-08.fox.org
+sshd[8326]: Session opened for gaguirre from 192.168.111.221 port 53490 ssh2
+sshd[6485]: Session closed for myerskevin from 172.19.1.236 port 61337 ssh2
+DB_PORT=1017
+DB_PORT=65435
+DB_HOST=laptop-52.lee.org
+201.38.195.205 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 500 377369 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.28.6 (KHTML, like Gecko) Version/5.1 Safari/534.28.6"
+DB_HOST=desktop-43.carr.com
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"danielstyler","trace":"MD91lNbQcfjX"}
+LOG_LEVEL=1065
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"request completed","user":"mbrown","trace":"Q9XC8Dw0821H"}
+sshd[5769]: Failed password for martinwhite from 172.20.13.141 port 49315 ssh2
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"eric00","trace":"AniGiZ4DTOIS"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"rebecca19","trace":"W43wLIkB5YUi"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"request completed","user":"jamescain","trace":"4n5fEXwyFuHT"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"token refreshed","user":"eriksharp","trace":"GLapFymsOTTi"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"request completed","user":"carl65","trace":"hwL45DNqqwWv"}

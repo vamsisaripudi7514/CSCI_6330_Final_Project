@@ -1,0 +1,35 @@
+sshd[9311]: Accepted password for amy79 from 192.168.169.92 port 21927 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"db slow query","user":"brendaguzman","trace":"nYdnax7YYRWF"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"db slow query","user":"smithkelly","trace":"zfJui4coIsoG"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"user session created","user":"fcole","trace":"eDXkW9vdwC7G"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwZFNKZ0JFUERWIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.gPVzC5pYSJzORse9mPIM90uKuoWyhoEl0EBs6fXtcfw'
+sshd[7688]: Failed password for jkelly from 192.168.177.156 port 34331 ssh2
+sshd[8867]: Session opened for bsimmons from 192.168.48.20 port 43169 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJMbFdSMEJna1ZGIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.0oTPd7fVv9kKyv7wYzvqnB2QNjM_pcrCfwYAjpgmqSk'
+93.8.17.24 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 502 260954 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.0)"
+sshd[4350]: Session opened for tobrien from 10.37.73.58 port 56307 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[6441]: Failed password for theresa23 from 10.149.210.134 port 51091 ssh2
+sshd[5253]: Accepted password for dawn26 from 10.59.18.108 port 14210 ssh2
+DB_PORT=true
+219.40.243.248 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 201 449075 "-" "Opera/9.64.(X11; Linux x86_64; kw-GB) Presto/2.9.189 Version/10.00"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"user session created","user":"dnelson","trace":"hkFwhoDU3Lwd"}
+183.97.154.248 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 204 312809 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_9 rv:2.0; lt-LT) AppleWebKit/535.38.3 (KHTML, like Gecko) Version/4.0.4 Safari/535.38.3" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwam1Ua0F5Tnd3IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.fkvSN-DBvfL7szfmnzqU8MsfKQnlKc9-eSR55DPxLP8'
+sshd[2529]: Failed password for douglasgoodwin from 172.25.245.250 port 18196 ssh2
+LOG_LEVEL=redis://localhost:6379
+sshd[9922]: Accepted password for barnesjuan from 172.24.115.154 port 39890 ssh2
+20.59.23.165 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 200 375776 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_0; rv:1.9.2.20) Gecko/8873-11-19 09:41:45.587067 Firefox/3.6.12"
+DB_PORT=1391
+85.105.197.213 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 401 53139 "-" "Opera/8.29.(Windows NT 5.0; uk-UA) Presto/2.9.174 Version/12.00"
+sshd[3081]: Accepted password for nicholasbarrett from 192.168.102.172 port 10756 ssh2
+LOG_LEVEL=6842
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"retrying upstream","user":"amyjohnson","trace":"3AakNMaGIy1I"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"user session created","user":"jennifermills","trace":"fsWJ2FiK8NuT"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"token refreshed","user":"willischristopher","trace":"feLPjgNbmnv4"}
+LOG_LEVEL=db-51.perez.com
+182.237.118.10 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 302 1215 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.31.7 (KHTML, like Gecko) Version/4.0.1 Safari/532.31.7"
+REDIS_URL=DEBUG
+11.148.132.7 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 400 6629 "-" "Mozilla/5.0 (Windows 95; ayc-PE; rv:1.9.0.20) Gecko/2145-03-06 03:04:54.941294 Firefox/12.0"
+175.22.24.250 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 401 431580 "-" "Opera/9.90.(X11; Linux x86_64; hak-TW) Presto/2.9.162 Version/10.00"
+FEATURE_X_ENABLED=40913
+sshd[5342]: Session opened for michaelhenderson from 192.168.230.233 port 49604 ssh2
+48.128.126.53 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 204 152861 "-" "Mozilla/5.0 (Windows NT 5.2; wa-BE; rv:1.9.0.20) Gecko/3004-04-07 18:14:18.268772 Firefox/3.8"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"request completed","user":"keith49","trace":"iLEuUUfxTFEv"}

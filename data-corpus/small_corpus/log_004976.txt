@@ -1,0 +1,47 @@
+54.176.226.247 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/v1/users HTTP/1.1" 200 127339 "-" "Opera/9.21.(Windows NT 5.1; da-DK) Presto/2.9.162 Version/12.00"
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"orders","msg":"cache miss","user":"yvonne12","trace":"9q6HUQH8IDgx"}
+150.172.102.80 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 401 151182 "-" "Mozilla/5.0 (Windows NT 5.01) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/15.0.857.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"ogarcia","trace":"5cApMFCDfyGf"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnTlNHM1NwRm03IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.WmBXKAcophyuk0HR2RTlJWcwBxtpPO6xXcR9K4Gv92s'
+17.91.177.6 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 403 450385 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_4 rv:4.0; kl-GL) AppleWebKit/532.42.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.42.7" password=iC7}cimRO4
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"notify","msg":"cache miss","user":"jeffrey71","trace":"KHSTvnW71PJz"}
+LOG_LEVEL=9172
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"search","msg":"db slow query","user":"evansrenee","trace":"3oHjqK46U8Vl"}
+165.13.37.105 - - [07/Sep/2025:18:24:57 +0000] "PUT /health HTTP/1.1" 302 84305 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; tl-PH) AppleWebKit/531.42.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6531.42.2"
+sshd[5265]: Session opened for newtonhaley from 172.31.217.204 port 50222 ssh2
+sshd[4546]: Session closed for angelchambers from 192.168.60.248 port 57941 ssh2
+FEATURE_X_ENABLED=953
+LOG_LEVEL=false
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"kellyshelia","trace":"gNGombB0pa7c"}
+129.127.215.192 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 201 461063 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.45.3 (KHTML, like Gecko) Version/5.0.5 Safari/532.45.3"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"request completed","user":"richardlewis","trace":"a0DMdkoRpZ6i"}
+55.120.127.136 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 200 452735 "-" "Mozilla/5.0 (Linux; Android 4.0.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/23.0.827.0 Safari/536.1"
+sshd[3163]: Session opened for boydwilliam from 10.51.240.182 port 26244 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"notify","msg":"cache miss","user":"thomasschwartz","trace":"jnnWmOXw3iad"}
+194.130.128.220 - - [07/Sep/2025:18:24:57 +0000] "DELETE /assets/app.js HTTP/1.1" 500 258748 "-" "Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/13.2f4787.0 Mobile/94T186 Safari/531.2"
+76.249.100.53 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 302 169983 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/46.0.888.0 Safari/535.0"
+102.188.238.99 - - [07/Sep/2025:18:24:57 +0000] "DELETE /api/login HTTP/1.1" 403 322954 "-" "Opera/8.73.(X11; Linux i686; mn-MN) Presto/2.9.164 Version/10.00"
+84.151.146.28 - - [07/Sep/2025:18:24:57 +0000] "PUT /health HTTP/1.1" 204 411701 "-" "Opera/9.33.(Windows NT 6.0; ti-ER) Presto/2.9.170 Version/10.00"
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"billing","msg":"cache miss","user":"triciamiller","trace":"w7OPWmqlhVsc"}
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"billing","msg":"cache miss","user":"bbarnes","trace":"epPLZoFrnF64"}
+sshd[4609]: Session closed for johnsonfrank from 10.239.65.167 port 14224 ssh2
+sshd[4377]: Accepted password for kelseykeith from 172.18.192.174 port 32165 ssh2
+222.94.136.224 - - [07/Sep/2025:18:24:57 +0000] "PUT /assets/app.js HTTP/1.1" 204 497757 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/17.0.889.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"ghanna","trace":"zU4gndi3w21X"}
+sshd[2801]: Session closed for feliciaknight from 10.50.92.105 port 34189 ssh2
+API_TIMEOUT=laptop-27.glass.com
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"osalazar","trace":"ASdBAOugAX58"}
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"cache miss","user":"alexis60","trace":"EI2WC9uXnuhw"}
+LOG_LEVEL=62910
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"auth","msg":"cache miss","user":"kimberly27","trace":"FEo3YHr2uLFT"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"db slow query","user":"patriciapeck","trace":"VP4gKyGm7tgv"}
+17.74.176.19 - - [07/Sep/2025:18:24:57 +0000] "PUT /download/report.csv HTTP/1.1" 204 138225 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4836-12-01 20:04:37.283859 Firefox/3.6.19"
+DB_HOST=true
+10.2.30.124 - - [07/Sep/2025:18:24:57 +0000] "PUT /index.html HTTP/1.1" 204 63881 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/5.1)"
+40.174.55.114 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 502 201467 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/54.0.806.0 Safari/531.1" password=kO4@V}&AT(1=hV
+sshd[2366]: Session closed for brownchristine from 172.20.65.182 port 18184 ssh2
+sshd[7473]: Failed password for yuholly from 172.20.159.235 port 29121 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"orobinson","trace":"vdVIAeDFKfu4"}
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"barronshelley","trace":"7elcxFlYjBaM"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzOXU5cTk4RVRkIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.FyWvONqDz-N-Gwl-RkkgsMY0nsf7PO-aeDCPMgpiHxs'
+141.116.95.226 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 201 156117 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/18.0.883.0 Safari/535.1"
+DB_PORT=db-47.hall.com

@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"user session created","user":"kathleen15","trace":"e3GjQvGYWwOx"}
+177.250.180.190 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 502 349353 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_5 rv:2.0; doi-IN) AppleWebKit/531.12.3 (KHTML, like Gecko) Version/5.0.1 Safari/531.12.3"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"joneschristine","trace":"xUkb0m2Lvw4K"}
+215.135.177.65 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 401 321722 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/3812-01-06 18:08:52.941193 Firefox/3.6.2"
+API_TIMEOUT=1865
+REDIS_URL=true
+sshd[2716]: Failed password for michaelescobar from 172.31.184.163 port 48962 ssh2
+REDIS_URL=58755
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"amandajoseph","trace":"I6oszBuF4GPP"}
+sshd[5034]: Session closed for eleach from 192.168.95.121 port 27362 ssh2
+sshd[9437]: Failed password for williamsjulie from 172.18.4.61 port 45138 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"db slow query","user":"fergusonlorraine","trace":"mIfrOvCIz6F9"}
+166.41.212.170 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 200 381240 "-" "Mozilla/5.0 (Linux; Android 7.1.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/31.0.800.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"token refreshed","user":"robert77","trace":"reqsKaTFsMY3"}
+38.116.79.186 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 500 406310 "-" "Mozilla/5.0 (Android 3.2.6; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0"
+132.106.199.101 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 500 250130 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.1)"
+sshd[8902]: Session opened for parkerbarbara from 192.168.212.7 port 59305 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"jrichards","trace":"6Pz3mO2lU8Fl"}
+sshd[3740]: Session opened for sheri31 from 10.49.113.51 port 22664 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJxSmxzbG02WWFhIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.cZLfkkyoshV9Ykay6-qaxXk-72fn-ELISOsnKZQhjJA'
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"request completed","user":"jjames","trace":"Zsf1Xt1Ocy81"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJOeWZUZlpla200IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.REG1WWkjncAC-o9dEaJJKUDDzs5P_UddC8ZxaqkUt3k'
+65.33.171.123 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 500 121625 "-" "Opera/8.83.(X11; Linux i686; ja-JP) Presto/2.9.181 Version/10.00"
+35.193.236.0 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 404 157635 "-" "Opera/8.76.(Windows CE; fy-DE) Presto/2.9.190 Version/10.00"
+sshd[5725]: Accepted password for aarontran from 172.25.128.33 port 30174 ssh2
+sshd[7812]: Accepted password for gmorton from 10.226.89.229 port 24341 ssh2
+DB_PORT=web-04.johnston.com

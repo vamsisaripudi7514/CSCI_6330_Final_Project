@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"kelseyrobinson","trace":"v8m7iDTkC61h"}
+sshd[6383]: Session opened for tfields from 10.48.159.218 port 31168 ssh2
+122.168.12.232 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 200 240781 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/36.0.812.0 Safari/533.0"
+198.2.172.244 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 669 "-" "Mozilla/5.0 (Android 1.1; Mobile; rv:12.0) Gecko/12.0 Firefox/12.0"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"token refreshed","user":"david21","trace":"OOgb0u6U0UPn"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"steve72","trace":"ARdZnUb0Hx68"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"db slow query","user":"greentoni","trace":"FxWFwVIZSynP"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"cache miss","user":"cookeddie","trace":"gj5CtworZkDn"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[1865]: Session opened for herreraaaron from 172.30.132.6 port 16701 ssh2
+LOG_LEVEL=lt-13.spence.com
+sshd[8391]: Failed password for vmyers from 192.168.151.153 port 22087 ssh2
+DB_PORT=true
+sshd[3832]: Accepted password for scott86 from 10.33.215.91 port 47271 ssh2
+121.146.68.88 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 401 60278 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.7.3 (KHTML, like Gecko) Version/5.0.1 Safari/533.7.3"
+sshd[3664]: Failed password for bryantalice from 10.25.89.61 port 50213 ssh2
+sshd[9393]: Failed password for linda55 from 192.168.187.110 port 33980 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"user session created","user":"danielwilcox","trace":"hAywTqmn9TMA"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"gomezbrandon","trace":"0boD4dDXgfQg"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"dawn54","trace":"Ik47zQuGzQuF"}
+LOG_LEVEL=INFO
+sshd[2952]: Accepted password for dennispeterson from 10.48.159.191 port 53477 ssh2
+sshd[5617]: Session opened for timothy64 from 172.29.34.111 port 10530 ssh2
+sshd[9207]: Session opened for karen69 from 10.164.186.48 port 12325 ssh2
+DB_PORT=false
+sshd[5792]: Accepted password for awilliams from 10.245.166.135 port 15925 ssh2
+API_TIMEOUT=false

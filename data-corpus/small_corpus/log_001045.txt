@@ -1,0 +1,28 @@
+31.238.34.163 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 403 91128 "-" "Opera/9.28.(X11; Linux x86_64; iu-CA) Presto/2.9.178 Version/11.00"
+sshd[3955]: Accepted password for benjaminhowell from 10.94.15.99 port 41982 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"brittany38","trace":"xP91nscvosEf"}
+FEATURE_X_ENABLED=redis://localhost:6379
+API_TIMEOUT=DEBUG
+REDIS_URL=20940
+DB_HOST=13992
+211.108.96.176 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 204 249801 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.24.4 (KHTML, like Gecko) Version/5.1 Safari/533.24.4"
+152.227.179.188 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 204 443402 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"cache miss","user":"kingrachel","trace":"3JhFNtSn27hA"} API_KEY=AIzaJJ12MSEdTV9nEncH8mKsXXKo8JNOJ-UMA7-MWg
+125.208.0.40 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 403 364668 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/13.1w5071.0 Mobile/18F834 Safari/536.0"
+sshd[9368]: Session opened for michaeljohnson from 192.168.243.224 port 27151 ssh2
+sshd[8373]: Session opened for ryannelson from 10.164.13.164 port 33984 ssh2
+LOG_LEVEL=31842
+API_TIMEOUT=desktop-32.johnson-carroll.net
+sshd[4487]: Session opened for morannancy from 172.18.84.64 port 14430 ssh2
+sshd[4679]: Session closed for devonhammond from 10.216.194.72 port 33397 ssh2
+sshd[5946]: Session closed for hamptonjustin from 192.168.129.142 port 49602 ssh2
+sshd[3384]: Session opened for aprilsalazar from 10.14.129.90 port 16307 ssh2
+6.39.82.27 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 500 136505 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"cache miss","user":"annagilbert","trace":"cSh7Z3ylte0a"}
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"katherine74","trace":"n8o2vGmDqaGs"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"cache miss","user":"oenglish","trace":"jXbgjX93XDzN"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"db slow query","user":"gibsontimothy","trace":"Rd3J0ZUI51S3"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"cache miss","user":"dianereyes","trace":"11dPe2gfGYeI"}
+sshd[1626]: Session opened for todd12 from 10.254.122.127 port 51502 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRY1VMampFd3k4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.IIApoLcHqLpR5IKhCqQuSxs3DI4-9_5Tn85YUDrbhm0'
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"db slow query","user":"kelly81","trace":"fWQqDKCjv6u9"}

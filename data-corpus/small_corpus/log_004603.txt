@@ -1,0 +1,26 @@
+DB_HOST=DEBUG
+REDIS_URL=lt-68.james-lutz.com
+148.53.178.1 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/login HTTP/1.1" 401 378524 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_3) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/39.0.868.0 Safari/531.1"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"michelleduran","trace":"VPGrMsEqCdoW"}
+40.75.202.47 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 200 157622 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ro-RO) AppleWebKit/535.2.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6535.2.7"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"cache miss","user":"danielbowman","trace":"FkyoYbcbtLGl"}
+57.173.36.66 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 302 29694 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_6; rv:1.9.5.20) Gecko/2399-01-29 02:54:29.139849 Firefox/13.0"
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"request completed","user":"psmith","trace":"yBPgScZY9Bqh"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"request completed","user":"romeropaula","trace":"egrigJK5hPKq"}
+13.239.34.67 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 201 134120 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/22.0.841.0 Safari/534.0"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"morganandrews","trace":"u5tLmq6HQsOO"}
+sshd[5911]: Session opened for johnwelch from 172.16.166.107 port 56837 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"token refreshed","user":"karenmcgrath","trace":"ftaMExE67iWh"}
+LOG_LEVEL=db-18.saunders.com
+sshd[3032]: Session closed for thomasgonzalez from 10.28.83.251 port 60485 ssh2
+97.3.35.140 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 400 335333 "-" "Opera/8.95.(Windows NT 5.01; eu-ES) Presto/2.9.190 Version/12.00" password=kY8`jk~Mar
+LOG_LEVEL=42469
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"user session created","user":"jonathan42","trace":"zv0B77Pyw8mG"}
+REDIS_URL=3537
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"cache miss","user":"austinsara","trace":"6bYqsuEXEib8"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"request completed","user":"brandonhuber","trace":"xDiVxHUTuFQe"}
+sshd[4001]: Accepted password for mprice from 172.20.84.166 port 60017 ssh2 password=fT0\5j"m{H$%e0|
+sshd[5962]: Failed password for jack72 from 10.16.116.58 port 38497 ssh2
+API_TIMEOUT=desktop-29.collins.com
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"kathrynthompson","trace":"p0TknUuXSLki"}

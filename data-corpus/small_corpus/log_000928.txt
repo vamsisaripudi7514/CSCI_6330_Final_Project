@@ -1,0 +1,25 @@
+sshd[6227]: Session closed for josecochran from 10.193.244.83 port 46854 ssh2
+LOG_LEVEL=WARN
+API_TIMEOUT=WARN
+sshd[7476]: Session closed for charlesbrown from 172.18.179.233 port 32382 ssh2
+41.243.82.84 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 404 187102 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/16.8c9948.0 Mobile/81Y576 Safari/531.0"
+sshd[7244]: Accepted password for samuel53 from 192.168.158.238 port 19608 ssh2
+sshd[8820]: Failed password for nmathews from 172.22.16.46 port 13572 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"request completed","user":"kcoleman","trace":"YamtXlnOM807"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"token refreshed","user":"sparksbrianna","trace":"hJ088vhXcGsa"}
+REDIS_URL=false
+sshd[9569]: Accepted password for uburch from 172.20.153.36 port 36257 ssh2
+API_TIMEOUT=redis://localhost:6379
+119.27.67.15 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 204 395341 "-" "Mozilla/5.0 (Linux; Android 1.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/15.0.821.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"token refreshed","user":"lschultz","trace":"GxNNp2MuuTW3"}
+API_TIMEOUT=redis://localhost:6379
+sshd[3660]: Failed password for cordovamark from 172.22.68.211 port 56496 ssh2
+sshd[4040]: Failed password for boydjeremy from 192.168.103.241 port 26345 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"db slow query","user":"steven42","trace":"AIiDtU5YI4en"}
+97.165.217.9 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 400 320389 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/23.0.895.0 Mobile/11Y323 Safari/531.0"
+sshd[2145]: Failed password for upowers from 10.40.98.215 port 23433 ssh2
+4.143.119.27 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 500 5021 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/13.9g0269.0 Mobile/48V482 Safari/533.1"
+sshd[5167]: Accepted password for keithbaker from 192.168.160.179 port 11492 ssh2
+63.254.154.179 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 403 249126 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/54.0.834.0 Safari/533.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJuRW5lcURReEg1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.xunr_CPDb85c0qV1SnybcnTo8OmiHAKQrKMK6xaYs1U'
+209.3.58.236 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 404 55949 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_7 rv:6.0; tk-TM) AppleWebKit/532.10.4 (KHTML, like Gecko) Version/4.0.3 Safari/532.10.4"
+sshd[9831]: Session opened for crhodes from 192.168.113.164 port 51168 ssh2

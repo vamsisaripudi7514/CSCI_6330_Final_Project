@@ -1,0 +1,33 @@
+API_TIMEOUT=WARN
+DB_HOST=email-08.thomas-mcmahon.com
+190.140.179.95 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 200 39747 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_0 rv:6.0; fr-CA) AppleWebKit/531.40.2 (KHTML, like Gecko) Version/4.0.3 Safari/531.40.2"
+LOG_LEVEL=DEBUG
+LOG_LEVEL=email-04.howard.com
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"isabella78","trace":"mTToQo8lRQL8"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"montesian","trace":"73RkpcdyBwOY"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"user session created","user":"lduarte","trace":"BX2pDce4xa5R"}
+54.33.91.24 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 403 130010 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/26.0.883.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"cache miss","user":"robert21","trace":"QlZnmOfkCPVI"}
+59.161.60.238 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 302 422441 "-" "Opera/9.41.(Windows 95; ug-CN) Presto/2.9.175 Version/11.00"
+103.0.195.16 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 403 279723 "-" "Opera/8.47.(Windows NT 10.0; sa-IN) Presto/2.9.182 Version/10.00"
+173.202.223.103 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 201 129649 "-" "Opera/9.93.(X11; Linux i686; ru-RU) Presto/2.9.179 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"mnguyen","trace":"HZVengHtn6KR"}
+REDIS_URL=4549
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"request completed","user":"fobrien","trace":"aUQx70mM2U5K"} password=vL3%Q`*NO"
+FEATURE_X_ENABLED=2006
+186.58.239.93 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 400 362904 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/3.1)"
+sshd[2196]: Session closed for weberallison from 10.223.194.188 port 30200 ssh2
+38.83.133.98 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 502 482773 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/55.0.871.0 Safari/535.2"
+sshd[8511]: Session closed for jerry09 from 10.173.35.172 port 15896 ssh2
+124.66.177.152 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 201 476211 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.0)"
+API_TIMEOUT=web-82.lambert-hawkins.com
+FEATURE_X_ENABLED=22454
+143.147.226.112 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 200 148504 "-" "Mozilla/5.0 (iPad; CPU iPad OS 12_5_7 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/10.8m0206.0 Mobile/01F422 Safari/534.0"
+sshd[2847]: Accepted password for dclarke from 10.85.226.202 port 47804 ssh2
+REDIS_URL=42878
+sshd[7023]: Session opened for dean54 from 10.0.113.207 port 50874 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"jameswashington","trace":"jmxZsAuOB0o2"}
+104.151.140.43 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 201 462505 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ar-TD) AppleWebKit/532.44.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.44.1"
+186.9.70.71 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 500 469285 "-" "Mozilla/5.0 (Linux; Android 4.4.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/19.0.832.0 Safari/534.2"
+101.168.113.219 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 502 129069 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; gl-ES) AppleWebKit/533.27.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.27.2"

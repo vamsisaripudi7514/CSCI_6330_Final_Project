@@ -1,0 +1,30 @@
+sshd[2170]: Failed password for huntkevin from 172.21.22.210 port 50339 ssh2
+LOG_LEVEL=redis://localhost:6379
+97.11.248.230 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 400 433881 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/8754-05-17 20:16:25.075317 Firefox/3.6.5"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"creed","trace":"bVkqXssfjFWG"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"nicholas08","trace":"CFhGx2FAnWUm"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"dennisbuchanan","trace":"gxKKiHbxxal7"}
+125.172.103.131 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 400 38587 "-" "Opera/8.60.(Windows NT 5.2; bg-BG) Presto/2.9.162 Version/10.00"
+DB_HOST=4527
+FEATURE_X_ENABLED=redis://localhost:6379
+178.233.142.79 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 302 396062 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.0)"
+143.35.131.168 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 400 33168 "-" "Mozilla/5.0 (Linux; Android 12) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/43.0.874.0 Safari/533.1"
+FEATURE_X_ENABLED=731
+200.114.10.200 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 401 513835 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.31.3 (KHTML, like Gecko) Version/5.0.3 Safari/534.31.3"
+207.217.41.231 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 500 25147 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/5.0)"
+91.60.193.255 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 401 335646 "-" "Opera/8.25.(Windows NT 6.1; mi-NZ) Presto/2.9.189 Version/12.00"
+sshd[5621]: Session closed for rick03 from 172.21.43.71 port 32791 ssh2
+DB_HOST=10549
+164.89.111.154 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 403 366334 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/5.1)"
+sshd[8958]: Failed password for ywalker from 192.168.52.199 port 22986 ssh2
+LOG_LEVEL=false
+168.53.183.253 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 502 178752 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.1)"
+sshd[6437]: Session opened for maria36 from 192.168.37.51 port 29125 ssh2
+sshd[3100]: Failed password for mcknightthomas from 172.30.87.85 port 48645 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"request completed","user":"woodroy","trace":"iwJWLY5cwFFL"}
+API_TIMEOUT=DEBUG password=aF2{7g"fx+*'C
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"cache miss","user":"graychristie","trace":"vQK4vWABw5MR"}
+107.139.178.194 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 404 349018 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/31.0.800.0 Mobile/73R101 Safari/531.0"
+sshd[9136]: Session opened for gabriel43 from 10.50.220.126 port 36894 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"cache miss","user":"william41","trace":"jBX03mcDXq3g"}
+106.18.239.199 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 403 392078 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.0)"

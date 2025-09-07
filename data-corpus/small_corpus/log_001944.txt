@@ -1,0 +1,28 @@
+35.95.35.127 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 500 180151 "-" "Opera/8.67.(X11; Linux x86_64; br-FR) Presto/2.9.181 Version/11.00"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"retrying upstream","user":"kristenbrown","trace":"MOTwcOVoCYty"}
+REDIS_URL=email-13.smith.biz
+43.181.242.26 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 201 307261 "-" "Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/21.0.802.0 Safari/536.0"
+sshd[1304]: Session opened for egonzalez from 10.85.217.102 port 49903 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"db slow query","user":"matthew84","trace":"clmnHcNXGndG"}
+131.135.182.101 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 500 135793 "-" "Opera/8.21.(X11; Linux x86_64; om-KE) Presto/2.9.179 Version/10.00"
+DB_HOST=lt-40.brooks-allen.biz
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"jeffrey59","trace":"hbhJ5XaPhYBo"}
+sshd[8587]: Session closed for tracyfoster from 192.168.108.47 port 32217 ssh2
+sshd[8199]: Session closed for xmartinez from 192.168.81.134 port 31537 ssh2
+42.56.125.181 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 302 317917 "-" "Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/36.0.801.0 Safari/533.1"
+sshd[3257]: Session opened for frank66 from 10.76.162.4 port 48150 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"request completed","user":"lpope","trace":"NkYA7XPc16o3"}
+FEATURE_X_ENABLED=true
+sshd[7353]: Session closed for kenneth61 from 172.24.49.152 port 24282 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"cache miss","user":"rjames","trace":"LlF73BDnuyVW"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[1820]: Session opened for amanda26 from 10.70.102.96 port 16817 ssh2
+REDIS_URL=62191
+171.224.239.67 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 302 136701 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+106.34.253.228 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 500 185394 "-" "Opera/8.97.(X11; Linux i686; km-KH) Presto/2.9.167 Version/10.00"
+3.165.230.248 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 502 413848 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.1)"
+29.244.249.16 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 403 52774 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/3.0)"
+128.11.44.86 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 302 184191 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.4.3 (KHTML, like Gecko) Version/5.1 Safari/534.4.3"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"cache miss","user":"dana11","trace":"LVaGJZsPVzhN"}
+DB_PORT=DEBUG
+102.90.186.248 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 500 354538 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4736-05-19 20:19:09.049805 Firefox/3.8"

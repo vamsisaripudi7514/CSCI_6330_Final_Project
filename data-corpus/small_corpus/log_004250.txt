@@ -1,0 +1,29 @@
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"catherine04","trace":"mRHkbjzSsS2G"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"request completed","user":"katherine15","trace":"ptgzKl7BhHJn"}
+15.250.141.203 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 403 495912 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.0)"
+API_TIMEOUT=WARN
+REDIS_URL=redis://localhost:6379
+209.41.55.64 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 500 498546 "-" "Mozilla/5.0 (Windows NT 5.1; crh-UA; rv:1.9.0.20) Gecko/9739-09-16 13:31:24.608826 Firefox/3.8"
+133.132.73.188 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 403 471909 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_8; rv:1.9.4.20) Gecko/4943-02-01 05:51:55.958771 Firefox/3.6.8"
+LOG_LEVEL=INFO
+DB_HOST=srv-74.sullivan-nguyen.org
+LOG_LEVEL=laptop-52.kelly-gates.com
+sshd[9874]: Session closed for tclark from 192.168.221.4 port 28766 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"christopher33","trace":"nvOhHIMYP107"}
+sshd[9063]: Accepted password for tina75 from 172.28.170.234 port 19880 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"request completed","user":"pgeorge","trace":"gOZ5EHDJALNy"}
+177.120.27.132 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 400 163660 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6 rv:2.0; nl-NL) AppleWebKit/534.31.2 (KHTML, like Gecko) Version/5.0.1 Safari/534.31.2"
+sshd[7955]: Failed password for timothy09 from 10.117.54.251 port 12117 ssh2
+191.241.44.1 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 400 287340 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.34.5 (KHTML, like Gecko) Version/4.0.4 Safari/533.34.5"
+sshd[9115]: Session opened for ronnienunez from 10.195.250.154 port 13580 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"cache miss","user":"stevenwebb","trace":"SXshZUM8nbDo"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"user session created","user":"elarson","trace":"SmJTovxybu7Y"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"crystalsmith","trace":"hXPg6a85QLRF"}
+157.43.155.72 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 200 251211 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_6; rv:1.9.3.20) Gecko/6689-02-12 04:38:48.032562 Firefox/3.8"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"db slow query","user":"pbecker","trace":"IXjqbsfOz8Qo"}
+API_TIMEOUT=true
+66.154.205.68 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 201 2144 "-" "Opera/9.50.(X11; Linux i686; nl-AW) Presto/2.9.171 Version/12.00"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"user session created","user":"edavis","trace":"qKyCRvamTLBB"}
+API_TIMEOUT=44574
+sshd[1409]: Accepted password for houstonregina from 10.239.46.245 port 12845 ssh2

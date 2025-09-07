@@ -1,0 +1,26 @@
+DB_PORT=WARN
+sshd[4859]: Session opened for tmorales from 192.168.137.122 port 57931 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"db slow query","user":"laura69","trace":"rQOt3BSZh9sX"}
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"db slow query","user":"imcmahon","trace":"qdQp3BQFC8tc"}
+66.224.77.24 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 401 179337 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4 rv:3.0; ga-IE) AppleWebKit/532.49.7 (KHTML, like Gecko) Version/5.0.3 Safari/532.49.7"
+DB_HOST=11818
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"db slow query","user":"sgarcia","trace":"uiuW2TBHlGAJ"}
+sshd[8612]: Session closed for mary95 from 10.163.202.22 port 27682 ssh2
+117.247.158.139 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 500 226025 "-" "Opera/9.79.(Windows 95; mk-MK) Presto/2.9.172 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"request completed","user":"jamesstone","trace":"LTnWT31JRQjQ"}
+22.114.168.30 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 404 467860 "-" "Opera/8.40.(X11; Linux x86_64; mai-IN) Presto/2.9.173 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"token refreshed","user":"christinesanchez","trace":"9d33bitxbxAg"}
+213.220.17.105 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 403 288590 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/5639-01-23 03:29:06.925186 Firefox/3.6.4"
+DB_HOST=4625
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"retrying upstream","user":"mstevens","trace":"Jfp6Rr7qTMJS"}
+REDIS_URL=59026
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"request completed","user":"jaime15","trace":"MbjRX9dIEMGV"}
+API_TIMEOUT=10724
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"johnbird","trace":"ITh64HkysFXA"}
+DB_HOST=656
+sshd[3118]: Session closed for danny08 from 192.168.197.173 port 14335 ssh2
+56.196.113.44 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 400 56510 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.1)"
+154.204.159.216 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 200 271432 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"leekayla","trace":"Mr976RW4hPyz"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"heatherbaker","trace":"EcKHw1CR206u"}

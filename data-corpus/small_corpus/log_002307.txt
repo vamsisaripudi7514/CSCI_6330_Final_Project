@@ -1,0 +1,25 @@
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"jacqueline80","trace":"rNZ72QqH2bJX"}
+API_TIMEOUT=1386
+sshd[5365]: Accepted password for ddelgado from 10.41.64.210 port 18493 ssh2
+34.158.87.165 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 302 159259 "-" "Opera/9.30.(Windows 95; hsb-DE) Presto/2.9.164 Version/11.00"
+45.122.97.168 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 404 224721 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_9 rv:6.0; brx-IN) AppleWebKit/532.43.6 (KHTML, like Gecko) Version/5.0.1 Safari/532.43.6"
+sshd[2279]: Failed password for richard45 from 172.16.48.7 port 62268 ssh2
+23.37.37.192 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 302 375123 "-" "Opera/9.70.(Windows NT 5.1; sv-FI) Presto/2.9.172 Version/12.00"
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"user session created","user":"shannon85","trace":"QfTYyAAk1vjG"}
+REDIS_URL=false
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"user session created","user":"barbaraanderson","trace":"Jkt2XrY9wWQk"}
+95.209.243.187 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 401 80931 "-" "Opera/8.36.(X11; Linux x86_64; unm-US) Presto/2.9.174 Version/11.00"
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"danarodriguez","trace":"6uKfEJSXZAYs"}
+190.138.255.73 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 200 136037 "-" "Mozilla/5.0 (Android 4.3; Mobile; rv:5.0) Gecko/5.0 Firefox/5.0"
+FEATURE_X_ENABLED=desktop-36.henry.com
+REDIS_URL=false
+sshd[3279]: Session closed for devin86 from 192.168.116.150 port 40703 ssh2
+sshd[1349]: Session closed for justinramirez from 10.236.224.231 port 31297 ssh2
+148.116.145.29 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 502 176580 "-" "Mozilla/5.0 (Android 4.3.1; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0"
+DB_HOST=desktop-32.figueroa.com
+91.229.161.205 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 302 186081 "-" "Mozilla/5.0 (Android 12.1; Mobile; rv:56.0) Gecko/56.0 Firefox/56.0"
+198.37.8.199 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 404 331623 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/5.1)"

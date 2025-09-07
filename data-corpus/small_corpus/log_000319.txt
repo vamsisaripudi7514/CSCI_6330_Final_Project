@@ -1,0 +1,35 @@
+14.132.240.122 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 400 388955 "-" "Mozilla/5.0 (Windows NT 5.0; ber-MA; rv:1.9.2.20) Gecko/3940-01-26 11:22:44.456009 Firefox/3.8"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"jason02","trace":"CWMKohIrvQSC"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"request completed","user":"jessicacruz","trace":"8BFYJmyF27B4"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJEdXVabmxJU3hUIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.CuYQORlncRlbabjj4Apcq2lW0JFg9qYFOcJEWgpaBQw'
+FEATURE_X_ENABLED=3828
+93.144.204.170 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 302 339190 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.0)"
+213.129.54.196 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 400 115856 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.0)"
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"ronald37","trace":"d36QY24B27BT"}
+REDIS_URL=3967
+API_TIMEOUT=14215
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"user session created","user":"theresa46","trace":"SDGdDCyCCQwI"}
+137.218.47.84 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 201 75841 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.1)"
+sshd[3496]: Session opened for danielgarrett from 192.168.220.141 port 47856 ssh2
+sshd[9274]: Failed password for lauracruz from 10.170.206.217 port 62152 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"jamesalvarez","trace":"r4QRfz0Qlu8x"}
+169.7.115.28 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 500 210252 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; the-NP) AppleWebKit/534.29.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6534.29.7"
+LOG_LEVEL=4583 API_KEY=AIza01h08keD6vRIITvel2Owh4GKreopqKFSX9I7dQ
+201.9.40.140 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 302 185596 "-" "Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/11.2n3492.0 Mobile/64E093 Safari/532.2"
+sshd[6365]: Failed password for fpowers from 172.30.145.174 port 18742 ssh2
+50.226.143.226 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 502 227121 "-" "Opera/9.87.(Windows NT 6.0; lij-IT) Presto/2.9.161 Version/10.00"
+13.99.131.36 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 500 379440 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4 rv:6.0; sa-IN) AppleWebKit/535.47.7 (KHTML, like Gecko) Version/4.0 Safari/535.47.7"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"samantha08","trace":"yZ9wNoCnZ5ud"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"db slow query","user":"costamitchell","trace":"gSMvGWREmahM"}
+sshd[3010]: Session opened for cummingsphillip from 172.22.179.65 port 63515 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"user session created","user":"markmelendez","trace":"ljlsDfwPuShu"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"user session created","user":"cynthiagonzalez","trace":"WLwNHCUffN86"}
+140.9.241.128 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 302 273979 "-" "Opera/9.16.(Windows 98; lg-UG) Presto/2.9.164 Version/10.00"
+DB_HOST=redis://localhost:6379
+REDIS_URL=true
+32.44.175.12 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 400 8969 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/48.0.803.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"db slow query","user":"rmartin","trace":"gNHhB0ttonOE"}
+104.171.202.153 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 200 209717 "-" "Opera/8.60.(X11; Linux x86_64; hi-IN) Presto/2.9.183 Version/12.00"
+56.124.7.194 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 200 136095 "-" "Mozilla/5.0 (Windows NT 6.2; st-ZA; rv:1.9.2.20) Gecko/6940-11-23 02:16:22.824097 Firefox/3.8"
+sshd[7398]: Accepted password for mirandascott from 192.168.206.107 port 25207 ssh2

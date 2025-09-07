@@ -1,0 +1,29 @@
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"db slow query","user":"qbenjamin","trace":"6Ow9PP58PJ6b"}
+217.113.254.118 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 404 272367 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_0 rv:3.0; lo-LA) AppleWebKit/533.39.4 (KHTML, like Gecko) Version/5.0.5 Safari/533.39.4"
+12.255.173.13 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 400 247955 "-" "Mozilla/5.0 (Windows NT 5.01) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/48.0.806.0 Safari/532.0"
+212.220.53.36 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 400 221727 "-" "Opera/9.80.(Windows NT 5.01; bg-BG) Presto/2.9.173 Version/12.00"
+8.141.223.212 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 500 33419 "-" "Mozilla/5.0 (Linux; Android 1.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/19.0.849.0 Safari/532.1"
+sshd[1219]: Accepted password for acarter from 192.168.68.63 port 20087 ssh2
+sshd[2774]: Failed password for johnnymcknight from 10.138.102.18 port 29903 ssh2
+LOG_LEVEL=false
+sshd[5972]: Session closed for emily73 from 192.168.111.66 port 22387 ssh2
+DB_HOST=false
+sshd[8848]: Failed password for whiterobert from 172.26.61.24 port 43909 ssh2
+64.108.244.164 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 400 354110 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.1)"
+REDIS_URL=web-76.watkins-clark.net
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"user session created","user":"tracey63","trace":"hYCWx6jbVCHQ"}
+sshd[2114]: Failed password for paynekiara from 10.31.194.89 port 11318 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"request completed","user":"john57","trace":"zvyJ0VkbWlwS"}
+96.104.78.205 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 401 179331 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3; rv:1.9.6.20) Gecko/4982-02-27 09:03:14.444595 Firefox/4.0"
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"user session created","user":"caseygrace","trace":"HHgreu1h3Vhy"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"user session created","user":"chavezjulia","trace":"T4YVJFnzxHU6"}
+sshd[4441]: Failed password for meganparker from 192.168.121.43 port 39459 ssh2
+148.143.225.142 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 302 90820 "-" "Opera/8.38.(Windows 98; Win 9x 4.90; apn-IN) Presto/2.9.162 Version/10.00"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"lnorris","trace":"h62md7eIfbWE"}
+FEATURE_X_ENABLED=4667
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"cache miss","user":"vaughnmonica","trace":"S2OcFP6qBSvr"}
+95.175.84.51 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 403 180095 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_7 rv:2.0; hi-IN) AppleWebKit/533.37.6 (KHTML, like Gecko) Version/5.0.4 Safari/533.37.6"
+sshd[8335]: Failed password for joshuasavage from 10.148.6.151 port 28296 ssh2

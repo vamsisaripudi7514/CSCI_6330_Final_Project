@@ -1,0 +1,27 @@
+200.95.123.211 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 200 440223 "-" "Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/17.0l4461.0 Mobile/93Y963 Safari/532.2"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"hcoleman","trace":"ufjfnTRIndGp"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"thomas46","trace":"jlA3qjqa0cWS"}
+REDIS_URL=db-27.smith-johnson.com
+sshd[4912]: Session closed for kfarrell from 172.22.25.143 port 45988 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"db slow query","user":"blakejones","trace":"5cCBkU9UHbR3"}
+sshd[1311]: Session closed for gilmoregregory from 172.17.3.31 port 32383 ssh2
+sshd[1160]: Session opened for jmartin from 192.168.235.46 port 46795 ssh2
+API_TIMEOUT=63203
+FEATURE_X_ENABLED=4491
+135.25.188.119 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 400 324788 "-" "Mozilla/5.0 (Android 3.0; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0" password=lO8|@|41Z?xSNR
+sshd[9351]: Failed password for dcontreras from 10.180.22.185 port 47251 ssh2
+REDIS_URL=13627 API_KEY=AIzagZSTRiABO69RYvRiCQbDSC8VoS46gGPtyXzvUg
+DB_PORT=31532
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"request completed","user":"eramos","trace":"YopJyWdCKk04"}
+LOG_LEVEL=58446
+sshd[5040]: Session closed for anelson from 10.163.100.45 port 50554 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"db slow query","user":"qmorrison","trace":"KgMEy3Kzm9ma"}
+sshd[6145]: Accepted password for bcross from 172.22.115.198 port 59908 ssh2
+sshd[8086]: Session opened for garciamatthew from 172.18.162.246 port 40036 ssh2
+sshd[8410]: Session opened for lancemccoy from 172.28.68.38 port 16978 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[1318]: Failed password for frank92 from 10.215.188.224 port 48935 ssh2
+85.77.243.26 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 401 27468 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/47.0.856.0 Safari/534.0"
+sshd[4297]: Accepted password for tdavies from 192.168.16.212 port 24106 ssh2
+sshd[3680]: Session closed for eric06 from 10.62.32.101 port 38024 ssh2
+sshd[9726]: Accepted password for caitlinnguyen from 172.17.10.17 port 33113 ssh2

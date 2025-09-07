@@ -1,0 +1,27 @@
+DB_PORT=false
+87.182.73.136 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 401 514138 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/23.0.876.0 Safari/534.1"
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"cache miss","user":"johnsonchristopher","trace":"qJLLpunHlZXi"}
+sshd[3603]: Failed password for gonzalezjames from 192.168.65.68 port 57216 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"xlee","trace":"1PMvmVpLduwF"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"fwalker","trace":"JBP2MmsegfQk"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"db slow query","user":"caleb83","trace":"C3Xk9ZZU7UoA"}
+REDIS_URL=14966
+sshd[2785]: Accepted password for dorismurphy from 10.240.92.248 port 47850 ssh2
+139.75.233.196 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 400 334818 "-" "Mozilla/5.0 (Linux; Android 1.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/31.0.806.0 Safari/531.2"
+153.147.231.159 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 404 256538 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_7; rv:1.9.3.20) Gecko/2335-10-20 00:27:59.074760 Firefox/3.8"
+REDIS_URL=redis://localhost:6379
+139.42.148.116 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 500 123908 "-" "Opera/8.43.(Windows NT 6.0; nso-ZA) Presto/2.9.184 Version/11.00" password=gX1\5klzl
+sshd[6709]: Session closed for warellano from 192.168.186.133 port 49430 ssh2
+112.237.200.54 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 500 512321 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_7) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/36.0.890.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"user session created","user":"mdavenport","trace":"hHQWxa2YxI4r"}
+sshd[7207]: Failed password for jholt from 192.168.182.38 port 49265 ssh2 API_KEY=AIzaOz1aOJdR4MBq74FtQJ-TK1wYdf0k2RVIxzP3LQ
+131.226.40.91 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 401 435171 "-" "Mozilla/5.0 (Linux; Android 4.4.4) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/21.0.874.0 Safari/535.1"
+26.149.205.187 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 502 476062 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/27.0.888.0 Mobile/00M340 Safari/534.0"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"request completed","user":"curtis59","trace":"0rBZbj1Gzeln"}
+116.37.24.85 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 403 380891 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"user session created","user":"dhull","trace":"2u6FkxhkbNxE"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"db slow query","user":"jhorton","trace":"KCOYuW1EdiiM"}
+REDIS_URL=3069
+sshd[3258]: Accepted password for gomezjennifer from 192.168.247.105 port 47243 ssh2
+23.244.34.150 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 403 103960 "-" "Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/32.0.855.0 Safari/534.1"

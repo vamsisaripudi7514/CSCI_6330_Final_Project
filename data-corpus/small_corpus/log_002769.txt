@@ -1,0 +1,25 @@
+sshd[1212]: Failed password for riverataylor from 10.163.169.235 port 35204 ssh2
+95.164.4.170 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 200 220549 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/17.1o2580.0 Mobile/05C473 Safari/533.2"
+FEATURE_X_ENABLED=54449
+13.255.219.165 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 500 62086 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/19.0.864.0 Safari/533.1"
+DB_HOST=4593
+223.35.107.65 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 204 232346 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/532.49.3 (KHTML, like Gecko) Version/5.0.5 Safari/532.49.3"
+LOG_LEVEL=3589
+API_TIMEOUT=db-07.shepherd-boyle.com
+LOG_LEVEL=214
+sshd[2593]: Session closed for burtonanthony from 10.205.229.155 port 10641 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"request completed","user":"brianroman","trace":"0ed5GKtJOhMW"} API_KEY=AIzaWsYXEiNiwT0eDfAxtnBv6Ml3li2omRNq5wIbRg
+DB_PORT=WARN
+sshd[7232]: Failed password for mckinneymichelle from 10.10.194.73 port 63902 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"request completed","user":"ariel77","trace":"FyvdCQE0Y2rD"}
+1.94.40.16 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 401 479409 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/21.0.890.0 Safari/536.1"
+157.139.192.9 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 502 49793 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.32.7 (KHTML, like Gecko) Version/5.0.5 Safari/535.32.7"
+sshd[9702]: Session closed for clarkjean from 172.30.212.132 port 56408 ssh2
+API_TIMEOUT=517
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"kpennington","trace":"3O64mmMpGEXJ"}
+169.224.244.242 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 200 384844 "-" "Mozilla/5.0 (Android 4.4; Mobile; rv:19.0) Gecko/19.0 Firefox/19.0"
+API_TIMEOUT=23144
+sshd[3758]: Session closed for david75 from 10.79.167.166 port 14157 ssh2
+DB_PORT=true
+76.129.139.172 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 400 155615 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"request completed","user":"jessica45","trace":"rJlyuhpvsQlF"}

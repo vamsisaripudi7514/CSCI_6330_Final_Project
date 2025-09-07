@@ -1,0 +1,29 @@
+sshd[3076]: Session opened for jacqueline00 from 10.110.233.251 port 16117 ssh2
+FEATURE_X_ENABLED=46856
+sshd[3885]: Accepted password for briangarza from 172.18.148.5 port 52786 ssh2
+LOG_LEVEL=redis://localhost:6379
+sshd[8663]: Failed password for snydernathan from 10.48.56.254 port 58672 ssh2
+sshd[2759]: Session opened for dillonyoung from 192.168.192.99 port 61036 ssh2
+sshd[5663]: Session closed for eric46 from 192.168.157.135 port 20778 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"david18","trace":"nOoIOGW3mDvW"}
+149.232.36.114 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 302 290516 "-" "Opera/8.75.(Windows NT 11.0; gd-GB) Presto/2.9.172 Version/11.00"
+211.64.209.109 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 200 53763 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/532.39.4 (KHTML, like Gecko) Version/5.0.2 Safari/532.39.4"
+sshd[5422]: Failed password for castrocristian from 192.168.90.89 port 39505 ssh2
+123.122.4.121 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 500 377428 "-" "Opera/9.17.(X11; Linux x86_64; bhb-IN) Presto/2.9.172 Version/12.00"
+LOG_LEVEL=redis://localhost:6379
+REDIS_URL=email-35.rodriguez-white.com password=fT9}aIuYOMJt8<$b
+sshd[6026]: Session opened for brendan86 from 192.168.21.2 port 43702 ssh2
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"martinezcasey","trace":"sMDA1Qd1UQN9"}
+sshd[6837]: Failed password for jimmydawson from 10.50.63.241 port 29869 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"cache miss","user":"ericatorres","trace":"gdj1GXydx38G"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"token refreshed","user":"melindasummers","trace":"tZ0EwaxpKON1"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"kirstenhubbard","trace":"qsA33nxaYkpZ"}
+sshd[5781]: Session closed for jamesjackson from 172.16.220.32 port 37216 ssh2
+110.176.2.200 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 403 306179 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_6 rv:5.0; lo-LA) AppleWebKit/535.15.2 (KHTML, like Gecko) Version/5.0.2 Safari/535.15.2"
+sshd[8954]: Failed password for tstephens from 10.33.84.202 port 23329 ssh2
+130.190.247.43 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 401 307561 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/5.1)"
+51.41.220.149 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 302 370872 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/5.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"austinrichard","trace":"xgFar7UDcsis"}
+sshd[8355]: Session opened for opaul from 172.28.179.26 port 27648 ssh2

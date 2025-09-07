@@ -1,0 +1,29 @@
+REDIS_URL=redis://localhost:6379
+sshd[5362]: Failed password for kyleglover from 192.168.191.177 port 44151 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"brianburns","trace":"Lvo2tOyaDEdg"}
+38.204.132.160 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 200 218911 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_1 rv:2.0; sv-SE) AppleWebKit/531.10.1 (KHTML, like Gecko) Version/4.0.1 Safari/531.10.1"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"kingdaniel","trace":"Q3l6hyRqNBlW"}
+DB_PORT=redis://localhost:6379
+API_TIMEOUT=false
+FEATURE_X_ENABLED=DEBUG
+FEATURE_X_ENABLED=41558
+sshd[8994]: Session closed for mitchellbrown from 172.24.46.16 port 49522 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"db slow query","user":"johnny25","trace":"fXtmYReoXf9q"}
+DB_HOST=DEBUG
+DB_HOST=29098
+sshd[6506]: Accepted password for cooleyjeremy from 172.18.93.69 port 60320 ssh2
+sshd[1742]: Accepted password for cynthiacarlson from 10.101.186.148 port 31022 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"db slow query","user":"preyes","trace":"zAmIXPdyJ3fw"}
+LOG_LEVEL=2886
+sshd[2716]: Session closed for belltimothy from 172.18.89.88 port 49718 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"stevenfields","trace":"DUxFS2ByIplA"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"cache miss","user":"nicole63","trace":"ohPuvuiFueVZ"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"cache miss","user":"kendrasims","trace":"5KFzXtWKRdQc"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"request completed","user":"rodgersjonathan","trace":"uvOUnHZ502Fk"}
+sshd[9705]: Accepted password for brenda31 from 172.19.245.33 port 37165 ssh2
+181.79.197.197 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 500 152855 "-" "Opera/8.63.(Windows NT 6.0; mn-MN) Presto/2.9.190 Version/10.00"
+110.247.180.132 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 201 99511 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/16.7m1012.0 Mobile/20C173 Safari/534.2"
+API_TIMEOUT=false
+20.12.254.231 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 400 512303 "-" "Mozilla/5.0 (Android 14; Mobile; rv:28.0) Gecko/28.0 Firefox/28.0"
+API_TIMEOUT=4522
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"alexandriamiller","trace":"siDCYFUdG94u"}

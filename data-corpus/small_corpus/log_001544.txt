@@ -1,0 +1,34 @@
+FEATURE_X_ENABLED=true
+29.38.175.33 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 400 78057 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; sd-PK) AppleWebKit/531.16.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.16.6" API_KEY=AIzakQMmYqW07hOdMbdOyI_rr5u5PQPI1nsieSJF0A
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"user session created","user":"pamelamcdaniel","trace":"JPrhfvUo2A73"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"cache miss","user":"bellmisty","trace":"P3OfudLUJdSC"}
+107.228.85.210 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 404 377210 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; cy-GB) AppleWebKit/532.4.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.4.5"
+sshd[2246]: Session closed for julieholder from 172.27.178.124 port 14461 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"request completed","user":"watkinsjaime","trace":"IJtPZg33SmzB"}
+sshd[9518]: Accepted password for jcalhoun from 10.194.252.133 port 21889 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"dana91","trace":"xuWqTfqstE9y"}
+sshd[2198]: Session opened for judy01 from 10.225.60.230 port 35815 ssh2
+118.125.103.154 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 500 369397 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/25.0.803.0 Safari/536.2"
+API_TIMEOUT=srv-90.rodriguez-thompson.com
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"susan64","trace":"VfjXKQyi2JMM"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnTlNHM1NwRm03IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.WmBXKAcophyuk0HR2RTlJWcwBxtpPO6xXcR9K4Gv92s'
+120.92.60.149 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 403 137686 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; bhb-IN) AppleWebKit/534.4.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.4.7"
+sshd[2076]: Accepted password for tonya54 from 192.168.117.92 port 19680 ssh2
+DB_PORT=redis://localhost:6379
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"user session created","user":"jessicaanthony","trace":"PAAozy0ERZGO"}
+102.177.4.58 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 401 423192 "-" "Mozilla/5.0 (Linux; Android 2.3.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/34.0.843.0 Safari/531.0"
+165.47.187.182 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 403 290964 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.0)"
+DB_PORT=4337
+126.126.2.171 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 302 401666 "-" "Mozilla/5.0 (Linux; Android 4.2.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/14.0.810.0 Safari/532.1"
+73.231.2.241 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 403 431274 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/3.1)"
+sshd[6044]: Failed password for wsmith from 172.24.154.227 port 51132 ssh2
+205.85.164.41 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 200 250158 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.0)"
+LOG_LEVEL=false
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"user session created","user":"mlogan","trace":"phPvN39YQBSb"}
+83.144.163.238 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 502 152551 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.1)"
+5.83.2.168 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 201 223482 "-" "Opera/8.52.(Windows CE; eo-US) Presto/2.9.161 Version/10.00" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzOXU5cTk4RVRkIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.FyWvONqDz-N-Gwl-RkkgsMY0nsf7PO-aeDCPMgpiHxs'
+REDIS_URL=64142
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"user session created","user":"jennifer80","trace":"lSZoPMu1XguJ"}
+DB_HOST=40083
+LOG_LEVEL=3740

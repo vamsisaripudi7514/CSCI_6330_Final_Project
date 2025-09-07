@@ -1,0 +1,31 @@
+sshd[8935]: Accepted password for cmcdowell from 10.196.62.40 port 49418 ssh2
+API_TIMEOUT=redis://localhost:6379
+164.10.78.197 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 204 171314 "-" "Mozilla/5.0 (Android 2.0.1; Mobile; rv:46.0) Gecko/46.0 Firefox/46.0"
+sshd[9212]: Session closed for vjohnson from 192.168.217.255 port 54347 ssh2
+20.53.187.115 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 201 13231 "-" "Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/12.5x2317.0 Mobile/31N847 Safari/533.1"
+sshd[9292]: Session opened for andrewtorres from 192.168.203.203 port 36683 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"db slow query","user":"hjackson","trace":"l6JUsm5P84BA"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"user session created","user":"stephanie49","trace":"kgZ0rmgSfdhQ"}
+102.209.9.66 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 400 473273 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_1 rv:5.0; raj-IN) AppleWebKit/533.3.3 (KHTML, like Gecko) Version/4.0 Safari/533.3.3"
+sshd[9082]: Session closed for anthony71 from 172.16.224.254 port 18119 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"user session created","user":"allenedward","trace":"MGu9iWwUWA8i"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"request completed","user":"wgraham","trace":"4jXdZE8BaBfS"}
+111.250.191.220 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 400 295902 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_9) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/28.0.808.0 Safari/533.2" API_KEY=AIzakVtIzGSn4haxTnPFrwUVOJZZJynA0h7NWRIELg
+API_TIMEOUT=email-44.gonzalez.net
+sshd[9866]: Session closed for ihunter from 192.168.35.6 port 52708 ssh2
+FEATURE_X_ENABLED=1980
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"ortizhaley","trace":"DPQkui3Mlusp"}
+sshd[2018]: Session opened for emilycase from 10.30.183.237 port 36682 ssh2
+API_TIMEOUT=61249
+sshd[2272]: Accepted password for lisa29 from 10.138.8.235 port 50728 ssh2
+sshd[8152]: Session closed for qcollins from 172.24.163.54 port 22337 ssh2
+198.79.152.79 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 204 341334 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/4.0)"
+REDIS_URL=DEBUG
+sshd[5287]: Failed password for paulbonilla from 10.210.117.141 port 16010 ssh2
+sshd[7835]: Accepted password for jbarnett from 172.28.199.109 port 26778 ssh2
+DB_HOST=4691
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"user session created","user":"ybyrd","trace":"HygSiZDKxZWz"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"db slow query","user":"scott19","trace":"kRz5vZxiiRto"}
+143.41.255.21 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 404 269902 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/16.9n7945.0 Mobile/80D444 Safari/531.2"
+DB_PORT=33192

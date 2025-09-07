@@ -1,0 +1,31 @@
+160.192.26.58 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 500 83759 "-" "Opera/9.50.(Windows NT 6.0; ar-QA) Presto/2.9.164 Version/10.00"
+sshd[4179]: Session opened for robert99 from 10.32.3.217 port 29210 ssh2
+LOG_LEVEL=redis://localhost:6379
+102.148.178.84 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 502 187461 "-" "Mozilla/5.0 (iPad; CPU iPad OS 16_7_7 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/12.5u8050.0 Mobile/28Y800 Safari/531.2"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"db slow query","user":"cruztroy","trace":"EhitK8hT0nhh"}
+FEATURE_X_ENABLED=true
+API_TIMEOUT=3961
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"robinobrien","trace":"9RpbmL1ttFNn"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRbkxDRnBtclN6IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.MmPfE0wkyj5Lkcnmyo7laC9sq666PyGEN9cn272-Hnk'
+31.16.151.220 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 302 466243 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_6; rv:1.9.4.20) Gecko/4329-03-03 22:28:58.101944 Firefox/3.6.5"
+REDIS_URL=61990
+24.29.228.127 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 401 420943 "-" "Mozilla/5.0 (Linux; Android 4.0.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/56.0.857.0 Safari/532.1" password=bW4`B7z__r2
+REDIS_URL=58790
+sshd[7769]: Session closed for aliciasmith from 172.25.149.134 port 60678 ssh2
+76.244.48.175 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 404 191072 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_9 rv:6.0; tt-RU) AppleWebKit/533.43.6 (KHTML, like Gecko) Version/5.0.5 Safari/533.43.6"
+sshd[6693]: Session closed for robertsroy from 172.26.172.190 port 56589 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"cache miss","user":"cindyjones","trace":"SeNg7q62zh8y"}
+sshd[5297]: Accepted password for amysmith from 192.168.202.224 port 11865 ssh2 API_KEY=AIzaCZWFN8i_Gbj4UmMMCdv-8znVopvi0NoQ9uSiMg
+sshd[4044]: Accepted password for daniel58 from 192.168.56.78 port 49428 ssh2 password=fS2_tCh\c?v
+DB_PORT=redis://localhost:6379
+180.40.196.34 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 200 104285 "-" "Opera/8.19.(Windows NT 5.1; lzh-TW) Presto/2.9.170 Version/10.00"
+117.221.148.194 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 404 309080 "-" "Opera/8.47.(Windows NT 11.0; mni-IN) Presto/2.9.181 Version/10.00"
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"db slow query","user":"scotteverett","trace":"cu0nGjIkLgLV"}
+sshd[1669]: Session closed for marc96 from 172.22.150.112 port 54886 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"carolynwilliams","trace":"GXwulMbq1dDt"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2bWcweVdCbkZzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.9WolgD0SLnwvZOmConDHn1wCKuj2wBYTjFuc4zq0ifU'
+FEATURE_X_ENABLED=DEBUG
+REDIS_URL=db-10.perez.org
+DB_HOST=false
+REDIS_URL=22013
+187.202.27.74 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 204 154464 "-" "Mozilla/5.0 (Android 4.0.4; Mobile; rv:14.0) Gecko/14.0 Firefox/14.0"

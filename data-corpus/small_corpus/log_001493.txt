@@ -1,0 +1,29 @@
+sshd[2128]: Session closed for denisepatterson from 172.20.79.253 port 18256 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"token refreshed","user":"oadams","trace":"InQqYe2nd2wJ"}
+sshd[7146]: Accepted password for briansmith from 172.20.190.128 port 15461 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"token refreshed","user":"tammy60","trace":"WODFsIzEW9Kq"}
+sshd[6458]: Session opened for oliviarodgers from 10.41.230.143 port 21070 ssh2 API_KEY=AIzaGjecEc_jUHt9RHlYsieWeFF9xpVfHpriXddhSw
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"aaron48","trace":"NOWIJ9qDzkAD"}
+FEATURE_X_ENABLED=redis://localhost:6379 API_KEY=AIzad4W2T_wFGdfkmdRkFjADRNAB3WUg7xPXw9Q0wQ
+REDIS_URL=false
+LOG_LEVEL=false
+FEATURE_X_ENABLED=2386
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"request completed","user":"taylorpamela","trace":"3yPrYS8iyow6"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"user session created","user":"charlesgreen","trace":"DDgpauXVa72m"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"user session created","user":"wrightgail","trace":"a8TrIbjXMTrj"}
+API_TIMEOUT=WARN
+sshd[1350]: Accepted password for michael26 from 172.18.163.26 port 44342 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"db slow query","user":"garciasuzanne","trace":"YvODAJxSEe4u"}
+DB_PORT=DEBUG
+95.245.246.225 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 204 20393 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_0 rv:4.0; tig-ER) AppleWebKit/534.43.3 (KHTML, like Gecko) Version/5.1 Safari/534.43.3"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"request completed","user":"carlajohnston","trace":"URhSaSKn3t2K"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"user session created","user":"kjones","trace":"JmpLAnBhFPZl"}
+11.118.63.183 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 204 81726 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)"
+sshd[2855]: Session closed for fryechristopher from 192.168.23.105 port 14793 ssh2
+REDIS_URL=56329
+187.146.123.19 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 401 121012 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/5.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUNkM3c3I4WlhVIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.ewESgZOJnGeOMHup8yBvl2q-SKp7BfeH6xogqlZyErc'
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"mullinsandrea","trace":"KMccL6W9FUTJ"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"db slow query","user":"qmartin","trace":"udPIYZX8e2Qj"}
+FEATURE_X_ENABLED=22285

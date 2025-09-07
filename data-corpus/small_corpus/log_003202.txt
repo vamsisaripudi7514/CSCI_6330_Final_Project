@@ -1,0 +1,42 @@
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"db slow query","user":"christine12","trace":"7lQ633LRKu53"}
+31.215.192.98 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 200 141075 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5095-01-04 18:03:01.836685 Firefox/3.8" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDZDFuNnhZQ2EwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.PmhIa5augKvLQl0jF4oGHJMoAZUjWrpItUNE5FRuXvw'
+sshd[5999]: Session closed for samuelnunez from 10.142.56.159 port 38931 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"request completed","user":"toddrivera","trace":"nHBtbwAooVhs"}
+sshd[5114]: Accepted password for manuelstephenson from 172.27.43.160 port 20518 ssh2
+sshd[4245]: Session opened for kcampos from 10.2.123.237 port 47379 ssh2
+192.230.31.178 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 401 424305 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.1)"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"db slow query","user":"hwiley","trace":"A3Wz6XddtOVh"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"request completed","user":"cameronsanchez","trace":"5Vxsr02VNKEg"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"user session created","user":"laurie39","trace":"RM1lSZwygizH"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"sallywelch","trace":"9LXaFMQRZWEK"}
+DB_PORT=47768
+sshd[7867]: Failed password for amy48 from 172.30.68.152 port 23855 ssh2
+REDIS_URL=3201
+3.46.52.178 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 403 396227 "-" "Opera/9.91.(Windows NT 5.2; doi-IN) Presto/2.9.189 Version/11.00"
+DB_HOST=redis://localhost:6379
+sshd[3930]: Session opened for justinbonilla from 172.23.241.40 port 25844 ssh2
+sshd[7534]: Accepted password for howardshannon from 172.29.247.60 port 53585 ssh2
+REDIS_URL=redis://localhost:6379
+178.173.172.7 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 400 365157 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"zcole","trace":"0FxB8iMRCxTH"}
+FEATURE_X_ENABLED=INFO
+sshd[6275]: Session opened for jamesmcmahon from 172.16.121.141 port 42545 ssh2
+FEATURE_X_ENABLED=44561
+12.136.222.158 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 302 416442 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFbEs4czZYaFdpIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5PoJA8EdKgHzx-6riN8WsqR8yGeEKdcxnQhXguKaId4'
+sshd[8932]: Failed password for tara53 from 10.202.42.150 port 50581 ssh2
+148.188.216.144 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 401 45023 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.2.6 (KHTML, like Gecko) Version/5.0 Safari/535.2.6"
+23.21.97.46 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 404 344988 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_4; rv:1.9.5.20) Gecko/7473-08-09 14:32:00.796082 Firefox/3.6.17"
+REDIS_URL=email-05.pierce.biz
+179.99.202.174 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 302 74919 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.1)"
+109.41.111.74 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 200 55348 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; the-NP) AppleWebKit/532.1.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6532.1.2"
+121.59.26.224 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 400 34902 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/533.41.5 (KHTML, like Gecko) Version/5.1 Safari/533.41.5"
+REDIS_URL=1361
+FEATURE_X_ENABLED=INFO
+REDIS_URL=INFO
+215.118.2.33 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 502 217820 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.1)"
+135.55.156.5 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 201 145640 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/42.0.887.0 Safari/531.2"
+sshd[1452]: Failed password for garyanderson from 192.168.74.219 port 50920 ssh2
+DB_PORT=false
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"token refreshed","user":"kevinreese","trace":"6h0HPKw3ek3E"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"user session created","user":"tracy49","trace":"j7Xm4uLDX631"}
+REDIS_URL=62215

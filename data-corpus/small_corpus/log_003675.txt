@@ -1,0 +1,38 @@
+sshd[3992]: Accepted password for matthewjenkins from 192.168.187.132 port 51859 ssh2
+71.104.114.67 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 500 293152 "-" "Mozilla/5.0 (Windows NT 5.0; shs-CA; rv:1.9.2.20) Gecko/6361-05-21 09:49:13.126251 Firefox/9.0"
+FEATURE_X_ENABLED=WARN
+74.83.171.28 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 401 153039 "-" "Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/14.0.884.0 Safari/534.0"
+17.144.145.6 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 404 457 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ff-SN) AppleWebKit/532.21.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.21.6"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"simsjuan","trace":"EKicNRf9jAgR"}
+FEATURE_X_ENABLED=WARN
+19.48.12.80 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 401 217033 "-" "Mozilla/5.0 (Android 1.5; Mobile; rv:60.0) Gecko/60.0 Firefox/60.0"
+FEATURE_X_ENABLED=false
+LOG_LEVEL=904
+sshd[4850]: Session closed for allenjulia from 172.16.38.247 port 63514 ssh2
+sshd[5565]: Session opened for clayton57 from 172.20.234.57 port 58979 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"douglasburch","trace":"ywymZmAbLxY0"}
+sshd[4624]: Session closed for wesleypope from 192.168.161.228 port 25015 ssh2
+192.42.209.169 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 403 468331 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/16.5w4137.0 Mobile/33L667 Safari/534.2"
+FEATURE_X_ENABLED=false
+sshd[7699]: Failed password for mccormickchad from 172.28.77.113 port 40523 ssh2
+107.5.208.127 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 404 331492 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4 rv:2.0; ha-NG) AppleWebKit/534.42.5 (KHTML, like Gecko) Version/4.0.4 Safari/534.42.5"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"request completed","user":"molly03","trace":"zwOo4cKnCHj3"}
+183.39.245.144 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 500 365970 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/8469-10-19 03:57:22.176605 Firefox/3.8"
+sshd[6704]: Failed password for christy99 from 172.30.21.106 port 26625 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"stewartwilliam","trace":"uim4W1Kr7cU7"}
+DB_HOST=redis://localhost:6379
+API_TIMEOUT=redis://localhost:6379 password=gV6`KC29xN4
+156.120.32.17 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 200 116534 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/3.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"user session created","user":"andreaerickson","trace":"dIDW36Kw1CaR"}
+LOG_LEVEL=false
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"user session created","user":"owensbrian","trace":"MA14uXZkTCna"}
+sshd[2792]: Session closed for fmontgomery from 192.168.74.88 port 25568 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"cache miss","user":"cherylporter","trace":"58yW18F3r9LH"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"request completed","user":"ymeyer","trace":"Ak2jd7plthtO"} password=yN8?@&b\iPus\
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"padillamichael","trace":"Xb3HbjG2MO2B"}
+sshd[5123]: Failed password for vanessa24 from 10.227.204.91 port 52636 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"cyoung","trace":"NsdHWrz0Mg9E"}
+181.119.148.174 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 200 47159 "-" "Mozilla/5.0 (Windows NT 5.01) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/20.0.899.0 Safari/531.1"
+REDIS_URL=62145
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"user session created","user":"tbrown","trace":"s7RqFEApXnij"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"tracy96","trace":"PM6NXXOGjPGX"}

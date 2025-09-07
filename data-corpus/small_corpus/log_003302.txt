@@ -1,0 +1,35 @@
+sshd[7217]: Accepted password for wjackson from 192.168.8.185 port 33793 ssh2
+201.179.13.203 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 204 62540 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"db slow query","user":"fflores","trace":"blXjp4UHEDvw"}
+29.136.183.151 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 500 496957 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; csb-PL) AppleWebKit/532.3.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6532.3.5"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"dwayne38","trace":"6LhjBT23pNze"}
+sshd[9147]: Failed password for torresgabrielle from 10.233.107.22 port 24400 ssh2
+sshd[8755]: Session opened for johnjackson from 192.168.79.202 port 33960 ssh2
+LOG_LEVEL=33391
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"db slow query","user":"johngaines","trace":"pTW0v4BKPnC8"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJNMkFURXh2N2xCIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.R9S5zVj43HWNNZlBeNim4SdimKKfv0wBBCF34yM4xm8'
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"cache miss","user":"gwatkins","trace":"tGfhV1GCbYq8"}
+72.222.214.86 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 404 238801 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_7) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/35.0.896.0 Safari/534.0"
+108.113.151.52 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 403 30141 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_3; rv:1.9.6.20) Gecko/6902-10-22 17:09:32.939423 Firefox/3.6.19"
+83.171.235.109 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 403 27295 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; kk-KZ) AppleWebKit/533.18.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6533.18.6"
+sshd[2032]: Failed password for josethomas from 172.31.175.72 port 21843 ssh2
+sshd[9471]: Session opened for paulahayes from 172.21.8.72 port 14357 ssh2
+sshd[5193]: Session closed for matthew13 from 10.41.246.246 port 17781 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"db slow query","user":"mariah93","trace":"IqdWXL3Xd3jr"}
+sshd[6590]: Failed password for jonesjennifer from 192.168.16.152 port 30469 ssh2
+sshd[9168]: Session opened for diazpatricia from 172.22.82.32 port 16659 ssh2
+sshd[5400]: Failed password for angeljordan from 192.168.254.134 port 18540 ssh2
+sshd[4548]: Session closed for jamesbradford from 192.168.229.107 port 51949 ssh2
+sshd[8701]: Failed password for hernandezdavid from 10.139.189.189 port 29308 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"fromero","trace":"Oi5xQOf2sxy2"}
+192.16.123.124 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 204 275501 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.0)"
+DB_PORT=email-63.bell.biz
+API_TIMEOUT=31472
+sshd[3089]: Failed password for floreskenneth from 192.168.231.45 port 48349 ssh2
+sshd[2108]: Failed password for kathleen85 from 192.168.105.85 port 50854 ssh2
+sshd[5715]: Session opened for lunderwood from 172.19.36.235 port 51340 ssh2
+sshd[5998]: Session closed for donald66 from 10.49.198.255 port 34729 ssh2
+sshd[6137]: Session opened for smorgan from 192.168.73.0 port 41550 ssh2
+129.252.237.168 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 403 45595 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0 rv:3.0; bo-IN) AppleWebKit/535.28.5 (KHTML, like Gecko) Version/5.0 Safari/535.28.5"
+46.40.144.180 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 401 229075 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9483-11-08 19:03:06.742615 Firefox/3.6.17"
+sshd[9596]: Failed password for rhorton from 172.17.28.36 port 22700 ssh2
+sshd[1719]: Session closed for mark78 from 172.24.148.0 port 38856 ssh2

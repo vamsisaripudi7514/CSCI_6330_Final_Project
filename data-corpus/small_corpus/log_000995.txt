@@ -1,0 +1,29 @@
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"request completed","user":"william65","trace":"2ZbBcwQsMiwH"}
+LOG_LEVEL=3631
+sshd[7723]: Session closed for wilsonsandra from 10.180.45.202 port 38078 ssh2
+131.39.134.222 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 502 413708 "-" "Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/41.0.867.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"kevin99","trace":"6OLp7Rs8lWHO"}
+DB_HOST=true
+24.46.204.40 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 204 397130 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.37.6 (KHTML, like Gecko) Version/5.0.1 Safari/531.37.6"
+120.46.22.166 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 200 418302 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/11.0b6852.0 Mobile/07G986 Safari/536.2"
+DB_PORT=58204
+DB_HOST=laptop-85.lane-sims.com
+46.48.155.255 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 302 469305 "-" "Mozilla/5.0 (Windows 98; xh-ZA; rv:1.9.2.20) Gecko/8793-04-08 16:49:19.059326 Firefox/3.6.14"
+API_TIMEOUT=4828
+sshd[8330]: Session closed for aleach from 10.141.194.119 port 56884 ssh2
+131.199.234.88 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 500 16472 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.16.6 (KHTML, like Gecko) Version/4.0.2 Safari/532.16.6"
+63.210.114.246 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 400 405586 "-" "Opera/8.36.(X11; Linux x86_64; be-BY) Presto/2.9.167 Version/12.00"
+48.236.211.171 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 400 429448 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_7 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/12.5t5109.0 Mobile/45Q762 Safari/531.2"
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"cache miss","user":"tbuchanan","trace":"l61iv8iQI6nE"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"user session created","user":"adam49","trace":"YwipRAqEBf1s"}
+sshd[1082]: Failed password for jrichardson from 192.168.158.77 port 49172 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"request completed","user":"hdavis","trace":"7WLv6dqelIYm"}
+sshd[7550]: Failed password for coxalicia from 10.150.131.67 port 19621 ssh2
+DB_HOST=true
+sshd[5888]: Failed password for craigjohn from 172.16.85.169 port 60157 ssh2
+sshd[9644]: Failed password for michael67 from 192.168.234.40 port 21160 ssh2
+64.209.69.91 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 204 333841 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/21.0.878.0 Safari/531.0"
+sshd[8795]: Failed password for ntodd from 172.29.35.203 port 13134 ssh2
+sshd[8354]: Failed password for ogrant from 10.20.247.181 port 31081 ssh2
+DB_PORT=10385

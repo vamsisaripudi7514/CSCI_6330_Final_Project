@@ -1,0 +1,31 @@
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"token refreshed","user":"lopezcody","trace":"FGcztnV2Fc8n"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"danielsbrandi","trace":"wXhxit4ik9iX"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"cache miss","user":"vherrera","trace":"6UsafxrhstBz"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"user session created","user":"xcurtis","trace":"rb9ijiTvZbxm"}
+sshd[7215]: Session opened for vsmith from 172.22.154.38 port 58050 ssh2
+24.63.205.184 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 400 445829 "-" "Opera/8.41.(Windows NT 10.0; rw-RW) Presto/2.9.190 Version/10.00"
+137.38.0.159 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 201 5487 "-" "Opera/9.61.(Windows CE; csb-PL) Presto/2.9.170 Version/10.00"
+103.38.50.227 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 302 197919 "-" "Mozilla/5.0 (Android 4.3.1; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0"
+LOG_LEVEL=2615
+202.109.218.57 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 403 365986 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.1)"
+44.37.183.28 - - [07/Sep/2025:18:24:49 +0000] "POST /download/report.csv HTTP/1.1" 502 218049 "-" "Mozilla/5.0 (Windows NT 5.1; cv-RU; rv:1.9.1.20) Gecko/6807-12-15 15:31:50.125214 Firefox/3.6.4"
+123.207.46.172 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 404 427812 "-" "Opera/8.37.(Windows NT 5.01; byn-ER) Presto/2.9.185 Version/10.00"
+REDIS_URL=4324
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"briggslauren","trace":"TJ8QjI8o5gdE"}
+46.20.116.153 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/v1/users HTTP/1.1" 404 219873 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"request completed","user":"gregory92","trace":"CUqMan9M1sk1"}
+FEATURE_X_ENABLED=DEBUG
+REDIS_URL=4995
+sshd[4298]: Session closed for andrejacobs from 192.168.232.237 port 47042 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"db slow query","user":"oschroeder","trace":"DwUPBxxS1MaE"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5UkhBOXlmVmJDIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.gL_UPb3n3gBM2ah9_A-swlkSfT6fiY47SY2TVCH37p0'
+sshd[2056]: Session closed for dominguezamy from 10.31.19.91 port 22569 ssh2
+REDIS_URL=redis://localhost:6379
+sshd[5834]: Session opened for elizabeth60 from 10.113.235.252 port 47135 ssh2
+89.140.9.18 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 403 248252 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"request completed","user":"vhill","trace":"JhHfWvs4jEMs"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"scott49","trace":"B4iDlZFNKudV"}
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"search","msg":"retrying upstream","user":"taramiller","trace":"h9dnneOtXQcu"}
+sshd[2561]: Failed password for tcain from 192.168.64.107 port 54701 ssh2
+DB_HOST=DEBUG
+135.131.222.34 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 201 456224 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.0)"

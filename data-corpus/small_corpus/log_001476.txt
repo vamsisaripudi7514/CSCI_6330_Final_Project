@@ -1,0 +1,32 @@
+sshd[9236]: Session opened for vcarpenter from 172.16.155.118 port 57415 ssh2
+142.110.15.128 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 204 441237 "-" "Opera/9.23.(Windows NT 6.0; raj-IN) Presto/2.9.167 Version/11.00"
+sshd[7223]: Session opened for hansonlaura from 192.168.111.144 port 21888 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"orusso","trace":"ilJu68LkdHLG"}
+DB_HOST=55701
+API_TIMEOUT=INFO
+101.8.95.238 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 200 469013 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/16.0b4005.0 Mobile/53H051 Safari/531.1"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"gordonshannon","trace":"qfqvWocIxphi"} password=lD8&bLH+
+sshd[1678]: Session closed for mahoneyphillip from 192.168.254.232 port 52586 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwZElNczAyQXkyIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.dHxLYEpnZZxRb9Tjw96Ozzolkg1sJyxkaMd3vv5VRjk'
+API_TIMEOUT=4016
+101.231.63.160 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 302 234043 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/63.0.824.0 Safari/534.2"
+149.30.121.45 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 404 173521 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/20.0.821.0 Safari/532.1"
+187.196.15.129 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 200 35673 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6855-02-15 07:59:48.637115 Firefox/3.6.8"
+sshd[1888]: Session closed for luke99 from 192.168.11.8 port 33961 ssh2
+52.176.195.110 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 201 226480 "-" "Opera/9.25.(Windows NT 5.0; niu-NZ) Presto/2.9.160 Version/11.00"
+2.199.219.110 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 404 511880 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.1)"
+sshd[1344]: Session opened for hallrebecca from 172.21.84.87 port 17709 ssh2
+API_TIMEOUT=3988
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"thorntonjillian","trace":"tjtmoY1Or6Sj"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFY0VhcHVaY0FOIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.dvApbSBR91QDE2JJNceDUUPZWHrMvZTH6cnVbfe1Wh8'
+sshd[5481]: Failed password for sarahmckee from 192.168.104.60 port 56924 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"kennedyjoseph","trace":"Qv81XcR3kvyN"} password=zF2~O8=@
+sshd[1131]: Session closed for william50 from 172.29.159.80 port 23221 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"token refreshed","user":"johnbridges","trace":"MDWjbByD4xUW"}
+sshd[7193]: Accepted password for plewis from 172.20.160.97 port 47288 ssh2
+sshd[8481]: Session opened for benjaminmoore from 172.16.16.176 port 28713 ssh2 API_KEY=AIza_hMnYkzQwfIrcq9sOipSrcd5IHvpjElad7dKTQ
+sshd[5427]: Session closed for oholmes from 10.22.125.40 port 49703 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"db slow query","user":"scottbolton","trace":"7bSKz5ES8hXh"}
+65.59.94.182 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 201 487849 "-" "Opera/8.59.(X11; Linux x86_64; hu-HU) Presto/2.9.180 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"token refreshed","user":"kirbyadam","trace":"jXFhB3Ejb6Gn"}
+sshd[2604]: Accepted password for smiththomas from 10.130.97.119 port 11417 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRT1RQbFVuWXZ0IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.fsxppvsUul5h_eKN_G-_oTwiyjdb5LHgPR8QACGqc2U'
+REDIS_URL=36431 password=uF8`AwQMk_W.
+221.191.28.75 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 302 43194 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/33.0.822.0 Safari/535.0" API_KEY=AIza2fFEz_s-VmjvDYdztl2ucRKjlOKw_rHOr2d8tw

@@ -1,0 +1,27 @@
+sshd[9349]: Failed password for proberts from 10.51.57.170 port 61860 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"nwhite","trace":"ER1MLF2JNZwC"}
+200.183.85.203 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 302 395699 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.19.7 (KHTML, like Gecko) Version/4.0.5 Safari/532.19.7"
+sshd[1840]: Accepted password for pcunningham from 10.196.151.157 port 52514 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"request completed","user":"aclark","trace":"tgCdU0PuqnLr"}
+sshd[3903]: Session closed for pamelavincent from 192.168.163.222 port 27746 ssh2
+DB_PORT=35192
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"request completed","user":"careywhitney","trace":"Y0WjbsAdD4zQ"}
+sshd[6546]: Session closed for mark68 from 10.9.193.216 port 59823 ssh2
+81.131.38.41 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 302 345436 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"token refreshed","user":"jsmith","trace":"yO6fO2V8GSlq"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"request completed","user":"davidmontoya","trace":"hVwzPpQfn3XO"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"token refreshed","user":"xtrujillo","trace":"p58FVC0lyDjk"}
+83.39.61.220 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 201 338623 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_3) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/61.0.844.0 Safari/536.0"
+sshd[9464]: Session closed for sandramoore from 10.246.57.45 port 50432 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"user session created","user":"ortegapatricia","trace":"uzW8vTRJ5dcX"}
+138.87.223.236 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 302 302708 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5; rv:1.9.3.20) Gecko/6401-04-23 15:35:52.854950 Firefox/3.6.5"
+sshd[2215]: Failed password for walkerchristina from 10.15.193.39 port 21951 ssh2
+API_TIMEOUT=WARN
+sshd[7218]: Session closed for bauerjennifer from 172.16.228.170 port 21715 ssh2
+sshd[8448]: Session opened for mriddle from 10.174.252.27 port 35458 ssh2
+sshd[2535]: Session opened for karen63 from 10.59.61.250 port 22638 ssh2
+LOG_LEVEL=2318
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"request completed","user":"dylan14","trace":"Rbjd8yBwCwYo"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"cache miss","user":"ngonzales","trace":"PZcalyp2WOPK"}
+218.134.3.180 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 502 347950 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.0)"

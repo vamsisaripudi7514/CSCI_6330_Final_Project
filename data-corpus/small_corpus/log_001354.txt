@@ -1,0 +1,26 @@
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"token refreshed","user":"gregory50","trace":"mw8t0wDwGseI"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"cache miss","user":"marylee","trace":"KGCZG1jOtyHS"}
+210.74.151.65 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 500 114274 "-" "Mozilla/5.0 (Linux; Android 5.0.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/26.0.880.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"jaredbarron","trace":"PCx2dJ569MbN"}
+sshd[9613]: Session opened for brockjohn from 172.22.220.163 port 19949 ssh2
+205.120.205.29 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 400 192970 "-" "Mozilla/5.0 (Linux; Android 5.0.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/19.0.863.0 Safari/533.1"
+21.10.13.65 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 502 239679 "-" "Opera/9.87.(X11; Linux i686; bs-BA) Presto/2.9.179 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"user session created","user":"leangela","trace":"x9DZnj50IxOv"}
+sshd[5139]: Failed password for rsavage from 192.168.89.64 port 42471 ssh2
+sshd[9082]: Accepted password for roybranch from 172.18.128.207 port 18412 ssh2
+DB_PORT=27433
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"user session created","user":"barrettrobert","trace":"nvgXKxPc4GH7"}
+34.189.186.193 - - [07/Sep/2025:18:24:50 +0000] "DELETE /assets/app.js HTTP/1.1" 500 417822 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.26.7 (KHTML, like Gecko) Version/4.1 Safari/533.26.7"
+sshd[2660]: Session opened for carrie88 from 192.168.49.51 port 25924 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"xkelley","trace":"7hykRBAESO5F"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"vwallace","trace":"fHY9LuAlhAc8"}
+sshd[6803]: Session opened for christopher16 from 172.20.179.1 port 36821 ssh2
+DB_PORT=redis://localhost:6379 API_KEY=AIzaN_F9LVLH0I9Dn2JCqjeqROvM0DLW1ARQ6k7_IQ
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"request completed","user":"noah49","trace":"sXK7X3x1njVQ"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"stephanie18","trace":"JVMFDjR73d94"} API_KEY=AIzaagPgkYyshK7fAmwnIpuWgqgIDFKXhAU8wMSLOw
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"db slow query","user":"zavery","trace":"81FmLYXuqyh1"}
+DB_HOST=redis://localhost:6379
+78.155.208.132 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 204 358817 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.23.7 (KHTML, like Gecko) Version/4.0.1 Safari/534.23.7"
+API_TIMEOUT=laptop-36.lopez-weaver.com
+API_TIMEOUT=DEBUG

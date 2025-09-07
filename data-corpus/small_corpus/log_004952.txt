@@ -1,0 +1,39 @@
+sshd[9771]: Session opened for sarahstewart from 172.19.41.38 port 16143 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"search","msg":"retrying upstream","user":"mmills","trace":"1mTgY76XDVw6"}
+sshd[1082]: Session closed for ohouston from 192.168.72.164 port 17736 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"auth","msg":"user session created","user":"matthew88","trace":"i0ioRh9ru6cN"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"kellydarrell","trace":"vP3j6IQ16FVT"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"larry53","trace":"OaMn7ptpUYYU"}
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"billing","msg":"user session created","user":"vangcrystal","trace":"BdxbBKGbuOTW"}
+FEATURE_X_ENABLED=true
+sshd[3385]: Accepted password for derrickfry from 172.28.187.12 port 22287 ssh2
+DB_PORT=redis://localhost:6379
+DB_PORT=lt-36.parsons-peterson.com
+sshd[4153]: Accepted password for xmartinez from 172.24.117.36 port 29528 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"jskinner","trace":"SPqVQ3LdZMUl"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"robertcain","trace":"CjV3jcCyPSmF"}
+sshd[4492]: Accepted password for benjamincampbell from 172.26.204.29 port 40196 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"auth","msg":"cache miss","user":"bholmes","trace":"OLbq2pCEHluq"}
+161.8.52.78 - - [07/Sep/2025:18:24:57 +0000] "PUT /assets/app.js HTTP/1.1" 302 196609 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.15.5 (KHTML, like Gecko) Version/5.1 Safari/533.15.5" password=oV0(j6f{AX=b
+153.99.59.243 - - [07/Sep/2025:18:24:57 +0000] "PUT /download/report.csv HTTP/1.1" 404 132036 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/9516-06-13 12:02:59.137878 Firefox/3.8"
+REDIS_URL=web-17.martinez-thompson.com
+sshd[6517]: Session closed for zmyers from 10.157.195.41 port 57173 ssh2
+193.199.255.204 - - [07/Sep/2025:18:24:57 +0000] "POST /api/login HTTP/1.1" 401 394422 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/4016-10-06 00:59:00.127373 Firefox/3.6.16"
+sshd[3161]: Session closed for brian35 from 10.18.40.234 port 56851 ssh2
+REDIS_URL=false
+sshd[3207]: Session closed for terrance22 from 192.168.239.16 port 64869 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"auth","msg":"token refreshed","user":"smiller","trace":"dOkiZY0x1Fsq"}
+202.196.160.47 - - [07/Sep/2025:18:24:57 +0000] "POST /api/login HTTP/1.1" 404 308756 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/5.0)"
+LOG_LEVEL=43244
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"tamihammond","trace":"7LUU1HJ4ZwqC"}
+44.122.210.33 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 204 22939 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/62.0.840.0 Mobile/48C863 Safari/532.1"
+sshd[3262]: Failed password for sflores from 10.122.253.52 port 36812 ssh2
+sshd[1535]: Failed password for uduran from 192.168.121.150 port 19598 ssh2
+101.75.248.85 - - [07/Sep/2025:18:24:57 +0000] "DELETE /api/login HTTP/1.1" 204 382061 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/36.0.889.0 Safari/534.0"
+sshd[2934]: Session closed for davidbowman from 192.168.9.165 port 23172 ssh2
+sshd[8519]: Accepted password for gflowers from 10.66.252.202 port 37388 ssh2
+46.47.18.139 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 204 310314 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/58.0.898.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"orders","msg":"user session created","user":"castillojames","trace":"pqx6q04GoUvO"} password=yK6%<>*lxEPIN8w
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"notify","msg":"request completed","user":"dsandoval","trace":"PISHCot0jtYu"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"pfernandez","trace":"fPTGTrmdZ6rn"}
+REDIS_URL=1735

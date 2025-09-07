@@ -1,0 +1,30 @@
+DB_HOST=WARN
+DB_HOST=srv-40.hunter-wright.net
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"user session created","user":"amanda50","trace":"P6AES9Ywq5eS"}
+DB_PORT=62126
+LOG_LEVEL=1654
+100.245.248.165 - - [07/Sep/2025:18:24:53 +0000] "GET /assets/app.js HTTP/1.1" 403 103591 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/3397-06-19 17:28:24.704147 Firefox/3.8"
+LOG_LEVEL=web-89.ruiz.com
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"rli","trace":"8Z2a5fYmSBTE"}
+LOG_LEVEL=2820
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"db slow query","user":"douglasrodriguez","trace":"WpfqgAFzZPF4"}
+25.71.112.90 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 400 220007 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_9 rv:2.0; nan-TW) AppleWebKit/534.32.5 (KHTML, like Gecko) Version/5.0.3 Safari/534.32.5"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"db slow query","user":"kristen60","trace":"cpDMlP8yfUB3"}
+DB_HOST=desktop-65.spears.com
+sshd[3876]: Failed password for opadilla from 10.94.29.217 port 58178 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"request completed","user":"christinaward","trace":"ethNrr6QX33R"}
+FEATURE_X_ENABLED=true
+12.213.140.41 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 201 247246 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/13.3z1208.0 Mobile/83K607 Safari/533.1"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"db slow query","user":"natalieadams","trace":"OOdByAZNEB0c"}
+145.178.67.49 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 502 79492 "-" "Opera/8.98.(X11; Linux x86_64; hak-TW) Presto/2.9.186 Version/12.00"
+DB_HOST=redis://localhost:6379
+sshd[7949]: Accepted password for mcox from 172.16.107.8 port 13981 ssh2
+72.194.180.195 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 403 351593 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/16.0.899.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"request completed","user":"isaaclane","trace":"wGpCQFEi4Yhv"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"db slow query","user":"jsolis","trace":"AzRN2j3KVMxz"}
+sshd[8426]: Accepted password for smcdonald from 192.168.203.212 port 57980 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"token refreshed","user":"sullivanzachary","trace":"tHSj3Ow1mdeh"}
+sshd[8215]: Failed password for griffinthomas from 192.168.36.233 port 30661 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"request completed","user":"qmedina","trace":"sLO8576axdou"}
+REDIS_URL=WARN
+REDIS_URL=18863

@@ -1,0 +1,36 @@
+API_TIMEOUT=4393
+REDIS_URL=1759
+215.243.199.182 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 500 205387 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.1)"
+74.56.25.107 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 200 298815 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_4 rv:6.0; fa-IR) AppleWebKit/532.7.4 (KHTML, like Gecko) Version/5.0 Safari/532.7.4"
+DB_PORT=1406
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"vbrown","trace":"tPoVPVlqp0Gk"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrSkVnaHRkeDdvIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.CmashNmjKS8jxmTS8OeQ-AdYX1Y87BIU6VSXznqbR5A'
+LOG_LEVEL=DEBUG
+185.207.100.135 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 204 17911 "-" "Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/16.9t8994.0 Mobile/85W951 Safari/532.2"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"brittany13","trace":"635oLHTdrgcA"}
+sshd[1793]: Failed password for xbowen from 10.69.32.181 port 35867 ssh2
+DB_HOST=redis://localhost:6379
+103.127.219.84 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 204 449538 "-" "Mozilla/5.0 (Windows NT 6.0; he-IL; rv:1.9.2.20) Gecko/4973-06-09 05:02:47.022125 Firefox/3.8"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"cache miss","user":"amanda69","trace":"85F5NjZzbjXD"}
+sshd[8468]: Session closed for smithkevin from 172.16.166.98 port 26088 ssh2
+DB_PORT=email-67.nguyen-crawford.info
+REDIS_URL=db-11.bradford.com
+sshd[8515]: Session closed for alexandermays from 192.168.10.45 port 56913 ssh2
+74.215.92.58 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 200 451049 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ko-KR) AppleWebKit/535.3.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.3.7"
+19.254.230.121 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 401 510264 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_8; rv:1.9.5.20) Gecko/6991-04-24 17:53:59.569458 Firefox/7.0" API_KEY=AIzaAvuV2wUF0qFl3ldPZIx0k5VdFY6ZAqlI_4ALoQ
+API_TIMEOUT=redis://localhost:6379
+sshd[9984]: Session opened for wolsen from 10.5.122.51 port 61562 ssh2
+72.113.116.190 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 200 71392 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"hsparks","trace":"wqUH6KekkVIN"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"token refreshed","user":"lbeck","trace":"Fm4784AcBi4h"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"request completed","user":"jimmybecker","trace":"5fU4nFKtGqur"}
+DB_PORT=46970
+API_TIMEOUT=45896
+176.139.76.224 - - [07/Sep/2025:18:24:51 +0000] "DELETE /health HTTP/1.1" 403 95843 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)"
+sshd[2735]: Session opened for jasonlong from 192.168.95.109 port 59105 ssh2
+FEATURE_X_ENABLED=srv-18.johnson-anderson.com
+169.174.37.237 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 302 94093 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/25.0.822.0 Safari/532.0"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"ereynolds","trace":"3wJHFnDBLhKS"}
+31.102.49.200 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 404 38460 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/40.0.831.0 Mobile/00D709 Safari/536.1"
+sshd[2465]: Session closed for sullivanalexander from 192.168.78.230 port 33147 ssh2
+sshd[2217]: Session opened for jasonhopkins from 172.16.212.9 port 12126 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"user session created","user":"hayesmaria","trace":"mmRkXR5rOhfL"}

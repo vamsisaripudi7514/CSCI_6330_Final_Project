@@ -1,0 +1,43 @@
+REDIS_URL=3971
+sshd[9276]: Session closed for rhodesrebecca from 10.137.145.243 port 31887 ssh2
+124.125.84.113 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 302 314579 "-" "Opera/8.19.(X11; Linux x86_64; nb-NO) Presto/2.9.165 Version/12.00"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"user session created","user":"reedjohn","trace":"61K3Lbdd0XDt"}
+110.110.85.96 - - [07/Sep/2025:18:24:51 +0000] "POST /api/login HTTP/1.1" 302 270135 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8 rv:4.0; et-EE) AppleWebKit/534.35.4 (KHTML, like Gecko) Version/5.1 Safari/534.35.4"
+sshd[6879]: Session opened for dylan95 from 192.168.9.69 port 11080 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"stephaniemorgan","trace":"FsusMkUEXlZo"}
+sshd[5920]: Session opened for matthewtodd from 172.31.106.233 port 57979 ssh2
+sshd[7713]: Accepted password for gonzalezmichael from 172.18.208.65 port 55600 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"reginald56","trace":"io6Y51ee4RBv"}
+147.91.220.73 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 401 474761 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/24.0.838.0 Safari/535.2"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"rjensen","trace":"d40AoOb4ihXh"}
+199.49.221.111 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 200 28055 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_7 rv:4.0; dv-MV) AppleWebKit/532.22.2 (KHTML, like Gecko) Version/5.0 Safari/532.22.2"
+sshd[9280]: Session opened for ewilson from 172.20.159.50 port 40395 ssh2
+DB_HOST=2899
+LOG_LEVEL=false Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1dEZxM2I3V1lUIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Q4yBhhTCqPdVLOx4aP_A4nCY080ZHOe8O9GiSteaD7Y'
+143.167.141.154 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 201 7251 "-" "Opera/8.58.(X11; Linux x86_64; csb-PL) Presto/2.9.172 Version/11.00"
+FEATURE_X_ENABLED=1700
+sshd[6888]: Session closed for chasekramer from 10.118.136.72 port 19492 ssh2
+REDIS_URL=WARN
+sshd[8143]: Session opened for lowedawn from 10.238.47.40 port 46212 ssh2
+25.43.200.252 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 200 388024 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.24.3 (KHTML, like Gecko) Version/5.0.4 Safari/535.24.3"
+DB_HOST=redis://localhost:6379
+sshd[1394]: Session closed for whitakerbenjamin from 172.20.171.168 port 10060 ssh2
+148.248.206.92 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 204 326426 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/10.0g9399.0 Mobile/85B597 Safari/533.1"
+DB_HOST=db-27.whitney-park.com
+DB_PORT=2773
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"token refreshed","user":"simsjoseph","trace":"WCo3fQhj42ps"}
+sshd[8920]: Session closed for nsimon from 172.31.108.15 port 30945 ssh2
+DB_PORT=4599
+163.28.130.174 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 500 409939 "-" "Opera/9.85.(Windows NT 5.0; it-CH) Presto/2.9.173 Version/12.00"
+sshd[5964]: Session opened for sean41 from 172.19.227.11 port 39012 ssh2
+DB_PORT=srv-42.martinez.com
+LOG_LEVEL=true
+sshd[5535]: Session closed for yschultz from 192.168.99.36 port 20895 ssh2
+API_TIMEOUT=42491
+sshd[3736]: Failed password for laurenmyers from 192.168.4.79 port 28013 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"request completed","user":"rfisher","trace":"sEQmJms1sgR2"}
+DB_PORT=false
+sshd[3421]: Session opened for lanceross from 172.31.130.255 port 43906 ssh2
+107.226.156.165 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 500 85205 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/51.0.826.0 Safari/532.0"
+sshd[2241]: Accepted password for alexander36 from 172.26.189.79 port 56413 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtUFZ5WjE4Z1hkIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.LZWPQo6qyA9a61EzDnjY-Vf5uv5oJEXFKZ1to9BGEBs'
+sshd[4578]: Session closed for jacqueline27 from 172.17.249.76 port 23360 ssh2

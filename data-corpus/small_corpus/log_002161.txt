@@ -1,0 +1,35 @@
+DB_HOST=db-76.orr.com
+sshd[9203]: Accepted password for moniquegarcia from 192.168.51.35 port 10580 ssh2
+sshd[7310]: Session closed for cortezkristin from 192.168.146.183 port 13264 ssh2
+155.196.0.160 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 400 334006 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/47.0.876.0 Safari/531.2"
+64.116.94.199 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 502 488432 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.0)"
+sshd[3930]: Session closed for tyler37 from 172.30.143.16 port 49593 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"request completed","user":"katieortiz","trace":"IcNY3cvC6K9c"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"chickman","trace":"yZJyhJnXsYJW"}
+141.157.149.180 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 302 189913 "-" "Mozilla/5.0 (Linux; Android 2.3.3) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/47.0.870.0 Safari/536.0"
+22.209.121.228 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 502 89520 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/531.18.2 (KHTML, like Gecko) Version/4.0 Safari/531.18.2"
+sshd[5091]: Session closed for xbest from 10.78.219.247 port 25874 ssh2
+DB_PORT=redis://localhost:6379
+sshd[3209]: Session opened for cooperelizabeth from 10.55.52.139 port 47977 ssh2 API_KEY=AIzajWgnJT-9Zw7Jh-l_lgXDkLk8kjrEg_lm7Nj4_w
+API_TIMEOUT=4963
+125.93.94.147 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 404 339893 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.1)"
+DB_PORT=869
+118.15.195.220 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 404 339833 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.7.5 (KHTML, like Gecko) Version/4.0 Safari/532.7.5"
+209.118.180.11 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 403 273881 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/36.0.877.0 Mobile/43G436 Safari/533.2"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"tiffany01","trace":"fmQvpcuS8BPk"}
+sshd[3749]: Session opened for parcher from 192.168.92.142 port 40952 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"db slow query","user":"rebeccaperkins","trace":"YdXaRZRw3H5Q"}
+sshd[8481]: Session opened for pleonard from 192.168.173.76 port 45173 ssh2
+90.99.254.185 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 500 201236 "-" "Mozilla/5.0 (iPad; CPU iPad OS 13_5_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/62.0.805.0 Mobile/45G259 Safari/535.1"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"retrying upstream","user":"christy02","trace":"MPJGXkkq65EK"}
+126.175.0.230 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 200 24415 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/3.0)"
+39.126.242.4 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 302 148852 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/28.0.838.0 Safari/535.2" API_KEY=AIzabDGvS4ujLyfewI-gEZCKtrdWskc9mzwrOPOcWg
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"cache miss","user":"danielreed","trace":"eQUydI1glYTz"}
+59.174.242.30 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 204 210964 "-" "Opera/9.86.(X11; Linux i686; uz-UZ) Presto/2.9.163 Version/11.00"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"cache miss","user":"toddhuff","trace":"YILx7pt4oYGJ"}
+139.151.223.74 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 500 16969 "-" "Opera/8.88.(Windows 98; km-KH) Presto/2.9.170 Version/11.00"
+148.95.146.229 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 500 328530 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/56.0.895.0 Mobile/30U854 Safari/533.1"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"cache miss","user":"gailgarrett","trace":"7onzUqJlWbt4"}
+DB_HOST=4540
+126.144.85.164 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 302 262013 "-" "Opera/8.98.(Windows NT 5.2; pa-IN) Presto/2.9.160 Version/11.00"

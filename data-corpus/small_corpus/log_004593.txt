@@ -1,0 +1,38 @@
+DB_HOST=584
+204.14.89.156 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 302 432288 "-" "Mozilla/5.0 (Android 4.4.1; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzT0xTbVUxNG1KIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.q_pGfC8OVkrir8ull73KXRfqsPdb3fe4E0nKyaejC58'
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"user session created","user":"sgregory","trace":"oysTFe6DTv3u"}
+91.229.122.28 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 400 406915 "-" "Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/11.0b8091.0 Mobile/15L782 Safari/534.0"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"pdecker","trace":"ys7uAim3pIh5"}
+sshd[3758]: Session closed for spencer83 from 10.11.93.109 port 45394 ssh2
+sshd[6320]: Session closed for thomasvillarreal from 172.25.107.132 port 21488 ssh2
+163.146.193.235 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 200 483184 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"token refreshed","user":"yolandawilliams","trace":"x1aBx4FJxs6V"}
+REDIS_URL=48643
+DB_PORT=redis://localhost:6379
+LOG_LEVEL=false Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJVNXZKU1J2VXBtIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.cQWohU5htBvuUMGauIy0304YlnVrb8KCD1fQTa5WbqQ'
+61.180.155.218 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 502 15739 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_3; rv:1.9.6.20) Gecko/8462-06-24 18:56:08.894073 Firefox/15.0"
+sshd[5519]: Session closed for theodore79 from 172.20.100.14 port 16149 ssh2
+sshd[2589]: Session opened for graveslaura from 172.21.170.226 port 37857 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"cache miss","user":"tvillanueva","trace":"if9eY1io8YMb"}
+69.58.8.135 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 200 96900 "-" "Opera/8.80.(Windows NT 6.1; apn-IN) Presto/2.9.163 Version/12.00" API_KEY=AIzaAIPXZ6iO00g2f-2tujv8fQJcIC_NE-Xr8Pes8g
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"request completed","user":"victoria08","trace":"xg3QGZmndckL"} password=eF8=w2=1
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"brandonmartinez","trace":"k7MUITcnWfjU"}
+LOG_LEVEL=desktop-67.parker.com
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"db slow query","user":"odiaz","trace":"UDZOxk278dzd"}
+FEATURE_X_ENABLED=51179
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"cache miss","user":"alejandraibarra","trace":"G1gnawC1Qbi2"}
+23.164.47.37 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 403 396597 "-" "Opera/8.36.(Windows NT 11.0; mt-MT) Presto/2.9.186 Version/12.00"
+43.106.176.147 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 400 292535 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_3) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/33.0.836.0 Safari/534.2"
+45.116.170.200 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 200 336872 "-" "Mozilla/5.0 (Linux; Android 4.2.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/54.0.858.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"cperry","trace":"gdEtZmjzudeq"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"reidjessica","trace":"lLrTa51d4viA"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"db slow query","user":"patricia92","trace":"KQ0MpYT6IKoG"}
+LOG_LEVEL=42034
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"natashamartinez","trace":"8g6Bgocbj93b"}
+FEATURE_X_ENABLED=554
+sshd[8071]: Accepted password for erin49 from 192.168.223.11 port 49992 ssh2
+sshd[1603]: Session opened for sterry from 10.69.180.32 port 46545 ssh2
+FEATURE_X_ENABLED=56118
+134.93.51.197 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 401 57233 "-" "Opera/9.56.(X11; Linux i686; ms-MY) Presto/2.9.179 Version/10.00"
+API_TIMEOUT=INFO

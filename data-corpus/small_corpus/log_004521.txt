@@ -1,0 +1,35 @@
+8.199.193.243 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 204 338421 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/7006-10-03 05:27:37.471405 Firefox/9.0"
+187.121.138.246 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 404 509444 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; az-IN) AppleWebKit/535.13.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.13.2"
+43.40.101.223 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 404 145639 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_8 rv:3.0; the-NP) AppleWebKit/534.16.5 (KHTML, like Gecko) Version/4.0 Safari/534.16.5"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"user session created","user":"brent40","trace":"g8BxaNdOTlmb"}
+sshd[2431]: Session opened for qwright from 172.27.102.18 port 53654 ssh2 password=cJ4?8rJ8I?E6
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"james69","trace":"6ubfNCFoaz9B"}
+sshd[2963]: Session closed for marcuslane from 172.20.253.73 port 25639 ssh2
+73.91.172.26 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 200 274197 "-" "Opera/9.96.(X11; Linux i686; mhr-RU) Presto/2.9.171 Version/10.00"
+sshd[4236]: Failed password for caseyvincent from 10.32.216.128 port 18527 ssh2
+sshd[9547]: Session closed for joseph97 from 192.168.8.165 port 21466 ssh2
+51.6.211.210 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 404 183219 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/4883-08-30 13:11:41.759140 Firefox/3.6.14" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJQZTBIVFZDNXJXIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.8njKigUPNv8wH_fF-NzEVtnU0Gu1cb9tkV0x21LD3nA'
+DB_PORT=false
+LOG_LEVEL=DEBUG
+sshd[7415]: Session opened for lsmith from 10.238.246.181 port 15260 ssh2
+API_TIMEOUT=32259
+sshd[1389]: Session opened for jjuarez from 172.19.13.152 port 15024 ssh2
+LOG_LEVEL=42951
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"cindy63","trace":"MN6sYMzts6ML"}
+sshd[1638]: Failed password for debbiesmith from 192.168.166.106 port 34581 ssh2
+sshd[7105]: Accepted password for andrew14 from 10.98.216.182 port 19700 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"benjaminturner","trace":"JAZ7b2w0jngv"}
+31.117.209.113 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 400 193899 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_3 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/13.0.833.0 Mobile/96S471 Safari/531.1"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"user session created","user":"shelly15","trace":"5fhoJ7sAqrBu"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"db slow query","user":"ngay","trace":"waJG1zOwCG9H"}
+102.246.13.53 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 401 237888 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.0)"
+sshd[5126]: Failed password for baileytroy from 172.29.171.88 port 44010 ssh2 password=sO2\\7~"{
+sshd[7453]: Accepted password for btorres from 192.168.253.5 port 47979 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"danasharp","trace":"472ApjoT59cH"} API_KEY=AIzae4nJHsXtmzUhaJQOUF3uKBVsgdDSeCIiB4rK_g
+sshd[2696]: Failed password for tcarter from 10.3.222.115 port 24548 ssh2
+sshd[9532]: Session closed for tonya90 from 10.110.44.32 port 20731 ssh2
+88.111.168.209 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 502 347477 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.0)"
+sshd[1518]: Failed password for mooretimothy from 192.168.113.43 port 47356 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"token refreshed","user":"huynhgwendolyn","trace":"hbANve96BKsS"}
+sshd[7915]: Failed password for palmerchristopher from 10.187.98.58 port 56825 ssh2
+API_TIMEOUT=DEBUG

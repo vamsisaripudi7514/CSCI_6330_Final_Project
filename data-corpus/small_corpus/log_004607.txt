@@ -1,0 +1,25 @@
+sshd[4086]: Failed password for henrylambert from 172.18.109.40 port 55835 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"richard31","trace":"WyjIXCKYVD3b"}
+LOG_LEVEL=1469
+sshd[9823]: Session closed for emily56 from 172.27.143.243 port 64740 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"user session created","user":"aaron45","trace":"YXlk0LRiIsUt"}
+sshd[8538]: Failed password for kramerregina from 10.48.60.61 port 13124 ssh2
+23.151.160.8 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 204 126565 "-" "Opera/8.41.(Windows 95; sd-PK) Presto/2.9.182 Version/11.00"
+194.37.254.203 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 400 498893 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)"
+sshd[1710]: Failed password for mooreapril from 192.168.153.10 port 31562 ssh2
+149.253.13.234 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 502 8829 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/531.36.3 (KHTML, like Gecko) Version/4.0.3 Safari/531.36.3"
+sshd[1644]: Accepted password for smithcindy from 10.199.41.33 port 37858 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4dDBqSXZBdlhUIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.-89MERLkZbwH5hdNJpGUmZ1rqnbwdDVImDkdiWu6F4Q'
+sshd[7707]: Accepted password for samuel84 from 192.168.60.186 port 12105 ssh2
+sshd[5072]: Session closed for julia27 from 10.23.29.211 port 12138 ssh2
+REDIS_URL=4435
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"cache miss","user":"crystalmitchell","trace":"88cX5iDs6WKt"}
+sshd[9383]: Failed password for ianderson from 192.168.43.108 port 44871 ssh2
+LOG_LEVEL=36993
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"cache miss","user":"kurtjohnson","trace":"geH648yWqGwJ"}
+REDIS_URL=db-06.mendoza.net
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"user session created","user":"alicia35","trace":"kJiWn77dCMLB"}
+sshd[6265]: Accepted password for thomashill from 172.29.232.220 port 50474 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"token refreshed","user":"griffitherin","trace":"dNE9fw4x0vVJ"}
+LOG_LEVEL=2818
+DB_HOST=DEBUG
+123.101.50.130 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 302 459350 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_7 rv:6.0; zh-TW) AppleWebKit/533.39.5 (KHTML, like Gecko) Version/4.1 Safari/533.39.5"

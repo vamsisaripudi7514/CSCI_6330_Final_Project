@@ -1,0 +1,42 @@
+sshd[1235]: Session opened for mary64 from 172.24.31.28 port 36390 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"rachel76","trace":"IMYE4oAAmlZC"}
+8.10.239.34 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 201 90218 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/5.1)"
+14.154.27.71 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 502 128938 "-" "Opera/9.83.(Windows NT 10.0; km-KH) Presto/2.9.168 Version/10.00"
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"user session created","user":"mcclurejessica","trace":"3fD1toD2fPXU"}
+50.50.225.137 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 201 34062 "-" "Opera/8.21.(Windows NT 4.0; nds-DE) Presto/2.9.172 Version/10.00"
+DB_PORT=true
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"framirez","trace":"jARndeMhSmgl"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"muellershaun","trace":"h703SI3PgBeu"}
+202.83.74.209 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 201 233468 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_6) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/50.0.832.0 Safari/535.0"
+sshd[9581]: Session opened for fgonzalez from 10.247.80.37 port 33720 ssh2
+DB_PORT=redis://localhost:6379
+DB_HOST=false
+126.172.241.131 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 201 347901 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_9 rv:4.0; ce-RU) AppleWebKit/535.20.3 (KHTML, like Gecko) Version/5.1 Safari/535.20.3"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"token refreshed","user":"hwheeler","trace":"lC1QoZqnuA9U"}
+138.188.160.255 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 400 428485 "-" "Opera/8.59.(Windows 98; bg-BG) Presto/2.9.166 Version/12.00" password=aW1&wx@Rt*Q}xNi1
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"zholmes","trace":"e18hUKIK4yJT"}
+189.176.141.159 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 404 341343 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_2; rv:1.9.6.20) Gecko/4964-03-13 23:28:08.823669 Firefox/12.0"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"davisamanda","trace":"YV6plzRtL5bZ"}
+FEATURE_X_ENABLED=true
+sshd[7600]: Session opened for jgibson from 10.110.127.5 port 26023 ssh2
+API_TIMEOUT=DEBUG password=wN5)UX5b%zBP88EL
+132.65.67.239 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 200 416765 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_3 rv:2.0; nds-DE) AppleWebKit/533.45.5 (KHTML, like Gecko) Version/5.0 Safari/533.45.5"
+153.4.202.59 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 302 247083 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/16.0.892.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"cache miss","user":"melissa22","trace":"m487J73uEPH2"}
+DB_PORT=3898
+216.145.155.61 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 404 409243 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_8) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/19.0.872.0 Safari/532.2"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"cache miss","user":"keithhernandez","trace":"LCUjn8k5wUK4"}
+80.95.72.187 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 201 514582 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/21.0.898.0 Safari/533.0"
+DB_HOST=desktop-34.pierce-peters.info
+DB_PORT=false
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"db slow query","user":"taylorjustin","trace":"uCBHCZdFD63I"}
+198.230.14.76 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 403 500903 "-" "Opera/8.35.(X11; Linux x86_64; hy-AM) Presto/2.9.175 Version/12.00"
+sshd[7277]: Session opened for jgonzales from 172.20.253.137 port 50332 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"user session created","user":"ikemp","trace":"akffoY96KlOL"}
+LOG_LEVEL=1865
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"db slow query","user":"reyesroy","trace":"tSlfEDDr6rec"}
+DB_HOST=INFO
+208.246.20.248 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 201 221980 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; am-ET) AppleWebKit/534.47.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6534.47.4"

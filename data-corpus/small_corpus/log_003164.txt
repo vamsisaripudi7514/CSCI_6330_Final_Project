@@ -1,0 +1,34 @@
+REDIS_URL=redis://localhost:6379
+sshd[8680]: Session closed for xwallace from 10.115.188.70 port 12511 ssh2
+26.62.143.99 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 400 290685 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.1)"
+REDIS_URL=61545
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"mporter","trace":"VLhbRNwUOCvm"}
+DB_PORT=desktop-32.welch.com
+183.55.168.142 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 204 247506 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/8925-02-28 22:05:45.606323 Firefox/3.6.16"
+122.216.32.129 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 204 485198 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8 rv:3.0; ky-KG) AppleWebKit/533.37.1 (KHTML, like Gecko) Version/4.0.2 Safari/533.37.1"
+sshd[6883]: Session opened for dedwards from 192.168.12.243 port 45921 ssh2
+144.155.115.163 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 204 324990 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_2 rv:3.0; sv-SE) AppleWebKit/534.2.6 (KHTML, like Gecko) Version/4.0.1 Safari/534.2.6"
+sshd[6195]: Accepted password for jonescarrie from 192.168.238.64 port 20658 ssh2
+sshd[3093]: Accepted password for victoria65 from 10.150.45.147 port 10941 ssh2
+API_TIMEOUT=1046
+sshd[2143]: Failed password for carllane from 172.21.161.67 port 45762 ssh2
+sshd[1377]: Accepted password for victormorris from 192.168.15.211 port 30913 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"cache miss","user":"pjones","trace":"giw8xAgoPCo4"}
+sshd[5463]: Session opened for angela58 from 172.24.46.57 port 28410 ssh2
+sshd[4184]: Session opened for amandamclaughlin from 172.16.129.224 port 47517 ssh2
+LOG_LEVEL=INFO
+77.104.88.193 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 200 451360 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_9; rv:1.9.2.20) Gecko/8102-11-30 10:48:49.787323 Firefox/10.0" password=vY6{5VBV8abm{_<|
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"stephenriley","trace":"UrJS5lhsmfQY"}
+sshd[5899]: Failed password for sbrown from 172.24.37.174 port 63136 ssh2
+sshd[6570]: Session closed for tanyacummings from 172.24.87.161 port 38507 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"richard28","trace":"X7v3miJRW5nX"}
+sshd[3271]: Session opened for yross from 10.12.47.77 port 28146 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"njarvis","trace":"smKKsZ01VBDD"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"user session created","user":"pberg","trace":"MMv7DTJ0l5vZ"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"megan89","trace":"9ZAswbB9ZUF2"}
+sshd[2730]: Session closed for ythomas from 172.28.224.255 port 28172 ssh2
+REDIS_URL=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"user session created","user":"allenheather","trace":"PG3ZWhgpmrxo"}
+DB_HOST=58859
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"cache miss","user":"christinegarrison","trace":"c1LeFqUu9wQQ"}

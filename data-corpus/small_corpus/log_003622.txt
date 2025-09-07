@@ -1,0 +1,46 @@
+REDIS_URL=desktop-37.gonzales.com
+sshd[9655]: Accepted password for mary71 from 192.168.203.244 port 52796 ssh2
+sshd[1158]: Failed password for robindeleon from 172.29.63.164 port 61924 ssh2
+64.249.162.137 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 400 212670 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; dz-BT) AppleWebKit/535.14.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6535.14.6"
+168.100.1.13 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 302 158248 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_8; rv:1.9.3.20) Gecko/8279-03-28 13:15:42.442291 Firefox/7.0"
+sshd[3061]: Session opened for brendaadams from 10.98.115.155 port 13560 ssh2
+186.30.2.26 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 404 191135 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/532.11.7 (KHTML, like Gecko) Version/4.0 Safari/532.11.7"
+sshd[1392]: Session closed for mariajames from 10.227.208.241 port 36016 ssh2
+68.120.75.243 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 500 95656 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ml-IN) AppleWebKit/532.11.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.11.7"
+DB_PORT=INFO
+sshd[9471]: Failed password for moralescurtis from 172.21.150.103 port 24204 ssh2
+152.92.42.201 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 401 502884 "-" "Opera/8.50.(X11; Linux i686; cv-RU) Presto/2.9.177 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"user session created","user":"reyesamanda","trace":"EfwIRHM0eyY0"}
+36.15.74.143 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 502 459971 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_4) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/18.0.841.0 Safari/534.2"
+9.223.254.241 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 502 523163 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_9 rv:5.0; aa-ER) AppleWebKit/531.19.4 (KHTML, like Gecko) Version/4.0.5 Safari/531.19.4" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0V3VWS2tmNWpsIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.JtvUgvSEk8aTUlpzcthx5hRwFQcpzn9qTZPf7Qwjo34'
+sshd[7705]: Accepted password for leecorey from 10.21.250.148 port 51234 ssh2
+26.104.46.251 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 284260 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/17.8q3021.0 Mobile/96X501 Safari/534.2"
+sshd[5500]: Session closed for hzuniga from 192.168.172.29 port 47217 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"user session created","user":"davidmeadows","trace":"4JRj3CpgVHyc"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"request completed","user":"jill08","trace":"Pa9FAILdoSUY"}
+72.236.55.73 - - [07/Sep/2025:18:24:54 +0000] "DELETE /index.html HTTP/1.1" 200 102627 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; szl-PL) AppleWebKit/532.37.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.37.1"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"request completed","user":"jessica41","trace":"YZyc4rJGiqu4"}
+sshd[9823]: Session closed for alisonbanks from 10.10.188.22 port 56528 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"user session created","user":"rholmes","trace":"tqG9AasTQw8i"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"db slow query","user":"laurie22","trace":"I5mQYpcqA6fP"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"arobinson","trace":"CEzlmEyT2Js3"}
+API_TIMEOUT=INFO
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"request completed","user":"dustinkelley","trace":"ofh5cIp2E5pS"}
+189.191.180.209 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 500 448162 "-" "Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/29.0.850.0 Safari/531.0"
+API_TIMEOUT=WARN
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"martinezanthony","trace":"4wdm6phngend"}
+20.37.173.86 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 401 286036 "-" "Opera/9.64.(X11; Linux x86_64; wae-CH) Presto/2.9.166 Version/11.00"
+REDIS_URL=DEBUG Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRclkyUFZ6emNtIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5MNvvFfJvJ9MTsD1wx5YcZdBMMR4sOIVGV930ey5vrk'
+sshd[8844]: Session opened for vaughansavannah from 192.168.155.28 port 43437 ssh2 API_KEY=AIzaG7d3HNd9riANkVdXiiKNpqYkBbT9QC4N1Itqcw
+sshd[2294]: Accepted password for nathan52 from 172.30.213.207 port 44552 ssh2
+124.16.209.182 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 404 337955 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_2 rv:4.0; pl-PL) AppleWebKit/534.27.5 (KHTML, like Gecko) Version/5.0.1 Safari/534.27.5"
+DB_HOST=email-32.nguyen.org
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"ipitts","trace":"TD3njQWz5Q0L"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"crodriguez","trace":"Ncf4xdsJfrng"}
+7.19.172.49 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 502 135257 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; xh-ZA) AppleWebKit/535.8.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.8.3"
+LOG_LEVEL=32816
+sshd[6679]: Accepted password for oarnold from 10.228.246.6 port 48074 ssh2
+sshd[1691]: Accepted password for thompsoncatherine from 192.168.71.249 port 42055 ssh2
+sshd[3381]: Failed password for kennethmurphy from 192.168.207.16 port 11377 ssh2
+100.23.249.145 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 502 49954 "-" "Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/15.9f3483.0 Mobile/41E865 Safari/531.1"

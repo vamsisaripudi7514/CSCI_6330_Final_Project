@@ -1,0 +1,30 @@
+sshd[5845]: Session opened for benjamin75 from 172.20.164.78 port 15553 ssh2
+185.49.243.240 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 204 7664 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"token refreshed","user":"theresa03","trace":"4LCgNv39kO0H"}
+sshd[1370]: Session opened for trujilloeric from 172.16.232.83 port 42702 ssh2
+LOG_LEVEL=WARN
+API_TIMEOUT=INFO
+84.35.46.108 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 502 382098 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/34.0.823.0 Safari/536.2"
+REDIS_URL=redis://localhost:6379
+sshd[8039]: Accepted password for xjohnson from 192.168.235.196 port 37226 ssh2
+sshd[4379]: Session closed for fosterjustin from 10.178.189.35 port 54753 ssh2
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"retrying upstream","user":"beverlyramos","trace":"Rt7YqnxEqriR"}
+sshd[2328]: Session opened for david45 from 172.18.233.154 port 28582 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+FEATURE_X_ENABLED=10543
+FEATURE_X_ENABLED=INFO
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"user session created","user":"jennifer32","trace":"Peir5DgBCyFK"}
+API_TIMEOUT=WARN
+200.250.236.163 - - [07/Sep/2025:18:24:51 +0000] "PUT /download/report.csv HTTP/1.1" 204 361484 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0)"
+sshd[6952]: Session opened for nhill from 172.19.221.207 port 41095 ssh2
+190.204.239.52 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 401 95432 "-" "Opera/9.66.(X11; Linux i686; ti-ET) Presto/2.9.181 Version/11.00"
+FEATURE_X_ENABLED=srv-73.neal.com
+REDIS_URL=7950
+sshd[8590]: Session closed for emmaphillips from 10.142.169.94 port 11602 ssh2
+DB_HOST=WARN
+DB_HOST=false
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"token refreshed","user":"swilliams","trace":"mWvXcM4r8nX4"}
+sshd[7750]: Session opened for badams from 192.168.169.181 port 10135 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"david96","trace":"ovWW5ZGGFRkO"}
+DB_PORT=23730

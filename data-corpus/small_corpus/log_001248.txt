@@ -1,0 +1,43 @@
+200.8.206.192 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 400 481682 "-" "Mozilla/5.0 (Android 2.2.2; Mobile; rv:66.0) Gecko/66.0 Firefox/66.0"
+sshd[9971]: Session opened for staceyayala from 192.168.139.130 port 61414 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxR2lzZDk3SlpzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.bU2iScG3MRxo1jQvApezDJWD4BjkyMBEm7J6BKFN01s'
+sshd[6679]: Session closed for njones from 192.168.149.57 port 18767 ssh2
+DB_PORT=true
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"clarknancy","trace":"gYMZJpcJ2QQQ"}
+sshd[4923]: Accepted password for wallaceemily from 172.31.203.66 port 21987 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"user session created","user":"christy82","trace":"CZCUgOE2Ah5c"}
+134.46.51.122 - - [07/Sep/2025:18:24:50 +0000] "PUT /download/report.csv HTTP/1.1" 502 484805 "-" "Mozilla/5.0 (Windows NT 6.0; lij-IT; rv:1.9.1.20) Gecko/5054-10-02 15:40:08.491669 Firefox/3.8"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"cache miss","user":"hayesandrew","trace":"Dnw1gRAnAyL1"}
+189.33.119.179 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 204 21567 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.24.1 (KHTML, like Gecko) Version/5.1 Safari/535.24.1"
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"request completed","user":"thomastyler","trace":"46kAGX8xIC6s"}
+FEATURE_X_ENABLED=false
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"shannon12","trace":"JvqUtWui5FLY"}
+91.61.255.227 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 204 418563 "-" "Opera/9.52.(X11; Linux i686; te-IN) Presto/2.9.183 Version/11.00"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"user session created","user":"choward","trace":"KGebA8jbsPp2"}
+sshd[3224]: Session opened for riddlebrooke from 192.168.167.15 port 58676 ssh2
+sshd[5625]: Session opened for vanessa21 from 10.160.71.198 port 60741 ssh2
+sshd[7402]: Session opened for kristinnorman from 192.168.157.212 port 54640 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"request completed","user":"henrysmith","trace":"w6EbZohwx16r"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"user session created","user":"joneselizabeth","trace":"wNt6yR9XaE91"}
+sshd[2044]: Session closed for hardingmelinda from 172.20.128.23 port 20864 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"user session created","user":"bayala","trace":"m5cwKasO7GTH"}
+sshd[3128]: Session closed for colleen36 from 10.198.166.1 port 58860 ssh2
+sshd[3458]: Accepted password for zwalker from 10.75.95.122 port 64032 ssh2
+sshd[6314]: Failed password for barbernicholas from 10.104.101.234 port 19755 ssh2
+sshd[7518]: Accepted password for shane47 from 10.66.209.62 port 37941 ssh2
+API_TIMEOUT=WARN
+DB_HOST=63713
+API_TIMEOUT=WARN
+DB_HOST=INFO
+sshd[4995]: Failed password for lbrown from 192.168.44.123 port 58517 ssh2
+LOG_LEVEL=redis://localhost:6379
+sshd[2168]: Session closed for fhines from 10.30.180.162 port 18272 ssh2 password=iG3+BMmVm
+LOG_LEVEL=srv-79.fields.net
+sshd[3269]: Session opened for pamelabarr from 172.21.185.151 port 50260 ssh2
+DB_PORT=27996
+112.105.245.81 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 401 419445 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3569-12-25 18:33:29.729355 Firefox/3.6.17"
+4.242.157.212 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 302 207713 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/19.0.801.0 Safari/533.2"
+sshd[2322]: Accepted password for uchapman from 172.31.146.175 port 29191 ssh2
+sshd[8069]: Failed password for april42 from 10.213.196.83 port 10970 ssh2
+105.185.47.172 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 401 59517 "-" "Opera/8.57.(Windows 95; gez-ER) Presto/2.9.173 Version/11.00"

@@ -1,0 +1,30 @@
+API_TIMEOUT=44420
+sshd[2927]: Accepted password for hoganstephanie from 192.168.194.141 port 27509 ssh2
+REDIS_URL=redis://localhost:6379
+56.219.223.177 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 403 382751 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.1)"
+sshd[9885]: Accepted password for veronicalawrence from 172.18.230.201 port 44459 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"request completed","user":"kristinmays","trace":"bUYrHvQ9OqH5"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"auth","msg":"user session created","user":"fellis","trace":"jLmxqmS1OGIe"}
+102.115.191.155 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 400 115939 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/535.38.5 (KHTML, like Gecko) Version/5.1 Safari/535.38.5"
+sshd[7344]: Session opened for john35 from 10.246.218.235 port 35817 ssh2
+DB_PORT=redis://localhost:6379
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"cache miss","user":"vgilbert","trace":"MCUcQrNOJl3P"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"user session created","user":"linda87","trace":"K2EoeFAXZqC5"}
+sshd[2208]: Session closed for kbarrett from 172.23.71.77 port 29562 ssh2
+142.207.61.12 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 403 244513 "-" "Opera/8.54.(Windows NT 5.01; rw-RW) Presto/2.9.165 Version/11.00"
+sshd[7919]: Session opened for lorraine93 from 172.27.30.13 port 23377 ssh2
+LOG_LEVEL=false
+DB_PORT=760
+REDIS_URL=29874
+LOG_LEVEL=true
+sshd[5207]: Session closed for jillian48 from 192.168.117.59 port 56548 ssh2
+sshd[6900]: Session closed for fdean from 10.96.136.218 port 11283 ssh2
+API_TIMEOUT=db-76.strickland.com
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"user session created","user":"proctorpaul","trace":"RK8wHwEeDDCY"}
+sshd[9443]: Failed password for laura11 from 172.26.108.185 port 53014 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"db slow query","user":"jamestaylor","trace":"JZtbw4xgc9os"}
+sshd[7547]: Session closed for smckenzie from 10.26.48.22 port 30708 ssh2
+178.59.7.184 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 403 65593 "-" "Opera/8.69.(Windows NT 6.0; te-IN) Presto/2.9.178 Version/11.00"
+194.203.174.233 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 404 280004 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/535.30.7 (KHTML, like Gecko) Version/5.0.2 Safari/535.30.7"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"manderson","trace":"R7mBdy0kch5U"}

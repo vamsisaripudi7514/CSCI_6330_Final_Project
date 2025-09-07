@@ -1,0 +1,28 @@
+107.116.53.11 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 302 78675 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/22.0.876.0 Safari/531.0"
+LOG_LEVEL=srv-63.torres.com
+78.243.167.241 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 502 187236 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; wal-ET) AppleWebKit/533.17.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6533.17.2"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"nmorrison","trace":"WSrXZLui1Hhr"}
+23.234.180.253 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 401 68609 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.0)"
+sshd[6620]: Accepted password for joan81 from 172.17.120.76 port 57751 ssh2
+126.183.192.228 - - [07/Sep/2025:18:24:49 +0000] "GET /assets/app.js HTTP/1.1" 500 98349 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/3455-06-01 04:06:30.621971 Firefox/3.8"
+83.140.129.216 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 500 346575 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8 rv:5.0; el-CY) AppleWebKit/532.30.7 (KHTML, like Gecko) Version/4.0 Safari/532.30.7"
+DB_HOST=desktop-42.le.biz
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"db slow query","user":"michaelanderson","trace":"VW8PYMPIFf9v"}
+sshd[9920]: Session closed for rodrigueztammy from 10.107.30.2 port 56581 ssh2
+70.39.59.99 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 500 215671 "-" "Opera/8.78.(X11; Linux i686; wae-CH) Presto/2.9.180 Version/10.00"
+sshd[8470]: Session closed for timothyhenry from 192.168.220.248 port 64086 ssh2
+API_TIMEOUT=14516
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"cache miss","user":"robertsimpson","trace":"sPflMc5pLyyO"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"cache miss","user":"michaeldavis","trace":"oTBktq4xO1TZ"}
+185.107.66.224 - - [07/Sep/2025:18:24:49 +0000] "POST /api/login HTTP/1.1" 500 509311 "-" "Mozilla/5.0 (Linux; Android 12.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/59.0.804.0 Safari/534.1"
+187.183.11.80 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 201 312347 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ce-RU) AppleWebKit/535.38.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.38.3" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJaT2o3c0M5VmduIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.5CzFWcMoDQu2iebl51CqjVUona3R2YeYEP0Ez2B1JJA'
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"request completed","user":"nicholsrussell","trace":"eW4vSke5qsg3"}
+sshd[8550]: Accepted password for scardenas from 172.25.140.179 port 33216 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzeERWS3F4bDlVIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.-DNiOsYDUfbJsl06qgxo7xI74HpceeA6zy__GaZ2eFs'
+DB_PORT=5407
+97.86.55.88 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 201 392015 "-" "Opera/9.61.(Windows NT 5.2; brx-IN) Presto/2.9.168 Version/10.00"
+180.17.38.93 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 204 403962 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.1)"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"request completed","user":"morenokayla","trace":"Qg96FndTrIT5"}
+sshd[8948]: Accepted password for jonesbrandon from 10.65.91.35 port 62447 ssh2
+27.70.200.248 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 302 50455 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/50.0.828.0 Safari/532.0"
+44.33.90.223 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 302 25362 "-" "Mozilla/5.0 (Linux; Android 2.2.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/34.0.894.0 Safari/533.1"

@@ -1,0 +1,31 @@
+sshd[6524]: Session opened for davidspencer from 172.27.76.112 port 61864 ssh2
+sshd[4272]: Session opened for dwayne79 from 192.168.139.50 port 60987 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"user session created","user":"martha16","trace":"xXBpmErkqmC8"}
+sshd[7380]: Failed password for eric67 from 192.168.147.182 port 11911 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"request completed","user":"roachkimberly","trace":"KJhkF3qUy5sA"}
+DB_PORT=2905
+sshd[5036]: Session closed for ymullins from 10.234.223.228 port 22886 ssh2
+sshd[6557]: Session closed for guzmanjulie from 192.168.60.151 port 44405 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"user session created","user":"leekrista","trace":"gg7L9jwCr1tJ"}
+REDIS_URL=INFO
+sshd[5650]: Accepted password for pereztyler from 10.53.65.117 port 25596 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"request completed","user":"william78","trace":"msSk0PSn4nSj"}
+DB_HOST=506
+FEATURE_X_ENABLED=web-58.alvarado.org
+LOG_LEVEL=8229
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"nelsonjessica","trace":"hCqsdSbkAUR8"}
+DB_PORT=DEBUG
+83.245.194.211 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 200 257296 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; kn-IN) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6533.19.4"
+REDIS_URL=redis://localhost:6379
+REDIS_URL=true
+LOG_LEVEL=web-33.durham-jensen.com
+REDIS_URL=redis://localhost:6379
+DB_HOST=srv-20.lopez.info
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"jessicamiller","trace":"hrOWUa6YydKH"}
+sshd[5839]: Session closed for gmartinez from 172.29.133.91 port 28052 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"user session created","user":"elijahskinner","trace":"HbKNz9xR74j2"}
+45.179.138.190 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 502 280145 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/5667-07-24 07:31:30.049454 Firefox/11.0"
+API_TIMEOUT=redis://localhost:6379
+189.25.53.151 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 500 252097 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; cy-GB) AppleWebKit/534.5.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6534.5.3"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"danielmiller","trace":"HrHRZBaTDxR4"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"bradleybrown","trace":"EWkMeMehxvd6"}

@@ -1,0 +1,27 @@
+LOG_LEVEL=2199
+sshd[8883]: Failed password for hopkinsluis from 192.168.131.176 port 64644 ssh2 password=rQ5>N`%3yZxTz
+sshd[7791]: Session closed for audreywhite from 192.168.87.82 port 14306 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"request completed","user":"shannonrosario","trace":"JQ1Y3ZpGWdoJ"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"ithompson","trace":"TKyjbgZ3B8HD"}
+sshd[5939]: Failed password for harrisdonna from 192.168.176.220 port 30043 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"cache miss","user":"brooksjustin","trace":"8YZuBTZQUikB"}
+sshd[2806]: Session opened for jessicafreeman from 192.168.49.234 port 16588 ssh2
+143.165.0.97 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 403 468790 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_1; rv:1.9.6.20) Gecko/2544-04-26 00:05:01.752274 Firefox/14.0"
+REDIS_URL=INFO
+REDIS_URL=52377
+sshd[9733]: Accepted password for mgriffin from 10.59.230.220 port 25705 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"request completed","user":"hfritz","trace":"FdbfFIwzEoZ1"}
+DB_HOST=true
+sshd[5493]: Session opened for alexanderfowler from 10.251.123.66 port 15133 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"sethjimenez","trace":"dPxMF78XK1Pk"}
+190.0.28.127 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 401 258967 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.0)"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"request completed","user":"floresmichelle","trace":"FW5sARaTXWtn"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"cache miss","user":"emily69","trace":"8lnHMaSHmI9F"}
+92.109.55.202 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 302 446021 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.1)"
+sshd[1728]: Accepted password for brianarias from 192.168.183.67 port 20658 ssh2 API_KEY=AIzaVPkgxkFoDR9eKJvtLytlTrWbTBFCNg-agkLg-g
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"barbara81","trace":"Hh5iPl4172uZ"}
+sshd[4795]: Session closed for xballard from 172.16.61.186 port 56998 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"token refreshed","user":"sharonkim","trace":"hLldGysgAkI8"}
+DB_PORT=WARN
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"jose90","trace":"DpqJKmnUeqTL"}

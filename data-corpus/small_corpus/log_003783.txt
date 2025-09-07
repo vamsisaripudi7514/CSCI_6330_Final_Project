@@ -1,0 +1,27 @@
+DB_HOST=true
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"user session created","user":"tfrank","trace":"7h5zF63JHEKk"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"whitebrian","trace":"qZnlPpG3pMWX"}
+sshd[2625]: Failed password for cynthia17 from 172.21.31.69 port 22679 ssh2
+sshd[8955]: Failed password for charlesdarrell from 172.27.19.242 port 27480 ssh2
+sshd[3521]: Failed password for douglas42 from 192.168.47.166 port 37917 ssh2
+200.188.212.195 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 404 396510 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_0 rv:4.0; pa-IN) AppleWebKit/532.17.5 (KHTML, like Gecko) Version/5.0 Safari/532.17.5"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"token refreshed","user":"benitezjuan","trace":"cyEvg6NbV8ae"}
+DB_HOST=redis://localhost:6379
+DB_PORT=false Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJZbFlWN0xzczg2IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.O834g2YnilvuMMPdVsTn8BlXS56p5Kmr_hrWm05qaFY'
+sshd[6158]: Session opened for shawnawilliams from 10.232.115.24 port 37479 ssh2
+DB_HOST=1791
+sshd[3449]: Session closed for lcollins from 10.48.141.44 port 24970 ssh2
+sshd[2332]: Accepted password for ywalker from 172.19.57.24 port 19994 ssh2
+DB_PORT=email-91.anderson-gutierrez.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiTmtVS1ZIZUc1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.0KDRZqBfNlR7YFTUkpIZs12msb_vZ_6ICb2pAZ8sG2M'
+124.210.8.96 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 400 294090 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/5.0)"
+15.94.2.146 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 400 326133 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/3.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"user session created","user":"rachel78","trace":"x4fW04ZpjGgP"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"cache miss","user":"cmoody","trace":"cLgWaHR5cITj"}
+61.226.87.35 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 502 157613 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/15.6v5880.0 Mobile/04W921 Safari/536.0"
+FEATURE_X_ENABLED=true
+sshd[1385]: Accepted password for yvillanueva from 192.168.12.151 port 61391 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"request completed","user":"iwilliams","trace":"oitPvUHMvvN3"}
+DB_HOST=15113
+sshd[5502]: Accepted password for alyssa60 from 172.22.92.220 port 42571 ssh2
+202.57.176.234 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 502 21992 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.0)"
+FEATURE_X_ENABLED=redis://localhost:6379

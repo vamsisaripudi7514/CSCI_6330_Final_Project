@@ -1,0 +1,28 @@
+LOG_LEVEL=db-33.sharp.biz
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"request completed","user":"oedwards","trace":"5MANYnVPcZ1I"}
+sshd[4994]: Failed password for kristen35 from 192.168.62.71 port 24024 ssh2
+REDIS_URL=51135
+sshd[2511]: Session closed for taylordavis from 192.168.26.104 port 43585 ssh2
+sshd[6771]: Session opened for michaelallen from 172.26.200.172 port 12432 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"stacy12","trace":"ze4zVTRat9lp"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"request completed","user":"theresawilson","trace":"h3WgEePPH8hU"}
+159.98.110.216 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 201 463918 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/51.0.807.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"db slow query","user":"taylorethan","trace":"ZqdWBkqBRPaT"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"hannahhernandez","trace":"RMOEQcwqQ4Eu"}
+REDIS_URL=63797
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"token refreshed","user":"qhardy","trace":"b3yDRgjl60YY"}
+API_TIMEOUT=redis://localhost:6379
+40.186.23.88 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 404 8431 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/5.0)"
+221.155.150.114 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 502 311221 "-" "Mozilla/5.0 (Android 9; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"jamesgutierrez","trace":"TuLngzlkUVGW"}
+sshd[1773]: Accepted password for joannafoster from 172.31.124.240 port 17610 ssh2
+207.91.4.106 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 403 33576 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"cache miss","user":"housesteven","trace":"flbmwI6uoTw9"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"dwarren","trace":"FUU1I8gQiagr"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"user session created","user":"hcharles","trace":"OcDAmbdLu47Y"}
+sshd[5398]: Session opened for spencer97 from 172.22.172.230 port 58989 ssh2
+sshd[5585]: Failed password for hlee from 10.191.77.70 port 55214 ssh2
+LOG_LEVEL=redis://localhost:6379
+197.83.60.228 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 403 147347 "-" "Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/17.0p3753.0 Mobile/25C490 Safari/536.1"
+API_TIMEOUT=redis://localhost:6379
+sshd[3884]: Session opened for hgiles from 192.168.66.106 port 19882 ssh2

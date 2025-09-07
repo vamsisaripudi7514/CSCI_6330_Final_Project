@@ -1,0 +1,30 @@
+DB_HOST=WARN
+37.92.214.61 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 204 55035 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_3; rv:1.9.3.20) Gecko/9338-06-26 21:18:05.346558 Firefox/7.0"
+DB_HOST=true
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"db slow query","user":"lcruz","trace":"5skOCDqFRu31"}
+sshd[5497]: Session closed for bullockaaron from 172.26.48.244 port 15760 ssh2
+sshd[1286]: Session closed for sandra63 from 172.18.126.55 port 25537 ssh2
+74.13.225.82 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 502 315431 "-" "Mozilla/5.0 (Linux; Android 2.2.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/32.0.891.0 Safari/531.1"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"token refreshed","user":"elliottnatalie","trace":"87a20OzclUZn"}
+sshd[7899]: Session closed for msullivan from 10.4.191.237 port 43783 ssh2
+sshd[8375]: Session opened for amy89 from 10.36.26.46 port 63849 ssh2
+sshd[5654]: Session opened for davidfernandez from 192.168.15.135 port 53113 ssh2
+LOG_LEVEL=redis://localhost:6379
+sshd[5098]: Accepted password for campbellcurtis from 172.19.39.34 port 41103 ssh2
+DB_HOST=2268
+sshd[7571]: Session opened for franciscody from 192.168.221.75 port 20059 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"cache miss","user":"wshelton","trace":"F1ibmrIkDu4p"}
+183.150.156.195 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 302 105359 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/62.0.852.0 Safari/534.0"
+sshd[6442]: Session closed for diana32 from 172.18.88.69 port 15202 ssh2
+sshd[3361]: Session opened for harperricky from 172.26.184.65 port 64519 ssh2
+API_TIMEOUT=redis://localhost:6379
+FEATURE_X_ENABLED=2453
+sshd[6721]: Session closed for austin71 from 10.87.190.57 port 26239 ssh2
+223.5.15.184 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 500 253655 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.1)"
+178.54.57.140 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 200 58546 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/16.9v7224.0 Mobile/43I434 Safari/534.0"
+19.35.233.254 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 200 288685 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; lb-LU) AppleWebKit/532.30.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.30.1"
+REDIS_URL=email-38.vega-robinson.com
+111.115.113.119 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 200 127545 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/3.0)"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"daniel78","trace":"mh9r4Tmb4T3o"}
+REDIS_URL=42286
+142.42.32.93 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 302 96525 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/534.33.5 (KHTML, like Gecko) Version/5.0.2 Safari/534.33.5" password=oA1&7~+y#)X0xA'

@@ -1,0 +1,27 @@
+sshd[6022]: Session opened for xcooper from 192.168.219.91 port 27997 ssh2
+sshd[7934]: Session closed for sjohnson from 172.25.210.53 port 21295 ssh2
+1.186.49.64 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 302 94831 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/15.3n4168.0 Mobile/93G737 Safari/533.0"
+DB_PORT=true
+sshd[9751]: Accepted password for madison85 from 192.168.62.13 port 61951 ssh2
+29.35.227.97 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 400 240391 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/14.5a1396.0 Mobile/25S711 Safari/536.2"
+sshd[6901]: Session opened for raymond87 from 192.168.27.145 port 22564 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"mstanton","trace":"xiOMxmXjNiTN"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"xmontgomery","trace":"MBdcAvMxnLNk"}
+sshd[8983]: Failed password for jessica49 from 192.168.145.85 port 47245 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"gjohnson","trace":"q0O3Wnd2fLAj"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ3VnVWOWpoZWVvIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ._bK9cGy_z5SjsafT9Td9g-NBynk25wTcJamne27JGbs'
+FEATURE_X_ENABLED=lt-45.ball.com
+sshd[2321]: Accepted password for mwright from 10.110.220.43 port 30958 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"request completed","user":"pmcconnell","trace":"Bmm1Wwj0vPkU"}
+sshd[8565]: Failed password for stephanie48 from 10.238.70.56 port 11443 ssh2
+DB_HOST=srv-11.mendez-lopez.biz
+sshd[6448]: Session opened for peterking from 172.26.36.100 port 28922 ssh2
+API_TIMEOUT=redis://localhost:6379
+FEATURE_X_ENABLED=WARN
+DB_HOST=email-91.stewart.com
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"db slow query","user":"oreed","trace":"GCAI0hZitN5I"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"cache miss","user":"coxtimothy","trace":"6ZoXAy14bzmL"}
+sshd[6651]: Failed password for wcarpenter from 10.77.134.58 port 24065 ssh2
+sshd[1424]: Failed password for frogers from 172.24.121.175 port 62810 ssh2
+DB_HOST=4617
+FEATURE_X_ENABLED=INFO
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"dannystanley","trace":"eGJrtjcpjStg"}

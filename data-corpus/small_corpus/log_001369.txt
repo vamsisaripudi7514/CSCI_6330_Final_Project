@@ -1,0 +1,31 @@
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"gbailey","trace":"M7RaKTpCAEsT"}
+sshd[3833]: Session closed for shane26 from 192.168.80.159 port 43328 ssh2
+REDIS_URL=true
+sshd[9068]: Session opened for rmcclure from 10.5.215.100 port 64220 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJubkFqZnNQUkxuIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.9lLuxyTjFcFq5dcat8_JqATbOedbh_8ZCZMGEEKRKCI'
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"cache miss","user":"jacquelinemoreno","trace":"5oGrzgl3RldR"}
+DB_HOST=3911
+REDIS_URL=2135
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"db slow query","user":"victoria87","trace":"bYE6oD46Zs1c"}
+API_TIMEOUT=DEBUG
+sshd[7883]: Accepted password for gabrielward from 192.168.229.124 port 38459 ssh2
+DB_PORT=true
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"request completed","user":"gonzalesveronica","trace":"j0sxRsfqvWWC"}
+FEATURE_X_ENABLED=redis://localhost:6379
+174.187.126.157 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 200 331732 "-" "Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/17.0.892.0 Safari/533.0"
+sshd[8210]: Session closed for rogerschristina from 172.27.49.249 port 21404 ssh2
+sshd[6751]: Session opened for davewhite from 10.221.129.234 port 12929 ssh2
+sshd[9378]: Session closed for douglas75 from 192.168.101.202 port 35726 ssh2
+200.73.66.239 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 400 510155 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6 rv:5.0; sl-SI) AppleWebKit/532.10.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.10.7"
+sshd[9124]: Accepted password for jessicachandler from 172.29.177.44 port 10674 ssh2
+sshd[7173]: Session opened for christian26 from 10.43.35.212 port 64391 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"vickiegraves","trace":"LpMCbk2jYgD7"}
+REDIS_URL=false
+sshd[4132]: Accepted password for marcusbishop from 10.212.232.179 port 54855 ssh2
+sshd[1347]: Session opened for vincentblake from 192.168.51.142 port 40374 ssh2
+FEATURE_X_ENABLED=WARN
+sshd[6084]: Session opened for buckleytiffany from 172.31.58.135 port 20032 ssh2
+FEATURE_X_ENABLED=true
+216.178.18.200 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 201 491269 "-" "Mozilla/5.0 (Windows 95; iw-IL; rv:1.9.1.20) Gecko/7592-03-06 15:59:47.416046 Firefox/5.0"
+204.104.235.94 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 403 277629 "-" "Opera/8.85.(X11; Linux i686; bo-IN) Presto/2.9.187 Version/11.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"request completed","user":"rachelmartinez","trace":"DBSvokspdGTg"}
+sshd[8739]: Accepted password for kyle97 from 192.168.217.237 port 30467 ssh2

@@ -1,0 +1,28 @@
+REDIS_URL=DEBUG
+sshd[3475]: Session closed for kelly53 from 172.19.14.20 port 39526 ssh2
+191.55.49.8 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/login HTTP/1.1" 401 192476 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/532.1.2 (KHTML, like Gecko) Version/5.0.2 Safari/532.1.2"
+76.214.27.248 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 401 177209 "-" "Opera/9.22.(X11; Linux i686; unm-US) Presto/2.9.180 Version/12.00"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"cache miss","user":"kevinlee","trace":"JwhpXrkCENrl"}
+LOG_LEVEL=WARN
+sshd[9930]: Accepted password for parkermary from 192.168.254.190 port 31039 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"db slow query","user":"qramsey","trace":"AHnF5ntzloJG"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"user session created","user":"catherine35","trace":"ZSG2sH5FR4A1"}
+sshd[5778]: Session closed for curtis98 from 192.168.248.72 port 25770 ssh2
+210.166.76.111 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 404 299953 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/3.0)"
+33.39.98.67 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 302 224597 "-" "Opera/9.92.(X11; Linux i686; bg-BG) Presto/2.9.176 Version/10.00"
+18.48.103.250 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 201 67792 "-" "Opera/9.77.(X11; Linux i686; gu-IN) Presto/2.9.177 Version/12.00"
+sshd[1975]: Failed password for xmarsh from 192.168.85.214 port 51492 ssh2
+sshd[5183]: Accepted password for hgarcia from 172.26.190.141 port 19577 ssh2
+DB_PORT=2881
+API_TIMEOUT=57071
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"cache miss","user":"michaeldunn","trace":"tGKyAikhhFyT"}
+LOG_LEVEL=24485
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"cache miss","user":"christopherhall","trace":"7rWKN8q2wx8B"}
+sshd[5448]: Failed password for kevin59 from 192.168.127.220 port 37601 ssh2
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"sarah23","trace":"MHaOePGYAnq5"}
+159.185.9.218 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 403 259529 "-" "Mozilla/5.0 (Android 1.0; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0"
+REDIS_URL=4848
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"cache miss","user":"rarnold","trace":"v9ktJ7EHG8uK"}
+11.161.65.205 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 403 164160 "-" "Mozilla/5.0 (Android 7.1.2; Mobile; rv:11.0) Gecko/11.0 Firefox/11.0"
+sshd[7003]: Failed password for john92 from 192.168.74.24 port 37658 ssh2

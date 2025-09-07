@@ -1,0 +1,43 @@
+DB_PORT=1093
+sshd[8724]: Accepted password for yhernandez from 10.162.115.44 port 41448 ssh2
+sshd[1770]: Session closed for daniel07 from 172.16.74.233 port 44230 ssh2
+sshd[5779]: Accepted password for burnettalexander from 172.17.164.17 port 43631 ssh2
+28.90.99.143 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 502 375782 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/6214-10-12 04:46:55.269958 Firefox/3.8" API_KEY=AIzaQBiZFWQQPda8_ntEryqFhMFXBG9CyumUpjGEng
+LOG_LEVEL=false
+221.173.84.67 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 502 177476 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8 rv:3.0; sq-AL) AppleWebKit/532.42.7 (KHTML, like Gecko) Version/5.0 Safari/532.42.7"
+DB_HOST=web-08.williams-vasquez.com
+REDIS_URL=4208 password=oF7!9/iW#@{G`
+sshd[6243]: Session closed for steven75 from 172.18.75.44 port 33102 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"db slow query","user":"michael95","trace":"W6vTzCqU3Jcd"}
+104.173.12.223 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 403 180434 "-" "Opera/8.71.(X11; Linux x86_64; iw-IL) Presto/2.9.165 Version/12.00"
+45.65.11.116 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 201 25104 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/9.2j9450.0 Mobile/94O930 Safari/532.1"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"db slow query","user":"hjoyce","trace":"qfa7zSFbIzow"}
+sshd[2457]: Session opened for kelly74 from 192.168.84.83 port 60319 ssh2
+sshd[8089]: Session opened for alexandra60 from 192.168.84.168 port 44244 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"brandon92","trace":"rijZ6pMIG5s3"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[6268]: Failed password for shannon88 from 192.168.206.83 port 24259 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"jaredharrison","trace":"WOFHjGsU7gK0"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"user session created","user":"marklyons","trace":"MtNbpLUpNgin"}
+sshd[9804]: Session opened for jillian52 from 172.26.42.165 port 45064 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"retrying upstream","user":"taylortimothy","trace":"WmujtjFsuOW4"}
+200.25.159.105 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 500 169747 "-" "Mozilla/5.0 (Windows 98; om-ET; rv:1.9.2.20) Gecko/7973-01-30 22:16:00.498932 Firefox/3.6.2"
+sshd[8063]: Accepted password for ymacdonald from 192.168.142.63 port 15976 ssh2
+REDIS_URL=true
+sshd[6153]: Session closed for ywalker from 172.25.111.165 port 27028 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"db slow query","user":"christophersingleton","trace":"21VTZg1DlW5o"}
+sshd[9011]: Session closed for farmerarthur from 192.168.179.125 port 55912 ssh2
+FEATURE_X_ENABLED=web-63.harris.net
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"hjohnson","trace":"xOH2fnzDeyPL"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"token refreshed","user":"katherine64","trace":"AEfP5mzII86g"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"cache miss","user":"browncourtney","trace":"gdKTgZSk52Nf"}
+170.106.119.87 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 302 173413 "-" "Opera/8.44.(Windows NT 5.0; tg-TJ) Presto/2.9.172 Version/10.00"
+sshd[6265]: Session opened for tamaralopez from 10.39.227.86 port 33724 ssh2
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"alejandrowilliams","trace":"NlUHPL2CI9VB"}
+LOG_LEVEL=251
+DB_PORT=2558
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"user session created","user":"vicki92","trace":"HEpZoJfQB1nl"}
+80.201.85.63 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 401 126024 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4344-03-06 08:40:36.750427 Firefox/3.8"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"db slow query","user":"lmoreno","trace":"hElmQ66Yb7df"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"db slow query","user":"nflowers","trace":"DYFm5mUot0qC"}

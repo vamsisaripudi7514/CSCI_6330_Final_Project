@@ -1,0 +1,27 @@
+LOG_LEVEL=true
+104.183.198.221 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 502 356533 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_8; rv:1.9.2.20) Gecko/4207-08-27 09:34:33.635468 Firefox/3.8"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"user session created","user":"gibbstammy","trace":"9ls032SMQKIr"}
+80.141.164.221 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 400 67594 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/30.0.874.0 Safari/534.1"
+179.138.233.240 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 404 180844 "-" "Mozilla/5.0 (Windows NT 5.2; ast-ES; rv:1.9.0.20) Gecko/9383-07-13 09:58:45.807953 Firefox/13.0"
+DB_PORT=desktop-22.arnold-little.com
+71.61.183.157 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 500 463694 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/55.0.803.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"request completed","user":"lauriecarey","trace":"9wE1UGpKHuLy"}
+sshd[7909]: Session opened for ejones from 172.18.56.19 port 41757 ssh2
+sshd[1182]: Session opened for halenancy from 172.20.53.15 port 14801 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"token refreshed","user":"karen77","trace":"UhoL5aur4hTr"}
+LOG_LEVEL=true
+REDIS_URL=false Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJuS2FQMkp3ZzROIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.dpVu-RgqGmLiMgIv6LrNGCu7ZxiLxSL-4LmzKy9aQCo'
+REDIS_URL=email-99.bennett.info
+API_TIMEOUT=DEBUG
+33.206.30.71 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 403 16851 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_5 rv:4.0; fi-FI) AppleWebKit/535.8.7 (KHTML, like Gecko) Version/5.1 Safari/535.8.7"
+DB_HOST=srv-59.hernandez.com
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"cache miss","user":"bdean","trace":"Si3TaKq2UmQF"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"laurennelson","trace":"CepaMgsmtpL4"}
+sshd[2740]: Session opened for scottclark from 192.168.142.155 port 59799 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"token refreshed","user":"bsavage","trace":"QQ7hKuoslLBh"}
+165.87.240.104 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 502 161008 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; et-EE) AppleWebKit/531.28.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6531.28.1"
+sshd[2352]: Failed password for seannguyen from 192.168.144.250 port 13908 ssh2
+LOG_LEVEL=473
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"token refreshed","user":"rkelley","trace":"8WsD0stATAu4"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"request completed","user":"lauradoyle","trace":"fZ6r8eGt2eGc"}

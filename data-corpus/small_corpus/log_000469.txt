@@ -1,0 +1,32 @@
+13.110.44.240 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 201 172703 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_5 rv:6.0; mk-MK) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.0.5 Safari/531.6.6"
+FEATURE_X_ENABLED=redis://localhost:6379
+82.26.62.193 - - [07/Sep/2025:18:24:49 +0000] "PUT /assets/app.js HTTP/1.1" 201 228096 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/34.0.835.0 Safari/535.2" API_KEY=AIzaPOz-TIIXFR35q7b8y1U2mHHj2YzCpQoK41f0eg
+38.109.196.185 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 404 118173 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/13.3a6923.0 Mobile/52O763 Safari/531.2"
+sshd[3798]: Failed password for bkeller from 172.23.12.148 port 16994 ssh2
+LOG_LEVEL=redis://localhost:6379
+sshd[1751]: Session opened for portermichael from 172.30.107.57 port 59975 ssh2
+sshd[8889]: Session closed for erin81 from 192.168.222.67 port 52286 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"sara32","trace":"4of5yiRrb36C"}
+sshd[1630]: Session closed for nicolerussell from 10.13.254.132 port 36594 ssh2
+sshd[3764]: Session closed for teresa82 from 192.168.51.3 port 45947 ssh2
+sshd[4620]: Session closed for lauraanderson from 192.168.69.252 port 46181 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"token refreshed","user":"ericevans","trace":"1rHkC9lekxj8"}
+31.162.183.88 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 502 288277 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/19.0.810.0 Safari/531.0" API_KEY=AIzaRbUVv3X7cJlsYGX-DbLvcsYZ-MRTnhW_aGuV2A
+LOG_LEVEL=11119
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"blakeshelby","trace":"qxODK9OWtLsR"}
+sshd[3584]: Failed password for brent71 from 192.168.25.28 port 30992 ssh2
+DB_PORT=redis://localhost:6379 password=rA0~!A%CV8Cewaqg
+DB_HOST=laptop-45.brown.com
+185.203.95.168 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 302 448078 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/59.0.856.0 Safari/532.2"
+sshd[2761]: Failed password for moyerbryan from 192.168.183.60 port 23259 ssh2
+86.3.102.163 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 500 84716 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.47.6 (KHTML, like Gecko) Version/5.0 Safari/534.47.6"
+LOG_LEVEL=redis://localhost:6379
+169.29.255.98 - - [07/Sep/2025:18:24:49 +0000] "DELETE /assets/app.js HTTP/1.1" 302 17663 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; nan-TW) AppleWebKit/531.17.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6531.17.6"
+67.221.59.158 - - [07/Sep/2025:18:24:49 +0000] "PUT /health HTTP/1.1" 200 62961 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/30.0.855.0 Safari/535.0"
+DB_HOST=true
+149.43.174.185 - - [07/Sep/2025:18:24:49 +0000] "POST /index.html HTTP/1.1" 500 166972 "-" "Opera/8.85.(Windows NT 6.0; am-ET) Presto/2.9.185 Version/11.00"
+119.114.191.20 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 201 194433 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/47.0.824.0 Safari/536.0"
+80.104.115.238 - - [07/Sep/2025:18:24:49 +0000] "POST /assets/app.js HTTP/1.1" 302 182301 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_6 rv:3.0; bhb-IN) AppleWebKit/532.7.4 (KHTML, like Gecko) Version/5.1 Safari/532.7.4"
+16.236.238.237 - - [07/Sep/2025:18:24:49 +0000] "GET /index.html HTTP/1.1" 201 234317 "-" "Mozilla/5.0 (Windows NT 11.0; ru-UA; rv:1.9.1.20) Gecko/3351-06-08 13:31:50.285339 Firefox/10.0"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"cache miss","user":"ingramvictor","trace":"JM7MIT5E36Xp"}
+61.46.80.205 - - [07/Sep/2025:18:24:49 +0000] "DELETE /health HTTP/1.1" 400 238820 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/6049-02-19 09:42:33.671631 Firefox/3.8"

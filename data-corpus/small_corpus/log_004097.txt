@@ -1,0 +1,25 @@
+170.182.194.48 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 401 135040 "-" "Opera/9.47.(Windows NT 4.0; ne-NP) Presto/2.9.188 Version/10.00"
+sshd[3853]: Failed password for msilva from 192.168.30.223 port 27484 ssh2
+DB_PORT=11996
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"request completed","user":"kylecurry","trace":"f6HLnpmzjMPo"}
+sshd[7951]: Failed password for espinozaaaron from 192.168.11.152 port 38868 ssh2
+67.164.169.208 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 502 201223 "-" "Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/30.0.802.0 Safari/534.0"
+DB_PORT=INFO
+202.79.21.46 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 302 36580 "-" "Opera/9.34.(Windows 95; sv-FI) Presto/2.9.180 Version/10.00"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"annmacias","trace":"SamTVYdG422u"}
+REDIS_URL=redis://localhost:6379
+REDIS_URL=redis://localhost:6379
+sshd[6427]: Failed password for taylormelissa from 172.21.248.78 port 15777 ssh2
+7.54.169.137 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 400 281571 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.0)" password=yJ7!RTOxn8%xpl5M
+72.214.74.145 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 500 360857 "-" "Opera/8.59.(X11; Linux i686; so-ET) Presto/2.9.176 Version/10.00"
+sshd[8170]: Failed password for christopherward from 192.168.112.106 port 27324 ssh2
+sshd[7040]: Session opened for nlawrence from 172.25.198.212 port 59211 ssh2
+sshd[3789]: Failed password for collinsbryan from 172.28.103.15 port 36380 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"request completed","user":"emilydean","trace":"fHOVcada02DO"}
+sshd[4203]: Session closed for mcphersonheather from 172.21.92.79 port 40314 ssh2
+24.32.5.164 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 401 202504 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_6 rv:3.0; ar-MR) AppleWebKit/531.26.3 (KHTML, like Gecko) Version/4.0 Safari/531.26.3"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"db slow query","user":"davismaria","trace":"AUgdFIW2uIMq"}
+sshd[7082]: Failed password for rlarson from 172.16.71.35 port 26400 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"db slow query","user":"ianfletcher","trace":"I3x0gHFT9Z9W"}
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"user session created","user":"preynolds","trace":"6WVBy4CvWKc3"}

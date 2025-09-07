@@ -1,0 +1,27 @@
+sshd[4957]: Session closed for jasmine50 from 192.168.109.132 port 14462 ssh2
+sshd[5396]: Accepted password for molly93 from 10.212.138.119 port 29317 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"db slow query","user":"dmartin","trace":"Q27o3QEoHkGd"}
+API_TIMEOUT=2931
+10.249.56.58 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 403 148594 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.0)"
+8.184.41.40 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 404 204468 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/31.0.865.0 Safari/535.2"
+LOG_LEVEL=868
+181.187.226.168 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 401 198681 "-" "Opera/9.80.(X11; Linux x86_64; eo-US) Presto/2.9.164 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"johnsontammy","trace":"htsrYy1amfBi"}
+sshd[3368]: Accepted password for bellsandra from 192.168.32.74 port 55342 ssh2
+API_TIMEOUT=757
+142.206.92.163 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 204 395346 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)"
+LOG_LEVEL=DEBUG
+140.105.233.122 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 204 203678 "-" "Mozilla/5.0 (Windows NT 6.1; ru-RU; rv:1.9.0.20) Gecko/2715-05-14 05:21:20.722698 Firefox/3.8"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"rachelwagner","trace":"QC3MXDksIirz"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"request completed","user":"reneebell","trace":"UPcsP0SZIrqB"}
+LOG_LEVEL=1602
+56.163.61.228 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 302 522150 "-" "Opera/9.37.(Windows NT 5.2; ga-IE) Presto/2.9.161 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"cache miss","user":"mpatterson","trace":"CpQI9pjsiY8m"}
+20.226.51.18 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 201 166937 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"user session created","user":"npollard","trace":"jdNwxT7Hm3Hz"}
+API_TIMEOUT=DEBUG
+sshd[7661]: Session opened for millersean from 172.31.218.106 port 41242 ssh2
+sshd[1279]: Session opened for sanchezdavid from 192.168.61.226 port 34810 ssh2
+FEATURE_X_ENABLED=WARN
+FEATURE_X_ENABLED=1932
+43.176.251.118 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 502 298510 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4 rv:2.0; ne-NP) AppleWebKit/533.1.3 (KHTML, like Gecko) Version/5.0.3 Safari/533.1.3"

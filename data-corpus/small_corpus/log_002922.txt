@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"jill59","trace":"UKtrlDsWthCz"}
+sshd[3545]: Session opened for mvasquez from 192.168.241.11 port 40526 ssh2
+159.185.18.53 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 403 30559 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/50.0.867.0 Safari/535.1"
+217.24.39.143 - - [07/Sep/2025:18:24:53 +0000] "POST /download/report.csv HTTP/1.1" 403 516624 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; nso-ZA) AppleWebKit/535.9.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.9.4"
+DB_HOST=redis://localhost:6379
+202.153.113.209 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 302 96334 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.0)" password=wC3*pFgTQ>
+146.64.160.253 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 201 143994 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/18.1y9241.0 Mobile/48T038 Safari/532.1"
+sshd[7243]: Accepted password for huffcurtis from 10.23.114.214 port 41174 ssh2
+81.128.58.119 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 200 248683 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/532.29.2 (KHTML, like Gecko) Version/4.1 Safari/532.29.2"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"sonyasmith","trace":"yDBC2nd8bFeK"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"db slow query","user":"garrettwilliam","trace":"ymUMolm6NlJI"} password=uX2&LRl>n
+sshd[7905]: Session closed for nicolegregory from 172.21.53.241 port 62743 ssh2
+77.107.55.199 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 200 380570 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/5211-08-14 20:35:56.628967 Firefox/3.8"
+sshd[1271]: Session opened for zkennedy from 192.168.238.132 port 35212 ssh2
+LOG_LEVEL=38060
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"christopher63","trace":"EYA7rdQ2geiq"}
+DB_PORT=srv-66.burke.com
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"amandadonovan","trace":"mEGh6yMTQwJk"}
+sshd[9996]: Accepted password for foleymegan from 10.84.201.105 port 35743 ssh2
+LOG_LEVEL=redis://localhost:6379
+FEATURE_X_ENABLED=false
+sshd[5504]: Failed password for alison07 from 192.168.25.155 port 53843 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"pjones","trace":"GzDq27jqEM9H"}
+sshd[7356]: Failed password for perkinsmichael from 10.115.118.183 port 13747 ssh2
+29.160.140.247 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 502 359992 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.1)"

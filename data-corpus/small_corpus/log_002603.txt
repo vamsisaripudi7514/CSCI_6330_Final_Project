@@ -1,0 +1,33 @@
+164.121.84.35 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 403 443651 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/48.0.844.0 Mobile/07U963 Safari/535.2"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"sandra04","trace":"bxbEb1KZLG0P"}
+sshd[4485]: Accepted password for iwilliams from 10.167.248.63 port 20515 ssh2
+sshd[2935]: Failed password for jacob68 from 172.30.51.187 port 21460 ssh2
+30.30.129.91 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 401 123068 "-" "Mozilla/5.0 (Windows CE; sw-TZ; rv:1.9.1.20) Gecko/2510-04-04 08:14:57.001278 Firefox/3.6.3"
+API_TIMEOUT=18882
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"user session created","user":"krios","trace":"xywt6unMaOuk"}
+sshd[8440]: Failed password for oramos from 192.168.167.80 port 55384 ssh2
+sshd[7471]: Failed password for underwoodangela from 192.168.56.238 port 25043 ssh2
+129.223.42.171 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 302 31706 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_7 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/54.0.827.0 Mobile/67P739 Safari/533.1"
+API_TIMEOUT=387
+sshd[8353]: Accepted password for thomasmartinez from 10.79.114.38 port 57013 ssh2
+API_TIMEOUT=31221
+sshd[5485]: Session closed for ruben42 from 172.18.170.48 port 29209 ssh2
+FEATURE_X_ENABLED=true
+REDIS_URL=redis://localhost:6379
+sshd[2093]: Session closed for fbates from 192.168.178.45 port 49686 ssh2 password=wI3\jO(G+wwdT0E
+6.106.53.183 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 200 204078 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/27.0.805.0 Safari/535.1"
+API_TIMEOUT=31054
+sshd[1842]: Session closed for brad44 from 192.168.223.126 port 42970 ssh2
+REDIS_URL=false
+79.109.184.76 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 204 361867 "-" "Opera/8.11.(X11; Linux x86_64; yo-NG) Presto/2.9.181 Version/11.00"
+sshd[4659]: Failed password for brandonflynn from 172.17.135.232 port 13503 ssh2
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"christina07","trace":"Lh0iLBF3LNQ9"}
+DB_HOST=44576
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"victor20","trace":"xLlRqMOZPpty"} API_KEY=AIzaXjStP_M1P-0ADVjAX9dfEqR_IMkJuV_G43JSvQ
+sshd[2740]: Session closed for jennifer34 from 172.25.244.130 port 41186 ssh2
+sshd[5335]: Accepted password for swilliams from 172.23.159.102 port 16901 ssh2
+sshd[7098]: Failed password for hornryan from 172.25.0.226 port 30211 ssh2
+78.15.244.137 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 200 334500 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_8 rv:3.0; dv-MV) AppleWebKit/534.9.5 (KHTML, like Gecko) Version/5.1 Safari/534.9.5"
+12.147.27.16 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 500 6514 "-" "Opera/8.71.(X11; Linux x86_64; hi-IN) Presto/2.9.162 Version/12.00"

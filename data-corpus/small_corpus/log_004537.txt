@@ -1,0 +1,32 @@
+30.253.247.212 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 401 435544 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.1)"
+8.110.25.81 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 400 272765 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/24.0.854.0 Safari/532.2"
+sshd[9156]: Session closed for julia46 from 172.28.154.193 port 45343 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"request completed","user":"fsmith","trace":"ckG3EuMtubiA"}
+API_TIMEOUT=40238
+sshd[8717]: Session opened for jimmymitchell from 172.24.26.43 port 50032 ssh2
+sshd[1228]: Accepted password for kristen05 from 192.168.136.16 port 64979 ssh2
+REDIS_URL=redis://localhost:6379
+179.48.79.208 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 500 29406 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1 rv:4.0; hne-IN) AppleWebKit/533.43.6 (KHTML, like Gecko) Version/4.0.4 Safari/533.43.6"
+184.28.142.41 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 200 218415 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2498-05-04 14:32:07.640512 Firefox/3.6.11"
+sshd[2078]: Session closed for khenry from 192.168.94.65 port 35888 ssh2
+sshd[2954]: Session closed for terry50 from 192.168.38.13 port 44312 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"user session created","user":"bestrada","trace":"Gnu4yotThUKL"}
+sshd[3803]: Failed password for geoffreyday from 10.1.11.107 port 36912 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"db slow query","user":"kevingonzales","trace":"WmeV5vP8NOIH"}
+sshd[9590]: Accepted password for kelleymichael from 192.168.80.155 port 17614 ssh2
+180.146.255.61 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 403 488257 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/30.0.815.0 Safari/534.1"
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[7054]: Session closed for joseph22 from 10.198.197.45 port 29747 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"cache miss","user":"megan07","trace":"Xsgm5DZbJegc"} password=nS9,tPHnj
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"perryann","trace":"j6s7OQRjlbcF"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"db slow query","user":"ghart","trace":"pn2R2saQD9he"}
+200.71.192.251 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 204 377722 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.13.3 (KHTML, like Gecko) Version/4.0 Safari/534.13.3"
+35.229.201.53 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 204 133978 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.0)"
+121.134.255.7 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 200 71018 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_9 rv:4.0; wal-ET) AppleWebKit/535.8.6 (KHTML, like Gecko) Version/5.0 Safari/535.8.6"
+183.73.214.184 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 302 256215 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.3.1 (KHTML, like Gecko) Version/4.0.5 Safari/533.3.1"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"user session created","user":"beckkelly","trace":"Yjk7BOanD3QR"}
+sshd[8261]: Session opened for janetmorris from 172.28.97.235 port 28893 ssh2
+sshd[8243]: Session opened for charleshall from 172.27.36.97 port 31536 ssh2
+LOG_LEVEL=WARN

@@ -1,0 +1,33 @@
+30.229.174.75 - - [07/Sep/2025:18:24:52 +0000] "POST /health HTTP/1.1" 400 96187 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/13.6r7869.0 Mobile/71D484 Safari/532.0"
+206.166.197.166 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 302 314465 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/3.0)"
+FEATURE_X_ENABLED=true
+sshd[5644]: Failed password for rodrigueznicole from 192.168.247.167 port 17025 ssh2
+sshd[3607]: Accepted password for jthornton from 10.197.96.172 port 39666 ssh2
+LOG_LEVEL=WARN
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"token refreshed","user":"rwilliams","trace":"SJYAWaE0BgIC"}
+sshd[6168]: Session opened for melissa06 from 172.28.5.183 port 37030 ssh2
+DB_HOST=62144
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"bellmatthew","trace":"E3AFdhNgRBmU"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"request completed","user":"elainewilliams","trace":"ogBeq3LgayDZ"}
+sshd[5089]: Accepted password for vtapia from 172.24.55.211 port 35978 ssh2
+DB_PORT=srv-69.gill-ali.info password=vX0>R1TP
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"wardjacob","trace":"gPkrpwHYRpjL"}
+API_TIMEOUT=3572
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"db slow query","user":"kennedysara","trace":"wO8secvPyHJD"}
+sshd[2797]: Session opened for millernicole from 192.168.22.101 port 43042 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"user session created","user":"uholmes","trace":"9Tegnuyvdxl0"}
+57.104.143.172 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 500 520394 "-" "Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/25.0.872.0 Safari/535.2"
+sshd[9262]: Session closed for william46 from 192.168.11.128 port 31682 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"cache miss","user":"stevennewman","trace":"prfLygCHK733"}
+184.252.24.206 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 201 166413 "-" "Mozilla/5.0 (Windows NT 6.1; ber-DZ; rv:1.9.0.20) Gecko/4730-04-10 18:00:49.777863 Firefox/3.6.19"
+sshd[9229]: Accepted password for alisonsampson from 10.188.78.237 port 43115 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"cache miss","user":"guerrashelly","trace":"oygUpKaqW7vv"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"qhayes","trace":"sWpCBNWbvoqg"}
+API_TIMEOUT=35845
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"popenathan","trace":"K43tLPqICc2u"}
+sshd[6282]: Session closed for emercado from 192.168.199.7 port 21125 ssh2
+sshd[5659]: Session closed for kelly97 from 172.25.5.73 port 43243 ssh2
+sshd[6144]: Session opened for danielle50 from 192.168.188.130 port 15088 ssh2
+API_TIMEOUT=2444
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"db slow query","user":"melissa94","trace":"hoqkFDM5XddP"}

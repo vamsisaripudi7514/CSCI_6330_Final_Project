@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"token refreshed","user":"whitemary","trace":"83XXIawWrg6j"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"retrying upstream","user":"nhampton","trace":"BLQLb0gLcWZ0"}
+sshd[8794]: Session closed for michelepalmer from 10.59.233.139 port 26520 ssh2
+FEATURE_X_ENABLED=10592
+DB_PORT=4644
+DB_HOST=redis://localhost:6379
+70.66.31.115 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 400 160533 "-" "Opera/8.60.(Windows NT 6.1; lij-IT) Presto/2.9.181 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"retrying upstream","user":"joshua01","trace":"m3Asj0k1Xmxw"}
+54.153.20.65 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 400 440991 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/60.0.858.0 Safari/533.1"
+API_TIMEOUT=DEBUG Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzT0xTbVUxNG1KIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.q_pGfC8OVkrir8ull73KXRfqsPdb3fe4E0nKyaejC58'
+FEATURE_X_ENABLED=20028
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"db slow query","user":"martha02","trace":"GBQMNjLlQFCL"}
+105.7.130.8 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 302 217991 "-" "Opera/8.82.(Windows 98; mhr-RU) Presto/2.9.181 Version/11.00" password=yZ7}{Sh<gLL
+sshd[3430]: Session closed for alvarezemily from 10.179.248.27 port 16653 ssh2
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"request completed","user":"mitchell73","trace":"Of6oR9fL1pnT"}
+REDIS_URL=true
+LOG_LEVEL=43433
+85.134.107.195 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 401 76898 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.15.4 (KHTML, like Gecko) Version/5.1 Safari/531.15.4"
+40.51.9.54 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 204 424141 "-" "Mozilla/5.0 (Windows NT 5.0; es-VE; rv:1.9.0.20) Gecko/4226-07-18 19:32:42.605789 Firefox/3.8"
+20.4.50.124 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/v1/users HTTP/1.1" 401 401825 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/18.8y2768.0 Mobile/86Z167 Safari/535.1"
+sshd[4750]: Session opened for zortiz from 192.168.72.155 port 30878 ssh2
+LOG_LEVEL=redis://localhost:6379
+REDIS_URL=749
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"rsexton","trace":"9F3W8aCYLxTH"}

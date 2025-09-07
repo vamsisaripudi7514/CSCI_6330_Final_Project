@@ -1,0 +1,27 @@
+sshd[7176]: Session closed for nicholsontiffany from 192.168.156.48 port 15414 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"norrisrichard","trace":"eCckHU888fjO"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"request completed","user":"antonio07","trace":"fU7fZwjr4YxY"}
+44.218.128.231 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 502 513765 "-" "Mozilla/5.0 (Android 4.2; Mobile; rv:22.0) Gecko/22.0 Firefox/22.0"
+sshd[4714]: Accepted password for jerry34 from 192.168.76.96 port 60830 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ4ZDQ0MUYybFV4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.vFGwAhFxUUH9vDIZn4TIrBHNTMdBHyMUpNa12P0FgD8'
+18.53.76.24 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 302 460967 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/6714-11-18 22:44:55.857056 Firefox/3.6.10"
+sshd[6730]: Accepted password for brianspence from 192.168.65.253 port 27873 ssh2
+API_TIMEOUT=1863
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"user session created","user":"michaela47","trace":"8Fjts9tjLJwN"}
+sshd[3216]: Session closed for twatson from 172.30.86.128 port 44133 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"robert93","trace":"Zn18wW9EOQwL"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"request completed","user":"hicksmichele","trace":"Uqg9M2nEqlWZ"}
+18.159.152.27 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 500 493293 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ko-KR) AppleWebKit/535.8.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6535.8.4"
+121.62.119.242 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 403 55692 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.0)"
+sshd[6513]: Accepted password for vsmith from 10.136.227.118 port 45500 ssh2
+sshd[1666]: Session opened for simpsonryan from 172.24.200.104 port 27473 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"request completed","user":"owhite","trace":"1gvFu5HBGwJ8"}
+API_TIMEOUT=srv-66.little-monroe.com
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"request completed","user":"scottmegan","trace":"fhEiH3olOz9u"}
+DB_HOST=38095
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"token refreshed","user":"christopherpage","trace":"96aXRroccH9K"}
+sshd[8852]: Session opened for alittle from 10.215.72.13 port 61372 ssh2 password=rI6.eVjZ
+DB_PORT=54422
+175.216.39.207 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 502 385664 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5; rv:1.9.3.20) Gecko/3057-05-17 21:56:45.826981 Firefox/13.0"
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_PORT=4125
+REDIS_URL=4204

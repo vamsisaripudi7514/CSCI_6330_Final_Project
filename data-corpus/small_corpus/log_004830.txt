@@ -1,0 +1,29 @@
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"search","msg":"request completed","user":"isaiahmcneil","trace":"UJyneX1mZD27"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"markkennedy","trace":"mHrVsrkuRPEK"}
+sshd[6462]: Accepted password for johnsonscott from 172.18.65.238 port 16867 ssh2
+sshd[6562]: Session opened for lambemily from 192.168.192.3 port 64331 ssh2
+207.150.76.200 - - [07/Sep/2025:18:24:57 +0000] "POST /health HTTP/1.1" 204 5633 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5 rv:3.0; aa-ER) AppleWebKit/531.8.5 (KHTML, like Gecko) Version/5.0.3 Safari/531.8.5"
+168.165.144.112 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 403 112977 "-" "Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/9.0z0119.0 Mobile/48R702 Safari/531.2"
+145.229.4.88 - - [07/Sep/2025:18:24:57 +0000] "POST /api/login HTTP/1.1" 502 12338 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/15.0.867.0 Safari/533.2"
+223.251.100.169 - - [07/Sep/2025:18:24:57 +0000] "GET /api/login HTTP/1.1" 500 58249 "-" "Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/27.0.801.0 Mobile/50N766 Safari/531.2"
+75.44.208.124 - - [07/Sep/2025:18:24:57 +0000] "PUT /api/v1/users HTTP/1.1" 201 152709 "-" "Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/36.0.816.0 Mobile/80Q042 Safari/535.0" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJSMzU1eHRydzhSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.kVOS9ewFAXuKBLePgKlxWU1c91OAVdRPd7ejgfTJ2sk'
+sshd[7969]: Session opened for carterbenjamin from 10.134.76.146 port 55087 ssh2
+214.187.118.98 - - [07/Sep/2025:18:24:57 +0000] "PUT /index.html HTTP/1.1" 500 449950 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_7) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/14.0.803.0 Safari/536.1"
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"request completed","user":"vwang","trace":"uKD6CdA1ReNm"}
+sshd[3803]: Session opened for cjohnson from 192.168.107.231 port 40482 ssh2
+FEATURE_X_ENABLED=true
+FEATURE_X_ENABLED=false
+140.120.148.201 - - [07/Sep/2025:18:24:57 +0000] "GET /assets/app.js HTTP/1.1" 401 463536 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_8) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/44.0.816.0 Safari/535.0"
+DB_HOST=redis://localhost:6379
+sshd[2719]: Session opened for valdezdavid from 172.28.127.109 port 32219 ssh2
+sshd[4717]: Failed password for kristen35 from 10.160.13.228 port 44359 ssh2
+FEATURE_X_ENABLED=3144
+API_TIMEOUT=email-08.mclean.biz
+REDIS_URL=DEBUG
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"token refreshed","user":"crystalmeyers","trace":"oKvj5reDPiF9"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"request completed","user":"jonathon74","trace":"c9CRerO3MsPF"}
+sshd[4884]: Accepted password for fbenson from 10.248.96.33 port 13492 ssh2
+205.26.245.118 - - [07/Sep/2025:18:24:57 +0000] "PUT /index.html HTTP/1.1" 401 370242 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_8 rv:3.0; ber-MA) AppleWebKit/534.4.3 (KHTML, like Gecko) Version/4.0 Safari/534.4.3"
+sshd[9982]: Session opened for lwhitehead from 192.168.154.163 port 41526 ssh2
+56.134.44.8 - - [07/Sep/2025:18:24:57 +0000] "POST /health HTTP/1.1" 204 384581 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_7 rv:5.0; sd-PK) AppleWebKit/534.22.3 (KHTML, like Gecko) Version/5.0 Safari/534.22.3" API_KEY=AIzanF0XFiGgkrn3Dhy6tUAdafwlPbofyqY3WbqCIA
+72.133.130.245 - - [07/Sep/2025:18:24:57 +0000] "POST /download/report.csv HTTP/1.1" 403 14577 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; os-RU) AppleWebKit/532.37.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.37.3"

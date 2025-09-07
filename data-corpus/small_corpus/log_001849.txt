@@ -1,0 +1,28 @@
+DB_PORT=2464
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"user session created","user":"obaker","trace":"2Vtgp71x1ksK"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"jeffreycollier","trace":"YNvU2q2U7bQE"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"db slow query","user":"lwolf","trace":"d5sFxXCkAKqX"}
+sshd[6583]: Accepted password for yjones from 172.31.156.67 port 51847 ssh2
+sshd[3568]: Session closed for sonyagutierrez from 10.232.214.43 port 56708 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFUUk0MU5LaFl1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.HPnm83LdDrvDLiRE1VAs6ZJGBZv-t-IV0c-gi_wZi0k'
+API_TIMEOUT=desktop-39.hancock-hopkins.com
+sshd[3679]: Session closed for pjones from 172.30.138.79 port 27532 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"user session created","user":"dawnsolis","trace":"BZpzk3Yt70qK"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"request completed","user":"theresafranklin","trace":"jN1bk96yHdvm"}
+40.94.79.243 - - [07/Sep/2025:18:24:51 +0000] "DELETE /index.html HTTP/1.1" 500 399090 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0)"
+183.60.132.160 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 200 226832 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/17.0.871.0 Safari/531.2"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"request completed","user":"diamond43","trace":"CLmevdtQsetB"}
+LOG_LEVEL=redis://localhost:6379
+sshd[2127]: Failed password for elong from 192.168.10.125 port 64246 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"request completed","user":"erin17","trace":"mS3HkoiUyvqM"}
+DB_HOST=lt-27.hardin.info
+sshd[9289]: Session closed for alexandercaldwell from 10.120.116.146 port 44537 ssh2
+128.219.242.255 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 403 261536 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.0)"
+REDIS_URL=52230
+174.191.56.196 - - [07/Sep/2025:18:24:51 +0000] "PUT /assets/app.js HTTP/1.1" 401 239709 "-" "Opera/8.20.(Windows NT 11.0; kl-GL) Presto/2.9.179 Version/12.00"
+172.187.118.217 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 502 517508 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/5.0)"
+98.178.123.196 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 500 4522 "-" "Opera/8.25.(X11; Linux x86_64; brx-IN) Presto/2.9.170 Version/12.00"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"cache miss","user":"crystalbrown","trace":"HgRzaQZxwR2g"}
+sshd[9548]: Session closed for contrerasjeremy from 10.121.31.173 port 52099 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"user session created","user":"zortega","trace":"N8bgYWpypKcq"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"request completed","user":"yclark","trace":"y3COtfAkc8vQ"}
+42.150.132.59 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 201 189068 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.0)"

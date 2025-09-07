@@ -1,0 +1,30 @@
+DB_PORT=1294
+54.33.22.138 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 201 389425 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"user session created","user":"yroberts","trace":"R1pDkXwVv4BZ"}
+sshd[8381]: Session opened for petersentami from 192.168.103.119 port 63501 ssh2
+76.252.98.156 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 204 339890 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; cy-GB) AppleWebKit/535.28.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.28.1"
+52.51.84.95 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 404 173597 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_4 rv:4.0; lg-UG) AppleWebKit/532.13.5 (KHTML, like Gecko) Version/4.0.4 Safari/532.13.5"
+sshd[5548]: Session opened for mmoon from 172.25.166.120 port 30632 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+REDIS_URL=false
+sshd[7196]: Session closed for rossbriana from 10.164.6.138 port 30166 ssh2
+LOG_LEVEL=INFO
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"russellelizabeth","trace":"6R9OcX8B7vWj"}
+98.235.202.23 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 502 172698 "-" "Opera/8.42.(X11; Linux x86_64; cs-CZ) Presto/2.9.184 Version/10.00"
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"user session created","user":"kenneth12","trace":"dkGDVK26NlVR"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"token refreshed","user":"edwinduncan","trace":"ZMj3v6hoxRYM"}
+LOG_LEVEL=desktop-45.robertson-gonzalez.com
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"mariostewart","trace":"BlbDgzXmz9I4"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"user session created","user":"msmith","trace":"diYfbVMWiB92"}
+LOG_LEVEL=redis://localhost:6379
+DB_PORT=redis://localhost:6379
+sshd[7373]: Session closed for grodriguez from 192.168.19.144 port 57471 ssh2
+LOG_LEVEL=28242
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"token refreshed","user":"williamslawrence","trace":"bmFL10ASttwk"}
+API_TIMEOUT=993
+sshd[4837]: Failed password for fhowell from 192.168.253.168 port 45809 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"cache miss","user":"melissa45","trace":"j8BKaM2ziSXw"}
+sshd[5744]: Accepted password for patrickcooper from 10.81.240.158 port 18593 ssh2
+122.131.42.109 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 403 177457 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/57.0.868.0 Safari/533.1"
+REDIS_URL=1484
+164.180.76.221 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 500 412899 "-" "Opera/9.46.(X11; Linux x86_64; mhr-RU) Presto/2.9.161 Version/10.00"

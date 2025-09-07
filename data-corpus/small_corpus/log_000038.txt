@@ -1,0 +1,25 @@
+DB_HOST=725
+sshd[3639]: Session closed for potterjustin from 172.29.74.230 port 21783 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"yfritz","trace":"wENMIakHVq7h"}
+212.54.221.112 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 500 399090 "-" "Opera/8.83.(X11; Linux i686; ce-RU) Presto/2.9.166 Version/10.00"
+sshd[4554]: Accepted password for wpierce from 172.21.23.125 port 11933 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"robertgreene","trace":"rEm9fwTJPsDV"}
+FEATURE_X_ENABLED=63043
+sshd[2685]: Session closed for michelesimpson from 192.168.200.202 port 48249 ssh2
+sshd[4372]: Failed password for sandrathompson from 172.30.97.241 port 57320 ssh2
+API_TIMEOUT=desktop-08.hines-douglas.com
+DB_PORT=laptop-96.jenkins-fields.org
+113.73.192.118 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 403 153992 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_5 rv:2.0; the-NP) AppleWebKit/535.47.4 (KHTML, like Gecko) Version/4.0.3 Safari/535.47.4"
+sshd[1490]: Session closed for mgiles from 192.168.89.181 port 17513 ssh2
+sshd[4046]: Session closed for clarksteven from 172.18.18.242 port 33445 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"cache miss","user":"gabrielawallace","trace":"XuhauSaTvnDK"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"retrying upstream","user":"laurakaufman","trace":"MnHngJrTM84Z"}
+9.199.76.223 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 403 166737 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_1 rv:5.0; ast-ES) AppleWebKit/533.11.2 (KHTML, like Gecko) Version/4.0 Safari/533.11.2"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"carterraymond","trace":"FcrAhhCkMuLy"}
+172.81.186.122 - - [07/Sep/2025:18:24:48 +0000] "PUT /index.html HTTP/1.1" 502 518100 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/5.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJacm05ZTZLZUR6IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.NY0RMSoGBncrWq87HdjsSd_AB2Yqgn38i8NgnJAz3lE'
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"user session created","user":"gcobb","trace":"6HcvPbeEg1ZA"}
+sshd[6665]: Session opened for michaeldouglas from 10.57.59.183 port 36236 ssh2
+sshd[1771]: Session closed for josephrivera from 10.247.22.43 port 35777 ssh2
+API_TIMEOUT=email-17.vasquez.com API_KEY=AIzaSBEXRdJDYETr0-QlM3nbo-66sdB7EQB2urw80g
+149.41.141.162 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 401 451743 "-" "Opera/8.28.(X11; Linux x86_64; sr-RS) Presto/2.9.179 Version/10.00"
+DB_PORT=redis://localhost:6379

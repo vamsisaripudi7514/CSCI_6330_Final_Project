@@ -1,0 +1,27 @@
+17.134.68.188 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 404 48708 "-" "Mozilla/5.0 (Windows NT 10.0; li-NL; rv:1.9.0.20) Gecko/7182-11-16 02:02:34.885956 Firefox/3.6.15"
+142.92.216.172 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 201 235036 "-" "Opera/8.42.(Windows NT 5.2; doi-IN) Presto/2.9.163 Version/10.00"
+sshd[7236]: Accepted password for cobbkevin from 172.30.185.132 port 61879 ssh2
+177.70.99.215 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 403 254837 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/533.35.6 (KHTML, like Gecko) Version/4.0.3 Safari/533.35.6"
+sshd[8267]: Accepted password for lgraham from 172.31.224.3 port 57039 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"gonzalezkylie","trace":"ZDP0WHEtK3A2"}
+sshd[8699]: Session closed for benjaminhayes from 172.16.112.192 port 11787 ssh2
+125.8.36.232 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 502 184785 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_7 rv:2.0; ce-RU) AppleWebKit/532.25.7 (KHTML, like Gecko) Version/4.0 Safari/532.25.7"
+sshd[4363]: Session opened for brownsteven from 192.168.251.157 port 18184 ssh2
+8.39.182.176 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 201 445450 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"nfoster","trace":"EsocAHMZYiKp"}
+41.78.134.29 - - [07/Sep/2025:18:24:53 +0000] "PUT /assets/app.js HTTP/1.1" 204 296949 "-" "Mozilla/5.0 (Windows NT 5.01; nso-ZA; rv:1.9.2.20) Gecko/4793-04-08 15:32:18.469055 Firefox/3.6.20"
+sshd[6787]: Session opened for aprildelacruz from 10.177.108.197 port 52614 ssh2
+sshd[1664]: Accepted password for hcarney from 192.168.159.212 port 24802 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"robertsalexandra","trace":"BVxDAB3OSx0P"}
+sshd[8548]: Accepted password for cindyblack from 10.176.48.100 port 22397 ssh2
+FEATURE_X_ENABLED=60952
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"db slow query","user":"jon26","trace":"ktsC9t3JZQNC"}
+216.179.146.220 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 302 90619 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.0)"
+LOG_LEVEL=4735
+FEATURE_X_ENABLED=55749
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"cache miss","user":"eatonrenee","trace":"pXZpYvPdpxps"}
+139.56.207.197 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 302 435584 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5 rv:5.0; br-FR) AppleWebKit/534.15.6 (KHTML, like Gecko) Version/5.0.5 Safari/534.15.6"
+FEATURE_X_ENABLED=3393
+185.99.175.8 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 200 4576 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_7; rv:1.9.6.20) Gecko/3895-08-15 23:47:30.436729 Firefox/3.6.7"
+sshd[2568]: Session opened for mendozaandrew from 192.168.240.77 port 49804 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"cache miss","user":"kingstephanie","trace":"tCeDWNJv2bf1"}

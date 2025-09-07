@@ -1,0 +1,29 @@
+FEATURE_X_ENABLED=srv-95.cobb.com
+173.231.75.124 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 502 376909 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/4.0)"
+FEATURE_X_ENABLED=redis://localhost:6379
+LOG_LEVEL=true
+215.135.246.205 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 403 313117 "-" "Opera/8.44.(X11; Linux i686; ber-DZ) Presto/2.9.170 Version/10.00"
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"request completed","user":"irose","trace":"zdw9VVbs1AXC"}
+50.105.35.187 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 500 440982 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_3 rv:6.0; ast-ES) AppleWebKit/532.5.6 (KHTML, like Gecko) Version/4.1 Safari/532.5.6"
+sshd[1237]: Session opened for kristybenson from 10.94.46.92 port 13499 ssh2
+159.254.194.76 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 404 411892 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.10.3 (KHTML, like Gecko) Version/4.0.2 Safari/535.10.3"
+DB_HOST=63917
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"token refreshed","user":"stephensimpson","trace":"UN4ii2diYv8F"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"user session created","user":"donaldperez","trace":"KcY1ezlnXr9i"}
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=false
+90.195.40.126 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 403 160644 "-" "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/18.0.852.0 Safari/533.1"
+REDIS_URL=lt-23.zavala.com
+sshd[7051]: Session opened for evan73 from 192.168.124.98 port 18940 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"theresalowe","trace":"b9rIlOp330NF"}
+FEATURE_X_ENABLED=true
+sshd[9618]: Session closed for cynthia01 from 172.29.21.207 port 33871 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"token refreshed","user":"rodrigueznancy","trace":"l4tzgQ3bxtnw"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"cache miss","user":"popetimothy","trace":"unWx0FD3kcfo"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"staciewalker","trace":"LBwL4yofMm4d"}
+113.128.206.142 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 401 104417 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/3.0)"
+LOG_LEVEL=DEBUG
+174.91.246.236 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 204 195632 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/11.4m3801.0 Mobile/82X176 Safari/535.1"
+LOG_LEVEL=false
+177.211.224.98 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 204 272776 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.1)"

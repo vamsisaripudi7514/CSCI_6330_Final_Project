@@ -1,0 +1,26 @@
+120.235.6.4 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 204 171410 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_5 rv:4.0; ff-SN) AppleWebKit/534.1.7 (KHTML, like Gecko) Version/5.0 Safari/534.1.7"
+71.198.241.106 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 201 514264 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/4.1)"
+163.78.87.63 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/v1/users HTTP/1.1" 200 464518 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_7; rv:1.9.3.20) Gecko/8189-12-16 21:40:37.488434 Firefox/3.8"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"monteskevin","trace":"OVifubghTTVv"}
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"acostamarcus","trace":"Tgmawdyz5VwI"} API_KEY=AIzadIuVeGFI-0BY5n50hvSMfm1ZjRW7BH1I5_zTlg
+FEATURE_X_ENABLED=854
+sshd[3903]: Session opened for lamtracy from 192.168.208.85 port 17326 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4emRWUlF1U2NCIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.1yVKey_IJOkcwKl57PcVsMFIqryBLHcrir8Npmaooxg'
+57.148.28.40 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 400 345881 "-" "Opera/8.53.(X11; Linux x86_64; ta-IN) Presto/2.9.167 Version/11.00"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"db slow query","user":"sandrariddle","trace":"UV4arrvpLWLF"}
+REDIS_URL=false
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"db slow query","user":"davisandre","trace":"DDaNUAl6iLEM"}
+REDIS_URL=lt-60.melendez-brooks.com
+sshd[2815]: Accepted password for christopher05 from 172.31.220.151 port 64924 ssh2
+sshd[6041]: Session closed for ericwilliams from 192.168.182.61 port 26447 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"robinsonmichael","trace":"r0U4C9UbPmSh"}
+LOG_LEVEL=redis://localhost:6379
+REDIS_URL=50291
+sshd[2029]: Failed password for eharding from 192.168.142.168 port 30891 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"cache miss","user":"jenniferjordan","trace":"CoE3YciTBRjO"}
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"retrying upstream","user":"jessica50","trace":"jjzlF8BccmK5"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"user session created","user":"elizabeth94","trace":"Vq45eefQf4gr"}
+sshd[3792]: Accepted password for josephmorgan from 192.168.27.104 port 50905 ssh2
+sshd[5237]: Session closed for uscott from 10.31.154.98 port 42074 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"db slow query","user":"iadams","trace":"BL3qzoskq7aV"}
+sshd[6970]: Accepted password for coreyfox from 10.16.182.68 port 35267 ssh2

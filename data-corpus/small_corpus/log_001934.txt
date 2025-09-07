@@ -1,0 +1,28 @@
+sshd[4177]: Accepted password for tbarker from 172.26.220.46 port 22286 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"db slow query","user":"david18","trace":"Qr7l8BKrn7Yn"}
+sshd[1932]: Session opened for omclaughlin from 192.168.66.24 port 63151 ssh2
+42.32.217.231 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 502 308099 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/27.0.856.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"ricejill","trace":"NrKvDHZWKo27"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"db slow query","user":"hudsonwilliam","trace":"i4J0frVFoIpV"}
+149.240.157.114 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 302 215693 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/63.0.885.0 Safari/532.2"
+sshd[9300]: Accepted password for grobinson from 192.168.39.198 port 50436 ssh2
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"token refreshed","user":"jamespierce","trace":"tXmRgbI3ET4R"}
+API_TIMEOUT=INFO
+149.15.189.68 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 502 477911 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_0 rv:3.0; wal-ET) AppleWebKit/532.13.3 (KHTML, like Gecko) Version/4.0 Safari/532.13.3"
+sshd[3242]: Session closed for judybrewer from 10.248.43.196 port 35874 ssh2
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[8932]: Session closed for brian79 from 172.26.136.181 port 11016 ssh2
+sshd[1594]: Accepted password for icastro from 10.232.32.165 port 36763 ssh2
+156.53.50.225 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 204 142208 "-" "Opera/8.42.(Windows NT 6.0; raj-IN) Presto/2.9.187 Version/11.00"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"db slow query","user":"taylorgarrett","trace":"AFgpX7eEOsgZ"}
+sshd[9841]: Accepted password for tammie36 from 172.27.33.5 port 13010 ssh2
+sshd[4078]: Session opened for elewis from 172.27.44.38 port 33486 ssh2
+API_TIMEOUT=laptop-28.juarez-davidson.com
+sshd[4405]: Accepted password for toddjonathan from 192.168.236.70 port 24073 ssh2
+LOG_LEVEL=true
+sshd[5370]: Session closed for walkernatalie from 192.168.86.72 port 64319 ssh2
+116.145.108.250 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/v1/users HTTP/1.1" 204 428887 "-" "Opera/8.49.(Windows NT 6.2; mni-IN) Presto/2.9.189 Version/11.00"
+103.118.146.140 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 200 400040 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/13.0.877.0 Safari/532.0"
+DB_HOST=redis://localhost:6379
+API_TIMEOUT=srv-16.proctor.info

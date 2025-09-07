@@ -1,0 +1,26 @@
+sshd[1520]: Failed password for fthompson from 192.168.149.37 port 61705 ssh2
+sshd[2042]: Session opened for tina08 from 10.140.144.49 port 30819 ssh2
+DB_PORT=DEBUG
+sshd[6774]: Accepted password for todd11 from 172.30.107.82 port 42962 ssh2 password=uF1}(UP.C
+sshd[4802]: Failed password for jeffrey91 from 10.39.122.158 port 10262 ssh2
+DB_PORT=37272
+DB_HOST=2209
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"user session created","user":"kellercasey","trace":"BT7cEbLZxo9S"}
+101.177.20.66 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 404 524209 "-" "Opera/8.75.(Windows 95; nr-ZA) Presto/2.9.166 Version/10.00"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"db slow query","user":"sallyjackson","trace":"RNYTZDZ0KyED"}
+3.218.161.22 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 403 281892 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/37.0.877.0 Mobile/90O440 Safari/535.0"
+sshd[2193]: Accepted password for hillwilliam from 172.19.101.213 port 18467 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"request completed","user":"vtodd","trace":"FaLmzV53m2RL"}
+sshd[7893]: Accepted password for yvonnekelly from 192.168.25.166 port 58233 ssh2
+162.64.230.180 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 201 444751 "-" "Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/39.0.821.0 Safari/532.2"
+DB_PORT=db-64.cox-tapia.info
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"request completed","user":"ythompson","trace":"iyFZKvDiMPTL"}
+LOG_LEVEL=redis://localhost:6379
+145.45.113.212 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 200 207629 "-" "Mozilla/5.0 (Android 4.2.2; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0"
+sshd[5032]: Accepted password for castillopatricia from 10.165.87.141 port 24960 ssh2 API_KEY=AIzaa2n9owzmcmR3QfNQ-Y4Hdj4XBv4T0ZtU3C_HCg
+sshd[8590]: Session opened for kevincox from 10.98.197.112 port 53135 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"request completed","user":"fletcherkimberly","trace":"kkMcowmGXvb7"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"user session created","user":"jonathonmelton","trace":"1HVlP3QH3duA"}
+sshd[5306]: Failed password for thomasedwards from 10.124.79.196 port 63536 ssh2
+sshd[8471]: Failed password for walshchristopher from 192.168.75.71 port 54220 ssh2

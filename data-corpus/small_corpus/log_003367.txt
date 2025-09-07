@@ -1,0 +1,39 @@
+FEATURE_X_ENABLED=WARN
+sshd[6537]: Session closed for dennis58 from 192.168.84.183 port 50976 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"db slow query","user":"caldwellmarcia","trace":"KSpMiJLuZhtT"}
+sshd[9033]: Session closed for wolferobert from 10.176.68.242 port 49286 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"token refreshed","user":"kadams","trace":"SBFlfQwV1q9U"}
+50.80.54.99 - - [07/Sep/2025:18:24:54 +0000] "DELETE /download/report.csv HTTP/1.1" 404 62920 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/5.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"barbara18","trace":"FOrVgEouusVG"}
+50.117.240.133 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 500 493847 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/11.5q0951.0 Mobile/81I694 Safari/536.1"
+48.87.186.183 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 404 227633 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/534.40.4 (KHTML, like Gecko) Version/4.0.4 Safari/534.40.4"
+sshd[3746]: Accepted password for marchutchinson from 172.20.152.71 port 53002 ssh2
+115.156.225.45 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 200 501458 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.0)"
+178.80.40.146 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 401 331688 "-" "Opera/9.40.(Windows NT 4.0; csb-PL) Presto/2.9.176 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"db slow query","user":"kevin05","trace":"Z7nm6NW7R7lE"}
+sshd[8482]: Session opened for bosborn from 172.29.196.144 port 15360 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"cache miss","user":"woodbrian","trace":"phXIraoa84SV"} password=vV7@TQ.Y6!Q4IV
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"token refreshed","user":"mfernandez","trace":"1BjO7I11gDfZ"}
+sshd[5600]: Accepted password for john98 from 10.67.8.67 port 28900 ssh2
+sshd[4891]: Failed password for justin24 from 10.26.202.230 port 33773 ssh2
+DB_HOST=redis://localhost:6379
+172.140.1.18 - - [07/Sep/2025:18:24:54 +0000] "GET /api/v1/users HTTP/1.1" 404 344596 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/33.0.842.0 Safari/535.2"
+LOG_LEVEL=redis://localhost:6379
+sshd[8740]: Session opened for yhoward from 172.28.233.5 port 17184 ssh2
+sshd[2524]: Accepted password for jamesjones from 10.248.178.70 port 39729 ssh2
+52.157.144.156 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 201 455725 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9 rv:2.0; raj-IN) AppleWebKit/534.24.6 (KHTML, like Gecko) Version/4.1 Safari/534.24.6"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"cache miss","user":"colemanbonnie","trace":"YLUVvip1KmZU"}
+sshd[8181]: Session opened for hayleymendez from 10.175.64.98 port 12938 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"cache miss","user":"ballardvalerie","trace":"vuM6CC5gyFjt"}
+sshd[1239]: Session closed for carrmichael from 192.168.39.231 port 55730 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"db slow query","user":"lpatterson","trace":"hWIHmVz72zUg"}
+DB_PORT=30901
+sshd[2436]: Accepted password for wchan from 192.168.173.100 port 10843 ssh2
+sshd[7942]: Session closed for jennifertaylor from 192.168.191.20 port 62175 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"travisramirez","trace":"xhNqdpTmOgUc"}
+191.19.142.105 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 204 139959 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_8) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/40.0.898.0 Safari/531.1"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"token refreshed","user":"jessica79","trace":"FMZSacNPEFYV"}
+FEATURE_X_ENABLED=3502
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"request completed","user":"evansgina","trace":"vWuHccuwvpZy"}
+sshd[1623]: Failed password for pruittrachel from 192.168.199.13 port 54504 ssh2
+REDIS_URL=DEBUG

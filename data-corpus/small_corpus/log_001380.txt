@@ -1,0 +1,31 @@
+LOG_LEVEL=redis://localhost:6379
+DB_HOST=DEBUG
+12.232.254.178 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 404 190464 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/45.0.832.0 Safari/533.2"
+sshd[2637]: Session opened for mharper from 172.16.239.189 port 18083 ssh2
+sshd[9437]: Session opened for michael32 from 10.4.195.95 port 26934 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"user session created","user":"brettstephens","trace":"DijFkQxjsNKq"}
+sshd[5171]: Accepted password for jordantravis from 172.20.204.130 port 38048 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"user session created","user":"holly15","trace":"MOTbKaablfFK"}
+sshd[7329]: Session opened for rwilson from 192.168.128.217 port 28204 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"retrying upstream","user":"johnsonthomas","trace":"W5xEUzfe33wB"}
+LOG_LEVEL=redis://localhost:6379
+API_TIMEOUT=redis://localhost:6379
+DB_HOST=true API_KEY=AIza2TNvGPdkBch6n3qnDqVQticbGse1QquITp3_XA
+DB_PORT=19912
+API_TIMEOUT=db-67.allen-smith.com
+sshd[2885]: Accepted password for mariamartin from 10.145.206.184 port 21455 ssh2
+181.200.249.164 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 204 314516 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_6 rv:5.0; it-IT) AppleWebKit/534.11.4 (KHTML, like Gecko) Version/5.0 Safari/534.11.4"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"nward","trace":"5hMJBBQ6MmlI"} password=cR5*Qlj`quL
+LOG_LEVEL=48029
+REDIS_URL=false
+FEATURE_X_ENABLED=37464
+sshd[5917]: Failed password for danielle34 from 172.30.154.107 port 44121 ssh2
+199.198.148.25 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 403 479845 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.29.1 (KHTML, like Gecko) Version/5.0.4 Safari/533.29.1"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"db slow query","user":"davidpineda","trace":"Sk4FFdcjsrRO"}
+DB_PORT=desktop-90.garcia-castaneda.com
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"token refreshed","user":"marmstrong","trace":"NMJyYIvpANAQ"}
+API_TIMEOUT=desktop-51.baker.com
+FEATURE_X_ENABLED=redis://localhost:6379
+LOG_LEVEL=3124
+197.223.110.46 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 404 289423 "-" "Opera/9.86.(X11; Linux x86_64; hak-TW) Presto/2.9.166 Version/11.00"

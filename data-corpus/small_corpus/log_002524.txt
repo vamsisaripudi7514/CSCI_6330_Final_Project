@@ -1,0 +1,26 @@
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"db slow query","user":"freysteven","trace":"yKCDIcVfyXa4"}
+77.19.187.224 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 502 391184 "-" "Mozilla/5.0 (Windows NT 6.1; yo-NG; rv:1.9.0.20) Gecko/2045-01-30 14:18:59.470667 Firefox/7.0"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"melissahayes","trace":"VMKqm2lVCywu"}
+LOG_LEVEL=redis://localhost:6379
+sshd[1585]: Session opened for adrianjenkins from 172.19.248.212 port 33384 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"token refreshed","user":"cellis","trace":"cjn1f9lv9hBQ"}
+sshd[8712]: Failed password for xrobertson from 172.28.113.250 port 64948 ssh2
+sshd[7251]: Accepted password for paulking from 192.168.16.142 port 45115 ssh2
+sshd[8261]: Session closed for karenroberts from 192.168.60.166 port 59716 ssh2
+sshd[8747]: Failed password for michael88 from 192.168.141.137 port 11594 ssh2
+sshd[1679]: Session opened for masonholt from 172.19.76.14 port 39278 ssh2
+199.154.190.32 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 502 255977 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.800.0 Safari/536.0"
+FEATURE_X_ENABLED=17766
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"db slow query","user":"nporter","trace":"aVvlbBKFDCHb"}
+REDIS_URL=973
+147.203.128.59 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 204 229129 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/23.0.868.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"notify","msg":"db slow query","user":"pdaniels","trace":"Vepywvi4vZze"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"cache miss","user":"ericwalker","trace":"V0iJukQdS8QI"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"db slow query","user":"ncharles","trace":"cVEwofY75cSY"}
+REDIS_URL=redis://localhost:6379
+DB_HOST=redis://localhost:6379
+46.232.242.1 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 502 504759 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; tg-TJ; rv:1.9.0.20) Gecko/8124-11-10 17:08:35.649689 Firefox/3.8"
+REDIS_URL=2653
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"user session created","user":"wilsonkristen","trace":"7T9f7yFuGDJi"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"tasha65","trace":"R9nw6XZl7XBO"}
+DB_HOST=19572

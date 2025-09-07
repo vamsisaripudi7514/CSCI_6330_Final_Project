@@ -1,0 +1,25 @@
+sshd[5031]: Accepted password for brownnicole from 172.30.96.135 port 31512 ssh2
+sshd[6513]: Accepted password for robindiaz from 10.199.153.79 port 16001 ssh2
+90.25.220.55 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 302 335739 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/8747-03-15 01:53:47.965729 Firefox/3.8"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"sfreeman","trace":"ef6VkGf4WTRR"}
+API_TIMEOUT=3775
+120.200.224.125 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 400 318006 "-" "Opera/8.86.(Windows NT 6.0; pap-AW) Presto/2.9.166 Version/12.00"
+sshd[3918]: Accepted password for slang from 192.168.84.244 port 24014 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"jamesjeffrey","trace":"sikLQzpfuApm"}
+FEATURE_X_ENABLED=false
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"greggonzalez","trace":"UEcYqo6iNJLI"}
+80.179.208.135 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 200 394749 "-" "Opera/8.11.(X11; Linux x86_64; cmn-TW) Presto/2.9.183 Version/12.00"
+67.52.23.226 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 400 449766 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_1 rv:3.0; ak-GH) AppleWebKit/531.34.5 (KHTML, like Gecko) Version/4.1 Safari/531.34.5"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"michaelbrowning","trace":"BH1HOY06FybE"} API_KEY=AIza86EPrG9klpWzEa_FIRBe4z0iQ2kC-RJ-wOQong
+207.46.213.71 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 403 251075 "-" "Opera/9.77.(Windows 95; mai-IN) Presto/2.9.182 Version/11.00"
+FEATURE_X_ENABLED=INFO
+sshd[9781]: Session opened for christopher66 from 10.146.34.100 port 15248 ssh2
+sshd[9194]: Failed password for phorton from 192.168.116.92 port 15014 ssh2
+sshd[9731]: Accepted password for millerryan from 192.168.3.206 port 27100 ssh2
+sshd[2287]: Accepted password for kyle52 from 10.17.193.7 port 48593 ssh2
+211.176.118.42 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 201 215117 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.1)"
+sshd[2156]: Session closed for stephensmith from 172.18.229.180 port 37459 ssh2
+sshd[1037]: Session closed for justinyoung from 192.168.52.97 port 30209 ssh2
+sshd[8932]: Accepted password for bhansen from 172.18.97.203 port 62959 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3SnFyRXBrVFhMIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.e1JOIxZH0Uo-SU_e7cxmAEcDBGgm0XETqR7wUWXu6uU'
+42.66.12.44 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 403 136782 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/28.0.817.0 Mobile/77K569 Safari/535.0"
+API_TIMEOUT=redis://localhost:6379

@@ -1,0 +1,27 @@
+sshd[9716]: Accepted password for christine01 from 10.224.234.138 port 52544 ssh2
+DB_PORT=DEBUG
+sshd[6315]: Accepted password for lauraallen from 10.111.146.71 port 17473 ssh2
+FEATURE_X_ENABLED=INFO
+sshd[5347]: Accepted password for vcollins from 10.134.17.73 port 51723 ssh2
+sshd[3043]: Session opened for austinwall from 10.90.192.216 port 20493 ssh2
+51.133.220.131 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 500 262260 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.37.2 (KHTML, like Gecko) Version/5.1 Safari/532.37.2"
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"cache miss","user":"ymills","trace":"C1sdDTrsjRPk"}
+LOG_LEVEL=true Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwRlkxWnpmQW92IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.GYRjphd2gk_S5o8UidjQ-yTUpQwPPaXqK8y-XHrNQ2A'
+DB_PORT=desktop-50.fry-contreras.net
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"token refreshed","user":"zacharygutierrez","trace":"sWwChgOTVt9D"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJsODZDODBkdXBNIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.H2vzaANeqiKpFl2mQNDWiCut6UQaXPi3odHIgFfio84'
+218.236.99.217 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 200 72933 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/3.0)"
+FEATURE_X_ENABLED=9325
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"cache miss","user":"gwalker","trace":"cFCKH2IjcQAn"}
+62.217.69.135 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 404 477986 "-" "Mozilla/5.0 (Android 12; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0"
+LOG_LEVEL=redis://localhost:6379
+131.30.186.62 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 401 413501 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.0)"
+sshd[6346]: Failed password for dstrong from 192.168.92.214 port 50751 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"search","msg":"cache miss","user":"wesleysalinas","trace":"jUlelVzcCZ5T"}
+sshd[4509]: Session opened for plee from 10.220.83.109 port 28256 ssh2
+sshd[3052]: Session opened for ashley01 from 172.29.24.173 port 19725 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"notify","msg":"cache miss","user":"ehood","trace":"66rnEEvDxA7w"}
+182.237.30.209 - - [07/Sep/2025:18:24:53 +0000] "POST /api/login HTTP/1.1" 401 260341 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/532.39.5 (KHTML, like Gecko) Version/5.0 Safari/532.39.5"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"richard92","trace":"iyaocjJQ0dkr"}
+3.165.62.243 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 200 130161 "-" "Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/35.0.881.0 Mobile/69X054 Safari/533.1"
+sshd[8103]: Session opened for jamessutton from 10.219.111.0 port 39818 ssh2

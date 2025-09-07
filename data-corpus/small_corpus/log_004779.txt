@@ -1,0 +1,25 @@
+FEATURE_X_ENABLED=redis://localhost:6379
+132.113.201.18 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 201 244261 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.6.7 (KHTML, like Gecko) Version/4.0 Safari/534.6.7"
+REDIS_URL=false
+25.40.186.108 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 302 288203 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.1)"
+118.145.56.149 - - [07/Sep/2025:18:24:56 +0000] "PUT /assets/app.js HTTP/1.1" 204 325655 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8; rv:1.9.3.20) Gecko/7349-04-04 09:29:45.227814 Firefox/3.8"
+API_TIMEOUT=512
+FEATURE_X_ENABLED=false
+sshd[8923]: Accepted password for lindaodonnell from 172.24.138.237 port 11862 ssh2
+REDIS_URL=40807
+144.124.212.162 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 204 38012 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/3218-05-16 10:56:41.492256 Firefox/3.6.12"
+212.11.144.147 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 502 485865 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/534.3.5 (KHTML, like Gecko) Version/5.0.3 Safari/534.3.5" password=cO6$k*9L
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"cache miss","user":"nthomas","trace":"3QCw8yGWWKBa"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"cache miss","user":"fhull","trace":"OV8FNihVYRTs"}
+sshd[8302]: Accepted password for baileyjoseph from 172.17.229.135 port 43140 ssh2 password=yH0\~NeNxU%(~9"{
+API_TIMEOUT=41370
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"andrew37","trace":"G7aPfnN7U0tv"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"rollinscaroline","trace":"sZ5z01KyJEXJ"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"token refreshed","user":"christine48","trace":"x183rariaPlP"}
+sshd[6570]: Failed password for jkelly from 192.168.194.57 port 59311 ssh2
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"kenneth96","trace":"QC4Gj94COPzz"}
+DB_PORT=3338
+DB_HOST=16895
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"user session created","user":"tiffanyjohnson","trace":"NEQ1RvfFrOoD"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"gmorrison","trace":"vyDkoy0SgRiZ"}

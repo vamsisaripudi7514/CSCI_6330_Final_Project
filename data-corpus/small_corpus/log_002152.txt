@@ -1,0 +1,26 @@
+sshd[4609]: Session closed for tuckerantonio from 192.168.179.60 port 29073 ssh2
+API_TIMEOUT=706
+DB_PORT=DEBUG
+sshd[1087]: Failed password for meyerkenneth from 172.25.199.132 port 27423 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"cynthiaibarra","trace":"9l4cc5j84wer"}
+sshd[8939]: Session opened for cathyhart from 10.93.85.88 port 53150 ssh2
+sshd[9259]: Session closed for jeffreynelson from 192.168.10.155 port 47055 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"db slow query","user":"rpugh","trace":"tIBcLTC5xPmN"}
+sshd[9923]: Session closed for tracy55 from 192.168.91.183 port 35167 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"token refreshed","user":"reedwilliam","trace":"XQGhDrLAyumB"}
+LOG_LEVEL=INFO
+sshd[6000]: Accepted password for rmartin from 172.28.204.103 port 20087 ssh2
+REDIS_URL=false Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFdFp4eGxHMGp3IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.gCCn9DyCbEjeb23j1pbwEzNq1krs8w1mCxhbsVu271g'
+API_TIMEOUT=58900
+DB_PORT=59096
+FEATURE_X_ENABLED=false
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"db slow query","user":"njohnson","trace":"nMFh3GntklwG"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"notify","msg":"token refreshed","user":"lauren53","trace":"CC3rj07ttLhO"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"eugeneparrish","trace":"ef54aFCrdOZ9"}
+sshd[5279]: Failed password for timothy62 from 172.24.208.47 port 23043 ssh2
+REDIS_URL=24373
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"heather73","trace":"SXerHLKq3TRc"}
+95.192.64.117 - - [07/Sep/2025:18:24:52 +0000] "PUT /assets/app.js HTTP/1.1" 403 234641 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/11.7x4198.0 Mobile/34B255 Safari/533.2"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"user session created","user":"fvega","trace":"xgVcRU5BkRQO"}
+LOG_LEVEL=WARN

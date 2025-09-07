@@ -1,0 +1,25 @@
+LOG_LEVEL=DEBUG
+LOG_LEVEL=redis://localhost:6379
+sshd[7147]: Failed password for owilson from 172.16.188.52 port 51593 ssh2
+API_TIMEOUT=redis://localhost:6379
+209.76.56.13 - - [07/Sep/2025:18:24:50 +0000] "GET /health HTTP/1.1" 502 204458 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_0; rv:1.9.4.20) Gecko/8975-07-15 10:27:12.198273 Firefox/3.8"
+sshd[9228]: Session closed for evelynwhitaker from 192.168.198.250 port 18107 ssh2
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"cache miss","user":"tiffany93","trace":"xYa88qs4nJ8L"}
+150.139.58.163 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 302 485816 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"db slow query","user":"matthewcunningham","trace":"PtMxM5iWhR0F"}
+sshd[1582]: Accepted password for zacharylang from 172.20.55.23 port 38574 ssh2
+221.217.86.75 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 403 273797 "-" "Mozilla/5.0 (Windows NT 6.0; yo-NG; rv:1.9.1.20) Gecko/3349-03-23 22:43:43.258957 Firefox/3.6.9"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"request completed","user":"russellchristina","trace":"BnbMnjXtkz3j"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"watsondustin","trace":"CGoP2NuSOvt4"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"request completed","user":"kimberly50","trace":"wmSa0lrHbZQe"}
+DB_HOST=DEBUG
+38.48.222.198 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 401 510854 "-" "Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.834.0 Safari/536.0"
+sshd[3717]: Session opened for bobby35 from 192.168.124.219 port 53924 ssh2
+sshd[3490]: Session closed for santiagobrandon from 10.202.119.144 port 53691 ssh2
+sshd[9135]: Session closed for amandajackson from 192.168.154.113 port 28429 ssh2
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"token refreshed","user":"fadams","trace":"VN749eXWyoph"}
+sshd[6968]: Session opened for lopezpamela from 172.16.48.185 port 55661 ssh2 password=aM0(<K4X
+DB_PORT=1295
+sshd[6674]: Failed password for phillipsanchez from 10.255.42.38 port 17633 ssh2

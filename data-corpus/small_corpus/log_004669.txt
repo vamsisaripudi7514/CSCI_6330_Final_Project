@@ -1,0 +1,30 @@
+DB_HOST=db-66.weiss.org
+sshd[9814]: Session opened for mwest from 172.18.59.28 port 17520 ssh2
+sshd[9908]: Accepted password for buchananalvin from 192.168.106.225 port 24680 ssh2
+REDIS_URL=50747
+API_TIMEOUT=redis://localhost:6379
+REDIS_URL=true
+126.4.130.174 - - [07/Sep/2025:18:24:56 +0000] "POST /health HTTP/1.1" 302 165195 "-" "Mozilla/5.0 (iPad; CPU iPad OS 12_4_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/18.2r9650.0 Mobile/29B120 Safari/534.2"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"db slow query","user":"fchen","trace":"TCCStVc0Ww5n"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"search","msg":"token refreshed","user":"hudsonlawrence","trace":"QKJ5nG490JAV"}
+4.220.193.42 - - [07/Sep/2025:18:24:56 +0000] "DELETE /assets/app.js HTTP/1.1" 404 182780 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_7 rv:6.0; tg-TJ) AppleWebKit/531.12.2 (KHTML, like Gecko) Version/5.0.2 Safari/531.12.2"
+sshd[4409]: Session closed for hughesjon from 10.150.21.82 port 25723 ssh2
+sshd[3384]: Session closed for kenneth98 from 192.168.135.76 port 58109 ssh2
+138.118.139.114 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 404 392450 "-" "Opera/8.38.(Windows NT 5.1; nso-ZA) Presto/2.9.173 Version/12.00"
+213.233.254.216 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 404 131448 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"gregory66","trace":"011FDhcQP91c"}
+DB_PORT=4548
+LOG_LEVEL=redis://localhost:6379
+124.128.198.192 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 204 262463 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.1)"
+152.186.105.164 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 404 264165 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.27.4 (KHTML, like Gecko) Version/5.0.4 Safari/535.27.4"
+DB_PORT=1053
+sshd[5262]: Session closed for nathan33 from 192.168.139.183 port 64921 ssh2
+DB_HOST=3889
+sshd[4328]: Session opened for gsilva from 10.169.76.89 port 52034 ssh2
+LOG_LEVEL=false
+89.63.25.219 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 502 131211 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/5.0)"
+FEATURE_X_ENABLED=false
+187.126.191.125 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 201 518196 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6 rv:3.0; se-NO) AppleWebKit/535.21.3 (KHTML, like Gecko) Version/4.0.2 Safari/535.21.3"
+LOG_LEVEL=redis://localhost:6379
+95.216.120.242 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 400 458041 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"vincentjeffrey","trace":"manZcvwEtTuG"}

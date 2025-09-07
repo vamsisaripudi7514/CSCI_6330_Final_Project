@@ -1,0 +1,26 @@
+FEATURE_X_ENABLED=true
+30.106.250.119 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 403 349152 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.36.3 (KHTML, like Gecko) Version/4.0.1 Safari/535.36.3"
+sshd[3322]: Failed password for angelamosley from 172.25.49.221 port 46923 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"james42","trace":"Vp7VJB1oMDD3"}
+LOG_LEVEL=WARN
+sshd[3529]: Session opened for ldavis from 192.168.143.213 port 15518 ssh2
+49.89.243.44 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 204 245906 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"erikaperry","trace":"nG3wiYKrcI4m"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"jonathon73","trace":"ALWHLpnxLTmr"}
+160.216.82.229 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 401 449006 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_6) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/61.0.882.0 Safari/536.0"
+DB_HOST=334
+111.108.251.85 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 200 296995 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/25.0.824.0 Safari/534.2"
+8.134.139.218 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 200 202203 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_1 rv:5.0; brx-IN) AppleWebKit/533.6.1 (KHTML, like Gecko) Version/5.1 Safari/533.6.1"
+FEATURE_X_ENABLED=DEBUG
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"cache miss","user":"aliciahill","trace":"1HDtZyZhMCRD"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"cache miss","user":"wmcintyre","trace":"tN1X5LK9PdIA"}
+sshd[4958]: Failed password for shepardsamantha from 192.168.187.58 port 27794 ssh2
+142.118.149.108 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 500 21839 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/18.3g6154.0 Mobile/54U735 Safari/531.1"
+sshd[9651]: Session closed for craig97 from 172.20.108.248 port 51005 ssh2
+sshd[4094]: Failed password for bryan75 from 172.21.143.5 port 22095 ssh2
+sshd[8612]: Accepted password for lopezhaley from 192.168.83.211 port 15782 ssh2
+sshd[7204]: Session opened for evanstiffany from 172.31.7.239 port 40656 ssh2
+sshd[8219]: Session opened for pbrown from 10.119.236.3 port 49049 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"cache miss","user":"nicholascompton","trace":"JwS7h4awhQPr"}
+REDIS_URL=2225
+170.8.19.67 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 302 408784 "-" "Opera/8.69.(X11; Linux x86_64; hak-TW) Presto/2.9.170 Version/12.00"

@@ -1,0 +1,31 @@
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"ballyolanda","trace":"gl0kN5ZJM1OU"}
+sshd[8219]: Failed password for ronald06 from 10.3.38.13 port 39672 ssh2
+103.14.17.246 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 400 376885 "-" "Mozilla/5.0 (Windows NT 10.0; crh-UA; rv:1.9.0.20) Gecko/8920-08-18 03:32:14.130432 Firefox/3.6.13"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"ekrueger","trace":"TAvuWCcqaxEQ"}
+sshd[3128]: Accepted password for millerstephen from 192.168.159.49 port 51306 ssh2
+72.10.73.124 - - [07/Sep/2025:18:24:54 +0000] "GET /health HTTP/1.1" 201 270302 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/47.0.896.0 Safari/531.1"
+API_TIMEOUT=true
+DB_HOST=3641
+API_TIMEOUT=redis://localhost:6379
+sshd[7315]: Session closed for joshua67 from 172.23.190.171 port 21117 ssh2
+FEATURE_X_ENABLED=desktop-95.brooks.com
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"user session created","user":"ucortez","trace":"U46gni9lW1Rp"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"cache miss","user":"zporter","trace":"oXmjVwJlVs06"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"belliott","trace":"Kcw8ozqrCJO9"}
+API_TIMEOUT=28238
+126.190.36.27 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 500 331648 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/63.0.872.0 Mobile/92Q313 Safari/534.0"
+sshd[3496]: Accepted password for deckergary from 10.30.183.213 port 61971 ssh2
+sshd[3714]: Accepted password for dbaker from 192.168.169.43 port 51171 ssh2
+168.168.170.222 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 164809 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2089-10-26 01:09:29.406844 Firefox/3.8"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"user session created","user":"johnsmith","trace":"FxEk59FCfIH0"}
+REDIS_URL=1000
+DB_HOST=61875
+sshd[9825]: Accepted password for afigueroa from 192.168.45.160 port 41962 ssh2
+sshd[8057]: Session closed for eyoung from 192.168.220.253 port 16300 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"heatherbarron","trace":"ieXcZpe2nqz4"}
+183.101.27.139 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 302 9901 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)"
+LOG_LEVEL=redis://localhost:6379
+146.124.152.249 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 200 118792 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/4.1)"
+REDIS_URL=INFO
+64.58.41.80 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 404 213858 "-" "Mozilla/5.0 (Windows NT 5.1; mg-MG; rv:1.9.0.20) Gecko/7888-10-12 06:18:08.285278 Firefox/3.6.9"
+LOG_LEVEL=true

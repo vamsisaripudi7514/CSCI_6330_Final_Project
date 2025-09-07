@@ -1,0 +1,30 @@
+REDIS_URL=WARN
+223.183.247.49 - - [07/Sep/2025:18:24:48 +0000] "DELETE /index.html HTTP/1.1" 500 209308 "-" "Opera/8.89.(X11; Linux i686; pap-CW) Presto/2.9.179 Version/11.00"
+sshd[2740]: Session opened for reedmaria from 192.168.77.42 port 24728 ssh2
+API_TIMEOUT=redis://localhost:6379
+API_TIMEOUT=INFO
+73.38.217.17 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 200 237879 "-" "Opera/9.36.(X11; Linux x86_64; iw-IL) Presto/2.9.167 Version/10.00"
+80.215.157.51 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 400 510457 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/35.0.847.0 Safari/532.2"
+sshd[7730]: Accepted password for sheilacook from 192.168.147.108 port 24241 ssh2
+sshd[7196]: Accepted password for patricia08 from 172.31.82.12 port 40023 ssh2
+LOG_LEVEL=false
+89.57.180.196 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 502 232292 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/22.0.862.0 Safari/532.1"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"nthompson","trace":"rtKTKYZwRg2s"}
+202.85.106.76 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 400 510698 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_0; rv:1.9.6.20) Gecko/6207-05-29 14:36:04.880432 Firefox/6.0"
+178.249.33.171 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 403 103691 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.0)"
+API_TIMEOUT=51090
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"token refreshed","user":"diane71","trace":"gZTYL1EmGfQU"}
+9.14.71.27 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 404 107084 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/13.4b7337.0 Mobile/46L133 Safari/531.2"
+sshd[1512]: Accepted password for igutierrez from 10.96.131.5 port 53360 ssh2
+sshd[6356]: Failed password for daniel08 from 192.168.53.205 port 10966 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"katrinawest","trace":"gbtunV9uf9nu"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"request completed","user":"diane45","trace":"SC9eMR9O9e5y"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"db slow query","user":"lbailey","trace":"OfSw3q3np7OO"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"request completed","user":"wendysmith","trace":"FZAIK9jSRjcz"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"user session created","user":"oharrell","trace":"Scl7G7twDhRJ"}
+23.96.179.15 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 204 193667 "-" "Opera/9.24.(Windows NT 11.0; ga-IE) Presto/2.9.184 Version/10.00"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"coreylong","trace":"pUAvgmn6H9Bh"}
+API_TIMEOUT=2482
+164.29.253.184 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 302 118888 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9387-03-02 01:32:51.044556 Firefox/3.6.13"
+182.131.82.74 - - [07/Sep/2025:18:24:48 +0000] "DELETE /download/report.csv HTTP/1.1" 302 200696 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/5.1)"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"db slow query","user":"thomas93","trace":"aAMW62x9pZel"}

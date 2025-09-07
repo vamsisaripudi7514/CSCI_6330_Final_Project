@@ -1,0 +1,33 @@
+sshd[6802]: Failed password for staceybradley from 10.250.108.189 port 36232 ssh2
+150.167.20.120 - - [07/Sep/2025:18:24:53 +0000] "GET /health HTTP/1.1" 204 80907 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/59.0.861.0 Safari/532.0"
+DB_PORT=DEBUG
+REDIS_URL=true
+LOG_LEVEL=INFO
+sshd[6181]: Session closed for davidprince from 10.241.7.90 port 37681 ssh2
+219.248.133.119 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 404 237692 "-" "Mozilla/5.0 (Android 4.0.3; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0"
+LOG_LEVEL=false
+DB_PORT=false
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"cache miss","user":"bjohnston","trace":"42IRwPzPsJkI"}
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"orders","msg":"request completed","user":"angel67","trace":"meY9MNLKBFov"}
+REDIS_URL=db-40.cannon.com
+sshd[9922]: Accepted password for elizabeth76 from 172.16.122.85 port 24837 ssh2
+REDIS_URL=3064
+API_TIMEOUT=redis://localhost:6379
+DB_HOST=false
+sshd[7376]: Session closed for kevin20 from 192.168.157.174 port 52136 ssh2
+129.241.124.77 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 500 220881 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/7663-10-04 14:09:02.808228 Firefox/3.8"
+FEATURE_X_ENABLED=1065
+167.150.0.233 - - [07/Sep/2025:18:24:53 +0000] "PUT /index.html HTTP/1.1" 204 233624 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_7 rv:2.0; hsb-DE) AppleWebKit/531.32.1 (KHTML, like Gecko) Version/4.0.4 Safari/531.32.1"
+REDIS_URL=23259
+sshd[7701]: Session closed for smithcraig from 10.129.199.153 port 61377 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDbjVCdnRLSUpSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.CclSMJaKSB2S8_2phMpO3jf7fe-kPXkQIWo5N9jiq2U'
+sshd[4036]: Session opened for michaelfrench from 10.19.175.124 port 31540 ssh2
+DB_HOST=702
+LOG_LEVEL=lt-98.howard.com
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"misty13","trace":"HHXsrcwWt8JV"}
+sshd[8807]: Session closed for hayesjacqueline from 172.24.175.129 port 50335 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"cprice","trace":"P1ZYsOuWX4qc"}
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"db slow query","user":"victoriamorris","trace":"RNe3STenmoZY"}
+sshd[3212]: Session closed for nalvarez from 192.168.187.106 port 11051 ssh2
+FEATURE_X_ENABLED=lt-53.kirby.com
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"daisy19","trace":"nH2NhzMzcg7z"}

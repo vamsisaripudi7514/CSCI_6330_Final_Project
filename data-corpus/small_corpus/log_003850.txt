@@ -1,0 +1,27 @@
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"cache miss","user":"stacybutler","trace":"X0U2jOua7ZFJ"}
+95.128.176.92 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 502 209127 "-" "Opera/8.42.(Windows NT 6.0; yue-HK) Presto/2.9.176 Version/12.00"
+API_TIMEOUT=WARN
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"amandacolon","trace":"kcVTrZAo7U7y"}
+sshd[8928]: Accepted password for bennettkatrina from 10.170.105.176 port 30402 ssh2
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"user session created","user":"zsanchez","trace":"Pm4FEoIypC8T"}
+sshd[8966]: Failed password for ronald65 from 172.26.76.249 port 57693 ssh2
+DB_PORT=60663
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"token refreshed","user":"ereyes","trace":"18VHjJb1dsCl"}
+sshd[2641]: Failed password for wsmith from 192.168.36.127 port 13282 ssh2
+99.196.114.81 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 302 515850 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.35.4 (KHTML, like Gecko) Version/4.0 Safari/535.35.4"
+207.237.219.193 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 403 341801 "-" "Opera/8.74.(X11; Linux x86_64; the-NP) Presto/2.9.189 Version/12.00"
+180.136.58.169 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 200 448457 "-" "Opera/9.30.(Windows 95; sk-SK) Presto/2.9.183 Version/10.00"
+61.247.87.161 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 204 373042 "-" "Mozilla/5.0 (Windows NT 5.01; eu-ES; rv:1.9.1.20) Gecko/5216-11-13 10:19:50.253555 Firefox/3.8"
+REDIS_URL=4668
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"request completed","user":"bankslori","trace":"tGtA8cjbJls8"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"krystalcamacho","trace":"Qh40hhTnOQAr"}
+sshd[1916]: Accepted password for whitemichelle from 192.168.236.221 port 48569 ssh2
+sshd[5846]: Session closed for greg49 from 192.168.167.109 port 42191 ssh2
+DB_HOST=false
+sshd[2268]: Session closed for cparrish from 192.168.15.126 port 16117 ssh2
+DB_PORT=5189
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"request completed","user":"adamsjamie","trace":"Y8SfymIN4yIL"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"cache miss","user":"hmorris","trace":"otKIBj4SdRoV"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"request completed","user":"simmonsaaron","trace":"fTXcsVdnAvWe"}

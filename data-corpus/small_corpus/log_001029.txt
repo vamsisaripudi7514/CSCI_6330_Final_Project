@@ -1,0 +1,45 @@
+DB_PORT=WARN
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"user session created","user":"qwalters","trace":"2urbcQgUCfD2"}
+LOG_LEVEL=desktop-70.molina-gregory.com
+50.218.252.136 - - [07/Sep/2025:18:24:50 +0000] "POST /api/login HTTP/1.1" 204 373634 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/11.4s3651.0 Mobile/74J438 Safari/531.2"
+LOG_LEVEL=WARN
+API_TIMEOUT=968
+48.74.167.39 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 400 283572 "-" "Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/31.0.824.0 Mobile/71N030 Safari/533.2"
+190.162.183.21 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 302 197121 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/44.0.813.0 Safari/531.0"
+122.221.86.90 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 404 274021 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1; rv:1.9.3.20) Gecko/5059-04-26 05:46:09.683228 Firefox/3.8"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"billing","msg":"cache miss","user":"brandon75","trace":"I4lxyg1AMrbv"}
+sshd[9699]: Accepted password for phillipsjoshua from 172.25.35.51 port 23769 ssh2
+174.33.224.153 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 401 99395 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/32.0.893.0 Safari/533.1"
+sshd[4328]: Session opened for mark70 from 10.188.243.81 port 29621 ssh2
+75.27.173.8 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 502 79544 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/26.0.865.0 Safari/533.1"
+REDIS_URL=redis://localhost:6379
+9.30.245.42 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 204 150954 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_8 rv:5.0; sw-KE) AppleWebKit/535.29.3 (KHTML, like Gecko) Version/5.0 Safari/535.29.3"
+9.5.199.17 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 403 226270 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/5.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"user session created","user":"melinda02","trace":"gRg31AatWBZH"}
+sshd[8669]: Session opened for kkennedy from 192.168.189.228 port 36613 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzRUx0aHJ3RjNjIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.pJMK2PV8U6J7dmOFtsQpUTotiZqAUn0NwMZyJiSoU68'
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"request completed","user":"david35","trace":"YAU72cz19Iw1"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ5dUZ4V2JiRVFSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Adlqjb_2oWOfk7QAtqaxshPpdxJf2ZJz_iO1fC6QX10'
+108.205.92.186 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 404 289605 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/36.0.858.0 Safari/535.2"
+sshd[5155]: Session closed for johnbonilla from 192.168.157.206 port 24938 ssh2
+194.8.37.235 - - [07/Sep/2025:18:24:50 +0000] "PUT /assets/app.js HTTP/1.1" 200 477967 "-" "Mozilla/5.0 (Windows NT 5.0; quz-PE; rv:1.9.1.20) Gecko/8542-08-14 16:29:05.233124 Firefox/3.8"
+sshd[3757]: Session closed for michaelhaas from 10.167.62.144 port 24303 ssh2
+112.178.191.44 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 403 150894 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2594-01-22 01:07:09.915848 Firefox/3.8"
+sshd[5391]: Failed password for millersandra from 192.168.53.55 port 50397 ssh2
+49.78.107.133 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 201 502304 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.9.3 (KHTML, like Gecko) Version/4.1 Safari/534.9.3"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"user session created","user":"vryan","trace":"XwiVrMwGmRXW"}
+148.56.186.57 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 200 357811 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.13.1 (KHTML, like Gecko) Version/5.0.4 Safari/532.13.1"
+sshd[7307]: Failed password for matthew88 from 10.44.190.35 port 61459 ssh2
+sshd[2584]: Session opened for andersonfrederick from 192.168.148.33 port 59884 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"williamschad","trace":"2xGmljqtItOg"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"request completed","user":"michael51","trace":"71HHTSqcxu1x"}
+sshd[6199]: Session closed for nashmartin from 172.18.62.17 port 10451 ssh2
+69.181.77.228 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 500 77181 "-" "Opera/9.70.(Windows NT 11.0; fy-DE) Presto/2.9.178 Version/11.00"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"user session created","user":"douglas63","trace":"gSLRlEwAM9ti"}
+202.228.27.47 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 401 355711 "-" "Opera/8.45.(Windows 98; Win 9x 4.90; it-IT) Presto/2.9.176 Version/10.00"
+sshd[6948]: Session closed for sheltonjohn from 10.171.167.35 port 22546 ssh2
+46.246.65.7 - - [07/Sep/2025:18:24:50 +0000] "DELETE /download/report.csv HTTP/1.1" 200 449138 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/3.1)"
+LOG_LEVEL=15437
+sshd[9501]: Failed password for darrellmoore from 172.16.33.252 port 60253 ssh2
+DB_HOST=2175
+178.125.143.181 - - [07/Sep/2025:18:24:50 +0000] "PUT /api/login HTTP/1.1" 403 524210 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.1)"
+LOG_LEVEL=DEBUG Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMUF1SFFBdVdKIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.TlDLCSB2Fq-bCWHcOjH3ZFl_ySl2XRZWqlwiiLId5JA'
+162.44.212.9 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 204 362392 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/534.18.6 (KHTML, like Gecko) Version/4.0.5 Safari/534.18.6"

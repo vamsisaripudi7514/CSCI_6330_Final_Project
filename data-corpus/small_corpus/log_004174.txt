@@ -1,0 +1,30 @@
+5.145.167.154 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 204 411144 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4277-06-06 06:48:39.655228 Firefox/3.6.10"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"user session created","user":"nmartinez","trace":"RiEDrwIPGFPc"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"request completed","user":"cmarshall","trace":"dNUsrpW3zXnn"}
+DB_PORT=INFO
+DB_PORT=web-42.willis-heath.com
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"cache miss","user":"lisaperry","trace":"zsXPlW1ccMKl"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"danielsolomon","trace":"jD7FRRTCM74Q"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"stephanie25","trace":"NC5kTbTHZEI5"}
+FEATURE_X_ENABLED=3969
+FEATURE_X_ENABLED=redis://localhost:6379
+200.24.46.145 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 201 150522 "-" "Mozilla/5.0 (Android 4.2.2; Mobile; rv:29.0) Gecko/29.0 Firefox/29.0"
+215.159.230.188 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 201 221520 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_9) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/63.0.871.0 Safari/533.2"
+DB_HOST=1057
+FEATURE_X_ENABLED=3071
+DB_PORT=38986
+sshd[9503]: Session opened for hernandezmary from 192.168.135.219 port 38789 ssh2
+sshd[6276]: Accepted password for sean02 from 10.43.48.173 port 33810 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"token refreshed","user":"brianmartin","trace":"irmwVMdEmk57"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"cache miss","user":"herringbrittany","trace":"KHIaa42Ozbld"}
+63.229.146.106 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 400 379228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3; rv:1.9.6.20) Gecko/6447-08-19 16:09:56.875397 Firefox/9.0"
+REDIS_URL=DEBUG
+sshd[3557]: Session opened for dianelee from 10.189.205.79 port 51167 ssh2
+sshd[9744]: Session opened for edavidson from 172.17.162.19 port 48502 ssh2
+sshd[3751]: Session closed for jason98 from 192.168.7.140 port 58481 ssh2
+FEATURE_X_ENABLED=WARN
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"request completed","user":"amandahays","trace":"clHe4iVJbJ2Z"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"user session created","user":"bjohnson","trace":"DnMdEZMHIPns"}
+FEATURE_X_ENABLED=11429
+sshd[9484]: Failed password for beckyjackson from 10.124.227.131 port 61824 ssh2
+25.25.140.162 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 500 349153 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_1; rv:1.9.3.20) Gecko/2653-08-29 04:21:49.790646 Firefox/3.8"

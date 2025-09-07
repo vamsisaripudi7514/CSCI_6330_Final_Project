@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"amanda40","trace":"6EtBxQDWAjvw"}
+113.97.248.136 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/v1/users HTTP/1.1" 400 341100 "-" "Opera/9.36.(Windows NT 5.1; gl-ES) Presto/2.9.183 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"request completed","user":"grantcatherine","trace":"S2JGwfO06tbX"}
+DB_HOST=INFO
+REDIS_URL=false
+sshd[1191]: Session opened for allenjames from 172.26.149.123 port 23566 ssh2
+sshd[2048]: Session closed for stephaniecowan from 10.81.168.168 port 44030 ssh2 password=aZ0`+GSR,w
+sshd[7977]: Failed password for monicajohnson from 10.200.218.145 port 47225 ssh2
+API_TIMEOUT=web-95.brooks.com
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"search","msg":"cache miss","user":"parnold","trace":"VmzFt6AkFPaA"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"user session created","user":"abigail38","trace":"CfI82Ahu52UK"}
+sshd[9227]: Failed password for jacob40 from 172.18.219.196 port 10779 ssh2
+sshd[5455]: Accepted password for gregorykirby from 192.168.112.198 port 39503 ssh2 API_KEY=AIzaYCVImrvKgkoCC0A4L61liIRwYD34vhfvwDm2Gw
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"jessicageorge","trace":"ofWgrkfTpn4O"}
+73.103.31.215 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 326255 "-" "Opera/8.79.(Windows NT 10.0; cs-CZ) Presto/2.9.164 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"piercejonathan","trace":"jPCiMvZXnSVe"}
+FEATURE_X_ENABLED=DEBUG
+sshd[6800]: Failed password for elong from 192.168.141.156 port 60582 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"request completed","user":"lopezerin","trace":"2dWtN12PfgEH"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"db slow query","user":"rmorse","trace":"4paoWLx7s3cq"}
+215.178.71.106 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 403 212035 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_9 rv:5.0; doi-IN) AppleWebKit/533.50.3 (KHTML, like Gecko) Version/5.0.1 Safari/533.50.3"
+sshd[5509]: Failed password for andrewnorman from 192.168.145.135 port 29560 ssh2
+147.136.179.51 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 204 15423 "-" "Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.9.7 (KHTML, like Gecko) Version/4.1 Safari/531.9.7"
+LOG_LEVEL=4819
+API_TIMEOUT=redis://localhost:6379

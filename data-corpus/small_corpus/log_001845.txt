@@ -1,0 +1,44 @@
+sshd[3143]: Session opened for apierce from 192.168.245.228 port 13047 ssh2
+LOG_LEVEL=INFO
+DB_HOST=true
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"user session created","user":"vhill","trace":"WY1G4dP1AsJU"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"pbaker","trace":"u3CWy831XW5j"}
+REDIS_URL=64710
+sshd[9993]: Session closed for stanner from 192.168.22.191 port 11645 ssh2
+218.2.115.159 - - [07/Sep/2025:18:24:51 +0000] "GET /assets/app.js HTTP/1.1" 404 81719 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2806-10-23 18:19:00.232258 Firefox/11.0"
+108.249.177.119 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 500 363677 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"orders","msg":"user session created","user":"fchavez","trace":"dAzCaszVFUg9"}
+LOG_LEVEL=265
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"user session created","user":"thowell","trace":"m1sc7Z3T6bfn"}
+FEATURE_X_ENABLED=true
+DB_PORT=false
+176.148.59.93 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 403 205188 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"user session created","user":"matthew09","trace":"VJiisoNqWK5N"}
+LOG_LEVEL=false password=rX7,z'K3H2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"cache miss","user":"dayjessica","trace":"XhAeM60mNnQu"}
+LOG_LEVEL=redis://localhost:6379
+179.205.84.140 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 502 511320 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.0)" password=pC2/#i)f
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"retrying upstream","user":"shannonjackson","trace":"5P4yU1fjJsWp"}
+217.114.82.219 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/login HTTP/1.1" 403 453414 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)"
+sshd[4087]: Accepted password for jpatel from 192.168.235.176 port 39123 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"request completed","user":"taylor07","trace":"3pbUyfUfgQae"}
+104.68.42.23 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 404 377528 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.1)"
+sshd[6481]: Session opened for samantha30 from 172.30.40.84 port 49946 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"user session created","user":"gkrause","trace":"bp5Ngld9DKWy"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[4865]: Session opened for coopersuzanne from 192.168.249.129 port 26843 ssh2
+sshd[1568]: Session opened for sarahjones from 10.179.235.178 port 43690 ssh2
+FEATURE_X_ENABLED=8580
+197.174.176.156 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 201 517165 "-" "Mozilla/5.0 (Android 2.3.6; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0"
+33.143.29.5 - - [07/Sep/2025:18:24:51 +0000] "GET /index.html HTTP/1.1" 200 357437 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_4; rv:1.9.2.20) Gecko/8529-10-04 04:16:30.851135 Firefox/12.0"
+API_TIMEOUT=1638
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"request completed","user":"patrick58","trace":"4L0irWrR6A0C"}
+sshd[1878]: Accepted password for santosjamie from 172.30.11.23 port 51673 ssh2
+207.40.181.226 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 201 262984 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_4 rv:6.0; li-BE) AppleWebKit/532.36.6 (KHTML, like Gecko) Version/5.0 Safari/532.36.6"
+sshd[9108]: Session closed for mark75 from 192.168.88.236 port 58809 ssh2
+179.81.164.28 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 403 504766 "-" "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/41.0.837.0 Safari/536.2"
+sshd[9483]: Failed password for robert71 from 192.168.144.42 port 23658 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"billing","msg":"cache miss","user":"annajackson","trace":"Yefmfk8AYEOL"}
+90.236.91.132 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 500 397660 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)"
+DB_PORT=2764

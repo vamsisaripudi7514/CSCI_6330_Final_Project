@@ -1,0 +1,25 @@
+sshd[8145]: Session opened for jackielewis from 172.25.15.235 port 19744 ssh2
+FEATURE_X_ENABLED=WARN
+104.39.101.39 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 404 349402 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; hsb-DE) AppleWebKit/534.28.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6534.28.5"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"auth","msg":"cache miss","user":"angelawest","trace":"J3wkWgy2NmJw"}
+21.101.173.190 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 401 408652 "-" "Mozilla/5.0 (Linux; Android 2.0.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/61.0.866.0 Safari/534.2"
+DB_PORT=INFO
+sshd[3756]: Session opened for julia71 from 10.179.141.112 port 26714 ssh2
+API_TIMEOUT=12580
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"db slow query","user":"ogrant","trace":"pwEEpBwT0tNE"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"mgarcia","trace":"vv4U22j9VtYq"}
+FEATURE_X_ENABLED=web-43.mcguire.info
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"ntucker","trace":"5wMwcIQzkUE0"}
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"db slow query","user":"alvarezcolleen","trace":"ob0TTa9CwDaB"}
+sshd[9277]: Session opened for wayne96 from 192.168.74.192 port 32155 ssh2
+LOG_LEVEL=64938
+87.12.76.141 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 201 449159 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/55.0.887.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"cache miss","user":"robertmartinez","trace":"zpIaUssh1v4X"}
+FEATURE_X_ENABLED=1798
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"retrying upstream","user":"francis53","trace":"bJW6gvybmysU"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"lvasquez","trace":"N2HE9wkdrVeN"}
+FEATURE_X_ENABLED=laptop-60.curtis.com
+144.216.202.247 - - [07/Sep/2025:18:24:50 +0000] "POST /api/v1/users HTTP/1.1" 200 234552 "-" "Mozilla/5.0 (Android 3.2.2; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0"
+82.234.116.183 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/login HTTP/1.1" 404 507070 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"request completed","user":"gpatel","trace":"890IOU6LP3A3"}

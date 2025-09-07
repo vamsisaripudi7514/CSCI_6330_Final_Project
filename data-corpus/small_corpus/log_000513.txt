@@ -1,0 +1,39 @@
+sshd[7447]: Session opened for tiffany68 from 192.168.245.115 port 38510 ssh2
+sshd[8703]: Session opened for brownmichelle from 172.21.85.250 port 18025 ssh2
+sshd[4486]: Failed password for keith17 from 192.168.188.76 port 28398 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[4724]: Session closed for smithbrett from 10.121.231.107 port 49188 ssh2
+sshd[3195]: Session opened for abigail89 from 10.184.18.24 port 15425 ssh2
+DB_HOST=false
+sshd[6508]: Session closed for nmcgee from 10.8.145.212 port 45068 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"billing","msg":"user session created","user":"karenburns","trace":"PNNcGIDYTXu0"}
+REDIS_URL=redis://localhost:6379
+6.31.235.195 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 403 368647 "-" "Mozilla/5.0 (Linux; Android 3.2.5) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/19.0.828.0 Safari/532.1"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"jerryallen","trace":"Tia8KOyFOQXP"}
+sshd[5988]: Failed password for owood from 10.51.14.37 port 44424 ssh2
+22.121.115.200 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 500 522186 "-" "Mozilla/5.0 (Android 7.0; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0"
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"billing","msg":"db slow query","user":"rebeccasexton","trace":"s4vtmzWEpfPA"}
+sshd[6038]: Failed password for ramirezmary from 10.109.108.74 port 16656 ssh2
+121.80.226.213 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 201 125201 "-" "Opera/9.90.(X11; Linux x86_64; ti-ET) Presto/2.9.184 Version/10.00"
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"cache miss","user":"zrowland","trace":"p9IcvrAJoPBC"}
+sshd[6758]: Session closed for carpentersandra from 172.18.218.17 port 13537 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"user session created","user":"wrightthomas","trace":"9Xzs7mG2kBtt"}
+API_TIMEOUT=INFO
+sshd[7649]: Accepted password for icook from 192.168.143.54 port 63768 ssh2
+sshd[2036]: Session closed for jimmydavis from 172.22.30.14 port 19175 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"wsmith","trace":"v6JuLDAdEpQ3"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"search","msg":"retrying upstream","user":"spearsshelley","trace":"R5bU80RjvAJF"}
+sshd[9005]: Failed password for harrellmichael from 192.168.178.255 port 38870 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"user session created","user":"timothyraymond","trace":"GfnCEqyIM1Os"}
+sshd[2061]: Session closed for ahicks from 192.168.83.92 port 37142 ssh2
+90.195.252.2 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/login HTTP/1.1" 500 454287 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0)"
+DB_PORT=3152
+sshd[2147]: Session closed for neil62 from 10.54.151.151 port 27954 ssh2
+sshd[1273]: Session opened for scottlucas from 10.166.176.228 port 23178 ssh2
+60.200.115.185 - - [07/Sep/2025:18:24:49 +0000] "PUT /api/login HTTP/1.1" 400 114215 "-" "Opera/8.44.(Windows NT 6.1; my-MM) Presto/2.9.182 Version/11.00"
+33.48.111.186 - - [07/Sep/2025:18:24:49 +0000] "PUT /index.html HTTP/1.1" 500 67113 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_6; rv:1.9.5.20) Gecko/6591-07-01 22:27:22.214905 Firefox/5.0"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"user session created","user":"ricardobrown","trace":"VRFk6bucYZfP"}
+31.216.169.244 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 400 15203 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.32.4 (KHTML, like Gecko) Version/4.0 Safari/532.32.4"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"user session created","user":"kelly20","trace":"5eSO5waWD2qr"}
+49.204.11.123 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 500 475431 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/3.0)"
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"kpierce","trace":"pRIFy0Sv21kc"}

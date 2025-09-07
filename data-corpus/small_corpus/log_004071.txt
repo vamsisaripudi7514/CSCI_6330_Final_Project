@@ -1,0 +1,40 @@
+FEATURE_X_ENABLED=DEBUG
+217.58.236.171 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 302 510882 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxVXRiN3ZlYWMwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.MB3ZHvPJcnVTDyMbw1Zf7HPILOY871LsjDGWWlDEQ9Y'
+sshd[1435]: Session opened for xlewis from 172.31.203.158 port 62001 ssh2
+API_TIMEOUT=false
+FEATURE_X_ENABLED=3071
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"user session created","user":"mitchellrobert","trace":"3iOkLfvxp3r8"}
+108.152.29.231 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 302 297933 "-" "Opera/9.75.(Windows NT 5.0; nb-NO) Presto/2.9.175 Version/11.00"
+169.135.216.6 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 401 436710 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/6368-11-28 20:12:05.951385 Firefox/3.8"
+DB_HOST=desktop-23.bradley.com
+REDIS_URL=4284
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"retrying upstream","user":"melvinnicholson","trace":"918rhTWwJCPW"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"edward05","trace":"DOYnqURNwkPZ"}
+sshd[1540]: Session opened for masseychristy from 10.88.116.244 port 16989 ssh2
+sshd[7564]: Session closed for timothyhopkins from 10.235.45.42 port 64418 ssh2
+sshd[4311]: Failed password for chad30 from 172.31.245.85 port 34341 ssh2
+DB_HOST=10892
+LOG_LEVEL=false
+39.33.126.195 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 404 461650 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8 rv:6.0; iu-CA) AppleWebKit/532.34.7 (KHTML, like Gecko) Version/4.1 Safari/532.34.7"
+sshd[9821]: Accepted password for johnsontina from 10.106.122.188 port 47700 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[8632]: Failed password for johnvelasquez from 172.21.187.80 port 13934 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"user session created","user":"bassjeremy","trace":"YN3ni1bgHEZI"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"request completed","user":"brendajenkins","trace":"uGdvCQLo7Yu5"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"user session created","user":"erinmiranda","trace":"kJOFgldB5Sss"} password=xZ4&YZ0Y@pgA
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"token refreshed","user":"joshuawoodard","trace":"yRi4tWZziveC"}
+sshd[7877]: Session opened for enavarro from 192.168.157.34 port 53439 ssh2
+REDIS_URL=db-00.henderson.biz
+DB_PORT=true
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"user session created","user":"mary75","trace":"oGIGSR5zNcVp"}
+5.116.215.173 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 401 155971 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.1)"
+sshd[3593]: Session closed for yking from 10.1.241.27 port 25191 ssh2
+80.98.20.227 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 204 220019 "-" "Opera/8.24.(X11; Linux x86_64; raj-IN) Presto/2.9.168 Version/12.00"
+220.20.73.69 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 403 287993 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_8; rv:1.9.4.20) Gecko/7707-09-15 18:27:47.319244 Firefox/3.6.3"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"request completed","user":"jamie99","trace":"hsbApOvqCocN"}
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"cache miss","user":"jamesmartin","trace":"XyuA96UavnDy"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBZXhlbnMxV2xyIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.CW0IC9Ey20Z_AuACDUtEz9wPpCDz75dVseGpDtGLo80'
+130.86.32.144 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/login HTTP/1.1" 400 462991 "-" "Mozilla/5.0 (Windows 98; ha-NG; rv:1.9.1.20) Gecko/7063-08-03 03:53:42.645233 Firefox/7.0"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"theresa69","trace":"5M5f7hBixflT"}
+DB_HOST=3245

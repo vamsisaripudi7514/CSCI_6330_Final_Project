@@ -1,0 +1,25 @@
+API_TIMEOUT=redis://localhost:6379
+sshd[5147]: Session opened for michaelwhite from 172.16.71.160 port 60613 ssh2
+69.6.106.197 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 400 50804 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0)"
+208.85.108.27 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 502 282319 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_0 rv:3.0; ur-IN) AppleWebKit/535.8.5 (KHTML, like Gecko) Version/4.0.3 Safari/535.8.5"
+217.106.187.99 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 400 232932 "-" "Opera/8.75.(Windows NT 5.1; ik-CA) Presto/2.9.162 Version/11.00"
+sshd[9798]: Session closed for woodbrian from 192.168.174.49 port 47437 ssh2
+sshd[3922]: Session closed for adamspatricia from 192.168.209.212 port 54881 ssh2
+162.184.69.29 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 404 70525 "-" "Mozilla/5.0 (Windows 98; tr-TR; rv:1.9.0.20) Gecko/8806-02-16 02:29:17.491455 Firefox/3.8"
+sshd[3111]: Accepted password for leenicole from 172.19.65.243 port 33054 ssh2
+sshd[3125]: Failed password for daviddiaz from 10.149.83.93 port 22308 ssh2
+sshd[5842]: Session opened for wileychristopher from 172.27.55.40 port 19442 ssh2
+API_TIMEOUT=email-58.carpenter.biz
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"burkekelli","trace":"EuxBFj96jdla"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"fosteremily","trace":"WB0u2Yp8W7r5"}
+sshd[8848]: Accepted password for rickymosley from 172.26.14.251 port 47598 ssh2
+FEATURE_X_ENABLED=2456
+sshd[5638]: Failed password for janetmccarthy from 172.29.243.224 port 62587 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"user session created","user":"amandagomez","trace":"DLFPWKorQ0VC"}
+sshd[5376]: Session closed for rodriguezthomas from 10.200.24.155 port 50982 ssh2
+sshd[2985]: Accepted password for chavezmegan from 192.168.33.186 port 47989 ssh2
+sshd[3999]: Failed password for ellisondeborah from 10.83.152.143 port 11121 ssh2
+REDIS_URL=desktop-71.shepard.info
+73.196.2.150 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 403 186634 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_0 rv:5.0; nan-TW) AppleWebKit/533.16.4 (KHTML, like Gecko) Version/4.0 Safari/533.16.4"
+sshd[6972]: Failed password for brandon66 from 192.168.111.186 port 42444 ssh2
+sshd[2023]: Accepted password for holly46 from 192.168.130.128 port 58193 ssh2

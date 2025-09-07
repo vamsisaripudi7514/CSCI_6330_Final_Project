@@ -1,0 +1,31 @@
+199.9.161.63 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 400 202736 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0)" API_KEY=AIzaOXt8-UM9a-OJo74D2U1gzo7R0n4HsnaDMcNOaQ
+202.55.254.221 - - [07/Sep/2025:18:24:52 +0000] "DELETE /index.html HTTP/1.1" 404 436497 "-" "Opera/8.56.(X11; Linux i686; hy-AM) Presto/2.9.179 Version/12.00"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"cache miss","user":"jeffreywilson","trace":"3aKp6kNHRskG"}
+LOG_LEVEL=1208
+96.100.35.223 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 201 24201 "-" "Opera/8.75.(X11; Linux x86_64; ln-CD) Presto/2.9.181 Version/10.00"
+DB_PORT=64549
+REDIS_URL=DEBUG
+LOG_LEVEL=redis://localhost:6379
+sshd[4776]: Failed password for steelejoshua from 10.1.124.89 port 35136 ssh2
+LOG_LEVEL=redis://localhost:6379
+FEATURE_X_ENABLED=WARN
+180.212.194.191 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 502 38121 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_1; rv:1.9.5.20) Gecko/8375-03-27 09:26:22.014740 Firefox/3.8"
+API_TIMEOUT=4771
+sshd[7240]: Accepted password for drakealejandra from 10.187.60.84 port 52603 ssh2
+REDIS_URL=1536
+17.151.169.176 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 403 375035 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.16.2 (KHTML, like Gecko) Version/4.0 Safari/532.16.2"
+API_TIMEOUT=redis://localhost:6379
+sshd[2298]: Failed password for davidadams from 192.168.181.237 port 14685 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"db slow query","user":"robert89","trace":"dmHZsdP7WEAU"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"hallalexis","trace":"7hM8icADSWZC"}
+sshd[9605]: Session closed for dmoreno from 172.21.205.15 port 63008 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"cache miss","user":"tiffanyscott","trace":"oMEiAR9KiqCU"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"wrightcraig","trace":"icXGmRJRbKRo"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"ogutierrez","trace":"OMroCTLSMDNv"}
+147.132.123.98 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 201 93876 "-" "Opera/9.13.(X11; Linux x86_64; sv-SE) Presto/2.9.160 Version/12.00"
+API_TIMEOUT=redis://localhost:6379
+FEATURE_X_ENABLED=4070
+23.21.0.44 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 204 63130 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/16.0.867.0 Safari/532.0"
+199.13.235.85 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 404 514639 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.38.3 (KHTML, like Gecko) Version/4.0.5 Safari/532.38.3" password=wN4+uR<P
+API_TIMEOUT=redis://localhost:6379
+sshd[9875]: Accepted password for davidconner from 172.27.211.173 port 15355 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmY0tHT1JONE55IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.sKJ8eHNo5MGM6gFqQwQoRjkr4e4Puv1flzBVYzht6AI'

@@ -1,0 +1,39 @@
+FEATURE_X_ENABLED=DEBUG
+REDIS_URL=false
+API_TIMEOUT=redis://localhost:6379
+sshd[2880]: Session closed for zthornton from 10.103.55.190 port 18935 ssh2
+193.67.163.15 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 403 88951 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/26.0.857.0 Safari/535.1"
+181.254.208.70 - - [07/Sep/2025:18:24:52 +0000] "POST /api/login HTTP/1.1" 201 104002 "-" "Mozilla/5.0 (Windows NT 6.0; mai-IN; rv:1.9.1.20) Gecko/3891-07-16 08:20:02.284065 Firefox/3.6.5"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"cache miss","user":"wolfchristopher","trace":"POEeurobfQ78"}
+DB_HOST=584
+sshd[3981]: Session closed for michellewilliams from 10.47.207.60 port 49921 ssh2
+FEATURE_X_ENABLED=29803
+218.236.115.236 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 502 235687 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.1)"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"request completed","user":"cgolden","trace":"3ysSFhV2L8S1"}
+sshd[7107]: Failed password for frankbaxter from 192.168.255.31 port 20352 ssh2
+API_TIMEOUT=DEBUG
+25.227.57.49 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 404 191616 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/41.0.822.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"request completed","user":"jessicamorgan","trace":"ZWvceNNTjW7a"}
+sshd[6073]: Failed password for iandavis from 10.100.97.162 port 11555 ssh2
+DB_PORT=15060
+sshd[8969]: Accepted password for lambertkayla from 172.29.130.112 port 37689 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"retrying upstream","user":"cgarcia","trace":"nSf8ZzuppbNq"}
+sshd[7292]: Accepted password for wolfemartha from 192.168.201.103 port 14716 ssh2
+10.240.190.129 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 500 241561 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/29.0.813.0 Safari/536.0"
+sshd[5684]: Failed password for nicholasjackson from 10.252.149.251 port 48926 ssh2
+183.209.176.149 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 302 63242 "-" "Opera/8.60.(Windows NT 5.01; gez-ET) Presto/2.9.168 Version/11.00"
+sshd[1153]: Session closed for charles03 from 172.21.80.98 port 39020 ssh2
+90.67.134.25 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 204 334507 "-" "Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/17.0.827.0 Safari/533.1"
+159.99.8.92 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 302 452193 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_0; rv:1.9.6.20) Gecko/5111-06-15 18:33:16.338898 Firefox/3.6.4"
+20.19.133.134 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 404 491774 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/12.5p0511.0 Mobile/81L306 Safari/533.1"
+FEATURE_X_ENABLED=true
+40.19.138.197 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 401 301991 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"user session created","user":"angelasanchez","trace":"5OEJft8YeOgf"}
+3.141.223.233 - - [07/Sep/2025:18:24:52 +0000] "POST /api/v1/users HTTP/1.1" 500 93384 "-" "Mozilla/5.0 (Linux; Android 11) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/41.0.870.0 Safari/531.2"
+sshd[2736]: Failed password for keypatrick from 172.29.80.206 port 59661 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"user session created","user":"mcculloughtroy","trace":"MGCiIh7pe35E"}
+sshd[9008]: Session closed for dave18 from 192.168.10.233 port 55695 ssh2
+180.88.32.56 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 302 364636 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/22.0.814.0 Safari/536.0"
+sshd[8894]: Session opened for jimenezpamela from 192.168.247.182 port 20014 ssh2
+API_TIMEOUT=1392
+sshd[2537]: Session opened for thomaswoods from 172.30.162.103 port 38762 ssh2

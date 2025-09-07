@@ -1,0 +1,26 @@
+sshd[1256]: Session opened for duane52 from 10.221.129.152 port 41369 ssh2
+sshd[6921]: Failed password for carrie84 from 192.168.45.113 port 60606 ssh2
+DB_PORT=false
+sshd[6916]: Accepted password for ayersnicholas from 10.51.131.177 port 42602 ssh2
+DB_HOST=615
+API_TIMEOUT=lt-60.fischer-dean.com
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"auth","msg":"request completed","user":"alexandra94","trace":"1P5p3tuR0VSL"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"search","msg":"request completed","user":"welchbeth","trace":"PNZjmGmneR6Q"}
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"notify","msg":"user session created","user":"kayleefoster","trace":"pCxQ2g3eXMQr"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"token refreshed","user":"smithdawn","trace":"n3YYz4QWiHx6"}
+sshd[6085]: Session closed for garyjordan from 192.168.88.224 port 61709 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"INFO","service":"orders","msg":"db slow query","user":"miranda03","trace":"CxRaqFnmi0cy"}
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"sarahalexander","trace":"tfIV9yIA1woH"}
+203.231.188.188 - - [07/Sep/2025:18:24:49 +0000] "GET /health HTTP/1.1" 500 111679 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)"
+133.33.215.231 - - [07/Sep/2025:18:24:49 +0000] "DELETE /index.html HTTP/1.1" 302 39112 "-" "Opera/9.70.(X11; Linux x86_64; sv-FI) Presto/2.9.162 Version/10.00" password=bP0>K}rLP
+170.125.154.115 - - [07/Sep/2025:18:24:49 +0000] "GET /api/login HTTP/1.1" 201 469101 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.1)" password=xN2(%DZu*gSm
+sshd[8555]: Session closed for smitherin from 192.168.156.41 port 60173 ssh2
+49.176.5.177 - - [07/Sep/2025:18:24:49 +0000] "DELETE /api/v1/users HTTP/1.1" 200 372948 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+195.32.144.233 - - [07/Sep/2025:18:24:49 +0000] "POST /health HTTP/1.1" 201 52480 "-" "Mozilla/5.0 (Android 3.2.2; Mobile; rv:52.0) Gecko/52.0 Firefox/52.0"
+FEATURE_X_ENABLED=3613
+40.99.221.194 - - [07/Sep/2025:18:24:49 +0000] "GET /download/report.csv HTTP/1.1" 200 309040 "-" "Mozilla/5.0 (Android 3.2; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0"
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"user session created","user":"andrew21","trace":"GWkeF3GT72ro"} password=cG3\c|dN6
+sshd[9980]: Failed password for norriselizabeth from 192.168.220.246 port 56314 ssh2 API_KEY=AIzaGkcx3dgsfHB68ubagfha_m1obO5PRsrK0BlgyA
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"billing","msg":"cache miss","user":"leslie23","trace":"0KVzEshQrjj8"}
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"notify","msg":"request completed","user":"christopherrodriguez","trace":"mvTq7bSNkjW1"}

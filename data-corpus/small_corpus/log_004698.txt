@@ -1,0 +1,33 @@
+DB_HOST=true
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"db slow query","user":"umiller","trace":"1uNetUmYydDQ"}
+sshd[1618]: Session opened for uhiggins from 10.9.12.46 port 32014 ssh2
+175.161.178.20 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 400 50286 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/51.0.868.0 Safari/534.2"
+23.64.43.31 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 401 291386 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/47.0.820.0 Safari/535.2"
+186.168.39.227 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 302 429254 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.0)"
+sshd[9759]: Failed password for hmartinez from 10.71.122.197 port 40869 ssh2
+sshd[8334]: Accepted password for amaynard from 172.18.140.47 port 50843 ssh2
+API_TIMEOUT=4356
+14.130.222.121 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 404 216094 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/4.0)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJSRWRvcnRUamZGIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ._WszTDWR6NpC10O_-3fIOeNGbmNmebJyE_iKDGZuxvo'
+FEATURE_X_ENABLED=db-70.peterson-baker.org
+sshd[1611]: Session opened for ireed from 192.168.94.111 port 32255 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"cache miss","user":"emilyswanson","trace":"ISGEvk2NMBs0"}
+168.144.138.10 - - [07/Sep/2025:18:24:56 +0000] "GET /api/login HTTP/1.1" 403 448521 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4292-12-26 04:11:34.585571 Firefox/3.8"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"token refreshed","user":"chloesimpson","trace":"tn7xA0xf1Mdl"}
+DB_PORT=db-62.sheppard.com
+20.12.113.92 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 401 62132 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.1)"
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"campbelljennifer","trace":"3qx44XenxI60"}
+sshd[6264]: Accepted password for duffydouglas from 192.168.231.18 port 41915 ssh2
+API_TIMEOUT=false
+sshd[6672]: Accepted password for beckymyers from 172.18.201.23 port 42757 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"db slow query","user":"alexander48","trace":"cCtKOSwT0WPn"}
+sshd[8738]: Failed password for johncooper from 10.153.69.186 port 27943 ssh2
+REDIS_URL=email-23.brown.net
+sshd[3382]: Session opened for zdominguez from 10.231.158.149 port 64640 ssh2
+166.68.217.255 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 404 376375 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/15.9d2016.0 Mobile/30M207 Safari/536.0"
+sshd[4850]: Session closed for shannongentry from 172.19.119.36 port 57556 ssh2
+API_TIMEOUT=4014
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"woliver","trace":"ABJWzRJ6c8dw"}
+sshd[2905]: Accepted password for lovekathryn from 10.250.66.213 port 62549 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"request completed","user":"joseph53","trace":"ML7OmTW2k6K8"}
+LOG_LEVEL=WARN
+160.83.69.106 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 200 387463 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.1)"

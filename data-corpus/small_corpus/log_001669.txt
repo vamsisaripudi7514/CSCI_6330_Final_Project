@@ -1,0 +1,45 @@
+33.202.136.26 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 302 421571 "-" "Opera/8.47.(Windows NT 6.2; ga-IE) Presto/2.9.174 Version/12.00"
+165.174.110.13 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 200 371629 "-" "Opera/9.96.(Windows NT 6.1; km-KH) Presto/2.9.162 Version/11.00"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"db slow query","user":"kristyewing","trace":"2k3fgtI0u7zg"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"user session created","user":"umartinez","trace":"cZF9L0igsJ4S"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"morgankelly","trace":"4QSvk8di1KTd"}
+60.108.24.240 - - [07/Sep/2025:18:24:51 +0000] "GET /api/v1/users HTTP/1.1" 502 140180 "-" "Mozilla/5.0 (Windows NT 5.2; fy-DE; rv:1.9.0.20) Gecko/7313-02-10 13:33:24.884277 Firefox/15.0"
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"cache miss","user":"qrivers","trace":"Ued89UViUwHW"}
+REDIS_URL=44974
+DB_HOST=web-11.patel.org
+REDIS_URL=2603
+API_TIMEOUT=60973
+82.38.253.91 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 401 158824 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+API_TIMEOUT=971
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"retrying upstream","user":"chelseawright","trace":"LSHS105phuT8"} password=aB2&eYy8_MhN0TXa
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"token refreshed","user":"sarah77","trace":"duwcBUy4InCz"}
+DB_HOST=srv-02.moreno.com
+FEATURE_X_ENABLED=34300
+sshd[6819]: Session closed for diazfrank from 10.19.204.26 port 24374 ssh2
+REDIS_URL=false
+210.149.248.13 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 404 261402 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; mag-IN) AppleWebKit/532.20.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.20.5"
+DB_HOST=true
+sshd[3194]: Accepted password for larrybates from 192.168.117.192 port 47288 ssh2
+sshd[9692]: Session opened for randy37 from 10.199.116.89 port 18714 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"token refreshed","user":"michaelmiller","trace":"9JdCphHHSqmN"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"alexander30","trace":"QeNjWZ7vm31o"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"collinskimberly","trace":"R8WHPxoOVxgB"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"request completed","user":"josephharris","trace":"soU3t8qdD3d9"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"brittany24","trace":"CgtQOZ7raOAf"}
+218.45.93.235 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 401 305016 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.0)"
+DB_PORT=3269
+sshd[4774]: Session closed for shawnhayden from 10.138.11.236 port 54083 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"cache miss","user":"jessicalee","trace":"mMYdFL7R3FDj"}
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"cache miss","user":"gschaefer","trace":"2Pe5yIMDn3cF"}
+107.147.215.238 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 403 189609 "-" "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/56.0.836.0 Safari/533.2"
+46.116.188.99 - - [07/Sep/2025:18:24:51 +0000] "GET /api/login HTTP/1.1" 401 269505 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/23.0.875.0 Safari/533.1"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"james78","trace":"V2mJtxW6nQjq"}
+70.15.236.58 - - [07/Sep/2025:18:24:51 +0000] "POST /health HTTP/1.1" 204 105305 "-" "Opera/8.83.(Windows 95; fur-IT) Presto/2.9.171 Version/10.00"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"moorelucas","trace":"Ak5ugYCiRhv2"}
+sshd[6971]: Session closed for lgomez from 192.168.224.83 port 57914 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"token refreshed","user":"robertsimmons","trace":"0MOOnwSJFxBP"}
+65.61.185.87 - - [07/Sep/2025:18:24:51 +0000] "POST /download/report.csv HTTP/1.1" 500 69860 "-" "Opera/9.31.(Windows 98; Win 9x 4.90; ky-KG) Presto/2.9.179 Version/11.00"
+209.99.190.206 - - [07/Sep/2025:18:24:51 +0000] "PUT /health HTTP/1.1" 400 75800 "-" "Opera/9.74.(Windows NT 4.0; mt-MT) Presto/2.9.181 Version/12.00"
+DB_HOST=36706
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"request completed","user":"othomas","trace":"UJ4Nq91H83kz"}

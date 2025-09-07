@@ -1,0 +1,32 @@
+sshd[1905]: Failed password for dustin86 from 10.14.110.108 port 42538 ssh2
+153.69.72.63 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 502 217717 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/55.0.807.0 Safari/532.0"
+LOG_LEVEL=1732
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"cache miss","user":"bcooper","trace":"KyNe5tmYlAr5"}
+61.110.166.173 - - [07/Sep/2025:18:24:50 +0000] "POST /assets/app.js HTTP/1.1" 502 105805 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.1)"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"rachel69","trace":"KaHUOjr6w47r"}
+35.193.226.195 - - [07/Sep/2025:18:24:50 +0000] "POST /health HTTP/1.1" 400 421732 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.8.4 (KHTML, like Gecko) Version/5.0 Safari/535.8.4"
+sshd[4422]: Session opened for teresagraham from 10.41.115.103 port 63928 ssh2
+sshd[3926]: Accepted password for gutierrezjoe from 192.168.127.250 port 13278 ssh2
+sshd[9862]: Accepted password for leejay from 172.31.0.55 port 49958 ssh2
+sshd[9650]: Session opened for acostascott from 172.27.36.46 port 62396 ssh2
+API_TIMEOUT=1233
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"notify","msg":"request completed","user":"shill","trace":"RIHb4jrsByyG"}
+sshd[8562]: Session closed for jamesberry from 172.18.141.89 port 37431 ssh2 password=wD6@\)7*
+96.244.208.214 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 204 294796 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5243-07-11 01:26:06.556351 Firefox/3.8"
+LOG_LEVEL=lt-78.li-duke.info
+132.241.49.202 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 302 134115 "-" "Opera/9.84.(X11; Linux x86_64; cv-RU) Presto/2.9.185 Version/12.00"
+sshd[5063]: Session opened for frederickamy from 10.189.169.245 port 36498 ssh2
+122.186.180.90 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 401 341314 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"reevesbrian","trace":"BtIbOMpTQgVn"}
+sshd[4431]: Session opened for qgreen from 172.29.69.26 port 26383 ssh2
+FEATURE_X_ENABLED=srv-49.watson-cherry.org
+9.84.59.118 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 500 61943 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.0)"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"wilsonchristopher","trace":"C44dd9zvSfOy"}
+REDIS_URL=false
+sshd[7996]: Accepted password for tiffanyfox from 172.25.147.166 port 43163 ssh2
+API_TIMEOUT=lt-21.lopez-thompson.info
+API_TIMEOUT=426
+150.73.187.99 - - [07/Sep/2025:18:24:50 +0000] "DELETE /api/v1/users HTTP/1.1" 403 223977 "-" "Mozilla/5.0 (Windows 98; mag-IN; rv:1.9.2.20) Gecko/6918-04-24 02:39:38.224884 Firefox/5.0"
+134.133.104.157 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 502 287328 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/17.3i9892.0 Mobile/64M688 Safari/533.2"
+sshd[5843]: Accepted password for mortega from 192.168.182.93 port 63360 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"db slow query","user":"burtontracy","trace":"DktPZFPqPPNX"}

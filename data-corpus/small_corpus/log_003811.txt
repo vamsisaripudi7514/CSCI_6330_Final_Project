@@ -1,0 +1,28 @@
+sshd[4532]: Session opened for kevin04 from 172.23.144.123 port 62174 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[7655]: Session opened for latoya94 from 10.38.75.116 port 10765 ssh2
+200.3.85.214 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 502 405443 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.9.2 (KHTML, like Gecko) Version/4.1 Safari/535.9.2"
+54.185.200.102 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 204 74438 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.1)"
+sshd[4801]: Session closed for bradfordjoshua from 192.168.232.166 port 23539 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"vlewis","trace":"5KmBkTu0vGt5"}
+218.220.82.219 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 403 286458 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ve-ZA) AppleWebKit/531.22.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6531.22.4"
+sshd[9201]: Accepted password for jrivera from 192.168.188.254 port 11175 ssh2
+87.86.221.161 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 401 125891 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ayc-PE) AppleWebKit/535.22.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.22.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJWRlZkU1NSSmhBIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Fts3aohKOQ36vQr0oZpIZuzhOiUbc24Qms6rp4HQkZY'
+sshd[8041]: Session closed for mark40 from 10.65.22.189 port 11160 ssh2
+sshd[1008]: Session closed for martinezamy from 192.168.125.97 port 35886 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"qgarcia","trace":"4V9mfiMyYAOD"}
+7.46.245.56 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 400 468733 "-" "Mozilla/5.0 (Linux; Android 10) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/63.0.867.0 Safari/533.0"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"user session created","user":"smithsamuel","trace":"b1jzvwfQFpSp"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDTm54Tmo3WHBGIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.egXvxIqolQxLESS60fWOGhGYxouGzPOMt1HDHF6mJZk'
+LOG_LEVEL=redis://localhost:6379
+37.56.37.13 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 403 94363 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; hu-HU) AppleWebKit/532.42.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.42.2"
+23.118.181.116 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 302 446737 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.0)"
+5.205.90.119 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 500 396157 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_7 rv:4.0; mt-MT) AppleWebKit/533.44.6 (KHTML, like Gecko) Version/5.1 Safari/533.44.6"
+LOG_LEVEL=4464
+33.225.205.107 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 401 24975 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8 rv:2.0; fur-IT) AppleWebKit/534.6.3 (KHTML, like Gecko) Version/5.1 Safari/534.6.3"
+LOG_LEVEL=WARN
+139.26.135.184 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 403 51988 "-" "Mozilla/5.0 (Linux; Android 6.0.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/14.0.807.0 Safari/534.1"
+149.227.161.226 - - [07/Sep/2025:18:24:55 +0000] "PUT /api/v1/users HTTP/1.1" 403 396197 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/15.0.831.0 Mobile/10C239 Safari/534.2"
+DB_HOST=57700
+DB_HOST=1559
+sshd[8007]: Session closed for johnsonheather from 172.29.167.26 port 37076 ssh2
+DB_HOST=DEBUG

@@ -1,0 +1,40 @@
+sshd[3621]: Accepted password for xmcgee from 172.24.22.201 port 34887 ssh2
+sshd[5297]: Failed password for kylelindsey from 172.20.89.243 port 34032 ssh2
+34.12.208.227 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 302 63402 "-" "Opera/8.34.(Windows NT 5.0; om-KE) Presto/2.9.171 Version/12.00" API_KEY=AIza7zcvnpCmP2aJTXRt0pDz_lOTqCm_CSfG1aigAw
+sshd[9787]: Session opened for flopez from 10.142.159.109 port 57826 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJZWDUyRmpZd3d4IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.MNFxTezLUMPlNU_WbSgiWemSjxGVVwWm5S8mHRjQ0eI'
+137.172.167.214 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/login HTTP/1.1" 500 273788 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/17.0.813.0 Mobile/60J629 Safari/532.2"
+DB_PORT=true
+sshd[2493]: Session closed for eosborn from 172.22.180.99 port 45005 ssh2
+49.99.35.33 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 400 398396 "-" "Opera/8.83.(Windows NT 5.0; wo-SN) Presto/2.9.175 Version/12.00" API_KEY=AIzaVX6BQlQygzSFwktCmDfqG6D-DQH_3QUIKp9FcA
+122.47.156.233 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 201 121952 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/5.1)"
+sshd[4098]: Session closed for fmeyers from 10.232.156.199 port 62189 ssh2
+DB_HOST=DEBUG
+sshd[5344]: Accepted password for derek93 from 172.23.231.116 port 17508 ssh2
+sshd[8445]: Session closed for fmatthews from 10.236.212.93 port 53525 ssh2
+96.120.209.218 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 502 70915 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"matthew32","trace":"iIOxSgOqgLaG"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"zdavis","trace":"QCrxAw24LPWM"}
+sshd[8992]: Accepted password for daniellebishop from 192.168.131.238 port 38143 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"db slow query","user":"dawn27","trace":"s2XmxW8oFhlg"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"request completed","user":"holmesalex","trace":"P3dMvHnZbqkX"}
+DB_PORT=10802
+sshd[5609]: Session closed for garrettlisa from 192.168.121.32 port 41264 ssh2
+sshd[7484]: Failed password for jill33 from 172.16.203.245 port 35785 ssh2
+sshd[2628]: Failed password for wrussell from 172.17.136.146 port 36217 ssh2 API_KEY=AIzaFDBMZtazoTH0CPg_psqbWagbaWWY5uPW68q8Mg
+5.73.183.33 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 502 239252 "-" "Opera/9.41.(Windows NT 6.1; es-SV) Presto/2.9.177 Version/10.00"
+89.250.201.26 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 502 106836 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.12.3 (KHTML, like Gecko) Version/5.0.1 Safari/534.12.3"
+REDIS_URL=false
+sshd[3684]: Session closed for erika27 from 10.237.123.83 port 62449 ssh2
+sshd[3450]: Session opened for timothybecker from 192.168.135.156 port 56200 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"request completed","user":"imoore","trace":"9HIM0P5k7AVE"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"user session created","user":"ybailey","trace":"fAyColYjhSVP"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"careysarah","trace":"o5o9CUYyLY8D"}
+DB_PORT=31183
+80.221.168.13 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 200 20373 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.30.3 (KHTML, like Gecko) Version/5.0 Safari/535.30.3"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"cmiller","trace":"X0UJL4eEGFWn"}
+sshd[4620]: Session closed for brian34 from 192.168.61.77 port 50770 ssh2
+158.184.52.27 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 201 389046 "-" "Opera/9.79.(Windows NT 6.1; tn-ZA) Presto/2.9.166 Version/11.00"
+LOG_LEVEL=64433
+38.9.215.12 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 502 242486 "-" "Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/18.5m8335.0 Mobile/96O764 Safari/536.0"
+sshd[9574]: Session closed for iwilliams from 172.30.106.74 port 32490 ssh2

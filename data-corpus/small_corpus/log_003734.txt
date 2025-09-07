@@ -1,0 +1,25 @@
+sshd[6504]: Accepted password for robertsangelica from 10.152.135.155 port 46224 ssh2
+222.225.226.213 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 502 448813 "-" "Opera/8.33.(X11; Linux x86_64; yo-NG) Presto/2.9.160 Version/10.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"yjackson","trace":"DoAcCjyDf11M"}
+sshd[6114]: Session closed for chadevans from 192.168.254.202 port 58483 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"request completed","user":"randy86","trace":"1IwE1tMn4Kmq"}
+FEATURE_X_ENABLED=redis://localhost:6379
+DB_HOST=redis://localhost:6379 API_KEY=AIzaGBlkauqtDhshA1Hh5MMkwoyD8i8rWUGXDOQzZA
+sshd[8386]: Failed password for gutierrezjohn from 10.227.168.72 port 44308 ssh2
+sshd[1963]: Session closed for obrienangela from 172.21.253.176 port 32032 ssh2
+sshd[6391]: Session opened for scottruiz from 10.205.102.55 port 10083 ssh2
+184.217.77.7 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 403 470434 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/3.0)"
+sshd[1642]: Session opened for jessicaespinoza from 192.168.173.226 port 55841 ssh2
+169.195.244.105 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 204 50741 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:5.0; he-IL) AppleWebKit/533.19.5 (KHTML, like Gecko) Version/4.0.2 Safari/533.19.5"
+213.251.239.144 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 502 265305 "-" "Mozilla/5.0 (Android 11; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0"
+LOG_LEVEL=10882
+sshd[6719]: Session opened for keithfernandez from 10.179.226.168 port 19274 ssh2
+FEATURE_X_ENABLED=1949
+125.68.7.142 - - [07/Sep/2025:18:24:54 +0000] "GET /api/login HTTP/1.1" 302 167717 "-" "Mozilla/5.0 (Windows 95; be-BY; rv:1.9.1.20) Gecko/7619-07-02 07:23:10.486298 Firefox/3.6.5"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"oschaefer","trace":"KOs78iAIF012"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"token refreshed","user":"brian72","trace":"4BNtnpEwbLM0"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRaFd4NGZuQkxzIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.qNRkgQdyvzya5Mqc37OZv--pb3WUHeZgrkpgI-LPinI'
+76.222.119.98 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 500 498886 "-" "Mozilla/5.0 (Windows CE) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/62.0.887.0 Safari/531.0"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"hgarcia","trace":"ZDmGPF1oANWt"}
+143.13.107.109 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 404 439145 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_7) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/16.0.807.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"user session created","user":"hernandezcourtney","trace":"pSWTE73iERPO"}
+sshd[8450]: Session opened for youngjanet from 172.25.73.10 port 12773 ssh2

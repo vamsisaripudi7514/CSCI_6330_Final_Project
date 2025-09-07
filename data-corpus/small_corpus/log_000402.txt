@@ -1,0 +1,26 @@
+FEATURE_X_ENABLED=4727
+DB_HOST=15257
+sshd[8099]: Failed password for brownsara from 10.236.222.158 port 62329 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"user session created","user":"osims","trace":"9QOJFr4aO7Ib"}
+202.239.130.42 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 204 195086 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)"
+FEATURE_X_ENABLED=3865
+31.127.176.231 - - [07/Sep/2025:18:24:48 +0000] "POST /download/report.csv HTTP/1.1" 404 422119 "-" "Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.29.4 (KHTML, like Gecko) Version/5.0 Safari/534.29.4"
+55.141.192.242 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 403 75678 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1 rv:2.0; en-US) AppleWebKit/533.7.2 (KHTML, like Gecko) Version/5.0.2 Safari/533.7.2"
+sshd[8760]: Session closed for williamsbryan from 192.168.180.19 port 64359 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"cache miss","user":"travis68","trace":"3yEFsTHQCg38"}
+93.79.87.149 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 404 125721 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/3.0)" password=wJ6>+|(@gGYniCZC
+sshd[5393]: Failed password for schwartzamy from 10.207.116.222 port 62093 ssh2
+sshd[9244]: Session opened for fshepherd from 192.168.67.105 port 15295 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"scott35","trace":"mz3w7KExhaEx"}
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"milesgabriel","trace":"BdvEQNDNRkEd"}
+LOG_LEVEL=9771
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"matthew27","trace":"D7AoNrrxDj0J"}
+125.28.192.45 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 502 212078 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"hbell","trace":"KK2GsMJyafFE"}
+sshd[3463]: Session closed for kellysmith from 192.168.1.236 port 20633 ssh2
+DB_HOST=DEBUG
+41.133.183.162 - - [07/Sep/2025:18:24:48 +0000] "PUT /index.html HTTP/1.1" 401 278539 "-" "Opera/8.81.(X11; Linux i686; oc-FR) Presto/2.9.160 Version/11.00"
+222.230.46.59 - - [07/Sep/2025:18:24:48 +0000] "PUT /health HTTP/1.1" 204 50930 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)"
+sshd[8851]: Accepted password for owensisaac from 192.168.153.236 port 47199 ssh2
+sshd[2687]: Accepted password for martin47 from 10.193.161.192 port 46054 ssh2

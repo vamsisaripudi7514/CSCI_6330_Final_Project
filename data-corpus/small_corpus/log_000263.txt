@@ -1,0 +1,25 @@
+API_TIMEOUT=redis://localhost:6379
+41.243.178.178 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 500 377543 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2080-07-24 05:15:51.350568 Firefox/3.8"
+sshd[7988]: Session closed for qwarner from 172.21.93.132 port 35274 ssh2
+sshd[6642]: Failed password for xfoster from 192.168.248.38 port 47476 ssh2
+DB_HOST=redis://localhost:6379
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"request completed","user":"chavezryan","trace":"IdmOYHH0eZO1"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"request completed","user":"shelbywalton","trace":"5sT4uPHlydLz"}
+119.175.107.77 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 200 241131 "-" "Mozilla/5.0 (Windows NT 5.2; nr-ZA; rv:1.9.0.20) Gecko/6430-08-22 11:13:10.463684 Firefox/12.0"
+REDIS_URL=1287
+API_TIMEOUT=lt-60.davis.com
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"db slow query","user":"christinepotter","trace":"mSQYZ2BG98ri"}
+DB_PORT=false
+53.95.54.48 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 401 470150 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_7) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/60.0.828.0 Safari/533.1"
+REDIS_URL=false
+160.150.210.227 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 201 379593 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/3.1)"
+API_TIMEOUT=2043
+DB_HOST=srv-51.palmer.com
+LOG_LEVEL=desktop-07.hicks-baker.org
+sshd[1851]: Session closed for rollinskaren from 192.168.189.72 port 26749 ssh2
+134.127.161.129 - - [07/Sep/2025:18:24:48 +0000] "POST /assets/app.js HTTP/1.1" 302 225159 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/531.19.5 (KHTML, like Gecko) Version/4.0.3 Safari/531.19.5"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"request completed","user":"fcurry","trace":"5VQkMCMZGaY8"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"cache miss","user":"williamsjulia","trace":"V0c8KBF6pIU7"}
+REDIS_URL=3631
+DB_HOST=false

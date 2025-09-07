@@ -1,0 +1,37 @@
+41.99.188.50 - - [07/Sep/2025:18:24:53 +0000] "POST /assets/app.js HTTP/1.1" 404 11780 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/19.0.853.0 Safari/536.2" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZHR6Y1NBZDNLIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.8UEesESm-Qh48uWkuqI3061MnFfytCIzGx0k1SmPt1M'
+sshd[3998]: Session opened for cvaldez from 172.24.28.225 port 49376 ssh2
+DB_PORT=679
+sshd[3418]: Failed password for alexa98 from 172.31.211.248 port 46638 ssh2
+sshd[7445]: Failed password for dgrant from 10.203.172.202 port 29088 ssh2
+123.74.20.133 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 302 453767 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.1)"
+121.4.63.232 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 502 253819 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.1)"
+55.94.131.198 - - [07/Sep/2025:18:24:53 +0000] "GET /api/login HTTP/1.1" 201 420624 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.0)"
+sshd[9841]: Failed password for mgarcia from 10.110.255.225 port 25726 ssh2 API_KEY=AIzajYX7hb_7Qe5Ji6PjId1dHV3BNISdePf8dH8oJg
+180.35.24.210 - - [07/Sep/2025:18:24:53 +0000] "POST /api/v1/users HTTP/1.1" 404 117095 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/30.0.811.0 Safari/533.0"
+LOG_LEVEL=48543
+sshd[1799]: Session closed for douglasgreen from 192.168.85.67 port 42290 ssh2
+181.223.105.108 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 401 210645 "-" "Opera/9.38.(Windows NT 11.0; ug-CN) Presto/2.9.179 Version/12.00"
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"db slow query","user":"frankpope","trace":"tFWuFwKkCFaI"}
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"auth","msg":"token refreshed","user":"carterwayne","trace":"nb3vwrisAqo6"}
+86.136.143.101 - - [07/Sep/2025:18:24:53 +0000] "GET /index.html HTTP/1.1" 200 138974 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.1)"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"request completed","user":"ohill","trace":"GwyIq52et6HT"}
+53.157.85.46 - - [07/Sep/2025:18:24:53 +0000] "PUT /download/report.csv HTTP/1.1" 404 108055 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)"
+sshd[5358]: Session closed for johnsonkevin from 10.55.185.120 port 27459 ssh2
+REDIS_URL=redis://localhost:6379 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJYSHZmdzE2MGZSIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.xAOMbFIKTpNfZ4tibT9mCburWOQX5cWfaU9iTvuiTBU'
+LOG_LEVEL=redis://localhost:6379
+sshd[7783]: Session closed for reginald04 from 10.187.54.91 port 21542 ssh2
+sshd[9468]: Failed password for hooperamy from 10.156.219.234 port 37401 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"thompsontodd","trace":"vQae2RJD043K"}
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"jordanjensen","trace":"31IDpwbGcMrY"}
+sshd[8509]: Failed password for jenniferwells from 172.28.127.163 port 24898 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"hernandezbrianna","trace":"FCy0U6MgbIgK"}
+API_TIMEOUT=DEBUG
+sshd[2672]: Session closed for beththomas from 172.31.127.204 port 52863 ssh2
+sshd[1969]: Accepted password for jrivera from 192.168.179.136 port 32568 ssh2
+REDIS_URL=redis://localhost:6379
+sshd[6256]: Accepted password for jonespamela from 172.22.253.137 port 51596 ssh2
+216.136.133.211 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 401 16912 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/3.0)"
+sshd[6429]: Session closed for jamie18 from 10.86.138.185 port 11994 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"notify","msg":"user session created","user":"fwashington","trace":"g7XKBgyhPRnG"}
+sshd[5460]: Session closed for rodneymorales from 10.239.99.85 port 16630 ssh2
+API_TIMEOUT=INFO

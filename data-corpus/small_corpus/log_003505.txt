@@ -1,0 +1,37 @@
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"billing","msg":"user session created","user":"alexisyoder","trace":"F3DNvTXTvnYx"}
+23.155.41.49 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 502 511596 "-" "Opera/8.42.(Windows NT 6.0; it-CH) Presto/2.9.184 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"cache miss","user":"masontoni","trace":"lhdnDTMFeYjA"}
+sshd[5805]: Failed password for dmoyer from 192.168.165.240 port 29171 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"user session created","user":"douglasjames","trace":"1hJjdNDMSgIc"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"patricia45","trace":"EbvCrxyozzry"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"request completed","user":"jonessusan","trace":"airsBpgwggAO"}
+LOG_LEVEL=false
+96.204.230.142 - - [07/Sep/2025:18:24:54 +0000] "PUT /assets/app.js HTTP/1.1" 502 45764 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1)"
+158.237.104.95 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 404 178547 "-" "Mozilla/5.0 (Windows NT 6.1; tr-CY; rv:1.9.2.20) Gecko/2280-01-26 19:49:13.070330 Firefox/10.0"
+API_TIMEOUT=3300
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"db slow query","user":"linda64","trace":"xiO1qqtG3qX5"}
+LOG_LEVEL=redis://localhost:6379
+sshd[7385]: Session opened for kbriggs from 10.116.202.157 port 47718 ssh2
+14.134.196.68 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 502 82146 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.1)"
+API_TIMEOUT=WARN
+API_TIMEOUT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"williamstimothy","trace":"Cnx7AfGo9j5k"}
+211.9.59.10 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 201 132096 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; the-NP) AppleWebKit/532.34.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.34.1"
+sshd[7326]: Failed password for browndustin from 172.27.145.75 port 35806 ssh2 password=nU2_j9Df
+sshd[6959]: Session closed for ashley97 from 172.17.118.143 port 60900 ssh2
+182.118.191.124 - - [07/Sep/2025:18:24:54 +0000] "PUT /index.html HTTP/1.1" 400 358425 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/46.0.800.0 Safari/536.1"
+sshd[3450]: Session opened for adrian91 from 192.168.88.10 port 58551 ssh2
+107.116.58.113 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 401 376611 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6847-09-28 21:58:32.481628 Firefox/6.0"
+50.128.71.124 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 502 86970 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/48.0.868.0 Safari/535.0"
+DB_HOST=srv-21.aguirre-reynolds.org
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"token refreshed","user":"vcoleman","trace":"ZzQiZgx45f75"}
+FEATURE_X_ENABLED=517 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvUTJGWjZLTVB5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.d7sswkntkM6w1ypykPC2Uoah_lt65uZmVaBIYCLiLfA'
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"harrisonbrandy","trace":"GyEZe4CAbRuD"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"cache miss","user":"connerrachel","trace":"azZiU2GYwoDK"}
+sshd[8453]: Session closed for connie04 from 172.22.16.201 port 54173 ssh2
+DB_HOST=redis://localhost:6379
+sshd[6358]: Session opened for ithomas from 10.25.5.119 port 52160 ssh2
+LOG_LEVEL=47308
+REDIS_URL=5914
+sshd[1719]: Session opened for ericasmith from 172.19.85.5 port 22744 ssh2
+LOG_LEVEL=7242 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJGaU5WSTFseXJ1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.s9LJUg34inwLyu756KnTQdLhYNErUYOxZJ93zbeZUag'

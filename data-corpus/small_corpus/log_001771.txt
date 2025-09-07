@@ -1,0 +1,30 @@
+REDIS_URL=redis://localhost:6379
+sshd[2733]: Accepted password for lee63 from 10.92.191.185 port 61836 ssh2
+110.154.246.139 - - [07/Sep/2025:18:24:51 +0000] "PUT /api/login HTTP/1.1" 403 489920 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/56.0.876.0 Safari/536.0"
+sshd[2109]: Accepted password for lucasjessica from 172.20.27.75 port 44861 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"mbolton","trace":"bwjaSGgKJutb"}
+sshd[3903]: Accepted password for tchan from 172.23.5.252 port 14031 ssh2 API_KEY=AIzapYtC7twZS-_rO3L1JCq9P4hHZDpjbSTdVR1rpg
+REDIS_URL=DEBUG
+LOG_LEVEL=36039
+sshd[8300]: Failed password for xallen from 10.5.92.100 port 36650 ssh2
+API_TIMEOUT=36659
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"jcontreras","trace":"dE0IqoQP7cz8"}
+2.244.3.198 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 403 328166 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/30.0.877.0 Safari/536.2"
+REDIS_URL=2714
+109.33.225.109 - - [07/Sep/2025:18:24:51 +0000] "DELETE /assets/app.js HTTP/1.1" 200 136476 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.0)"
+121.117.216.232 - - [07/Sep/2025:18:24:51 +0000] "PUT /index.html HTTP/1.1" 403 63886 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.1)"
+sshd[9536]: Accepted password for sbradshaw from 10.226.217.104 port 41027 ssh2
+sshd[4527]: Session closed for dylanherrera from 192.168.218.184 port 31986 ssh2
+109.55.61.99 - - [07/Sep/2025:18:24:51 +0000] "POST /assets/app.js HTTP/1.1" 200 384127 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/31.0.876.0 Safari/534.0"
+DB_PORT=redis://localhost:6379
+128.184.255.164 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 502 128917 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_8) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/54.0.865.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"user session created","user":"acaldwell","trace":"AreFDjL7Sf7Q"}
+REDIS_URL=55983
+sshd[6781]: Failed password for wilsonjason from 10.23.78.251 port 32470 ssh2
+sshd[9188]: Session closed for joneskim from 172.30.161.16 port 31976 ssh2
+sshd[6882]: Session closed for amandahorton from 172.25.233.184 port 19978 ssh2
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"orders","msg":"cache miss","user":"pewing","trace":"9mfRkHe6payd"}
+LOG_LEVEL=db-65.smith.info API_KEY=AIzag59sCwdzwxK4WLpwoxXhI--eLIBYSLs3U3UDBw
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"user session created","user":"micheledavis","trace":"8yLNfI7xKgYg"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"nkelley","trace":"Rl1uaUiL5suA"}

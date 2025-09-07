@@ -1,0 +1,43 @@
+REDIS_URL=true
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"cache miss","user":"oconnorsteven","trace":"6NpcdLZOj5Rj"}
+152.180.157.248 - - [07/Sep/2025:18:24:48 +0000] "GET /health HTTP/1.1" 404 62110 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/8621-06-23 19:56:20.866913 Firefox/6.0"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"search","msg":"cache miss","user":"kaiserphillip","trace":"hTEYs8kYegvi"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"notify","msg":"cache miss","user":"gregory19","trace":"AaKLFcEm3NNx"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"cache miss","user":"tsanchez","trace":"O2KIBXIH8XBm"}
+sshd[3305]: Accepted password for rhodesamy from 172.18.134.254 port 24760 ssh2 password=oE6(jdFW
+sshd[8361]: Session closed for griffinkrista from 172.28.159.37 port 29773 ssh2
+LOG_LEVEL=33101
+DB_PORT=laptop-92.arnold-vaughn.com
+15.143.15.82 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 502 523719 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/3.1)"
+sshd[4143]: Failed password for kanediane from 192.168.146.154 port 45459 ssh2
+sshd[5519]: Session opened for awalker from 172.27.55.139 port 13716 ssh2
+LOG_LEVEL=940
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"user session created","user":"kevinlee","trace":"i3iFe5NlOaEt"}
+133.47.9.231 - - [07/Sep/2025:18:24:48 +0000] "PUT /download/report.csv HTTP/1.1" 500 201916 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.1)"
+FEATURE_X_ENABLED=true
+sshd[9532]: Failed password for shirleysmith from 192.168.208.178 port 17563 ssh2
+117.111.8.194 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 200 450003 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; sc-IT) AppleWebKit/535.28.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.28.7"
+163.8.103.109 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 502 292319 "-" "Mozilla/5.0 (Windows NT 11.0; ber-DZ; rv:1.9.2.20) Gecko/3801-06-29 03:11:30.642860 Firefox/6.0"
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"notify","msg":"token refreshed","user":"vparks","trace":"CceEje8xSfI3"}
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"auth","msg":"cache miss","user":"baxterjasmine","trace":"kT0AtL9lojCk"}
+sshd[1560]: Session opened for vsmith from 192.168.118.139 port 24532 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"search","msg":"db slow query","user":"zmcgee","trace":"Pr9NLulT5mj2"}
+API_TIMEOUT=INFO
+DB_HOST=redis://localhost:6379
+sshd[7628]: Session opened for michaelking from 192.168.178.149 port 18805 ssh2
+sshd[4748]: Session opened for christy94 from 192.168.107.235 port 42980 ssh2
+sshd[9871]: Session opened for gainesheidi from 172.27.235.171 port 42779 ssh2
+72.126.169.159 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 400 247454 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/15.0.813.0 Safari/535.1"
+sshd[6724]: Session opened for jenniferparker from 10.49.154.136 port 61485 ssh2
+sshd[2718]: Failed password for benjaminterry from 10.13.90.183 port 18105 ssh2
+170.185.162.243 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 500 430177 "-" "Opera/8.97.(Windows NT 6.0; cmn-TW) Presto/2.9.173 Version/10.00"
+172.18.248.139 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 403 53185 "-" "Mozilla/5.0 (Windows NT 10.0; tcy-IN; rv:1.9.1.20) Gecko/8157-03-19 05:46:40.536530 Firefox/3.8"
+API_TIMEOUT=3020
+79.241.91.46 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 502 271349 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_4 rv:3.0; dz-BT) AppleWebKit/531.25.1 (KHTML, like Gecko) Version/4.0 Safari/531.25.1"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"kdonovan","trace":"Bu7ZjPGgad5C"}
+DB_HOST=false
+sshd[1869]: Failed password for krichards from 172.26.155.8 port 13752 ssh2
+API_TIMEOUT=27931
+DB_PORT=10592
+FEATURE_X_ENABLED=redis://localhost:6379

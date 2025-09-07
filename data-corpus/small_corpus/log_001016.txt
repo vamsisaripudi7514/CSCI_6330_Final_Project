@@ -1,0 +1,27 @@
+sshd[9466]: Failed password for joshua62 from 192.168.34.56 port 21335 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"request completed","user":"samuel59","trace":"fRBCDg32Eok7"}
+DB_PORT=2560
+LOG_LEVEL=false
+DB_HOST=false
+201.57.5.60 - - [07/Sep/2025:18:24:50 +0000] "GET /api/login HTTP/1.1" 200 139560 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.0)"
+LOG_LEVEL=INFO
+84.252.216.0 - - [07/Sep/2025:18:24:50 +0000] "DELETE /index.html HTTP/1.1" 500 351311 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/9.1e4257.0 Mobile/75K395 Safari/531.1"
+sshd[8029]: Failed password for deborah75 from 192.168.115.220 port 21118 ssh2
+REDIS_URL=desktop-06.brown.net
+sshd[2255]: Session closed for mendeznicole from 10.235.21.3 port 43011 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"taylordana","trace":"b72w1T8JBZoJ"}
+160.56.101.202 - - [07/Sep/2025:18:24:50 +0000] "DELETE /health HTTP/1.1" 204 420068 "-" "Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/53.0.873.0 Safari/536.0"
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"orders","msg":"user session created","user":"christianroy","trace":"DbiDEu1XiCTY"}
+sshd[3362]: Failed password for stacyweaver from 10.94.112.173 port 54890 ssh2
+FEATURE_X_ENABLED=3027
+API_TIMEOUT=false
+44.99.206.106 - - [07/Sep/2025:18:24:50 +0000] "PUT /index.html HTTP/1.1" 204 429067 "-" "Opera/9.10.(Windows NT 5.2; bo-IN) Presto/2.9.161 Version/10.00"
+sshd[2917]: Failed password for ronald28 from 192.168.94.113 port 18144 ssh2
+sshd[4328]: Session opened for parkstaylor from 192.168.185.48 port 44499 ssh2
+REDIS_URL=redis://localhost:6379
+sshd[5839]: Session closed for lauren59 from 192.168.188.158 port 43384 ssh2
+API_TIMEOUT=true
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"cache miss","user":"tfrazier","trace":"l0JmEPVqJ32p"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"cache miss","user":"ubarrett","trace":"yi6J7hLMTPEL"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"token refreshed","user":"browncolleen","trace":"zqynrWSGRwe3"}

@@ -1,0 +1,27 @@
+LOG_LEVEL=true
+DB_HOST=db-43.benitez.com
+37.102.74.197 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 302 119058 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"joshua42","trace":"CBO98nR6JU6T"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4TlNvNVdsN2UwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.f5LLhtBpMBidSc3yPvOiC0-OjTyZ6MUt4P96ZUL20PA'
+107.155.174.195 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 500 394945 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/531.19.3 (KHTML, like Gecko) Version/5.0.1 Safari/531.19.3"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"mosescatherine","trace":"KFagNH2xpggX"}
+sshd[9720]: Failed password for justin46 from 172.18.242.113 port 42002 ssh2
+sshd[2027]: Session closed for christopher98 from 172.21.75.213 port 21326 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"orders","msg":"cache miss","user":"walter29","trace":"aLg4uafqxAXo"}
+106.69.116.5 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 200 114631 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3088-11-25 20:08:15.301590 Firefox/3.8"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"cache miss","user":"johnblair","trace":"S7er9LHaqmyc"}
+97.178.251.108 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 201 204520 "-" "Mozilla/5.0 (Android 3.2.6; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0"
+API_TIMEOUT=true
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"vjohnson","trace":"Aqoz3x35kLcZ"}
+sshd[9391]: Session closed for jacquelinesalas from 172.27.21.120 port 14324 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"auth","msg":"token refreshed","user":"veronicamitchell","trace":"YQUML6e1G8kf"}
+API_TIMEOUT=redis://localhost:6379
+207.224.78.113 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 201 377498 "-" "Opera/8.34.(Windows NT 5.1; ce-RU) Presto/2.9.177 Version/11.00"
+API_TIMEOUT=redis://localhost:6379
+222.244.207.242 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 401 402141 "-" "Opera/9.80.(Windows NT 6.1; eu-ES) Presto/2.9.167 Version/11.00"
+REDIS_URL=redis://localhost:6379
+141.180.117.242 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/v1/users HTTP/1.1" 302 60033 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; fo-FO) AppleWebKit/531.37.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6531.37.3"
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"user session created","user":"melanieholmes","trace":"9pZv4zzM8PgG"}
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"search","msg":"db slow query","user":"marcusross","trace":"AGwMOYxT8ZOl"} password=dT7/aHS=C
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"sheri33","trace":"1k4TjWN5vJIO"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"request completed","user":"erin91","trace":"z03ZI0h1y0WF"}
+LOG_LEVEL=WARN API_KEY=AIzaVZyC9ogAUTe7sWm-yVHx-vq5OM8sc4vOJtAcDg

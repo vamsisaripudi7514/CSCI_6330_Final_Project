@@ -1,0 +1,39 @@
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"camerongreen","trace":"9ZHqScs73kTI"}
+FEATURE_X_ENABLED=17231
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"notify","msg":"db slow query","user":"tmiller","trace":"lI09efswhE95"}
+API_TIMEOUT=15073
+DB_HOST=1535
+DB_PORT=false
+12.214.87.151 - - [07/Sep/2025:18:24:56 +0000] "PUT /download/report.csv HTTP/1.1" 400 159020 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.1)"
+158.52.244.171 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 200 329589 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/25.0.842.0 Mobile/32L836 Safari/535.2"
+DB_HOST=true
+166.222.6.125 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 201 202553 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/14.0.896.0 Safari/533.1"
+2.240.159.150 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 404 272643 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/3.1)"
+REDIS_URL=email-10.parker-torres.biz
+sshd[9698]: Session opened for pennyswanson from 192.168.145.1 port 42348 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"user session created","user":"kjohnson","trace":"aYnECmxJLsD6"}
+69.255.4.161 - - [07/Sep/2025:18:24:56 +0000] "GET /health HTTP/1.1" 403 10000 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_3 rv:5.0; xh-ZA) AppleWebKit/533.15.2 (KHTML, like Gecko) Version/4.0.2 Safari/533.15.2" password=oA3!tgccl
+API_TIMEOUT=true
+142.4.117.69 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 502 507454 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_7 rv:3.0; fy-NL) AppleWebKit/531.23.1 (KHTML, like Gecko) Version/5.1 Safari/531.23.1"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"ewilliams","trace":"z70fzIHAgdTn"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"request completed","user":"adrian60","trace":"2GKJmcGe0cBn"}
+5.30.131.148 - - [07/Sep/2025:18:24:56 +0000] "POST /download/report.csv HTTP/1.1" 400 374864 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/18.5a3906.0 Mobile/28I295 Safari/531.0"
+REDIS_URL=1667
+sshd[6599]: Session closed for martineznicholas from 192.168.173.200 port 28355 ssh2
+sshd[9200]: Session opened for lisa90 from 172.28.45.88 port 30286 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"banksamanda","trace":"F2K8WtiFO1JC"}
+101.144.185.160 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 201 83531 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.0)"
+DB_PORT=119
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"christopherwilliams","trace":"krDbwlhxLfU5"}
+DB_PORT=41640
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"cache miss","user":"derekpalmer","trace":"I2iLgng85JSo"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"request completed","user":"eflores","trace":"qRx9vBozRvEF"}
+LOG_LEVEL=desktop-68.wright.com
+sshd[8701]: Accepted password for goodwinjackie from 192.168.229.184 port 50756 ssh2
+LOG_LEVEL=true
+151.112.159.78 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 404 341509 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_7 rv:4.0; tn-ZA) AppleWebKit/533.40.5 (KHTML, like Gecko) Version/5.0 Safari/533.40.5"
+DB_PORT=false
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"tylermahoney","trace":"PfKtF6kk6xhk"}
+sshd[7901]: Session opened for nherrera from 172.25.44.254 port 59200 ssh2

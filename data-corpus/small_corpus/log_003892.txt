@@ -1,0 +1,48 @@
+API_TIMEOUT=DEBUG
+6.38.48.103 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 204 261866 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.0)"
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"db slow query","user":"julie14","trace":"PsLVRulyNxKZ"}
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"hgonzalez","trace":"6gjhIJhbqJpa"}
+111.76.82.85 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 404 379154 "-" "Opera/9.57.(Windows NT 10.0; es-DO) Presto/2.9.188 Version/12.00"
+165.224.0.20 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 502 181530 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/533.16.5 (KHTML, like Gecko) Version/5.1 Safari/533.16.5"
+API_TIMEOUT=INFO
+sshd[9506]: Accepted password for zpena from 192.168.199.75 port 13199 ssh2
+207.162.252.103 - - [07/Sep/2025:18:24:55 +0000] "POST /index.html HTTP/1.1" 502 315488 "-" "Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/63.0.834.0 Safari/533.2"
+sshd[6561]: Session closed for estrong from 10.187.119.37 port 10237 ssh2
+108.251.203.199 - - [07/Sep/2025:18:24:55 +0000] "DELETE /assets/app.js HTTP/1.1" 302 402398 "-" "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/56.0.812.0 Safari/533.0"
+155.171.116.105 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 302 195657 "-" "Mozilla/5.0 (Android 10; Mobile; rv:19.0) Gecko/19.0 Firefox/19.0"
+sshd[4970]: Failed password for pricereginald from 10.227.117.29 port 34135 ssh2
+DB_HOST=laptop-21.smith.com
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"request completed","user":"annnichols","trace":"KayzkQS0LMGt"}
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"retrying upstream","user":"hcollins","trace":"fj2cVVCPSu4x"}
+sshd[4277]: Session closed for parkerstacey from 10.195.185.25 port 20247 ssh2
+204.252.75.238 - - [07/Sep/2025:18:24:55 +0000] "GET /health HTTP/1.1" 500 269281 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/4.0)"
+DB_PORT=1279
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"user session created","user":"angelalee","trace":"lzWBFMOd4OFG"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"db slow query","user":"andrewsevelyn","trace":"2x6YnYB1PbLa"}
+sshd[3667]: Failed password for xhutchinson from 192.168.82.80 port 26433 ssh2
+184.248.46.29 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 400 42088 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/5.1)"
+81.245.41.230 - - [07/Sep/2025:18:24:55 +0000] "DELETE /download/report.csv HTTP/1.1" 201 361995 "-" "Mozilla/5.0 (Windows 95) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/59.0.815.0 Safari/534.0"
+22.89.164.81 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 302 252158 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/4.0)"
+137.66.159.89 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 302 358158 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/5.1)"
+API_TIMEOUT=INFO API_KEY=AIza_Pk9sGfqnl-BhCMbSscd4elEgQIeHv4d0diR5g
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"madison41","trace":"zlDlpn0A7Kix"}
+FEATURE_X_ENABLED=redis://localhost:6379
+sshd[4924]: Session opened for ybaker from 10.252.54.132 port 53377 ssh2
+153.71.235.93 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 204 511170 "-" "Opera/9.33.(Windows NT 6.2; ik-CA) Presto/2.9.186 Version/11.00"
+134.30.137.202 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 201 494583 "-" "Mozilla/5.0 (Windows 98) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/54.0.827.0 Safari/535.0"
+119.64.245.128 - - [07/Sep/2025:18:24:55 +0000] "POST /assets/app.js HTTP/1.1" 500 268438 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3 rv:6.0; ts-ZA) AppleWebKit/532.38.2 (KHTML, like Gecko) Version/5.1 Safari/532.38.2"
+42.42.33.216 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 401 159492 "-" "Opera/9.75.(X11; Linux i686; id-ID) Presto/2.9.176 Version/10.00"
+API_TIMEOUT=37019
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"auth","msg":"user session created","user":"sarah49","trace":"UWiyH9cMXeLA"}
+DB_PORT=29244
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"db slow query","user":"hallmary","trace":"nbGqSKVMvudV"} password=iK3,q)v2o's|\
+DB_HOST=43064
+138.17.96.114 - - [07/Sep/2025:18:24:55 +0000] "PUT /download/report.csv HTTP/1.1" 200 34717 "-" "Opera/9.42.(Windows NT 5.1; ti-ET) Presto/2.9.162 Version/10.00"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"cache miss","user":"olsonangela","trace":"hAb6f6DsFseD"}
+API_TIMEOUT=4064
+sshd[6446]: Session closed for wagnernathan from 172.28.43.46 port 32618 ssh2
+162.227.70.227 - - [07/Sep/2025:18:24:55 +0000] "GET /assets/app.js HTTP/1.1" 404 192863 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2 rv:5.0; gu-IN) AppleWebKit/531.41.5 (KHTML, like Gecko) Version/4.1 Safari/531.41.5"
+sshd[8006]: Accepted password for isantos from 10.12.90.161 port 59879 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"search","msg":"cache miss","user":"mayobailey","trace":"MCoNDMXWPxCm"}

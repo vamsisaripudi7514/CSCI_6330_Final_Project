@@ -1,0 +1,38 @@
+sshd[4554]: Accepted password for cmorgan from 10.67.128.190 port 43042 ssh2
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"cache miss","user":"kylesimmons","trace":"gt50hajf65By"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"request completed","user":"mercadojeremy","trace":"6Yuez3FNWjgr"}
+sshd[1173]: Accepted password for david52 from 192.168.155.104 port 11123 ssh2
+LOG_LEVEL=2828
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"request completed","user":"ojimenez","trace":"3Q2c28MYkaQs"}
+31.70.5.192 - - [07/Sep/2025:18:24:54 +0000] "GET /assets/app.js HTTP/1.1" 201 61452 "-" "Opera/8.96.(X11; Linux x86_64; or-IN) Presto/2.9.188 Version/12.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"james59","trace":"hb2GpIT1TvUm"}
+93.185.118.118 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 201 159208 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.0)"
+LOG_LEVEL=redis://localhost:6379
+197.135.4.183 - - [07/Sep/2025:18:24:54 +0000] "PUT /download/report.csv HTTP/1.1" 502 520110 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.0)"
+31.248.192.248 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 400 365917 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/14.2i4303.0 Mobile/32E392 Safari/531.1"
+sshd[5452]: Failed password for wolfpaula from 10.145.158.9 port 53767 ssh2
+160.169.207.156 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 201 309452 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2447-05-23 16:23:52.140858 Firefox/3.8"
+DB_HOST=18632
+sshd[7532]: Failed password for donaldmcpherson from 10.205.101.193 port 14929 ssh2
+sshd[4887]: Session closed for jacobclark from 192.168.64.255 port 58105 ssh2
+77.136.179.156 - - [07/Sep/2025:18:24:54 +0000] "POST /download/report.csv HTTP/1.1" 400 170315 "-" "Mozilla/5.0 (Windows NT 6.2; as-IN; rv:1.9.2.20) Gecko/6549-01-15 20:27:43.744843 Firefox/3.6.5"
+sshd[2040]: Accepted password for zamoramichael from 192.168.143.50 port 27391 ssh2
+81.162.163.229 - - [07/Sep/2025:18:24:54 +0000] "POST /index.html HTTP/1.1" 403 223070 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"notify","msg":"db slow query","user":"hillsteve","trace":"lHpJdujosfVP"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"token refreshed","user":"turnerluis","trace":"30aJdd5aCM9m"}
+48.90.163.162 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 204 159032 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2; rv:1.9.6.20) Gecko/8172-04-12 13:28:57.004578 Firefox/3.6.7"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"orders","msg":"retrying upstream","user":"deborahhunter","trace":"BZZGVNcAvQ0q"}
+140.167.14.169 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 200 372395 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/37.0.810.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"db slow query","user":"bryangibson","trace":"fMzyORAvtem6"}
+DB_PORT=13582
+FEATURE_X_ENABLED=lt-60.cardenas-chandler.com
+sshd[7134]: Session closed for evanfox from 192.168.206.69 port 16117 ssh2
+DB_PORT=INFO
+8.38.29.7 - - [07/Sep/2025:18:24:54 +0000] "PUT /health HTTP/1.1" 201 193156 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.1)"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"request completed","user":"carol04","trace":"aifmiLhcUJon"}
+API_TIMEOUT=INFO
+DB_HOST=laptop-25.wood-ward.info
+79.142.50.129 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/login HTTP/1.1" 401 318384 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.1)"
+29.103.208.152 - - [07/Sep/2025:18:24:54 +0000] "POST /api/login HTTP/1.1" 404 267919 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/48.0.870.0 Safari/535.1"
+8.202.163.46 - - [07/Sep/2025:18:24:54 +0000] "GET /download/report.csv HTTP/1.1" 204 364285 "-" "Mozilla/5.0 (Android 2.3.6; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0"

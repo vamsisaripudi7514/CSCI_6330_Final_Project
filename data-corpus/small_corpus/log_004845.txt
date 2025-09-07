@@ -1,0 +1,42 @@
+sshd[3570]: Session opened for sacosta from 172.18.43.225 port 56139 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"auth","msg":"user session created","user":"debradelacruz","trace":"VOg6LBULIrzm"}
+sshd[7519]: Failed password for xclarke from 172.21.17.164 port 50231 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"nathan56","trace":"V70YJW4df3Z4"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"ricky12","trace":"r8XxuLO35LeN"}
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"notify","msg":"user session created","user":"robertsonkyle","trace":"Axs0nWDWIzVU"}
+REDIS_URL=true
+sshd[8091]: Session opened for collinsjesse from 10.208.255.79 port 41988 ssh2
+sshd[3226]: Session closed for jeremy39 from 192.168.145.181 port 15699 ssh2
+sshd[6416]: Session opened for hickmanjacob from 172.20.118.88 port 18392 ssh2
+90.87.140.96 - - [07/Sep/2025:18:24:57 +0000] "DELETE /api/login HTTP/1.1" 400 421993 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_4 rv:5.0; lv-LV) AppleWebKit/531.43.7 (KHTML, like Gecko) Version/5.0 Safari/531.43.7"
+sshd[6124]: Failed password for haynesemily from 192.168.224.195 port 49918 ssh2
+sshd[9237]: Session opened for janecopeland from 192.168.224.251 port 37506 ssh2
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"notify","msg":"request completed","user":"vmurphy","trace":"sjxnGdwTX7Oe"}
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"billing","msg":"cache miss","user":"christopher60","trace":"vVrIEHtgXfaO"}
+{"ts":"2025-09-07T18:24:57Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"gmiller","trace":"Rt6x9VVxIu1Z"}
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"wsanders","trace":"io2WCl8CbYY2"}
+188.238.31.8 - - [07/Sep/2025:18:24:57 +0000] "POST /assets/app.js HTTP/1.1" 400 170433 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/5.1)"
+sshd[8686]: Session opened for jamie70 from 172.17.34.45 port 34969 ssh2 password=aQ2@"O~N*
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"search","msg":"cache miss","user":"robertburke","trace":"bej73ksjdh2T"}
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"billing","msg":"request completed","user":"gmitchell","trace":"e1YOJt10IO9p"}
+sshd[3600]: Session opened for sara15 from 192.168.138.219 port 48140 ssh2
+sshd[1803]: Failed password for joanrivera from 10.214.106.172 port 56837 ssh2
+DB_HOST=3589
+32.78.140.111 - - [07/Sep/2025:18:24:57 +0000] "POST /health HTTP/1.1" 204 173796 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/3902-07-19 19:20:31.088478 Firefox/3.6.16"
+{"ts":"2025-09-07T18:24:57Z","level":"WARN","service":"search","msg":"cache miss","user":"lalvarez","trace":"ENKuuPY8ivFU"}
+{"ts":"2025-09-07T18:24:57Z","level":"ERROR","service":"search","msg":"db slow query","user":"jonesnancy","trace":"lBKxa7t25wzJ"}
+sshd[2863]: Session opened for john75 from 10.34.234.95 port 11089 ssh2
+FEATURE_X_ENABLED=DEBUG
+API_TIMEOUT=db-90.chen.info
+sshd[9586]: Failed password for brandon11 from 192.168.12.121 port 36313 ssh2
+99.55.133.141 - - [07/Sep/2025:18:24:57 +0000] "POST /api/v1/users HTTP/1.1" 500 358029 "-" "Opera/9.70.(Windows NT 5.2; lo-LA) Presto/2.9.167 Version/10.00"
+64.237.170.179 - - [07/Sep/2025:18:24:57 +0000] "GET /api/v1/users HTTP/1.1" 502 404745 "-" "Mozilla/5.0 (Windows NT 10.0; doi-IN; rv:1.9.1.20) Gecko/8731-07-06 04:10:19.182770 Firefox/3.8"
+sshd[6132]: Session opened for gonzalezjeffrey from 172.20.226.11 port 63050 ssh2
+sshd[7963]: Accepted password for jacob13 from 192.168.62.134 port 36009 ssh2
+sshd[6717]: Accepted password for brittany62 from 192.168.13.190 port 50436 ssh2
+DB_HOST=INFO
+LOG_LEVEL=false
+REDIS_URL=db-13.cooper.org
+7.37.218.161 - - [07/Sep/2025:18:24:57 +0000] "PUT /health HTTP/1.1" 400 20343 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; rv:1.9.4.20) Gecko/6813-10-05 08:09:54.638000 Firefox/3.8"
+{"ts":"2025-09-07T18:24:57Z","level":"INFO","service":"search","msg":"request completed","user":"gcraig","trace":"3OfdJqdPkNAb"}
+sshd[5141]: Session closed for emily17 from 172.16.51.204 port 63295 ssh2

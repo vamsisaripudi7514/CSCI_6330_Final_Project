@@ -1,0 +1,25 @@
+DB_HOST=INFO
+20.30.251.153 - - [07/Sep/2025:18:24:56 +0000] "DELETE /index.html HTTP/1.1" 400 178495 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1)"
+sshd[1099]: Failed password for thomasemily from 172.20.128.162 port 37346 ssh2
+DB_HOST=3516
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"michaelgarcia","trace":"nz81w1TASUdr"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"db slow query","user":"simsandrew","trace":"pgPH0AV7ZEmU"}
+149.236.197.179 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 404 200895 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2597-08-19 19:20:33.318840 Firefox/13.0"
+API_TIMEOUT=redis://localhost:6379
+214.65.58.36 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 403 262550 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0)"
+10.154.22.11 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 400 523683 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.1)"
+sshd[7927]: Session closed for hartmansharon from 172.18.26.164 port 23677 ssh2
+105.183.32.215 - - [07/Sep/2025:18:24:56 +0000] "DELETE /download/report.csv HTTP/1.1" 502 153621 "-" "Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/9.0x2662.0 Mobile/23M641 Safari/536.0"
+sshd[4411]: Accepted password for christopher15 from 172.23.168.118 port 19932 ssh2
+LOG_LEVEL=48741
+LOG_LEVEL=DEBUG
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"token refreshed","user":"ghogan","trace":"xqLaDYf732GE"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"erin61","trace":"0E4necrgizz9"}
+sshd[3955]: Accepted password for kellerkristin from 10.113.50.4 port 60645 ssh2
+DB_HOST=8819
+sshd[5156]: Accepted password for xfisher from 172.21.3.35 port 48848 ssh2
+71.155.230.109 - - [07/Sep/2025:18:24:56 +0000] "GET /download/report.csv HTTP/1.1" 201 135434 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJZR3VVZDZ1ajdKIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.IBOwVQ-y8FzEl21xlsJyD0r8zlZYRCaFJBuKCBM5bD4'
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"cache miss","user":"olsenshelby","trace":"g8wVRdMYX9Yx"}
+138.9.156.27 - - [07/Sep/2025:18:24:56 +0000] "DELETE /api/v1/users HTTP/1.1" 204 66860 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_8; rv:1.9.4.20) Gecko/5755-07-14 18:16:36.050568 Firefox/13.0"
+DB_HOST=61845
+8.1.249.133 - - [07/Sep/2025:18:24:56 +0000] "POST /assets/app.js HTTP/1.1" 401 416242 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.0)" API_KEY=AIzaAdHq1jvUw9ZwaDz62VgGxTAmHZee1LLhQWbFHQ

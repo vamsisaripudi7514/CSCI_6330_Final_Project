@@ -1,0 +1,27 @@
+API_TIMEOUT=1010
+DB_HOST=20006
+sshd[7883]: Failed password for fpalmer from 10.198.13.91 port 63888 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"david74","trace":"kDUeEmqV7eGJ"}
+sshd[1371]: Session closed for deleonmarcus from 10.235.24.24 port 40522 ssh2
+sshd[4012]: Session opened for mistyrichardson from 172.23.140.54 port 18427 ssh2
+sshd[2434]: Session closed for christopheraguirre from 192.168.27.70 port 18492 ssh2
+API_TIMEOUT=web-56.abbott.com
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"orders","msg":"cache miss","user":"robertssteven","trace":"g1ATafS10XYo"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJaSDhxY2E0ZWNEIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.BW-D4EKi6ixpFt1fBH4oItefiYMrvOTsF_UAKzKMm54'
+sshd[4656]: Failed password for thomas29 from 10.110.85.61 port 12940 ssh2
+sshd[5444]: Accepted password for dicksonjames from 172.25.145.239 port 22096 ssh2
+181.204.95.154 - - [07/Sep/2025:18:24:54 +0000] "DELETE /health HTTP/1.1" 201 250198 "-" "Opera/9.83.(Windows NT 6.2; ti-ET) Presto/2.9.169 Version/10.00"
+154.73.195.3 - - [07/Sep/2025:18:24:54 +0000] "POST /health HTTP/1.1" 204 473856 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; rv:1.9.3.20) Gecko/5014-12-05 19:20:24.825775 Firefox/3.6.9"
+8.147.93.216 - - [07/Sep/2025:18:24:54 +0000] "GET /index.html HTTP/1.1" 502 410808 "-" "Opera/9.63.(X11; Linux i686; pt-PT) Presto/2.9.177 Version/11.00"
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"castroyvonne","trace":"SIfQV1NQV2Oe"}
+DB_PORT=false
+REDIS_URL=db-23.weiss-hill.com Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJVNm5IQnd2QkplIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.fegbzVC2q8FXW8fJUS0-E5nbPldLOmkV0N07uK5UNXA'
+DB_PORT=lt-76.patterson.com
+49.225.58.232 - - [07/Sep/2025:18:24:54 +0000] "POST /assets/app.js HTTP/1.1" 502 28166 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_6 rv:2.0; zu-ZA) AppleWebKit/535.32.4 (KHTML, like Gecko) Version/4.0.1 Safari/535.32.4"
+89.244.126.23 - - [07/Sep/2025:18:24:54 +0000] "DELETE /assets/app.js HTTP/1.1" 500 378139 "-" "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/16.0.855.0 Safari/533.2"
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"notify","msg":"cache miss","user":"mcphersonmatthew","trace":"BdEXtkfTZ4XG"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"orders","msg":"user session created","user":"keith69","trace":"zqbt6KhmiObT"}
+81.162.88.89 - - [07/Sep/2025:18:24:54 +0000] "POST /api/v1/users HTTP/1.1" 302 458337 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_7) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/58.0.875.0 Safari/531.2"
+REDIS_URL=true
+FEATURE_X_ENABLED=true
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"ystanton","trace":"b03fmd2x6u4A"}
+{"ts":"2025-09-07T18:24:54Z","level":"INFO","service":"search","msg":"user session created","user":"janicedavis","trace":"p78wkL71IRAh"}

@@ -1,0 +1,27 @@
+REDIS_URL=redis://localhost:6379
+sshd[2476]: Session opened for austin07 from 192.168.156.98 port 57918 ssh2
+DB_PORT=60597
+DB_PORT=16914 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3bnl3UzVKc09OIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.jpQhrqJkYjnsv1FdxxvljbvMhoZelpFNIQNX0F0brV4'
+sshd[3019]: Session opened for destiny09 from 10.3.48.97 port 27873 ssh2
+sshd[3303]: Session closed for farrellbrenda from 172.30.107.82 port 34824 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"user session created","user":"wcardenas","trace":"94LPXqoGTido"}
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"umatthews","trace":"spvGgBuliHMs"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"auth","msg":"cache miss","user":"wolson","trace":"NKzEXiq1q5za"} API_KEY=AIzarf_qxjKJCO3UKy3XFPrkEHt7qnaEo_QVw5kuHA
+sshd[6117]: Session closed for hwagner from 172.22.179.92 port 39774 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJxdHNrcFdZUnJyIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.OsJxlopLptG2Sj6v59shDEZyr-SAS6E3HeeT7YZcT1A'
+DB_HOST=srv-21.stewart.com
+sshd[7962]: Accepted password for michael85 from 192.168.2.198 port 62843 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"request completed","user":"michaelarnold","trace":"eCxZ5eYySooX"} API_KEY=AIzashVFadpsWL8O1LVHMloIIV2JLVV-8YfwVlfzEg
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"munozscott","trace":"BqiUbYDmB1pG"}
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"billing","msg":"request completed","user":"smithkaren","trace":"vLf3GzGRbuNP"}
+FEATURE_X_ENABLED=1264
+sshd[6208]: Accepted password for stephen87 from 10.81.145.132 port 40954 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"sreed","trace":"3Cz7UqZ9bPeO"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"cache miss","user":"uking","trace":"QmqxT7eRp3t1"}
+19.74.126.169 - - [07/Sep/2025:18:24:48 +0000] "PUT /index.html HTTP/1.1" 200 54487 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.1)"
+30.99.50.78 - - [07/Sep/2025:18:24:48 +0000] "GET /download/report.csv HTTP/1.1" 401 326926 "-" "Opera/9.50.(Windows 98; Win 9x 4.90; vi-VN) Presto/2.9.177 Version/12.00"
+DB_HOST=redis://localhost:6379
+sshd[4141]: Session opened for vblack from 10.251.218.54 port 44892 ssh2
+sshd[7964]: Failed password for yrobinson from 10.9.72.239 port 16227 ssh2
+208.98.195.152 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 500 274698 "-" "Opera/8.11.(X11; Linux x86_64; hak-TW) Presto/2.9.172 Version/12.00"
+213.220.58.61 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 502 254864 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)"

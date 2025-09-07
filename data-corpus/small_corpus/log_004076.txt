@@ -1,0 +1,25 @@
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"valeriecastaneda","trace":"uMEtQYjdARx8"}
+175.168.166.221 - - [07/Sep/2025:18:24:55 +0000] "GET /index.html HTTP/1.1" 302 338736 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/40.0.850.0 Mobile/52P045 Safari/535.2"
+DB_HOST=5420
+sshd[8447]: Session closed for mjones from 192.168.192.159 port 45670 ssh2
+DB_HOST=redis://localhost:6379
+API_TIMEOUT=false
+204.37.44.27 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 201 323836 "-" "Opera/9.77.(Windows 95; bn-IN) Presto/2.9.186 Version/12.00"
+sshd[6643]: Failed password for jose66 from 192.168.235.174 port 47491 ssh2
+FEATURE_X_ENABLED=2934
+175.143.193.114 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 401 17830 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)"
+23.105.83.130 - - [07/Sep/2025:18:24:55 +0000] "DELETE /health HTTP/1.1" 502 2445 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_1 rv:4.0; ug-CN) AppleWebKit/535.19.1 (KHTML, like Gecko) Version/4.0 Safari/535.19.1"
+sshd[9714]: Failed password for wendymoran from 172.23.8.146 port 58069 ssh2
+sshd[5857]: Session opened for waredaniel from 172.30.45.41 port 39292 ssh2
+103.215.53.28 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 302 224865 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)"
+DB_HOST=true
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"ramirezryan","trace":"rmEYz9174bmR"}
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"request completed","user":"ikim","trace":"FI9ZqbYqXbLI"}
+sshd[4126]: Accepted password for atkinsvictoria from 192.168.236.209 port 61838 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"orders","msg":"token refreshed","user":"shawnfischer","trace":"JkhjlfQOx8tT"}
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"user session created","user":"ipham","trace":"m3EASd39kSIy"} password=mH8@_VKkX!{CP}<
+DB_HOST=redis://localhost:6379
+API_TIMEOUT=srv-20.jordan-meyer.org
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"billing","msg":"request completed","user":"randalleric","trace":"xUV68aXlYoWz"}
+221.129.60.159 - - [07/Sep/2025:18:24:55 +0000] "POST /api/v1/users HTTP/1.1" 401 144233 "-" "Opera/8.16.(Windows NT 6.2; gu-IN) Presto/2.9.161 Version/10.00"

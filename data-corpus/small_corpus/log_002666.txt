@@ -1,0 +1,26 @@
+API_TIMEOUT=INFO
+98.163.137.126 - - [07/Sep/2025:18:24:53 +0000] "PUT /health HTTP/1.1" 502 155253 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0)"
+FEATURE_X_ENABLED=false
+DB_HOST=WARN
+DB_PORT=laptop-85.page.org
+API_TIMEOUT=DEBUG
+84.17.16.25 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 500 386995 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.0)"
+sshd[3534]: Failed password for curtisjeremy from 10.196.206.167 port 15392 ssh2
+sshd[3915]: Session opened for hromero from 10.57.211.154 port 15200 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"notify","msg":"cache miss","user":"jeffrey07","trace":"LTJbUPg03zMI"}
+26.210.231.100 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 201 319890 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/45.0.885.0 Safari/531.0"
+sshd[2248]: Failed password for hillleslie from 172.26.129.150 port 63681 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"db slow query","user":"elong","trace":"kWlykuwoQWdi"}
+142.205.120.29 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 403 74561 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_4) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/37.0.899.0 Safari/535.1"
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"search","msg":"token refreshed","user":"shawncampbell","trace":"GWKsnssPWp9O"}
+sshd[7776]: Session closed for frankjennifer from 10.56.186.232 port 23200 ssh2
+FEATURE_X_ENABLED=INFO
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"request completed","user":"hbrady","trace":"rFrRZwWyTXvl"}
+71.247.138.216 - - [07/Sep/2025:18:24:53 +0000] "GET /api/v1/users HTTP/1.1" 502 165145 "-" "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/531.1.5 (KHTML, like Gecko) Version/5.0.2 Safari/531.1.5"
+DB_PORT=INFO
+138.210.164.184 - - [07/Sep/2025:18:24:53 +0000] "POST /health HTTP/1.1" 403 77158 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/24.0.884.0 Safari/533.0"
+106.67.214.174 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 500 488035 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_7 rv:3.0; mai-IN) AppleWebKit/531.8.3 (KHTML, like Gecko) Version/4.0.5 Safari/531.8.3"
+DB_PORT=WARN
+58.208.106.71 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/v1/users HTTP/1.1" 200 206763 "-" "Opera/9.17.(X11; Linux x86_64; ff-SN) Presto/2.9.167 Version/10.00"
+26.105.250.66 - - [07/Sep/2025:18:24:53 +0000] "DELETE /index.html HTTP/1.1" 302 363197 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_2 rv:3.0; lt-LT) AppleWebKit/531.3.7 (KHTML, like Gecko) Version/4.0.1 Safari/531.3.7"
+184.248.173.183 - - [07/Sep/2025:18:24:53 +0000] "DELETE /api/login HTTP/1.1" 403 430297 "-" "Opera/9.66.(X11; Linux x86_64; et-EE) Presto/2.9.170 Version/11.00"

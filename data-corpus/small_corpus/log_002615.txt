@@ -1,0 +1,39 @@
+LOG_LEVEL=redis://localhost:6379
+DB_HOST=14910
+DB_PORT=DEBUG
+32.188.155.218 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 404 56202 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.0)"
+72.51.78.45 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 302 302156 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2674-10-15 07:08:02.806793 Firefox/3.6.2"
+DB_PORT=db-59.dean.com
+sshd[8308]: Accepted password for michael80 from 10.9.159.99 port 20302 ssh2
+40.24.71.159 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 302 140492 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6 rv:4.0; pap-AW) AppleWebKit/531.26.2 (KHTML, like Gecko) Version/5.0.2 Safari/531.26.2"
+sshd[7575]: Failed password for smithdeanna from 10.30.236.245 port 11361 ssh2
+73.33.35.78 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 201 333544 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.0)"
+sshd[8142]: Session closed for erika47 from 192.168.223.59 port 49587 ssh2
+158.16.168.248 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 403 380997 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/61.0.887.0 Safari/533.1"
+103.8.228.109 - - [07/Sep/2025:18:24:52 +0000] "DELETE /assets/app.js HTTP/1.1" 302 130367 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/41.0.849.0 Mobile/62T644 Safari/535.2"
+DB_PORT=DEBUG
+sshd[2535]: Session opened for simongary from 172.18.97.191 port 25367 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"user session created","user":"wclark","trace":"xXJKwijY3PFL"}
+sshd[6950]: Session closed for oriddle from 172.17.188.174 port 57171 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"mary44","trace":"ZvIhV5m9davq"}
+DB_HOST=49428
+sshd[5601]: Failed password for marydawson from 172.26.63.67 port 52774 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"token refreshed","user":"hannahsanchez","trace":"1mdEhBp2RB2U"}
+sshd[5488]: Session closed for gracejohnson from 192.168.113.137 port 63044 ssh2
+72.114.125.93 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 204 413141 "-" "Mozilla/5.0 (Windows NT 6.2; ca-AD; rv:1.9.2.20) Gecko/9794-09-20 22:37:31.702698 Firefox/3.6.8"
+sshd[1872]: Accepted password for amanda16 from 10.204.241.159 port 57356 ssh2
+DB_PORT=WARN
+sshd[6876]: Accepted password for wacevedo from 10.206.19.250 port 31922 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"gomezcourtney","trace":"aUtaRcmMI6Ir"}
+218.19.143.199 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 403 302091 "-" "Opera/9.94.(Windows NT 11.0; mai-IN) Presto/2.9.160 Version/10.00"
+sshd[6323]: Session closed for nicolehamilton from 172.25.208.142 port 62003 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"db slow query","user":"qwilliamson","trace":"VNKL5OUQuaSf"}
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"request completed","user":"andrewmoore","trace":"Z3iynzW0i3hA"}
+DB_PORT=33962
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"request completed","user":"thomas93","trace":"FwF3UsAaLRZx"}
+90.43.64.58 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 500 303800 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_7 rv:3.0; ja-JP) AppleWebKit/533.38.4 (KHTML, like Gecko) Version/4.0.1 Safari/533.38.4"
+sshd[7437]: Session closed for moonandrea from 172.21.60.180 port 55305 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"user session created","user":"morganduran","trace":"vBTtmqocwYGi"}
+155.123.51.163 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 401 436136 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7 rv:3.0; km-KH) AppleWebKit/532.9.5 (KHTML, like Gecko) Version/4.0.4 Safari/532.9.5"
+70.101.200.59 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 201 367401 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.1)"
+203.165.233.235 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 400 74904 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0 rv:6.0; cs-CZ) AppleWebKit/531.50.1 (KHTML, like Gecko) Version/4.0.5 Safari/531.50.1"

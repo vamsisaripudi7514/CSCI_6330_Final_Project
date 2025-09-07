@@ -1,0 +1,29 @@
+62.40.226.160 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 204 100882 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.0)"
+122.58.67.8 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 204 73531 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.0)"
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"user session created","user":"lmyers","trace":"jsaIrEu3jHmw"}
+sshd[1021]: Accepted password for kristina58 from 172.25.50.85 port 27886 ssh2
+sshd[2897]: Session closed for jrussell from 10.48.161.179 port 24953 ssh2
+154.108.135.188 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 401 349835 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_5; rv:1.9.6.20) Gecko/2960-12-06 15:28:08.058453 Firefox/3.8" password=zX4'.c6XP
+sshd[6221]: Failed password for lcarney from 172.25.203.67 port 61102 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"notify","msg":"user session created","user":"julie39","trace":"i70aY7BshOS7"}
+FEATURE_X_ENABLED=65284 password=nS9,tPHnj
+165.28.5.158 - - [07/Sep/2025:18:24:48 +0000] "GET /index.html HTTP/1.1" 400 53776 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_8 rv:6.0; az-AZ) AppleWebKit/534.12.4 (KHTML, like Gecko) Version/4.1 Safari/534.12.4"
+sshd[5936]: Failed password for iwilson from 192.168.3.148 port 15059 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"retrying upstream","user":"tjones","trace":"EJAZDsU4OiJc"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"cache miss","user":"gregoryfrey","trace":"WwF6JPT9bRoD"}
+117.65.112.221 - - [07/Sep/2025:18:24:48 +0000] "POST /index.html HTTP/1.1" 302 432092 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.0)"
+REDIS_URL=false password=gB7,k|K6/>RJ
+sshd[9077]: Session opened for beckerkristen from 192.168.45.48 port 61396 ssh2
+sshd[9924]: Accepted password for ericksonkatherine from 192.168.114.110 port 59778 ssh2
+20.145.200.250 - - [07/Sep/2025:18:24:48 +0000] "DELETE /assets/app.js HTTP/1.1" 403 297105 "-" "Opera/8.80.(X11; Linux x86_64; ks-IN) Presto/2.9.162 Version/11.00"
+sshd[3510]: Session opened for cbuck from 192.168.182.154 port 44067 ssh2
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"nicholasboyd","trace":"xC5cfzujCAf7"}
+177.241.249.117 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 500 30844 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/59.0.873.0 Safari/535.0"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"ydonovan","trace":"mEUzNNkON2zs"}
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"williamgross","trace":"lntGaXcrfDTi"}
+sshd[5040]: Session opened for paynekatie from 192.168.203.10 port 36104 ssh2
+sshd[6166]: Session opened for dhorton from 10.239.80.147 port 40050 ssh2
+176.70.16.194 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 404 295354 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_4) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/20.0.805.0 Safari/534.0"
+46.221.87.77 - - [07/Sep/2025:18:24:48 +0000] "POST /api/v1/users HTTP/1.1" 204 193549 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/4.0)"

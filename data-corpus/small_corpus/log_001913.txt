@@ -1,0 +1,28 @@
+LOG_LEVEL=1476
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"auth","msg":"retrying upstream","user":"thomas07","trace":"sHxMd5p2i5qh"}
+sshd[5043]: Accepted password for erictucker from 172.20.70.111 port 17281 ssh2
+sshd[8396]: Session closed for browndavid from 192.168.139.172 port 59959 ssh2
+API_TIMEOUT=WARN
+sshd[6814]: Failed password for normanrivera from 172.21.57.93 port 38151 ssh2
+97.33.42.199 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 500 321523 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.0)"
+LOG_LEVEL=desktop-10.brown-wallace.com
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"auth","msg":"token refreshed","user":"kirsten18","trace":"RqSaToKBI0VC"}
+sshd[4048]: Session opened for mcdonaldsteven from 192.168.156.62 port 56099 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"request completed","user":"bishoperika","trace":"9GCCTA9RiFwE"}
+REDIS_URL=6302
+sshd[6623]: Session opened for jenniferlee from 172.22.129.166 port 32632 ssh2
+214.141.253.10 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 302 260267 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/59.0.865.0 Safari/536.1" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJxSktleWxWNkQ1IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.fulgij9RVG_4VHPidEZGRtu65WUfPgu3bNxi4eujkds'
+API_TIMEOUT=DEBUG
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"cache miss","user":"pcox","trace":"J1Pa3wBo8X3P"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"request completed","user":"kayla08","trace":"hGUGt1ti9gnb"}
+111.83.84.101 - - [07/Sep/2025:18:24:51 +0000] "POST /index.html HTTP/1.1" 400 11586 "-" "Opera/9.42.(X11; Linux x86_64; id-ID) Presto/2.9.178 Version/12.00"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"notify","msg":"retrying upstream","user":"thomasbrett","trace":"kxKpyKJqeyn5"}
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"search","msg":"db slow query","user":"rlewis","trace":"qhduosbARSuw"}
+139.76.180.80 - - [07/Sep/2025:18:24:51 +0000] "POST /api/v1/users HTTP/1.1" 500 327855 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.1)"
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"auth","msg":"user session created","user":"goodcarlos","trace":"xyHu085V8YZ6"}
+FEATURE_X_ENABLED=INFO
+LOG_LEVEL=4829
+sshd[3697]: Session opened for marissaray from 10.75.61.197 port 47787 ssh2
+sshd[7700]: Session opened for kaitlyn93 from 172.31.87.140 port 11139 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"orders","msg":"user session created","user":"robert81","trace":"DeyCJ390Oas7"}
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"billing","msg":"db slow query","user":"qmartinez","trace":"QRP4HScK6pDi"}

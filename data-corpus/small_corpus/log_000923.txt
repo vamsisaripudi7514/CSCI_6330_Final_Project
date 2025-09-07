@@ -1,0 +1,30 @@
+LOG_LEVEL=29920
+sshd[9363]: Session opened for stephaniemcintyre from 192.168.8.88 port 46872 ssh2
+sshd[1756]: Accepted password for sara10 from 192.168.175.199 port 20513 ssh2
+sshd[4057]: Session opened for oconnellmartha from 10.38.208.19 port 46083 ssh2
+DB_PORT=laptop-25.jones-moore.com
+103.37.195.70 - - [07/Sep/2025:18:24:49 +0000] "POST /api/v1/users HTTP/1.1" 502 150157 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9714-03-25 23:48:37.400238 Firefox/3.6.3"
+FEATURE_X_ENABLED=desktop-90.blackburn.biz
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"orders","msg":"db slow query","user":"fred81","trace":"HV1zBROjsWa5"}
+LOG_LEVEL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"cache miss","user":"paul33","trace":"5ZI9X0ryMP9h"} password=pQ9_&3Qy&e+
+REDIS_URL=db-74.ingram-barr.com
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"user session created","user":"michael21","trace":"Ti3QRAyXgXMo"}
+sshd[5405]: Session opened for xpeterson from 192.168.203.78 port 60490 ssh2
+DB_HOST=WARN
+{"ts":"2025-09-07T18:24:49Z","level":"ERROR","service":"search","msg":"request completed","user":"ptorres","trace":"oFY3O7vRxP3e"}
+API_TIMEOUT=3025 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHdVR3UmRIcUtQIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.2GNE4g7gYf8DLU5yXb2Xb8ae8mePrll5pCkKBKxy8s8'
+7.30.178.197 - - [07/Sep/2025:18:24:49 +0000] "PUT /download/report.csv HTTP/1.1" 400 241726 "-" "Mozilla/5.0 (Linux; Android 12) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/56.0.842.0 Safari/533.2"
+API_TIMEOUT=false
+sshd[9124]: Failed password for parkerangela from 10.74.138.12 port 25482 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"cache miss","user":"perezjeff","trace":"GglZWaYqasMF"}
+DB_HOST=true
+{"ts":"2025-09-07T18:24:49Z","level":"WARN","service":"orders","msg":"user session created","user":"frankgraham","trace":"7xqmouOi6CnV"}
+sshd[3944]: Accepted password for nmckenzie from 10.143.74.83 port 40201 ssh2
+sshd[7289]: Accepted password for iwade from 10.249.7.145 port 30101 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"notify","msg":"user session created","user":"kaylacarr","trace":"cycwouOH3CpI"}
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"heathermoore","trace":"BQHsQx6FqUrU"}
+132.57.239.220 - - [07/Sep/2025:18:24:49 +0000] "GET /api/v1/users HTTP/1.1" 404 137627 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/4.0)"
+sshd[3386]: Session closed for hfrost from 172.28.133.13 port 19463 ssh2
+{"ts":"2025-09-07T18:24:49Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"ricardo20","trace":"wiaNBd9tauzW"}
+sshd[7254]: Session opened for jacobharper from 172.18.30.128 port 35685 ssh2

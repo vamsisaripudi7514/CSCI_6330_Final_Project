@@ -1,0 +1,28 @@
+DB_HOST=true
+DB_HOST=false
+FEATURE_X_ENABLED=2313
+FEATURE_X_ENABLED=redis://localhost:6379
+API_TIMEOUT=3911
+101.151.36.88 - - [07/Sep/2025:18:24:53 +0000] "PUT /api/login HTTP/1.1" 200 117783 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_9) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/49.0.885.0 Safari/535.1"
+DB_HOST=49234
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"andremarquez","trace":"R1JiWbvp3vCg"}
+sshd[4057]: Session opened for leonardrobert from 192.168.160.237 port 52269 ssh2
+API_TIMEOUT=10740
+sshd[7874]: Session closed for adrienne34 from 172.22.138.147 port 34018 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"orders","msg":"db slow query","user":"hallbethany","trace":"lUi2SnVH4nr9"}
+171.112.61.72 - - [07/Sep/2025:18:24:53 +0000] "DELETE /download/report.csv HTTP/1.1" 502 190360 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0; rv:1.9.3.20) Gecko/8972-12-28 17:59:33.056335 Firefox/3.6.8"
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"search","msg":"db slow query","user":"hugheskristin","trace":"d8oX04nsG6Wm"} API_KEY=AIzau6Sk1aKuJf67p9fe-wpdirdF_qMAc3ibcWO7qQ
+LOG_LEVEL=INFO
+sshd[6537]: Session opened for smaldonado from 192.168.17.125 port 26030 ssh2 password=aA1(}Fhn
+{"ts":"2025-09-07T18:24:53Z","level":"DEBUG","service":"auth","msg":"db slow query","user":"cpugh","trace":"ePTsTyB4ydLK"}
+DB_PORT=DEBUG
+168.187.32.193 - - [07/Sep/2025:18:24:53 +0000] "GET /download/report.csv HTTP/1.1" 204 504649 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.0)"
+190.96.106.172 - - [07/Sep/2025:18:24:53 +0000] "POST /index.html HTTP/1.1" 401 371865 "-" "Opera/8.35.(X11; Linux x86_64; tr-CY) Presto/2.9.173 Version/12.00"
+REDIS_URL=1955
+141.251.252.185 - - [07/Sep/2025:18:24:53 +0000] "DELETE /health HTTP/1.1" 302 41962 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/32.0.834.0 Safari/532.0"
+sshd[6917]: Failed password for matthew24 from 172.27.222.147 port 60665 ssh2
+{"ts":"2025-09-07T18:24:53Z","level":"ERROR","service":"auth","msg":"cache miss","user":"wanderson","trace":"zwGBmAy2ZXgW"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1Mm5NQUprc05rIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.jAteEZ_8HakqJysf5_gT2-bdfF8C3BDRDgWvOFP7eKQ'
+{"ts":"2025-09-07T18:24:53Z","level":"WARN","service":"billing","msg":"db slow query","user":"gonzalezsusan","trace":"4NcDOF4PIReN"}
+DB_HOST=DEBUG
+13.144.215.111 - - [07/Sep/2025:18:24:53 +0000] "DELETE /assets/app.js HTTP/1.1" 500 386558 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/50.0.825.0 Mobile/56K639 Safari/535.2"
+{"ts":"2025-09-07T18:24:53Z","level":"INFO","service":"notify","msg":"db slow query","user":"goodmandeanna","trace":"a9sM990ECoMm"} API_KEY=AIza_MxR_FryN4qW3_75MJesSnGuvDX5XDyGGOKzdA

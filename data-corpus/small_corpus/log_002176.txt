@@ -1,0 +1,40 @@
+API_TIMEOUT=true
+API_TIMEOUT=48275
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"db slow query","user":"myoung","trace":"Dul8tkdeJj62"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"user session created","user":"robertstevens","trace":"EtRXbf9t8IFe"}
+LOG_LEVEL=WARN
+45.20.81.26 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 302 448872 "-" "Opera/8.29.(X11; Linux x86_64; iu-CA) Presto/2.9.183 Version/11.00"
+API_TIMEOUT=7236
+97.120.137.151 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 200 434809 "-" "Opera/8.97.(Windows NT 5.0; tk-TM) Presto/2.9.183 Version/10.00"
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"request completed","user":"joshua96","trace":"kOS8cuVNj6G9"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"cache miss","user":"allensean","trace":"3RKkg1SlWrEh"}
+sshd[1805]: Session opened for beardhannah from 192.168.237.100 port 27829 ssh2
+sshd[2323]: Accepted password for fwhite from 10.50.30.159 port 22076 ssh2
+API_TIMEOUT=redis://localhost:6379
+sshd[8704]: Failed password for jasonedwards from 172.30.11.83 port 43148 ssh2
+sshd[6919]: Failed password for pshort from 10.205.144.155 port 25915 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"db slow query","user":"whoward","trace":"mRO18sUWkWvJ"}
+FEATURE_X_ENABLED=836
+sshd[3751]: Accepted password for mmason from 10.167.253.238 port 52277 ssh2
+API_TIMEOUT=INFO
+sshd[1838]: Accepted password for martinelizabeth from 192.168.2.116 port 50290 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"search","msg":"db slow query","user":"nschultz","trace":"zUoNubJCa9LT"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"auth","msg":"user session created","user":"michellelee","trace":"l3i79zC6Szt4"}
+sshd[4772]: Accepted password for deannapotter from 10.31.165.45 port 19325 ssh2
+76.64.16.30 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 204 196436 "-" "Opera/9.79.(Windows NT 5.1; hy-AM) Presto/2.9.160 Version/12.00"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"mkelly","trace":"rZ9o0R8cdMpG"} password=kE4,6Yi+7
+LOG_LEVEL=false
+194.225.22.71 - - [07/Sep/2025:18:24:52 +0000] "POST /index.html HTTP/1.1" 400 256869 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.32.3 (KHTML, like Gecko) Version/4.0.4 Safari/532.32.3"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"db slow query","user":"kyle43","trace":"z4BbEL3wAutC"}
+185.251.140.8 - - [07/Sep/2025:18:24:52 +0000] "GET /assets/app.js HTTP/1.1" 404 453867 "-" "Opera/9.13.(X11; Linux x86_64; iu-CA) Presto/2.9.187 Version/12.00"
+108.200.59.235 - - [07/Sep/2025:18:24:52 +0000] "GET /health HTTP/1.1" 204 395179 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/59.0.848.0 Mobile/22D478 Safari/536.0"
+sshd[9801]: Accepted password for amanda55 from 172.16.244.255 port 18871 ssh2 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJTQWtERFY3MzRwIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.Kx8JPEszSc6yHCOPNUc-pl9TZDIlqQygd5c18xrVcSE'
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"request completed","user":"erica44","trace":"KDNYacplCii8"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"db slow query","user":"kellie72","trace":"CHGUsZvtYSoD"}
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"db slow query","user":"anewton","trace":"ud1pfjGw3sii"}
+sshd[7434]: Session closed for watsonmathew from 10.233.24.178 port 21064 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"plambert","trace":"ORnHZL8UZza6"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"request completed","user":"rachael06","trace":"XjteaykzfoHB"}
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"token refreshed","user":"msmith","trace":"Pcx33INmQfEA"}
+DB_HOST=redis://localhost:6379
+213.62.94.121 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 400 238419 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.1)"

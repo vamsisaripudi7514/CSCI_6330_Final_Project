@@ -1,0 +1,35 @@
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"search","msg":"retrying upstream","user":"hrobbins","trace":"mLp2bdNk4KNR"}
+sshd[6113]: Accepted password for morganaaron from 172.28.26.152 port 25135 ssh2
+109.67.146.64 - - [07/Sep/2025:18:24:55 +0000] "POST /download/report.csv HTTP/1.1" 302 104221 "-" "Mozilla/5.0 (Android 7.1.1; Mobile; rv:59.0) Gecko/59.0 Firefox/59.0"
+16.150.202.45 - - [07/Sep/2025:18:24:55 +0000] "DELETE /index.html HTTP/1.1" 201 292611 "-" "Mozilla/5.0 (Android 4.4; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0"
+65.161.177.253 - - [07/Sep/2025:18:24:55 +0000] "GET /api/v1/users HTTP/1.1" 502 97415 "-" "Mozilla/5.0 (Linux; Android 4.4.4) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/59.0.811.0 Safari/531.1"
+110.252.220.125 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 401 22614 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/8970-12-15 06:45:08.858002 Firefox/3.6.1"
+1.251.143.121 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 200 336839 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/4.1)"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"auth","msg":"request completed","user":"lwashington","trace":"pym4acfj1nkn"}
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"user session created","user":"bryan84","trace":"ZYG9RhYcTQoo"}
+91.112.59.116 - - [07/Sep/2025:18:24:55 +0000] "PUT /assets/app.js HTTP/1.1" 400 280560 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; si-LK) AppleWebKit/533.38.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6533.38.4"
+DB_HOST=redis://localhost:6379
+sshd[7956]: Accepted password for mwilliams from 192.168.186.104 port 26308 ssh2
+sshd[1264]: Session opened for qmiller from 172.16.220.169 port 62360 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"db slow query","user":"erika13","trace":"Opwg0RwO7ij6"}
+sshd[4186]: Session closed for lewiskaren from 10.91.83.217 port 25924 ssh2
+182.200.16.220 - - [07/Sep/2025:18:24:55 +0000] "GET /download/report.csv HTTP/1.1" 400 46450 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; mhr-RU) AppleWebKit/531.2.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6531.2.7"
+DB_HOST=true
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"db slow query","user":"yangkristin","trace":"4KVemMlBhoRM"}
+sshd[3251]: Failed password for taylorbill from 192.168.63.16 port 10849 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"user session created","user":"timothymccormick","trace":"9h7tAyWOchfA"}
+sshd[4401]: Session closed for kingtina from 192.168.178.42 port 41766 ssh2
+API_TIMEOUT=false API_KEY=AIzazzoO2qQ9QWpo7GIX_fBoi_YguMBegB3QVZMZXA
+204.237.24.148 - - [07/Sep/2025:18:24:55 +0000] "PUT /health HTTP/1.1" 400 276575 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/34.0.880.0 Mobile/79I574 Safari/535.2"
+DB_HOST=1462
+API_TIMEOUT=srv-62.abbott-anderson.com
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"deborah98","trace":"o1CiyyRoY8k1"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhYXpqSnFVUDRvIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.H2ScuDLTIcT2k36qXXtbXx-rOwbRCgFyHfhpNPzEigk'
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"notify","msg":"retrying upstream","user":"vsharp","trace":"5BQB8Z5nwhb7"}
+DB_PORT=false
+sshd[5919]: Accepted password for goodmanvincent from 192.168.124.213 port 22425 ssh2
+sshd[2349]: Accepted password for cody51 from 172.25.177.102 port 21218 ssh2
+FEATURE_X_ENABLED=DEBUG
+sshd[6471]: Session opened for timothy39 from 172.19.181.8 port 21453 ssh2 password=hM1@hY7Ta_Z5_8$"
+sshd[1932]: Failed password for ucook from 192.168.136.27 port 31714 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"billing","msg":"token refreshed","user":"creed","trace":"AZSGKt1EzA23"} API_KEY=AIza3qObp2UecErr-f7Aq0UwY9BAh24N3JZyYwRBDQ
+85.202.43.188 - - [07/Sep/2025:18:24:55 +0000] "PUT /index.html HTTP/1.1" 500 414828 "-" "Mozilla/5.0 (Android 2.2.1; Mobile; rv:16.0) Gecko/16.0 Firefox/16.0"

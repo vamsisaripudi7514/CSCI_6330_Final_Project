@@ -1,0 +1,26 @@
+REDIS_URL=redis://localhost:6379
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"search","msg":"request completed","user":"allenanthony","trace":"JTCxhrhLVx9I"}
+{"ts":"2025-09-07T18:24:54Z","level":"DEBUG","service":"notify","msg":"user session created","user":"tina45","trace":"STPvDz6BOqxS"}
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"notify","msg":"cache miss","user":"gmichael","trace":"WswsXvvZjrzh"}
+sshd[6392]: Accepted password for pharrington from 172.24.218.12 port 61817 ssh2
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"auth","msg":"retrying upstream","user":"louis53","trace":"1qBb4UCnqauM"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzRVZhbE5UMlZqIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.cVrW2TXuvnGMGOHoeGsnKR2wAwR7YCBx_YgQaAuAdgI'
+121.123.181.235 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 200 443483 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.0)"
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"request completed","user":"erinallen","trace":"Ilj7hGerIgBf"}
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"search","msg":"token refreshed","user":"julie69","trace":"E0jmR45DRn7N"} API_KEY=AIzaDIRLj3AV-FWX7M6-PJmK3gPDoEti8qaj_miQ8A
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"request completed","user":"jacksonjames","trace":"WQ27SCOK5oqx"}
+DB_PORT=false
+sshd[4365]: Session opened for gsolis from 10.134.50.146 port 26852 ssh2
+70.219.69.171 - - [07/Sep/2025:18:24:54 +0000] "DELETE /api/v1/users HTTP/1.1" 401 202550 "-" "Opera/9.74.(Windows NT 5.0; sl-SI) Presto/2.9.174 Version/10.00"
+sshd[6873]: Accepted password for nelsonrobert from 10.132.128.191 port 53715 ssh2
+DB_PORT=false
+{"ts":"2025-09-07T18:24:54Z","level":"ERROR","service":"orders","msg":"db slow query","user":"yangvanessa","trace":"GvBO3SEygWWm"}
+sshd[3741]: Failed password for fwhite from 192.168.188.119 port 42226 ssh2
+LOG_LEVEL=false
+175.151.50.82 - - [07/Sep/2025:18:24:54 +0000] "PUT /api/login HTTP/1.1" 200 508946 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/49.0.883.0 Safari/532.0"
+sshd[8925]: Session opened for edwinharris from 10.81.179.79 port 64986 ssh2
+sshd[1594]: Session closed for johnwhitaker from 192.168.75.163 port 22154 ssh2
+sshd[6777]: Session closed for mpatterson from 192.168.2.152 port 29699 ssh2
+LOG_LEVEL=laptop-31.crawford.com
+{"ts":"2025-09-07T18:24:54Z","level":"WARN","service":"billing","msg":"retrying upstream","user":"ericmoore","trace":"Vn5CsL5exs2I"}
+REDIS_URL=false
+DB_HOST=false

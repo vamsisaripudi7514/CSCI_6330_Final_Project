@@ -1,0 +1,25 @@
+FEATURE_X_ENABLED=DEBUG
+LOG_LEVEL=11355
+sshd[8147]: Failed password for gyoung from 172.17.193.170 port 40450 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"cache miss","user":"whitesydney","trace":"IgkuTAQzApUr"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"kimberlytaylor","trace":"Y1hFuuf5aR2C"}
+sshd[6662]: Accepted password for youngtroy from 172.31.198.226 port 22519 ssh2
+121.93.5.73 - - [07/Sep/2025:18:24:56 +0000] "POST /api/login HTTP/1.1" 302 381525 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0 rv:4.0; doi-IN) AppleWebKit/534.33.6 (KHTML, like Gecko) Version/4.1 Safari/534.33.6" password=tT8+j"&Gt{p
+138.227.67.49 - - [07/Sep/2025:18:24:56 +0000] "GET /assets/app.js HTTP/1.1" 502 452913 "-" "Opera/9.18.(X11; Linux i686; an-ES) Presto/2.9.176 Version/12.00"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"notify","msg":"token refreshed","user":"fosterandrea","trace":"jLPRSceQyaOI"} password=uV0$2|un"sK~oBN
+sshd[3830]: Session closed for porterdebra from 172.28.72.221 port 43711 ssh2
+145.148.200.116 - - [07/Sep/2025:18:24:56 +0000] "POST /api/v1/users HTTP/1.1" 400 301929 "-" "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/5.0)"
+13.116.17.189 - - [07/Sep/2025:18:24:56 +0000] "GET /api/v1/users HTTP/1.1" 200 117088 "-" "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/30.0.820.0 Safari/534.2"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"angelatyler","trace":"sSq6X8tH4hBz"}
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"user session created","user":"markthompson","trace":"sBJtJf1GGOY9"}
+sshd[7288]: Session opened for marymitchell from 172.25.68.108 port 28583 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"db slow query","user":"vholder","trace":"zGhsstenyM3c"}
+sshd[9001]: Failed password for steven81 from 192.168.188.245 port 30183 ssh2
+164.32.138.167 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 201 123443 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"request completed","user":"ocastillo","trace":"OgpNE1L7Ym7n"}
+122.143.180.176 - - [07/Sep/2025:18:24:56 +0000] "DELETE /health HTTP/1.1" 502 274506 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.0)"
+sshd[6954]: Accepted password for krangel from 192.168.227.93 port 43630 ssh2
+DB_PORT=email-48.russell-david.net
+184.157.203.59 - - [07/Sep/2025:18:24:56 +0000] "PUT /index.html HTTP/1.1" 404 246174 "-" "Opera/8.97.(Windows NT 6.2; mni-IN) Presto/2.9.178 Version/12.00"
+DB_HOST=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"milesgregory","trace":"OfZr8kRo1vQ7"}

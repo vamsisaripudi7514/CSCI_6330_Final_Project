@@ -1,0 +1,26 @@
+DB_HOST=lt-42.anderson-glover.info
+LOG_LEVEL=true
+sshd[2690]: Accepted password for andrea17 from 10.186.35.31 port 13335 ssh2
+sshd[9435]: Session closed for jonathan14 from 192.168.118.189 port 16027 ssh2
+sshd[5031]: Session closed for angelanelson from 172.18.154.213 port 51685 ssh2
+143.59.114.51 - - [07/Sep/2025:18:24:51 +0000] "DELETE /api/v1/users HTTP/1.1" 302 158766 "-" "Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/18.0.868.0 Mobile/33R293 Safari/535.1"
+70.135.74.57 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 500 242659 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; cmn-TW) AppleWebKit/534.38.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6534.38.4"
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"auth","msg":"cache miss","user":"smonroe","trace":"W2OT8qHpfOVF"}
+{"ts":"2025-09-07T18:24:51Z","level":"WARN","service":"search","msg":"retrying upstream","user":"zcarson","trace":"XwYeGY47UCei"}
+API_TIMEOUT=false API_KEY=AIzaQ4STNYh623keSIR1U-e_L4TPKHzGFVrRhq0Rpw
+sshd[9654]: Session opened for meadowsgeorge from 192.168.114.108 port 20537 ssh2
+sshd[1827]: Accepted password for harriskimberly from 172.24.129.148 port 44603 ssh2
+sshd[8631]: Failed password for shannonalvarado from 172.29.155.172 port 36480 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"search","msg":"cache miss","user":"daviesrenee","trace":"05l8fFtOVroH"}
+sshd[9064]: Session opened for juliegross from 172.29.196.145 port 20414 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"INFO","service":"notify","msg":"user session created","user":"noah35","trace":"F2FK8OqKoKPm"} API_KEY=AIzadF-hk2TePao1NfusVccDGICTMs-eM96sl59E9g
+169.152.122.141 - - [07/Sep/2025:18:24:51 +0000] "GET /health HTTP/1.1" 200 407784 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/48.0.844.0 Safari/536.2"
+{"ts":"2025-09-07T18:24:51Z","level":"DEBUG","service":"billing","msg":"retrying upstream","user":"chanbrian","trace":"8pXNmZLanPym"}
+REDIS_URL=email-73.rodriguez.info
+sshd[1978]: Session closed for aarondavis from 10.102.171.185 port 51110 ssh2
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"billing","msg":"db slow query","user":"nicholasserrano","trace":"1GhFGXmoymIv"}
+REDIS_URL=32396
+API_TIMEOUT=INFO
+39.147.165.16 - - [07/Sep/2025:18:24:51 +0000] "DELETE /download/report.csv HTTP/1.1" 404 24459 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/30.0.892.0 Mobile/43G395 Safari/534.1"
+{"ts":"2025-09-07T18:24:51Z","level":"ERROR","service":"search","msg":"request completed","user":"jennifergordon","trace":"Z9ZQZW31WY3d"}
+121.136.25.54 - - [07/Sep/2025:18:24:51 +0000] "GET /download/report.csv HTTP/1.1" 502 451166 "-" "Opera/9.10.(X11; Linux i686; csb-PL) Presto/2.9.173 Version/12.00"

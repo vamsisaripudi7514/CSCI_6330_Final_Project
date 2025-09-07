@@ -1,0 +1,32 @@
+FEATURE_X_ENABLED=50118
+DB_PORT=laptop-16.williams.com
+REDIS_URL=WARN
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"josegonzales","trace":"dsn9JrHQMP22"}
+190.231.228.62 - - [07/Sep/2025:18:24:55 +0000] "GET /api/login HTTP/1.1" 401 519343 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_8 rv:6.0; tg-TJ) AppleWebKit/531.16.2 (KHTML, like Gecko) Version/4.0.5 Safari/531.16.2"
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"adam15","trace":"RHb2vh5cr407"}
+DB_HOST=1257
+sshd[7939]: Accepted password for timothybean from 10.234.65.92 port 37380 ssh2
+API_TIMEOUT=false
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"notify","msg":"request completed","user":"smithtimothy","trace":"5U0Af9Fppfgs"}
+DB_HOST=3234
+72.65.2.176 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 200 427817 "-" "Opera/9.51.(X11; Linux x86_64; fur-IT) Presto/2.9.189 Version/12.00"
+sshd[6965]: Session opened for patricia35 from 10.11.206.170 port 28188 ssh2
+sshd[7684]: Session closed for allenkenneth from 172.26.115.222 port 57502 ssh2
+160.100.5.241 - - [07/Sep/2025:18:24:55 +0000] "DELETE /api/login HTTP/1.1" 400 200033 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/5812-01-16 04:55:12.230179 Firefox/3.6.14"
+sshd[6572]: Session closed for veronicawood from 172.25.95.116 port 42095 ssh2
+sshd[3250]: Session opened for thomasperez from 172.29.22.249 port 12023 ssh2
+sshd[2949]: Session closed for jessicamiller from 10.94.77.18 port 40702 ssh2
+DB_PORT=INFO
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"notify","msg":"user session created","user":"prussell","trace":"mEPbpvb8bYJJ"}
+sshd[5988]: Accepted password for obrown from 10.182.80.157 port 64278 ssh2
+sshd[5758]: Accepted password for xhammond from 172.22.109.252 port 52577 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"ERROR","service":"auth","msg":"retrying upstream","user":"sheenasimon","trace":"hMM43HPqOUpP"}
+FEATURE_X_ENABLED=DEBUG
+105.48.165.146 - - [07/Sep/2025:18:24:55 +0000] "POST /health HTTP/1.1" 401 197466 "-" "Mozilla/5.0 (Windows NT 5.2; uz-UZ; rv:1.9.1.20) Gecko/6307-12-31 18:55:40.028122 Firefox/15.0"
+sshd[7382]: Session opened for marcia86 from 172.27.225.98 port 57705 ssh2
+DB_HOST=38760
+{"ts":"2025-09-07T18:24:55Z","level":"INFO","service":"search","msg":"token refreshed","user":"margaret00","trace":"dainBZDDZKdE"}
+sshd[5041]: Session closed for ellen44 from 172.23.236.13 port 63201 ssh2
+{"ts":"2025-09-07T18:24:55Z","level":"DEBUG","service":"orders","msg":"user session created","user":"fperry","trace":"ZKUbxue14Bil"}
+216.242.36.165 - - [07/Sep/2025:18:24:55 +0000] "POST /api/login HTTP/1.1" 404 436514 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.26.6 (KHTML, like Gecko) Version/4.0 Safari/532.26.6"
+{"ts":"2025-09-07T18:24:55Z","level":"WARN","service":"orders","msg":"user session created","user":"millerchristy","trace":"rGVHZYL5qnOb"}

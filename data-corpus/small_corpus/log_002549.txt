@@ -1,0 +1,30 @@
+sshd[4091]: Session opened for gibbscaroline from 192.168.67.179 port 44944 ssh2
+103.12.253.234 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 500 355064 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/5356-05-25 02:29:11.474884 Firefox/3.6.11"
+130.65.114.117 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 302 299869 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_1 rv:3.0; bo-IN) AppleWebKit/533.6.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.6.1"
+sshd[2632]: Accepted password for michael71 from 10.207.196.37 port 32312 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"search","msg":"token refreshed","user":"jennifer97","trace":"qXAKKUFkHtb9"}
+188.230.114.189 - - [07/Sep/2025:18:24:52 +0000] "POST /download/report.csv HTTP/1.1" 401 315712 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyRjJIMHRDUENJIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.F4k2m8l9Wn-5lb65PQLngbPHTgXAbJrgL6CvLBm6U0I'
+203.95.163.189 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 200 394041 "-" "Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.43.4 (KHTML, like Gecko) Version/4.0.1 Safari/535.43.4"
+sshd[5067]: Session opened for salazaralicia from 10.32.230.170 port 56904 ssh2
+DB_HOST=23036
+DB_PORT=redis://localhost:6379
+DB_HOST=redis://localhost:6379
+sshd[6962]: Accepted password for melissa51 from 192.168.245.159 port 64142 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"auth","msg":"request completed","user":"michaelmoore","trace":"DblmksE9OPLo"}
+160.117.82.144 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 200 335880 "-" "Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/11.3c2243.0 Mobile/08M663 Safari/535.2"
+80.59.246.164 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 403 293903 "-" "Mozilla/5.0 (Windows NT 5.1; shs-CA; rv:1.9.1.20) Gecko/6470-08-29 13:41:55.086609 Firefox/12.0"
+19.177.119.50 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 401 232325 "-" "Mozilla/5.0 (Android 4.4.3; Mobile; rv:38.0) Gecko/38.0 Firefox/38.0"
+FEATURE_X_ENABLED=41948
+sshd[7550]: Failed password for kramermichael from 172.21.102.207 port 64739 ssh2
+96.70.255.122 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 401 67299 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.7.3 (KHTML, like Gecko) Version/4.0.2 Safari/531.7.3" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJCSFNibjZxMDV5IiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.X-Ag6IOCzOJMtPex418BSmb399FI7rShe5BSzstMUhA'
+sshd[6783]: Session closed for andreaacosta from 172.16.45.115 port 43014 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"paulfitzgerald","trace":"0IZ2tZiOwlTm"}
+1.69.23.129 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 200 13317 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/534.45.2 (KHTML, like Gecko) Version/4.0 Safari/534.45.2"
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"billing","msg":"user session created","user":"vkane","trace":"rQiq1n1uNRzr"}
+sshd[1544]: Session closed for hblackburn from 10.3.99.251 port 16918 ssh2
+2.69.129.182 - - [07/Sep/2025:18:24:52 +0000] "DELETE /health HTTP/1.1" 404 113921 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2846-06-04 18:23:55.239246 Firefox/3.6.20" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiQlNvRUVoNWxrIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.AajRYM7aksl3DvMbZ2D57NZ0HVLtbW3ZFWiPfs8F6G8'
+DB_PORT=INFO
+sshd[4197]: Session opened for rsmith from 172.29.129.211 port 22353 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"retrying upstream","user":"gyates","trace":"qtUAhYVAhyow"}
+44.79.48.156 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/v1/users HTTP/1.1" 200 398492 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/3.1)"
+200.179.205.30 - - [07/Sep/2025:18:24:52 +0000] "POST /assets/app.js HTTP/1.1" 401 305606 "-" "Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; iu-CA) AppleWebKit/532.34.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.34.3"

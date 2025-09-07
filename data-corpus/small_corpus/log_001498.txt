@@ -1,0 +1,33 @@
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"cache miss","user":"kiarasmith","trace":"4GCAbWXZd2Ma"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwdGx6NnJRb0lKIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.h_Owh3W0iZJLQh6s5z_8tSi0vE9aXKmxNmuh2ooBp5k'
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"retrying upstream","user":"nicole54","trace":"XVV1alkA9qSk"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"retrying upstream","user":"davidschaefer","trace":"DaerHELlO8hZ"}
+sshd[1309]: Accepted password for tatepaul from 10.169.161.75 port 26718 ssh2
+93.157.241.229 - - [07/Sep/2025:18:24:50 +0000] "POST /index.html HTTP/1.1" 500 172880 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_9 rv:3.0; bo-IN) AppleWebKit/533.43.4 (KHTML, like Gecko) Version/5.0.5 Safari/533.43.4"
+sshd[8194]: Session closed for caitlin12 from 10.72.24.129 port 51880 ssh2
+LOG_LEVEL=true
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"notify","msg":"cache miss","user":"eric09","trace":"KmRsXnt3lXCx"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"search","msg":"user session created","user":"mirandanelson","trace":"XAryZ5xlnZ10"}
+17.216.134.177 - - [07/Sep/2025:18:24:50 +0000] "GET /api/v1/users HTTP/1.1" 400 241795 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_0; rv:1.9.6.20) Gecko/2765-12-28 11:15:11.967651 Firefox/10.0"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"token refreshed","user":"jamesadams","trace":"mcpmhpzNxOZD"}
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"auth","msg":"db slow query","user":"wilsonmaria","trace":"2vNEz0VK1T8G"}
+sshd[5019]: Failed password for imccarthy from 10.31.243.34 port 23672 ssh2 password=uL6@T~W}%lR.
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"orders","msg":"request completed","user":"williamsdebra","trace":"1GvUWoR8sjbN"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"search","msg":"cache miss","user":"cindy07","trace":"WrF3tUwVXgeI"}
+DB_PORT=redis://localhost:6379
+FEATURE_X_ENABLED=email-53.kidd.org
+79.211.8.136 - - [07/Sep/2025:18:24:50 +0000] "GET /assets/app.js HTTP/1.1" 401 130225 "-" "Mozilla/5.0 (Windows 98; Win 9x 4.90; byn-ER; rv:1.9.2.20) Gecko/8684-09-02 14:29:12.143982 Firefox/3.6.1"
+{"ts":"2025-09-07T18:24:50Z","level":"ERROR","service":"billing","msg":"request completed","user":"adampierce","trace":"XoJrZx2MxKqn"}
+sshd[4278]: Session opened for jacksonjoseph from 192.168.55.185 port 54060 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"notify","msg":"retrying upstream","user":"nicolelewis","trace":"pJzrgqS5ORpS"}
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"auth","msg":"db slow query","user":"tiffany36","trace":"kYOAintXlOzv"}
+72.187.183.221 - - [07/Sep/2025:18:24:50 +0000] "PUT /health HTTP/1.1" 201 72195 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/3.0)"
+API_TIMEOUT=24034
+221.67.150.119 - - [07/Sep/2025:18:24:50 +0000] "GET /index.html HTTP/1.1" 200 457754 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_3; rv:1.9.2.20) Gecko/4416-10-18 02:13:40.224426 Firefox/3.8"
+{"ts":"2025-09-07T18:24:50Z","level":"WARN","service":"search","msg":"token refreshed","user":"crodriguez","trace":"wPdnkVPI1c23"}
+{"ts":"2025-09-07T18:24:50Z","level":"DEBUG","service":"auth","msg":"user session created","user":"amber41","trace":"gH0KVJki7L7J"}
+145.17.70.174 - - [07/Sep/2025:18:24:50 +0000] "POST /download/report.csv HTTP/1.1" 500 434181 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/6762-12-04 07:11:54.061340 Firefox/3.8"
+sshd[6402]: Session opened for timothypowers from 10.101.163.109 port 35434 ssh2
+{"ts":"2025-09-07T18:24:50Z","level":"INFO","service":"billing","msg":"token refreshed","user":"faithmorgan","trace":"oIOYqZopPtCj"}
+sshd[7314]: Session closed for taylorcynthia from 10.234.234.193 port 37177 ssh2
+LOG_LEVEL=redis://localhost:6379
+61.225.109.42 - - [07/Sep/2025:18:24:50 +0000] "GET /download/report.csv HTTP/1.1" 400 222968 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/7282-07-19 13:47:44.369049 Firefox/3.8"

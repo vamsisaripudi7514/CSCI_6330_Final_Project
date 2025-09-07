@@ -1,0 +1,30 @@
+sshd[5643]: Failed password for ztaylor from 172.22.243.119 port 12752 ssh2
+sshd[4532]: Accepted password for spark from 10.129.139.113 port 59034 ssh2
+DB_HOST=20320
+LOG_LEVEL=WARN
+FEATURE_X_ENABLED=false
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"request completed","user":"christianrogers","trace":"ubeW0sjtu39e"}
+sshd[7220]: Failed password for martintina from 172.21.9.190 port 18670 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"auth","msg":"token refreshed","user":"lisarosales","trace":"Qe0WvZF0ORkm"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"notify","msg":"db slow query","user":"sara20","trace":"UjKbqFyqHNoj"}
+sshd[3716]: Accepted password for msmith from 10.156.22.59 port 25060 ssh2
+sshd[6498]: Session closed for rhondathomas from 10.226.16.128 port 27833 ssh2
+90.236.143.187 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/v1/users HTTP/1.1" 200 231753 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/56.0.872.0 Safari/535.1"
+DB_HOST=true
+REDIS_URL=laptop-22.lowe.net
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"token refreshed","user":"vsmith","trace":"rxOFZ1pHUGMK"}
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"token refreshed","user":"stevengreen","trace":"Clb1CXcz1r15"}
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"search","msg":"retrying upstream","user":"jonathan20","trace":"iMmC0RHloJvq"}
+sshd[2202]: Accepted password for charleshoffman from 172.29.214.12 port 50625 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"richard84","trace":"jjZaIAcnpxBp"}
+DB_PORT=61445 Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJnZWhrR3hmREtWIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.lW6P4wfgDkn1tSGJRvOcFjnMR2PAjoDNfaoVq32q4V8'
+REDIS_URL=redis://localhost:6379
+sshd[2467]: Failed password for johncastillo from 10.176.42.229 port 45562 ssh2
+DB_PORT=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"orders","msg":"cache miss","user":"bishopraymond","trace":"bNTnu9WTvoDZ"}
+LOG_LEVEL=true
+sshd[3863]: Session closed for xswanson from 172.23.232.158 port 31186 ssh2
+sshd[2586]: Session opened for aaron91 from 192.168.96.119 port 44766 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"orders","msg":"token refreshed","user":"angela24","trace":"6rIikmnihXbB"}
+DB_HOST=2551
+FEATURE_X_ENABLED=18441

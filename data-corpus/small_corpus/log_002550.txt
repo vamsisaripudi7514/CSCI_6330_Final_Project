@@ -1,0 +1,27 @@
+sshd[2165]: Accepted password for robertstafford from 10.85.240.171 port 22881 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"auth","msg":"cache miss","user":"mallory69","trace":"gDRSBcebcD8t"}
+159.107.81.37 - - [07/Sep/2025:18:24:52 +0000] "PUT /download/report.csv HTTP/1.1" 204 306573 "-" "Mozilla/5.0 (Windows NT 6.0; eu-FR; rv:1.9.2.20) Gecko/3484-12-26 03:52:58.682373 Firefox/3.8"
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"notify","msg":"db slow query","user":"ndavis","trace":"tr7tPikcDlCv"}
+REDIS_URL=49744
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"retrying upstream","user":"gabriella40","trace":"akwX6DPM6CvQ"}
+36.101.239.190 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 302 13731 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJCVUdrNUNnajVGIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.8QHVTyarMiBFziAWzhqQ9N0fThCebSjT37r75Mme_LE'
+DB_HOST=55862
+sshd[9480]: Session opened for olsonrebecca from 172.26.226.230 port 40317 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"orders","msg":"db slow query","user":"jclark","trace":"9QLFOxnpNv8y"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"cache miss","user":"bridget23","trace":"gPOE6VazgigC"}
+sshd[5372]: Accepted password for jeremy39 from 192.168.157.146 port 29358 ssh2
+69.105.190.93 - - [07/Sep/2025:18:24:52 +0000] "GET /index.html HTTP/1.1" 204 21132 "-" "Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/14.0.809.0 Safari/534.0" API_KEY=AIzaPh5S4NmO4pt0CqwdZm79lVE5YDqdp0bEm5Kibw
+sshd[4626]: Session opened for sullivanlori from 172.28.169.206 port 40319 ssh2
+REDIS_URL=INFO
+216.185.37.118 - - [07/Sep/2025:18:24:52 +0000] "DELETE /download/report.csv HTTP/1.1" 200 445581 "-" "Mozilla/5.0 (iPad; CPU iPad OS 8_4_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/13.2s1356.0 Mobile/27O854 Safari/532.2"
+sshd[6400]: Session opened for freemanann from 192.168.207.229 port 26926 ssh2
+sshd[6305]: Session closed for willie44 from 172.19.212.204 port 26997 ssh2
+sshd[6785]: Accepted password for adam06 from 172.31.195.176 port 18063 ssh2 API_KEY=AIza-8N98VBY4I1JTfPZLtRxq5DhJ9ZnbR5T1aVudg
+API_TIMEOUT=19669
+2.184.40.53 - - [07/Sep/2025:18:24:52 +0000] "PUT /api/login HTTP/1.1" 401 40075 "-" "Mozilla/5.0 (Windows NT 6.1; apn-IN; rv:1.9.2.20) Gecko/5498-04-17 08:19:30.320572 Firefox/3.6.2"
+sshd[8182]: Accepted password for ygonzalez from 10.0.220.134 port 50203 ssh2
+sshd[2737]: Failed password for morganchen from 172.18.255.109 port 46930 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"billing","msg":"user session created","user":"colleen05","trace":"m9JeBbLncxeh"}
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"search","msg":"user session created","user":"davisalexander","trace":"kAiOe4jlCInu"}
+189.8.180.56 - - [07/Sep/2025:18:24:52 +0000] "PUT /index.html HTTP/1.1" 200 331605 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)" Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJRaGNDd1VnblBhIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.o-Bg8uVsTx5N-6urA7ZqvMZ_bChIEFZYnNUXOx55Zms'
+LOG_LEVEL=INFO

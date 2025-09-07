@@ -1,0 +1,25 @@
+sshd[9153]: Session closed for garzaemily from 192.168.242.51 port 51766 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"ERROR","service":"auth","msg":"db slow query","user":"kyork","trace":"vuXGfm8poHxb"}
+LOG_LEVEL=INFO
+sshd[6941]: Session opened for victoriayu from 192.168.117.47 port 47966 ssh2
+60.252.14.108 - - [07/Sep/2025:18:24:52 +0000] "GET /api/v1/users HTTP/1.1" 502 81437 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/18.5c7280.0 Mobile/11Y106 Safari/535.0"
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"db slow query","user":"dennismichael","trace":"dBxkGCVx28OX"}
+208.49.58.177 - - [07/Sep/2025:18:24:52 +0000] "GET /download/report.csv HTTP/1.1" 204 422025 "-" "Opera/9.62.(Windows CE; wae-CH) Presto/2.9.186 Version/11.00"
+191.13.203.228 - - [07/Sep/2025:18:24:52 +0000] "DELETE /api/v1/users HTTP/1.1" 400 195429 "-" "Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/29.0.873.0 Safari/536.0"
+sshd[9166]: Session closed for charles59 from 172.31.139.56 port 40105 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"user session created","user":"whayes","trace":"9AlKarWcOEPM"}
+DB_HOST=false
+{"ts":"2025-09-07T18:24:52Z","level":"DEBUG","service":"orders","msg":"request completed","user":"smithchristopher","trace":"UyPrWjwqpRxg"}
+sshd[8865]: Session opened for ramosmanuel from 192.168.17.152 port 41247 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"billing","msg":"user session created","user":"charlesrobinson","trace":"qcra0lWY9Ofb"}
+sshd[4194]: Session opened for morrowrhonda from 192.168.69.54 port 21965 ssh2
+205.2.227.163 - - [07/Sep/2025:18:24:52 +0000] "PUT /health HTTP/1.1" 302 501288 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4495-04-11 17:07:30.344559 Firefox/3.8"
+API_TIMEOUT=redis://localhost:6379 API_KEY=AIzaCws78lU2BhB0qdjspEUz5FGv0aUnaRgv2p0dYg
+{"ts":"2025-09-07T18:24:52Z","level":"WARN","service":"orders","msg":"token refreshed","user":"david81","trace":"gjW1yEMpiCPF"}
+136.51.183.29 - - [07/Sep/2025:18:24:52 +0000] "GET /api/login HTTP/1.1" 400 337237 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/62.0.885.0 Safari/536.1"
+sshd[3535]: Session opened for nealelizabeth from 10.230.90.47 port 60853 ssh2
+sshd[9277]: Session opened for amandajames from 192.168.148.76 port 36269 ssh2
+sshd[8610]: Accepted password for hwoods from 172.28.148.102 port 20715 ssh2
+sshd[6541]: Session closed for gcarpenter from 172.27.37.80 port 45425 ssh2
+{"ts":"2025-09-07T18:24:52Z","level":"INFO","service":"search","msg":"token refreshed","user":"staceynorris","trace":"biuoKk7PGGID"}
+DB_HOST=laptop-47.hanna.com

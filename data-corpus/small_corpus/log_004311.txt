@@ -1,0 +1,27 @@
+sshd[1934]: Accepted password for christineparker from 10.47.83.47 port 37847 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"auth","msg":"user session created","user":"uwoods","trace":"8zQrhSc5zCZD"}
+LOG_LEVEL=DEBUG
+FEATURE_X_ENABLED=redis://localhost:6379
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"auth","msg":"retrying upstream","user":"chernandez","trace":"PjKufcQrcztY"}
+sshd[5296]: Failed password for kylebaker from 172.22.93.120 port 46883 ssh2
+42.146.20.63 - - [07/Sep/2025:18:24:56 +0000] "POST /index.html HTTP/1.1" 200 293946 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/3.0)"
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"db slow query","user":"yoderpaula","trace":"G4Spy2YsvAtM"}
+REDIS_URL=15475
+sshd[4787]: Session opened for tiffany89 from 10.10.49.245 port 45688 ssh2
+77.101.238.52 - - [07/Sep/2025:18:24:56 +0000] "GET /index.html HTTP/1.1" 502 26368 "-" "Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/532.46.1 (KHTML, like Gecko) Version/4.0 Safari/532.46.1"
+sshd[5874]: Session opened for edwardnielsen from 172.31.127.194 port 26637 ssh2
+sshd[6057]: Session closed for pattonalyssa from 192.168.251.8 port 51339 ssh2
+DB_PORT=61470
+{"ts":"2025-09-07T18:24:56Z","level":"INFO","service":"billing","msg":"user session created","user":"villegasdana","trace":"J7sbLSKxnnzS"}
+153.241.33.45 - - [07/Sep/2025:18:24:56 +0000] "PUT /api/login HTTP/1.1" 500 24187 "-" "Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/531.36.1 (KHTML, like Gecko) Version/5.0.2 Safari/531.36.1"
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"billing","msg":"request completed","user":"mcmahongregory","trace":"4IV09HJ2uSJ9"}
+sshd[1899]: Session opened for nwest from 10.134.76.205 port 42360 ssh2
+DB_PORT=true
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"billing","msg":"retrying upstream","user":"lindseystewart","trace":"BdLvEfgJWemx"} API_KEY=AIzaJp5olPfxgSliiUwG1Rswgujs2Uizo5KcIfscyQ
+sshd[6838]: Accepted password for ruizjames from 10.122.202.111 port 57822 ssh2
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"orders","msg":"db slow query","user":"williamcook","trace":"BsSNYc69CCEd"}
+DB_HOST=INFO
+{"ts":"2025-09-07T18:24:56Z","level":"ERROR","service":"search","msg":"request completed","user":"cannonjames","trace":"abJjbH1ez25j"}
+{"ts":"2025-09-07T18:24:56Z","level":"WARN","service":"search","msg":"user session created","user":"ccobb","trace":"tz4Sqox152cu"}
+105.192.234.45 - - [07/Sep/2025:18:24:56 +0000] "PUT /health HTTP/1.1" 500 275159 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_1; rv:1.9.2.20) Gecko/4174-01-18 12:45:04.591293 Firefox/3.6.9"
+{"ts":"2025-09-07T18:24:56Z","level":"DEBUG","service":"billing","msg":"token refreshed","user":"jamesowens","trace":"oaIy8TLPL2Zz"}
