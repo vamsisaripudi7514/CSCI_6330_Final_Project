@@ -4,3 +4,12 @@ spring:
   threads:
     virtual:
       enabled: true
+server:
+  port : 8080
+
+
+pii:
+  enc:
+    keyB64: sVATyjrcdmBs1zK0ir2vZt3rIT08aDo5m44yeJy2Vk0=
+  token:
+    prefix: PIIENC
