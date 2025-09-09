@@ -7,6 +7,7 @@ import com.vamsi.saripudi.piiscannerredactor.encryption.CryptoService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
+import org.junit.platform.commons.util.StringUtils;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -24,15 +25,21 @@ public class RedactorTest {
     @Autowired
     private Redactor redactor;
 
-    @BeforeEach
-    public void setup() {
-        CryptoService cryptoService = mock(CryptoService.class);
-        PiiCryptoProperties props = mock(PiiCryptoProperties.class);
-        PiiCryptoProperties.Token token = mock(PiiCryptoProperties.Token.class);
-        when(props.getToken()).thenReturn(token);
-        when(token.getPrefix()).thenReturn("TOKEN");
-        redactor = new Redactor(cryptoService, props);
-    }
+    @Autowired
+    private CryptoService cryptoService;
+
+    @Autowired
+    private PiiCryptoProperties props;
+
+//    @BeforeEach
+//    public void setup() {
+//        CryptoService cryptoService = mock(CryptoService.class);
+//        PiiCryptoProperties props = mock(PiiCryptoProperties.class);
+//        PiiCryptoProperties.Token token = mock(PiiCryptoProperties.Token.class);
+//        when(props.getToken()).thenReturn(token);
+//        when(token.getPrefix()).thenReturn("TOKEN");
+//        redactor = new Redactor(cryptoService, props);
+//    }
 
     @Test
     public void testMaskApiKey() {
@@ -60,5 +67,43 @@ public class RedactorTest {
         String address = "1234 Main St, Springfield, IL";
         String masked = redactor.mask(address, MatchType.PHYSICAL_ADDRESS);
         assertTrue(masked.startsWith("*** Main St"));
+    }
+
+    @Test
+    public void testEncryptTokenForEmail(){
+        String original = "vamsi@gmail.com";
+        MatchType matchType = MatchType.EMAIL;
+        Path filePath = Path.of("test.txt");
+        String result = redactor.encryptToken(original, matchType, filePath);
+        assertTrue(result.contains("EMAIL::"));
+        System.out.println(result);
+    }
+
+    @Test
+    public void testEncryptTokenForPhoneNumber(){
+        String original = "123-456-7890";
+        MatchType matchType = MatchType.PHONE;
+        Path filePath = Path.of("test.txt");
+        String result = redactor.encryptToken(original, matchType, filePath);
+        assertTrue(result.contains("PHONE::"));
+        System.out.println(result);
+        String input = result.split("::")[2];
+        System.out.println(input);
+        String decrypted = cryptoService.decrypt(input, "");
+        System.out.println("Decrypted: " + decrypted);
+    }
+
+    @Test
+    public void testEncryptTokenForIPV4(){
+        String original = "127.0.0.1";
+        MatchType matchType = MatchType.IPV4;
+        Path filePath = Path.of("test.txt");
+        String result = redactor.encryptToken(original, matchType, filePath);
+        assertTrue(result.contains("IPV4::"));
+        String input = result.split("::")[2];
+        System.out.println(input);
+        String decrypted = cryptoService.decrypt(input, "");
+        System.out.println("Decrypted: " + decrypted);
+        System.out.println(result);
     }
 }

@@ -1,5 +1,8 @@
 package com.vamsi.saripudi.piiscannerredactor.model;
 
+import lombok.ToString;
+
+@ToString
 public enum MatchType {
     EMAIL,
     PHONE,

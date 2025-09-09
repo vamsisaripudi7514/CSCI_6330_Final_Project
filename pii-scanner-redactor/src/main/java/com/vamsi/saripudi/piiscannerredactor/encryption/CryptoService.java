@@ -1,4 +1,6 @@
 package com.vamsi.saripudi.piiscannerredactor.encryption;
+import lombok.Getter;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import javax.crypto.Cipher;
@@ -10,7 +12,7 @@ import java.nio.charset.StandardCharsets;
 import java.security.SecureRandom;
 import java.util.Base64;
 
-
+@Getter
 public class CryptoService {
     private static final int GCM_TAG_BITS = 128;
     private static final int GCM_IV_BYTES = 12;
@@ -33,9 +35,9 @@ public class CryptoService {
 
             Cipher c = Cipher.getInstance("AES/GCM/NoPadding");
             c.init(Cipher.ENCRYPT_MODE, key, new GCMParameterSpec(GCM_TAG_BITS, iv));
-            if (aad != null && !aad.isEmpty()) {
-                c.updateAAD(aad.getBytes(StandardCharsets.UTF_8));
-            }
+//            if (aad != null && !aad.isEmpty()) {
+//                c.updateAAD(aad.getBytes(StandardCharsets.UTF_8));
+//            }
             byte[] ct = c.doFinal(plaintext.getBytes(StandardCharsets.UTF_8));
 
             byte[] packed = ByteBuffer.allocate(iv.length + ct.length).put(iv).put(ct).array();
@@ -58,9 +60,9 @@ public class CryptoService {
 
             Cipher c = Cipher.getInstance("AES/GCM/NoPadding");
             c.init(Cipher.DECRYPT_MODE, key, new GCMParameterSpec(GCM_TAG_BITS, iv));
-            if (aad != null && !aad.isEmpty()) {
-                c.updateAAD(aad.getBytes(StandardCharsets.UTF_8));
-            }
+//            if (aad != null && !aad.isEmpty()) {
+//                c.updateAAD(aad.getBytes(StandardCharsets.UTF_8));
+//            }
             return new String(c.doFinal(ct), StandardCharsets.UTF_8);
         } catch (Exception e) {
             throw new IllegalStateException("AES-GCM decryption failed", e);

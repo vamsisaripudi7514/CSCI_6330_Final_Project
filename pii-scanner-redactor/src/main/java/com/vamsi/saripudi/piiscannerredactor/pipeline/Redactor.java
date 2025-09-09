@@ -45,10 +45,10 @@ public class Redactor {
     }
 
     //encrypts the token
-    private String encryptToken(String original, MatchType type, Path file) {
+    public String encryptToken(String original, MatchType type, Path file) {
         // Bind ciphertext to a context to prevent cut/paste misuse across files/types.
         final String aad = type.name() + "|" + file.getFileName();
-
+        System.out.println(crypto.getKey());
         final String b64 = crypto.encrypt(original, aad);
 
         // Optional readability hints (do not affect decryption).
