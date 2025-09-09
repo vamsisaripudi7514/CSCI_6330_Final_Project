@@ -10,6 +10,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.platform.commons.util.StringUtils;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.stereotype.Component;
 
@@ -30,6 +31,9 @@ public class RedactorTest {
 
     @Autowired
     private PiiCryptoProperties props;
+
+    @Value("${pii.enc.keyB64}")
+    private String keyB64;
 
 //    @BeforeEach
 //    public void setup() {
@@ -105,5 +109,11 @@ public class RedactorTest {
         String decrypted = cryptoService.decrypt(input, "");
         System.out.println("Decrypted: " + decrypted);
         System.out.println(result);
+    }
+
+    @Test
+    public void testByteArrayForEncryptionKey(){
+        byte[] input = keyB64.getBytes();
+        System.out.println(input);
     }
 }
