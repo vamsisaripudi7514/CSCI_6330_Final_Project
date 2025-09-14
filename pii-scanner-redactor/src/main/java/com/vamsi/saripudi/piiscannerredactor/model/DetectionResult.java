@@ -15,13 +15,12 @@ import java.nio.file.Path;
 @Builder
 public class DetectionResult {
 
-    private String filePath;
+    private Path filePath;
     private int line;
+    private int startCol;
+    private int endCol;
     private MatchType type;
     private String value;
     private double score;
 
-    public static DetectionResult of(Path file, int line, MatchType type, String value, double score) {
-        return new DetectionResult(file.toString(), line, type, value, score);
-    }
 }

@@ -1,11 +1,16 @@
 package com.vamsi.saripudi.piiscannerredactor.pipeline;
 
+import com.vamsi.saripudi.piiscannerredactor.model.DetectionResult;
 import com.vamsi.saripudi.piiscannerredactor.model.MatchType;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Component;
 
+import java.nio.file.Path;
+import java.util.ArrayList;
 import java.util.EnumMap;
+import java.util.List;
 import java.util.Map;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 @Component
@@ -30,5 +35,29 @@ public class RegexMatcher {
 
     public Map<MatchType, Pattern> patterns() {
         return patterns;
+    }
+
+    public List<DetectionResult> matchesToken(String token, Path file, int lineNo, int offset) {
+        if(token == null || token.isEmpty())
+            return List.of();
+        List<DetectionResult> results = new ArrayList<>();
+        for(Map.Entry<MatchType, Pattern> entry : patterns.entrySet()) {
+            MatchType type = entry.getKey();
+            Pattern pattern = entry.getValue();
+            Matcher matcher = pattern.matcher(token);
+            if(matcher.find()){
+                results.add(
+                        DetectionResult.builder().
+                                filePath(file).
+                                line(lineNo).
+                                startCol(matcher.start()).
+                                endCol(matcher.end()).
+                                type(type).
+                                value(token).
+                                score(EntropyScorer.lowThreshold()).build()
+                );
+            }
+        }
+        return results;
     }
 }
