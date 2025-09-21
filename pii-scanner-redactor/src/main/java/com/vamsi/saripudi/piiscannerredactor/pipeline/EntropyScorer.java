@@ -15,7 +15,7 @@ public class EntropyScorer {
 
     //Starter Entropy Scores
     private static final double LOW_ENTROPY_THRESHOLD = 2.0;
-    private static final double HIGH_ENTROPY_THRESHOLD = 4.0;
+    private static final double HIGH_ENTROPY_THRESHOLD = 4.5;
 
     public double score(String s){
         return EntropyUtil.shannonEntropy(s);

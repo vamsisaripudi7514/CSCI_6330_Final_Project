@@ -83,7 +83,14 @@ public class ScanJob {
     public void markFailed(Throwable t) {
         this.status = JobStatus.FAILED;
         this.finishedAt = Instant.now();
-        this.error = (t == null) ? "unknown" : (t.getClass().getSimpleName() + ": " + t.getMessage());
+        if (t == null) {
+            this.error = "unknown";
+        } else {
+            java.io.StringWriter sw = new java.io.StringWriter();
+            java.io.PrintWriter pw = new java.io.PrintWriter(sw);
+            t.printStackTrace(pw);
+            this.error = sw.toString();
+        }
     }
 
     // --- Progress helpers ---

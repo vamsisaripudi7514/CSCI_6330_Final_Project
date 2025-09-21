@@ -1,0 +1,26 @@
+39.249.220.117 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/v1/users HTTP/1.1" 200 1986 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.1)"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"auth","msg":"token refreshed","user":"richard48","trace":"CJTBJahe84S5"}
+90.232.151.191 - - [07/Sep/2025:18:24:48 +0000] "PUT /assets/app.js HTTP/1.1" 500 77771 "-" "Opera/8.48.(X11; Linux i686; ti-ET) Presto/2.9.172 Version/12.00"
+59.131.73.146 - - [07/Sep/2025:18:24:48 +0000] "PUT /api/v1/users HTTP/1.1" 200 471423 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.42.3 (KHTML, like Gecko) Version/5.1 Safari/535.42.3"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"user session created","user":"dylanwilliams","trace":"43ANVj77p3kZ"}
+DB_HOST=WARN
+sshd[2771]: Failed password for psanchez from 192.168.253.31 port 35070 ssh2
+DB_PORT=14103
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"pwilliams","trace":"3e9XrwPGzR1I"}
+211.226.43.110 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 204 304524 "-" "Opera/9.80.(Windows NT 10.0; nso-ZA) Presto/2.9.190 Version/11.00"
+sshd[2776]: Accepted password for pgreen from 172.31.48.136 port 49096 ssh2
+sshd[9379]: Session closed for joshuajones from 192.168.248.29 port 17578 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"token refreshed","user":"jimmy55","trace":"BaH7ZIRU8VVQ"}
+DB_HOST=lt-12.hall.com
+sshd[7691]: Session opened for drivera from 192.168.212.105 port 31376 ssh2
+sshd[4143]: Failed password for lstein from 172.29.113.208 port 37554 ssh2
+LOG_LEVEL=false
+sshd[4443]: Session opened for tracynelson from 172.29.104.159 port 38173 ssh2
+sshd[8238]: Session closed for dramsey from 172.26.193.146 port 38977 ssh2
+LOG_LEVEL=WARN
+sshd[4848]: Accepted password for michellewhite from 192.168.219.115 port 54092 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"DEBUG","service":"billing","msg":"request completed","user":"nicholas37","trace":"pEN2XeDA4OKm"}
+API_TIMEOUT=WARN password=kE5@cb4I$
+175.195.48.59 - - [07/Sep/2025:18:24:48 +0000] "DELETE /api/login HTTP/1.1" 204 421713 "-" "Mozilla/5.0 (Windows NT 11.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/14.0.879.0 Safari/536.2"
+DB_HOST=37554
+sshd[9270]: Session closed for mdavid from 10.192.40.59 port 37966 ssh2
