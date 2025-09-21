@@ -1,0 +1,42 @@
+DB_PORT=49760
+sshd[4919]: Session closed for amanda51 from 10.21.7.3 port 27996 ssh2
+sshd[5451]: Failed password for gshort from 192.168.6.122 port 32010 ssh2
+27.151.11.93 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 302 200948 "-" "Opera/9.88.(X11; Linux i686; nds-DE) Presto/2.9.183 Version/12.00"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"db slow query","user":"umarshall","trace":"vIDAdn1Ay5XL"}
+148.160.163.96 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 200 494396 "-" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_8; rv:1.9.3.20) Gecko/3958-06-21 06:15:07.199631 Firefox/3.8"
+API_TIMEOUT=36296
+DB_HOST=26508
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"search","msg":"user session created","user":"jerry35","trace":"KQbfPBi3Dldq"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"orders","msg":"retrying upstream","user":"newtonstephanie","trace":"W4yrW81Aq1fE"} Authorization='Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJLQVRBeWR3d0RpIiwiaWF0IjoxNzU3MjY3ODUyLCJleHAiOjE3NTcyNzE0NTIsInNjb3BlIjoicmVhZDphbGwifQ.mk3iBvYVdyzTm62fQpDr52iTxDxht_s-4Z_P-O5zdnc'
+sshd[2124]: Failed password for lhill from 192.168.110.201 port 61198 ssh2
+193.144.229.52 - - [07/Sep/2025:18:24:48 +0000] "GET /api/login HTTP/1.1" 302 440125 "-" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/13.0.873.0 Safari/532.1" API_KEY=AIzatBR48lU9wQlpsDmRs4rVlDPeusxIJ1BRIraDfQ
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"user session created","user":"ewilson","trace":"8nDSqXxkMM9V"}
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"user session created","user":"kvasquez","trace":"b7tKR69yz8Tm"}
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"orders","msg":"token refreshed","user":"hernandezlisa","trace":"MZhYKYcwIBQx"}
+sshd[7882]: Accepted password for grantrobert from 172.23.241.46 port 63892 ssh2
+REDIS_URL=42677
+sshd[8616]: Session closed for mezajared from 172.17.237.104 port 38545 ssh2
+sshd[5022]: Session opened for johnarnold from 10.41.145.103 port 64442 ssh2
+sshd[4995]: Session closed for ocarter from 10.230.168.107 port 59183 ssh2
+REDIS_URL=4149
+sshd[5581]: Session opened for owilson from 192.168.101.72 port 49069 ssh2
+sshd[9464]: Accepted password for charlesmartin from 192.168.136.0 port 22521 ssh2
+API_TIMEOUT=WARN
+145.108.123.73 - - [07/Sep/2025:18:24:48 +0000] "GET /api/v1/users HTTP/1.1" 302 212150 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_9 rv:6.0; kok-IN) AppleWebKit/535.32.4 (KHTML, like Gecko) Version/4.1 Safari/535.32.4"
+sshd[8753]: Session opened for wendygraham from 192.168.142.106 port 46272 ssh2
+LOG_LEVEL=2809
+sshd[2976]: Failed password for elaine68 from 10.253.174.29 port 57270 ssh2
+69.162.197.137 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 302 387369 "-" "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/3.1)"
+sshd[4180]: Accepted password for mgutierrez from 192.168.0.150 port 29414 ssh2
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"billing","msg":"token refreshed","user":"cindy77","trace":"IircdJsS8iO3"}
+182.131.140.146 - - [07/Sep/2025:18:24:48 +0000] "GET /assets/app.js HTTP/1.1" 400 246227 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+sshd[1841]: Failed password for jennifercollins from 192.168.14.199 port 26546 ssh2
+DB_HOST=db-86.walker.info
+200.157.170.155 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 502 497743 "-" "Opera/9.41.(X11; Linux x86_64; ro-RO) Presto/2.9.173 Version/11.00"
+{"ts":"2025-09-07T18:24:48Z","level":"INFO","service":"notify","msg":"db slow query","user":"yarnold","trace":"MMYNoXHyC6Ct"}
+REDIS_URL=INFO
+49.25.91.90 - - [07/Sep/2025:18:24:48 +0000] "POST /api/login HTTP/1.1" 204 289530 "-" "Mozilla/5.0 (Linux; Android 4.0.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/49.0.849.0 Safari/533.2"
+152.102.23.85 - - [07/Sep/2025:18:24:48 +0000] "DELETE /health HTTP/1.1" 502 246497 "-" "Opera/9.22.(X11; Linux i686; ps-AF) Presto/2.9.164 Version/12.00"
+{"ts":"2025-09-07T18:24:48Z","level":"WARN","service":"orders","msg":"token refreshed","user":"dgarcia","trace":"3DeRo7qYYOLQ"}
+{"ts":"2025-09-07T18:24:48Z","level":"ERROR","service":"billing","msg":"user session created","user":"bowenrobert","trace":"oPj6r0jedkYt"}
+sshd[3037]: Session closed for qharrington from 192.168.38.79 port 40716 ssh2
