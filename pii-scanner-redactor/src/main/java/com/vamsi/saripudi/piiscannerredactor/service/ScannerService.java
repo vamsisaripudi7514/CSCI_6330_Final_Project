@@ -34,7 +34,8 @@ public class ScannerService {
     private final ExecutorService fileExecutor;     // virtual threads
     private final ReportingService reporting;
     private final BinarySniffer sniffer;
-    private final RegexMatcher regex;
+//    private final RegexMatcher regex;
+    private final UpdatedRegex regex;
     private final EntropyScorer entropy;
     private final Redactor redactor;
     private final LuhnValidator luhn;
@@ -43,7 +44,7 @@ public class ScannerService {
     public ScannerService(@Qualifier("fileExecutor") ExecutorService fileExecutor,
                          ReportingService reporting,
                          BinarySniffer sniffer,
-                         RegexMatcher regex,
+                         UpdatedRegex regex,
                          EntropyScorer entropy,
                          Redactor redactor,
                          LuhnValidator luhn) {
