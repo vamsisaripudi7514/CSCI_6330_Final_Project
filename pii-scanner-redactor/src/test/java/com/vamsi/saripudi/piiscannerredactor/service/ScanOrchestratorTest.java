@@ -45,4 +45,32 @@ public class ScanOrchestratorTest {
         assertTrue(Files.exists(job.getFindingsJsonl()), "Findings JSONL should exist");
         assertTrue(Files.exists(job.getRedactedRoot()), "Redacted output directory should exist");
     }
+
+    @Test
+    public void TestScanNew() throws Exception {
+        // Use a test corpus directory as input
+        Path inputDir = Path.of("/Users/vamsisaripudi/Documents/1MTSU/SEM3/Parallel Processing Concepts/Final Project/Codebase/CSCI_6330_Final_Project/pii-scanner-redactor/src/main/resources/static/mock.data");
+        List<Path> inputs = List.of(inputDir);
+
+        // Submit the scan job
+        ScanJob job = scanOrchestrator.submit(inputs);
+
+        // Wait for job to complete (polling)
+        int maxWaitSeconds = 30;
+        int waited = 0;
+        while (job.getStatus() != JobStatus.COMPLETED && job.getStatus() != JobStatus.FAILED && waited < maxWaitSeconds) {
+            Thread.sleep(1000);
+            waited++;
+        }
+
+        if (job.getStatus() == JobStatus.FAILED) {
+            System.err.println("Scan job failed with error: " + job.getError());
+        }
+        assertEquals(JobStatus.COMPLETED, job.getStatus(), "Job should complete successfully");
+        assertEquals(job.getFilesTotal(), job.getFilesScanned().get(), "Files scanned should match total files");
+        assertTrue(job.getBytesScanned().get() > 0, "Bytes scanned should be greater than zero");
+        assertTrue(Files.exists(job.getFindingsCsv()), "Findings CSV should exist");
+        assertTrue(Files.exists(job.getFindingsJsonl()), "Findings JSONL should exist");
+        assertTrue(Files.exists(job.getRedactedRoot()), "Redacted output directory should exist");
+    }
 }
