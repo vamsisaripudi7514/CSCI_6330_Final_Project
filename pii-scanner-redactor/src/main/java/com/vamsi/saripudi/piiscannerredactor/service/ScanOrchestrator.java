@@ -20,25 +20,18 @@ public class ScanOrchestrator {
     private final JobRegistry registry;
     private final ScannerService scanner;
 
-    /**
-     * Create job directories and submit scanning work.
-     * Returns immediately with the created job; call JobRegistry later to poll.
-     */
+
     public ScanJob submit(List<Path> inputs) throws IOException {
-        // jobs root; customize if you want this under configurable location
         Path jobsRoot = Path.of("jobs");
         Files.createDirectories(jobsRoot);
 
-        // Make a unique output directory per job
         Path outputRoot = Files.createTempDirectory(jobsRoot, "job_");
 
-        // Create & register job
         ScanJob job = ScanJob.create(inputs, outputRoot);
         Files.createDirectories(job.getOutputRoot());
         Files.createDirectories(job.getRedactedRoot());
         registry.create(job);
 
-        //thread call
         fileExecutor.submit(() -> {
             try {
                 job.markRunning();
