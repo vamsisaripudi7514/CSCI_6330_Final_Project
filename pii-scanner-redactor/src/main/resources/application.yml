@@ -13,3 +13,10 @@ pii:
     keyB64: sVATyjrcdmBs1zK0ir2vZt3rIT08aDo5m44yeJy2Vk0=
   token:
     prefix: PIIENC
+
+thread:
+  count: 17
+  count-for-speedup: 16
+
+variables:
+  single-thread-time: 5566

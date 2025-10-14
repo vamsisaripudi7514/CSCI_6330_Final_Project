@@ -68,12 +68,11 @@ public class ScannerService {
 
         for (var f : futures) {
             if (job.isCancelRequested()) break;
-            FileSummary summary = f.get(); // join per file
+            FileSummary summary = f.get();
             reporting.merge(job, summary);
             job.incFilesScanned();
             job.addBytes(summary.getBytes());
-            // (optional) bump per-type aggregates
-//            summary.getCountsByType().forEach(job::bumpTypeCount);
+
         }
 
         reporting.finalizeOutputs(job);
