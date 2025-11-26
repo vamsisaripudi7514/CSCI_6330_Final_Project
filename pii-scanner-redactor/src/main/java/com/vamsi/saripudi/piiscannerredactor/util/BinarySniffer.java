@@ -47,10 +47,10 @@ public class BinarySniffer {
     }
 
     public boolean isBinary(Path path) throws IOException {
-        if (!Files.isRegularFile(path)) return true; // be safe
+        if (!Files.isRegularFile(path)) return true;
         try (InputStream in = Files.newInputStream(path)) {
             byte[] buf = readHeader(in, headerBytes);
-            if (buf.length == 0) return false; // empty files treated as text
+            if (buf.length == 0) return false;
 
             if (matchesKnownBinaryMagic(buf)) return true;
 
@@ -62,7 +62,6 @@ public class BinarySniffer {
             for (byte b : buf) {
                 int ub = b & 0xFF;
                 if (ub < 0x20 || ub == 0x7F) {
-                    // skip common text controls
                     if (!ALLOWED_CONTROLS.contains(b)) {
                         controlCount++;
                     }

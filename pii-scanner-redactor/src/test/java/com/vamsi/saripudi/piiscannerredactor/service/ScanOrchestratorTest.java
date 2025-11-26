@@ -49,7 +49,7 @@ public class ScanOrchestratorTest {
     @Test
     public void TestScanNew() throws Exception {
         // Use a test corpus directory as input
-        Path inputDir = Path.of("/Users/vamsisaripudi/Documents/1MTSU/SEM3/Parallel Processing Concepts/Final Project/Codebase/CSCI_6330_Final_Project/data-corpus/big_corpus");
+        Path inputDir = Path.of("/Users/vamsisaripudi/Documents/1MTSU/SEM3/Parallel Processing Concepts/Final Project/Codebase/CSCI_6330_Final_Project/data-corpus/huge_corpus");
         List<Path> inputs = List.of(inputDir);
 
         // Submit the scan job
@@ -75,8 +75,9 @@ public class ScanOrchestratorTest {
     @Test
     public void AnalysisScans() throws Exception {
         // Use a test corpus directory as input
-        Path inputDir = Path.of("/Users/vamsisaripudi/Documents/1MTSU/SEM3/Parallel Processing Concepts/Final Project/Codebase/CSCI_6330_Final_Project/data-corpus/small_corpus");
+//        Path inputDir = Path.of("/Users/vamsisaripudi/Documents/1MTSU/SEM3/Parallel Processing Concepts/Final Project/Codebase/CSCI_6330_Final_Project/data-corpus/small_corpus");
 //        Path inputDir = Path.of("/Users/vamsisaripudi/Documents/1MTSU/SEM3/Parallel Processing Concepts/Final Project/Codebase/CSCI_6330_Final_Project/data-corpus/big_corpus");
+        Path inputDir = Path.of("/Users/vamsisaripudi/Documents/1MTSU/SEM3/Parallel Processing Concepts/Final Project/Codebase/CSCI_6330_Final_Project/data-corpus/huge_corpus");
 
         List<Path> inputs = List.of(inputDir);
 

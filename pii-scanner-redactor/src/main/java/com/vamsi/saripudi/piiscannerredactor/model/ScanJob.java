@@ -29,6 +29,7 @@ public class ScanJob {
     private Path outputRoot;
     private Path redactedRoot;
     private Path findingsCsv;
+    private Path summaryPath;
 
     private volatile int filesTotal;
     private final AtomicInteger filesScanned = new AtomicInteger(0);
@@ -73,6 +74,7 @@ public class ScanJob {
         j.redactedRoot = outputRoot.resolve("redacted");
         j.findingsCsv = outputRoot.resolve("findings.csv");
         j.findingsJsonl = outputRoot.resolve("findings.jsonl");
+        j.summaryPath = outputRoot.resolve("summary.json");
 
         if (inputs != null && !inputs.isEmpty()) {
             Path first = inputs.get(0).toAbsolutePath().normalize();
@@ -87,6 +89,7 @@ public class ScanJob {
         this.threadCount = threadCount;
         this.singleThreadTime = singleThreadTime;
     }
+
 
     // --- Lifecycle transitions ---
 

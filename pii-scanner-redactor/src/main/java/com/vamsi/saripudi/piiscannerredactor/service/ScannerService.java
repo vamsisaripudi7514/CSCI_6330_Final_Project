@@ -75,7 +75,7 @@ public class ScannerService {
 
         }
 
-        reporting.finalizeOutputs(job);
+//        reporting.finalizeOutputs(job);
     }
 
     /** Process a single file sequentially (line by line). */
