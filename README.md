@@ -5,6 +5,6 @@
 The team members for this project are;
 
 - Vamsi Saripudi
-- Saroj Baral
 - AyushKumar NileshKumar Patel
+- Saroj Baral
 - Safal Marahatta
