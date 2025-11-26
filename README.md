@@ -4,7 +4,7 @@
 
 The team members for this project are;
 
-- Saroj Baral
 - Vamsi Saripudi
+- Saroj Baral
 - AyushKumar NileshKumar Patel
 - Safal Marahatta
