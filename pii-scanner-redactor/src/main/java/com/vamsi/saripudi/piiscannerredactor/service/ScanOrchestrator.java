@@ -25,9 +25,18 @@ public class ScanOrchestrator {
         Path jobsRoot = Path.of("jobs");
         Files.createDirectories(jobsRoot);
 
-        Path outputRoot = Files.createTempDirectory(jobsRoot, "job_");
+        // Create ScanJob first to get the UUID
+        ScanJob job = ScanJob.create(inputs, Path.of("jobs"));
 
-        ScanJob job = ScanJob.create(inputs, outputRoot);
+        // Use the job ID to create the output folder
+        Path outputRoot = jobsRoot.resolve("job_" + job.getId());
+
+        // Set the output root and related paths
+        job.setOutputRoot(outputRoot);
+        job.setRedactedRoot(outputRoot.resolve("redacted"));
+        job.setFindingsCsv(outputRoot.resolve("findings.csv"));
+        job.setFindingsJsonl(outputRoot.resolve("findings.jsonl"));
+
         Files.createDirectories(job.getOutputRoot());
         Files.createDirectories(job.getRedactedRoot());
         registry.create(job);

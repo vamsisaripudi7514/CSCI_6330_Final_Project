@@ -15,8 +15,8 @@ pii:
     prefix: PIIENC
 
 thread:
-  count: 17
-  count-for-speedup: 16
+  count: 33
+  count-for-speedup: 32
 
 variables:
-  single-thread-time: 5566
+  single-thread-time: 274725
